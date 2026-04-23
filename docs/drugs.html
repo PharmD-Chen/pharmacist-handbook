@@ -7,7 +7,8 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>上海市养志康复医院药品手册（2026版）</title>
     <script src="js/auth.js?v=2"></script>
-    <script src="data/drugs/drugs.js?v=2"></script>
+    <script src="data/drugs/drugs_index.js?v=2"></script>
+    <script src="data/drugs/drugs_loader.js?v=2"></script>
     <style>
         * {
             margin: 0;
@@ -32,7 +33,7 @@
         }
 
         .header {
-            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             padding: 15px 20px;
             padding-top: max(15px, env(safe-area-inset-top));
@@ -74,7 +75,7 @@
         }
 
         .search-box input:focus {
-            border-color: #0E7490;
+            border-color: #667eea;
         }
 
         .drug-list {
@@ -102,7 +103,7 @@
         .drug-name {
             font-size: 16px;
             font-weight: 600;
-            color: #0E7490;
+            color: #667eea;
             margin-bottom: 5px;
         }
 
@@ -141,7 +142,7 @@
         }
 
         .search-bar input:focus {
-            border-color: #0E7490;
+            border-color: #667eea;
             box-shadow: 0 2px 15px rgba(14, 116, 144, 0.15);
         }
 
@@ -263,78 +264,67 @@
             }
         }
 
-        // 加载药品数据 - 优先使用已嵌入的 drugs.js
+        // 加载药品数据 - 使用分批加载
         async function loadDrugData() {
             console.log('🔄 开始加载药品数据...');
-            
+
             // 显示加载状态
             document.getElementById('drugList').innerHTML = `
                 <div style="padding: 60px; text-align: center;">
                     <div style="font-size: 48px; margin-bottom: 20px;">⏳</div>
-                    <div style="color: #666; font-size: 16px;">正在加载药品数据...</div>
+                    <div style="color: #666; font-size: 16px;">正在加载药品索引...</div>
+                    <div style="color: #999; font-size: 12px; margin-top: 10px;">首次加载约需 1-2 秒</div>
                 </div>
             `;
-            
-            // 首先检查 drugs.js 是否已加载
-            if (typeof drugIndex !== 'undefined' && drugIndex.length > 0) {
-                console.log('✅ 使用已嵌入的 drugs.js 数据，共', drugIndex.length, '条');
-                window.drugIndex = drugIndex; // 确保是全局变量
-                displayDrugs(drugIndex.slice(0, 50));
-                return;
-            }
-            
-            // 等待 drugs.js 加载完成（最多10秒）
-            let waitCount = 0;
-            const maxWait = 100; // 10秒
-            while ((typeof drugIndex === 'undefined' || drugIndex.length === 0) && waitCount < maxWait) {
-                await new Promise(resolve => setTimeout(resolve, 100));
-                waitCount++;
-                if (waitCount % 10 === 0) {
-                    console.log(`⏳ 等待 drugs.js 加载... (${waitCount * 100}ms)`);
+
+            try {
+                // 使用 DrugDataLoader 加载索引
+                if (typeof DrugDataLoader !== 'undefined') {
+                    await DrugDataLoader.loadIndex();
                 }
-            }
-            
-            if (typeof drugIndex !== 'undefined' && drugIndex.length > 0) {
-                console.log('✅ drugs.js 加载完成，共', drugIndex.length, '条');
-                window.drugIndex = drugIndex;
-                displayDrugs(drugIndex.slice(0, 50));
-                return;
-            }
-            
-            // 如果 drugs.js 没有加载，显示错误
-            console.error('❌ drugs.js 未能加载，typeof drugIndex:', typeof drugIndex);
-            document.getElementById('drugList').innerHTML = `
-                <div style="padding: 40px; text-align: center;">
-                    <div style="font-size: 48px; margin-bottom: 15px;">⚠️</div>
-                    <div style="color: #666; font-size: 16px; margin-bottom: 20px;">
-                        药品数据加载失败
+
+                // 检查索引是否加载成功
+                if (typeof drugIndex !== 'undefined' && drugIndex.length > 0) {
+                    console.log('✅ 药品索引加载完成，共', drugIndex.length, '条');
+                    window.drugIndex = drugIndex;
+                    displayDrugs(drugIndex.slice(0, 50));
+                } else {
+                    throw new Error('索引加载失败');
+                }
+            } catch (e) {
+                console.error('❌ 加载药品索引失败:', e);
+                document.getElementById('drugList').innerHTML = `
+                    <div style="padding: 40px; text-align: center;">
+                        <div style="font-size: 48px; margin-bottom: 15px;">⚠️</div>
+                        <div style="color: #666; font-size: 16px; margin-bottom: 20px;">
+                            药品数据加载失败
+                        </div>
+                        <div style="color: #999; font-size: 14px; margin-bottom: 25px;">
+                            可能原因：网络连接问题<br>
+                            请检查网络后重试
+                        </div>
+                        <button onclick="location.reload(true)" style="
+                            padding: 12px 30px;
+                            background: #667eea;
+                            color: white;
+                            border: none;
+                            border-radius: 25px;
+                            cursor: pointer;
+                            font-size: 15px;
+                            margin-right: 10px;
+                        ">刷新页面</button>
+                        <a href="main.html" style="
+                            padding: 12px 30px;
+                            background: #f5f5f5;
+                            color: #666;
+                            text-decoration: none;
+                            border-radius: 25px;
+                            font-size: 15px;
+                            display: inline-block;
+                        ">返回首页</a>
                     </div>
-                    <div style="color: #999; font-size: 14px; margin-bottom: 25px;">
-                        可能原因：数据文件未能正确加载<br>
-                        请确保 data/drugs/drugs.js 文件存在<br>
-                        <small>（drugIndex 类型: ${typeof drugIndex}）</small>
-                    </div>
-                    <button onclick="location.reload(true)" style="
-                        padding: 12px 30px;
-                        background: #0E7490;
-                        color: white;
-                        border: none;
-                        border-radius: 25px;
-                        cursor: pointer;
-                        font-size: 15px;
-                        margin-right: 10px;
-                    ">刷新页面</button>
-                    <a href="main.html" style="
-                        padding: 12px 30px;
-                        background: #f5f5f5;
-                        color: #666;
-                        text-decoration: none;
-                        border-radius: 25px;
-                        font-size: 15px;
-                        display: inline-block;
-                    ">返回首页</a>
-                </div>
-            `;
+                `;
+            }
         }
 
         // 后台刷新药品数据
@@ -413,15 +403,51 @@
         async function showDrugDetail(drugId) {
             console.log('[showDrugDetail] called with drugId:', drugId);
 
-            // 从已加载的 drugIndex 中查找药品详情
-            const drug = drugIndex.find(d => d.id === drugId);
+            // 显示加载状态
+            const loadingModal = document.createElement('div');
+            loadingModal.style.cssText = `
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0,0,0,0.5);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                z-index: 2000;
+            `;
+            loadingModal.innerHTML = `
+                <div style="background: white; padding: 30px; border-radius: 10px; text-align: center;">
+                    <div style="font-size: 32px; margin-bottom: 10px;">⏳</div>
+                    <div style="color: #666;">正在加载药品详情...</div>
+                </div>
+            `;
+            document.body.appendChild(loadingModal);
 
-            if (!drug) {
-                console.error('[showDrugDetail] Drug not found:', drugId);
+            // 从索引中查找基本信息
+            const indexDrug = drugIndex.find(d => d.id === drugId);
+            if (!indexDrug) {
+                loadingModal.remove();
+                console.error('[showDrugDetail] Drug not found in index:', drugId);
                 alert('未找到该药品信息');
                 return;
             }
 
+            // 加载详细数据
+            let drug = indexDrug;
+            try {
+                if (typeof DrugDataLoader !== 'undefined') {
+                    const detail = await DrugDataLoader.loadDetail(drugId);
+                    if (detail) {
+                        drug = detail;
+                    }
+                }
+            } catch (e) {
+                console.log('使用索引数据:', e);
+            }
+
+            loadingModal.remove();
             console.log('[showDrugDetail] Found drug:', drug.name);
 
             const permissions = AuthManager.getCurrentPermissions();
@@ -434,7 +460,7 @@
             const spec = drug.specifications?.[0] || {};
             
             let detailHtml = `
-                <h2 style="color: #0E7490; margin-bottom: 20px; padding-right: 30px;">${drug.name}</h2>
+                <h2 style="color: #667eea; margin-bottom: 20px; padding-right: 30px;">${drug.name}</h2>
             `;
             
             // 黑框警告 - 放在药品名称之后，最前面，加框、字体加大
@@ -601,7 +627,7 @@
         }
 
         // 创建详情章节 - 主体内容字体加大
-        function createDetailSection(title, content, titleColor = '#0E7490') {
+        function createDetailSection(title, content, titleColor = '#667eea') {
             return `
                 <div style="margin-top: 20px; padding-top: 15px; border-top: 1px solid #eee;">
                     <h3 style="color: ${titleColor}; font-size: 18px; margin-bottom: 12px; font-weight: 600;">${title}</h3>
@@ -613,7 +639,7 @@
         // 岗位手册：工作流程指引
         function showWorkflowGuide() {
             const content = `
-                <h2 style="color: #0E7490; margin-bottom: 20px;">药房工作流程指引</h2>
+                <h2 style="color: #667eea; margin-bottom: 20px;">药房工作流程指引</h2>
 
                 <div style="margin-bottom: 20px;">
                     <h3 style="color: #333; margin-bottom: 10px;">一、处方审核流程</h3>
@@ -660,7 +686,7 @@
         // 岗位手册：处方审核规范
         function showDispensingGuide() {
             const content = `
-                <h2 style="color: #0E7490; margin-bottom: 20px;">处方审核规范</h2>
+                <h2 style="color: #667eea; margin-bottom: 20px;">处方审核规范</h2>
 
                 <div style="margin-bottom: 20px;">
                     <h3 style="color: #333; margin-bottom: 10px;">一、处方合法性审核</h3>
@@ -704,7 +730,7 @@
         // 岗位手册：用药咨询指南
         function showConsultationGuide() {
             const content = `
-                <h2 style="color: #0E7490; margin-bottom: 20px;">用药咨询指南</h2>
+                <h2 style="color: #667eea; margin-bottom: 20px;">用药咨询指南</h2>
 
                 <div style="margin-bottom: 20px;">
                     <h3 style="color: #333; margin-bottom: 10px;">一、咨询接待规范</h3>

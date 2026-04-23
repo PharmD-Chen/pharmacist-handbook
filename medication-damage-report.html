@@ -1,0 +1,1018 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>药品退药报损流程 - 上海市养志康复医院</title>
+    <script src="auth.js"></script>
+    <script>
+    // 药品搜索数据 - 精简版（内嵌）
+    // displayName: 显示名称（不含规格）, searchName: 搜索时显示的名称（含规格便于区分）
+    const drugSearchData = [
+      {"displayName":"阿司匹林肠溶片","searchName":"阿司匹林肠溶片 (100mg/片)","pinyin":"asipilin","pinyin_initials":"aspl","spec":"100mg/片","manufacturer":"南京道群医药研发","unit":"盒"},
+      {"displayName":"阿司匹林肠溶片","searchName":"阿司匹林肠溶片 (0.1g/片 进口)","pinyin":"asipilin","pinyin_initials":"aspl","spec":"0.1g/片","manufacturer":"Bayer S.p.A（进口）","unit":"盒"},
+      {"displayName":"阿司匹林肠溶片","searchName":"阿司匹林肠溶片 (25mg/片)","pinyin":"asipilin","pinyin_initials":"aspl","spec":"25mg/片","manufacturer":"上海信谊百路达药业","unit":"盒"},
+      {"displayName":"阿莫西林胶囊","searchName":"阿莫西林胶囊 (0.25g/粒)","pinyin":"amoxilin","pinyin_initials":"amxl","spec":"0.25g/粒","manufacturer":"华北制药","unit":"盒"},
+      {"displayName":"阿莫西林胶囊","searchName":"阿莫西林胶囊 (0.5g/粒)","pinyin":"amoxilin","pinyin_initials":"amxl","spec":"0.5g/粒","manufacturer":"石药集团","unit":"盒"},
+      {"displayName":"阿奇霉素片","searchName":"阿奇霉素片 (0.25g/片)","pinyin":"aqimeisu","pinyin_initials":"aqms","spec":"0.25g/片","manufacturer":"辉瑞制药","unit":"盒"},
+      {"displayName":"氨溴索口服液","searchName":"氨溴索口服液","pinyin":"anxiusuo","pinyin_initials":"axs","spec":"100ml:0.3g/瓶","manufacturer":"北京韩美","unit":"瓶"},
+      {"displayName":"奥美拉唑肠溶胶囊","searchName":"奥美拉唑肠溶胶囊","pinyin":"aomeilazuo","pinyin_initials":"amlz","spec":"20mg/粒","manufacturer":"阿斯利康","unit":"盒"},
+      {"displayName":"布洛芬缓释胶囊","searchName":"布洛芬缓释胶囊","pinyin":"buluofen","pinyin_initials":"blf","spec":"0.3g/粒","manufacturer":"中美史克","unit":"盒"},
+      {"displayName":"头孢克肟颗粒","searchName":"头孢克肟颗粒","pinyin":"toubaokewo","pinyin_initials":"tbkw","spec":"50mg/袋","manufacturer":"广州白云山","unit":"盒"},
+      {"displayName":"头孢呋辛酯片","searchName":"头孢呋辛酯片","pinyin":"toubaofuxinzhi","pinyin_initials":"tbfxz","spec":"0.125g/片","manufacturer":"葛兰素史克","unit":"盒"},
+      {"displayName":"左氧氟沙星片","searchName":"左氧氟沙星片","pinyin":"zuoyangfushaxing","pinyin_initials":"zyfsx","spec":"0.1g/片","manufacturer":"第一三共","unit":"盒"},
+      {"displayName":"甲硝唑片","searchName":"甲硝唑片","pinyin":"jiaxiaozuo","pinyin_initials":"jxz","spec":"0.2g/片","manufacturer":"华中药业","unit":"瓶"},
+      {"displayName":"格列美脲片","searchName":"格列美脲片","pinyin":"gelimeiniao","pinyin_initials":"glmn","spec":"1mg/片","manufacturer":"赛诺菲","unit":"盒"},
+      {"displayName":"二甲双胍片","searchName":"二甲双胍片","pinyin":"erjiashuanggua","pinyin_initials":"ejsg","spec":"0.5g/片","manufacturer":"默克雪兰诺","unit":"盒"},
+      {"displayName":"硝苯地平缓释片","searchName":"硝苯地平缓释片","pinyin":"xiaobendiping","pinyin_initials":"xbdp","spec":"10mg/片","manufacturer":"拜耳医药","unit":"盒"},
+      {"displayName":"氨氯地平片","searchName":"氨氯地平片","pinyin":"anlvdiping","pinyin_initials":"aldp","spec":"5mg/片","manufacturer":"辉瑞制药","unit":"盒"},
+      {"displayName":"美托洛尔片","searchName":"美托洛尔片","pinyin":"meituoluoer","pinyin_initials":"mtle","spec":"25mg/片","manufacturer":"阿斯利康","unit":"盒"},
+      {"displayName":"辛伐他汀片","searchName":"辛伐他汀片","pinyin":"xinfatating","pinyin_initials":"xftt","spec":"10mg/片","manufacturer":"默沙东","unit":"盒"},
+      {"displayName":"阿托伐他汀钙片","searchName":"阿托伐他汀钙片","pinyin":"atuofatatinggai","pinyin_initials":"atfttg","spec":"10mg/片","manufacturer":"辉瑞制药","unit":"盒"},
+      {"displayName":"氯吡格雷片","searchName":"氯吡格雷片","pinyin":"lvbigelei","pinyin_initials":"lbgl","spec":"75mg/片","manufacturer":"赛诺菲","unit":"盒"},
+      {"displayName":"华法林钠片","searchName":"华法林钠片","pinyin":"huafalinna","pinyin_initials":"hfln","spec":"2.5mg/片","manufacturer":"上海信谊","unit":"瓶"},
+      {"displayName":"利伐沙班片","searchName":"利伐沙班片","pinyin":"lifashaban","pinyin_initials":"lfsb","spec":"10mg/片","manufacturer":"拜耳医药","unit":"盒"},
+      {"displayName":"缬沙坦胶囊","searchName":"缬沙坦胶囊","pinyin":"xieshatan","pinyin_initials":"xst","spec":"80mg/粒","manufacturer":"诺华制药","unit":"盒"},
+      {"displayName":"厄贝沙坦片","searchName":"厄贝沙坦片","pinyin":"ebeishatan","pinyin_initials":"ebst","spec":"150mg/片","manufacturer":"赛诺菲","unit":"盒"},
+      {"displayName":"替米沙坦片","searchName":"替米沙坦片","pinyin":"timishatan","pinyin_initials":"tmst","spec":"40mg/片","manufacturer":"勃林格殷格翰","unit":"盒"},
+      {"displayName":"贝那普利片","searchName":"贝那普利片","pinyin":"beinapuli","pinyin_initials":"bnpl","spec":"5mg/片","manufacturer":"诺华制药","unit":"盒"},
+      {"displayName":"培哚普利片","searchName":"培哚普利片","pinyin":"peiduopuli","pinyin_initials":"pdpl","spec":"4mg/片","manufacturer":"施维雅","unit":"盒"},
+      {"displayName":"氢氯噻嗪片","searchName":"氢氯噻嗪片","pinyin":"qinglvsaiqin","pinyin_initials":"qlsq","spec":"12.5mg/片","manufacturer":"天津力生","unit":"瓶"},
+      {"displayName":"呋塞米片","searchName":"呋塞米片","pinyin":"fusaimi","pinyin_initials":"fsm","spec":"20mg/片","manufacturer":"天津力生","unit":"瓶"},
+      {"displayName":"螺内酯片","searchName":"螺内酯片","pinyin":"luoneizhi","pinyin_initials":"lnz","spec":"20mg/片","manufacturer":"杭州民生","unit":"瓶"},
+      {"displayName":"地高辛片","searchName":"地高辛片","pinyin":"digaoxin","pinyin_initials":"dgx","spec":"0.25mg/片","manufacturer":"上海信谊","unit":"瓶"},
+      {"displayName":"胺碘酮片","searchName":"胺碘酮片","pinyin":"andidantong","pinyin_initials":"adt","spec":"0.2g/片","manufacturer":"赛诺菲","unit":"瓶"},
+      {"displayName":"普罗帕酮片","searchName":"普罗帕酮片","pinyin":"puluopatong","pinyin_initials":"plpt","spec":"50mg/片","manufacturer":"上海信谊","unit":"瓶"},
+      {"displayName":"硝酸甘油片","searchName":"硝酸甘油片","pinyin":"xiaosuanganyou","pinyin_initials":"xsgy","spec":"0.5mg/片","manufacturer":"北京益民","unit":"瓶"},
+      {"displayName":"单硝酸异山梨酯片","searchName":"单硝酸异山梨酯片","pinyin":"danxiaosuan","pinyin_initials":"dxs","spec":"20mg/片","manufacturer":"鲁南贝特","unit":"盒"},
+      {"displayName":"曲美他嗪片","searchName":"曲美他嗪片","pinyin":"qumeitaqin","pinyin_initials":"qmtq","spec":"20mg/片","manufacturer":"施维雅","unit":"盒"},
+      {"displayName":"雷贝拉唑钠肠溶片","searchName":"雷贝拉唑钠肠溶片","pinyin":"leibeilazuona","pinyin_initials":"lblzn","spec":"10mg/片","manufacturer":"卫材制药","unit":"盒"},
+      {"displayName":"莫沙必利片","searchName":"莫沙必利片","pinyin":"moshabili","pinyin_initials":"msbl","spec":"5mg/片","manufacturer":"大日本住友","unit":"盒"},
+      {"displayName":"多潘立酮片","searchName":"多潘立酮片","pinyin":"duopanlitong","pinyin_initials":"dplt","spec":"10mg/片","manufacturer":"西安杨森","unit":"盒"},
+      {"displayName":"乳果糖口服液","searchName":"乳果糖口服液","pinyin":"ruguotang","pinyin_initials":"rgt","spec":"100ml:66.7g/瓶","manufacturer":"雅培制药","unit":"瓶"},
+      {"displayName":"蒙脱石散","searchName":"蒙脱石散","pinyin":"mengtuoshi","pinyin_initials":"mts","spec":"3g/袋","manufacturer":"博福-益普生","unit":"盒"},
+      {"displayName":"地衣芽孢杆菌活菌胶囊","searchName":"地衣芽孢杆菌活菌胶囊","pinyin":"diyiyabaoganjun","pinyin_initials":"dybyghj","spec":"0.25g/粒","manufacturer":"东北制药","unit":"盒"},
+      {"displayName":"双歧杆菌三联活菌胶囊","searchName":"双歧杆菌三联活菌胶囊","pinyin":"shuangqiganjun","pinyin_initials":"sqgjsl","spec":"210mg/粒","manufacturer":"上海信谊","unit":"盒"},
+      {"displayName":"熊去氧胆酸胶囊","searchName":"熊去氧胆酸胶囊","pinyin":"xiongquyangdansuan","pinyin_initials":"xqydss","spec":"250mg/粒","manufacturer":"德国福克","unit":"盒"},
+      {"displayName":"多烯磷脂酰胆碱胶囊","searchName":"多烯磷脂酰胆碱胶囊","pinyin":"duoxilinzhixian","pinyin_initials":"dxlzxd","spec":"228mg/粒","manufacturer":"赛诺菲","unit":"盒"},
+      {"displayName":"甲钴胺片","searchName":"甲钴胺片","pinyin":"jiaguan","pinyin_initials":"jga","spec":"0.5mg/片","manufacturer":"卫材制药","unit":"盒"},
+      {"displayName":"维生素B1片","searchName":"维生素B1片","pinyin":"weishengsuB1","pinyin_initials":"wssB1","spec":"10mg/片","manufacturer":"天津力生","unit":"瓶"},
+      {"displayName":"叶酸片","searchName":"叶酸片","pinyin":"yesuan","pinyin_initials":"ys","spec":"0.4mg/片","manufacturer":"天津力生","unit":"瓶"},
+      {"displayName":"琥珀酸亚铁片","searchName":"琥珀酸亚铁片","pinyin":"huposuanyatie","pinyin_initials":"hpsyt","spec":"100mg/片","manufacturer":"南京制药","unit":"盒"},
+      {"displayName":"碳酸钙D3片","searchName":"碳酸钙D3片","pinyin":"tansuangaiD3","pinyin_initials":"tsgD3","spec":"600mg/片","manufacturer":"惠氏制药","unit":"盒"},
+      {"displayName":"骨化三醇胶丸","searchName":"骨化三醇胶丸","pinyin":"guhuasanchun","pinyin_initials":"ghsc","spec":"0.25μg/粒","manufacturer":"罗氏制药","unit":"盒"},
+      {"displayName":"非布司他片","searchName":"非布司他片","pinyin":"feibusita","pinyin_initials":"fbst","spec":"40mg/片","manufacturer":"帝人制药","unit":"盒"},
+      {"displayName":"别嘌醇片","searchName":"别嘌醇片","pinyin":"biepiaochun","pinyin_initials":"bpc","spec":"0.1g/片","manufacturer":"上海信谊","unit":"瓶"},
+      {"displayName":"秋水仙碱片","searchName":"秋水仙碱片","pinyin":"qiushuixianjian","pinyin_initials":"qsxj","spec":"0.5mg/片","manufacturer":"云南植物","unit":"瓶"},
+      {"displayName":"塞来昔布胶囊","searchName":"塞来昔布胶囊","pinyin":"sailaixibu","pinyin_initials":"slxb","spec":"0.2g/粒","manufacturer":"辉瑞制药","unit":"盒"},
+      {"displayName":"双氯芬酸钠缓释片","searchName":"双氯芬酸钠缓释片","pinyin":"shuanglufensuanna","pinyin_initials":"slfsnhs","spec":"75mg/片","manufacturer":"北京诺华","unit":"盒"},
+      {"displayName":"氨基葡萄糖胶囊","searchName":"氨基葡萄糖胶囊","pinyin":"anjiputaotang","pinyin_initials":"ajptt","spec":"0.24g/粒","manufacturer":"爱尔兰罗达","unit":"盒"},
+      {"displayName":"阿仑膦酸钠片","searchName":"阿仑膦酸钠片","pinyin":"alunlinsuanna","pinyin_initials":"allsn","spec":"70mg/片","manufacturer":"默沙东","unit":"盒"},
+      {"displayName":"普瑞巴林胶囊","searchName":"普瑞巴林胶囊","pinyin":"puruibalinjiaonang","pinyin_initials":"prbljn","spec":"75mg/粒","manufacturer":"辉瑞制药","unit":"盒"},
+      {"displayName":"卡马西平片","searchName":"卡马西平片","pinyin":"kamaxiping","pinyin_initials":"kmxp","spec":"0.1g/片","manufacturer":"上海信谊","unit":"瓶"},
+      {"displayName":"丙戊酸钠片","searchName":"丙戊酸钠片","pinyin":"bingwusuanna","pinyin_initials":"bwsn","spec":"0.2g/片","manufacturer":"赛诺菲","unit":"瓶"},
+      {"displayName":"左乙拉西坦片","searchName":"左乙拉西坦片","pinyin":"zuoyilaxitan","pinyin_initials":"zylxt","spec":"0.25g/片","manufacturer":"优时比","unit":"盒"},
+      {"displayName":"多奈哌齐片","searchName":"多奈哌齐片","pinyin":"duonaipaiqi","pinyin_initials":"dnpq","spec":"5mg/片","manufacturer":"卫材制药","unit":"盒"},
+      {"displayName":"美金刚片","searchName":"美金刚片","pinyin":"meijingang","pinyin_initials":"mjg","spec":"10mg/片","manufacturer":"灵北制药","unit":"盒"},
+      {"displayName":"普拉克索片","searchName":"普拉克索片","pinyin":"pulakesuo","pinyin_initials":"plks","spec":"0.25mg/片","manufacturer":"勃林格殷格翰","unit":"盒"},
+      {"displayName":"多巴丝肼片","searchName":"多巴丝肼片","pinyin":"duobasijing","pinyin_initials":"dbsj","spec":"0.25g/片","manufacturer":"罗氏制药","unit":"盒"},
+      {"displayName":"奥氮平片","searchName":"奥氮平片","pinyin":"aodanping","pinyin_initials":"adp","spec":"5mg/片","manufacturer":"礼来制药","unit":"盒"},
+      {"displayName":"利培酮片","searchName":"利培酮片","pinyin":"lipeitong","pinyin_initials":"lpt","spec":"1mg/片","manufacturer":"西安杨森","unit":"盒"},
+      {"displayName":"喹硫平片","searchName":"喹硫平片","pinyin":"kuiliuping","pinyin_initials":"klp","spec":"25mg/片","manufacturer":"阿斯利康","unit":"盒"},
+      {"displayName":"氟西汀胶囊","searchName":"氟西汀胶囊","pinyin":"fuxiting","pinyin_initials":"fxt","spec":"20mg/粒","manufacturer":"礼来制药","unit":"盒"},
+      {"displayName":"帕罗西汀片","searchName":"帕罗西汀片","pinyin":"paluoxiting","pinyin_initials":"plxt","spec":"20mg/片","manufacturer":"葛兰素史克","unit":"盒"},
+      {"displayName":"舍曲林片","searchName":"舍曲林片","pinyin":"shequlin","pinyin_initials":"sql","spec":"50mg/片","manufacturer":"辉瑞制药","unit":"盒"},
+      {"displayName":"艾司西酞普兰片","searchName":"艾司西酞普兰片","pinyin":"aisixitaipulan","pinyin_initials":"asxtpl","spec":"5mg/片","manufacturer":"灵北制药","unit":"盒"},
+      {"displayName":"文拉法辛胶囊","searchName":"文拉法辛胶囊","pinyin":"wenlafaxin","pinyin_initials":"wlfx","spec":"75mg/粒","manufacturer":"惠氏制药","unit":"盒"},
+      {"displayName":"度洛西汀肠溶胶囊","searchName":"度洛西汀肠溶胶囊","pinyin":"duluoxiting","pinyin_initials":"dlxt","spec":"30mg/粒","manufacturer":"礼来制药","unit":"盒"},
+      {"displayName":"米氮平片","searchName":"米氮平片","pinyin":"midanping","pinyin_initials":"mdp","spec":"15mg/片","manufacturer":"欧加农","unit":"盒"},
+      {"displayName":"劳拉西泮片","searchName":"劳拉西泮片","pinyin":"laolaxipan","pinyin_initials":"llxp","spec":"0.5mg/片","manufacturer":"大西洋制药","unit":"盒"},
+      {"displayName":"艾司唑仑片","searchName":"艾司唑仑片","pinyin":"aisizuolun","pinyin_initials":"aszl","spec":"1mg/片","manufacturer":"北京益民","unit":"盒"},
+      {"displayName":"地西泮片","searchName":"地西泮片","pinyin":"dixipan","pinyin_initials":"dxp","spec":"2.5mg/片","manufacturer":"天津力生","unit":"瓶"},
+      {"displayName":"唑吡坦片","searchName":"唑吡坦片","pinyin":"zuobitan","pinyin_initials":"zbt","spec":"10mg/片","manufacturer":"赛诺菲","unit":"盒"},
+      {"displayName":"右佐匹克隆片","searchName":"右佐匹克隆片","pinyin":"youzuopikelong","pinyin_initials":"yzpkl","spec":"3mg/片","manufacturer":"天士力","unit":"盒"},
+      {"displayName":"多塞平片","searchName":"多塞平片","pinyin":"duosaiping","pinyin_initials":"dsp","spec":"25mg/片","manufacturer":"上海信谊","unit":"瓶"},
+      {"displayName":"阿米替林片","searchName":"阿米替林片","pinyin":"amitilin","pinyin_initials":"amtl","spec":"25mg/片","manufacturer":"常州四药","unit":"瓶"}
+    ];
+    console.log('药品搜索数据已加载:', drugSearchData.length, '个药品');
+    </script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+
+        /* 头部 */
+        .header {
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            color: white;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .header h1 {
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .back-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            text-decoration: none;
+            transition: background 0.3s;
+        }
+
+        .back-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+
+        /* 主内容区 */
+        .main-content {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 30px 20px;
+        }
+
+        /* 标题区域 */
+        .page-title {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .page-title h2 {
+            font-size: 26px;
+            margin-bottom: 8px;
+        }
+
+        .page-title p {
+            opacity: 0.9;
+            font-size: 15px;
+        }
+
+        /* 表单卡片 */
+        .form-card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+
+        .form-card h3 {
+            color: #0E7490;
+            margin-bottom: 20px;
+            font-size: 18px;
+            border-bottom: 2px solid #e9ecef;
+            padding-bottom: 10px;
+        }
+
+        /* 表单组 */
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            color: #555;
+            font-weight: 500;
+            font-size: 14px;
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            font-size: 15px;
+            transition: border-color 0.3s;
+            font-family: inherit;
+        }
+
+        .form-group input:focus,
+        .form-group select:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: #0E7490;
+        }
+
+        .form-group input:read-only {
+            background: #f8f9fa;
+            color: #666;
+        }
+
+        /* 搜索下拉框 */
+        .search-container {
+            position: relative;
+        }
+
+        .search-dropdown {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: white;
+            border: 2px solid #e9ecef;
+            border-top: none;
+            border-radius: 0 0 8px 8px;
+            max-height: 300px;
+            overflow-y: auto;
+            z-index: 1000;
+            display: none;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+
+        .search-dropdown.active {
+            display: block;
+        }
+
+        .search-item {
+            padding: 12px 15px;
+            cursor: pointer;
+            border-bottom: 1px solid #f0f0f0;
+            transition: background 0.2s;
+        }
+
+        .search-item:hover {
+            background: #f8f9fa;
+        }
+
+        .search-item:last-child {
+            border-bottom: none;
+        }
+
+        .search-item-name {
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 4px;
+        }
+
+        .search-item-spec {
+            font-size: 13px;
+            color: #666;
+        }
+
+        .search-item-pinyin {
+            font-size: 12px;
+            color: #999;
+            margin-top: 2px;
+        }
+
+        /* 双列布局 */
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        @media (max-width: 600px) {
+            .form-row {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* 按钮 */
+        .btn-group {
+            display: flex;
+            gap: 15px;
+            margin-top: 25px;
+        }
+
+        .btn {
+            flex: 1;
+            padding: 14px 24px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(14, 116, 144, 0.4);
+        }
+
+        .btn-secondary {
+            background: #f8f9fa;
+            color: #666;
+            border: 2px solid #e9ecef;
+        }
+
+        .btn-secondary:hover {
+            background: #e9ecef;
+        }
+
+        /* 记录列表 */
+        .records-card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+
+        .records-card h3 {
+            color: #0E7490;
+            margin-bottom: 20px;
+            font-size: 18px;
+            border-bottom: 2px solid #e9ecef;
+            padding-bottom: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .record-count {
+            font-size: 14px;
+            color: #666;
+            font-weight: normal;
+        }
+
+        .records-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        .records-table th,
+        .records-table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #e9ecef;
+        }
+
+        .records-table th {
+            background: #f8f9fa;
+            font-weight: 600;
+            color: #555;
+            font-size: 14px;
+        }
+
+        .records-table td {
+            font-size: 14px;
+            color: #333;
+        }
+
+        .records-table tr:hover {
+            background: #f8f9fa;
+        }
+
+        .record-actions {
+            display: flex;
+            gap: 8px;
+        }
+
+        .btn-small {
+            padding: 6px 12px;
+            font-size: 12px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .btn-delete {
+            background: #dc3545;
+            color: white;
+        }
+
+        .btn-delete:hover {
+            background: #c82333;
+        }
+
+        /* 空状态 */
+        .empty-state {
+            text-align: center;
+            padding: 40px;
+            color: #999;
+        }
+
+        .empty-state-icon {
+            font-size: 48px;
+            margin-bottom: 15px;
+        }
+
+        /* 提示消息 */
+        .toast {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #28a745;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+            display: none;
+            z-index: 2000;
+            animation: slideIn 0.3s ease;
+        }
+
+        .toast.error {
+            background: #dc3545;
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        /* 导出按钮组 */
+        .export-group {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .btn-export {
+            padding: 10px 20px;
+            font-size: 14px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-excel {
+            background: #217346;
+            color: white;
+        }
+
+        .btn-excel:hover {
+            background: #1e633d;
+        }
+
+        .btn-csv {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn-csv:hover {
+            background: #5a6268;
+        }
+
+        .btn-clear {
+            background: #dc3545;
+            color: white;
+        }
+
+        .btn-clear:hover {
+            background: #c82333;
+        }
+
+        /* 页脚 */
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: rgba(255,255,255,0.7);
+            font-size: 12px;
+        }
+
+        /* 报损类型选择 */
+        .damage-type-group {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .damage-type-option {
+            flex: 1;
+            min-width: 120px;
+        }
+
+        .damage-type-option input[type="radio"] {
+            display: none;
+        }
+
+        .damage-type-option label {
+            display: block;
+            padding: 12px 15px;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .damage-type-option input[type="radio"]:checked + label {
+            border-color: #0E7490;
+            background: rgba(14, 116, 144, 0.1);
+            color: #0E7490;
+        }
+
+        .damage-type-option label:hover {
+            border-color: #0E7490;
+        }
+    </style>
+</head>
+<body>
+    <!-- 头部 -->
+    <header class="header">
+        <h1>药品退药报损流程</h1>
+        <a href="workflow-guide.html" class="back-btn">← 返回岗位手册</a>
+    </header>
+
+    <!-- 主内容 -->
+    <main class="main-content">
+        <!-- 标题区域 -->
+        <div class="page-title">
+            <h2>药品退药报损登记</h2>
+            <p>请输入首字母搜索药品，填写报损信息后保存</p>
+        </div>
+
+        <!-- 报损表单 -->
+        <div class="form-card">
+            <h3>报损信息录入</h3>
+            
+            <form id="damageForm">
+                <!-- 药品搜索 -->
+                <div class="form-group">
+                    <label for="drugSearch">药品名称（输入首字母搜索）</label>
+                    <div class="search-container">
+                        <input type="text" id="drugSearch" placeholder="例如：输入 'AMXL' 搜索 '阿莫西林'" autocomplete="off">
+                        <div class="search-dropdown" id="searchDropdown"></div>
+                    </div>
+                </div>
+
+                <!-- 药品信息（自动填充） -->
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="drugSpec">规格</label>
+                        <input type="text" id="drugSpec" readonly placeholder="选择药品后自动填充">
+                    </div>
+                    <div class="form-group">
+                        <label for="drugManufacturer">生产企业</label>
+                        <input type="text" id="drugManufacturer" readonly placeholder="选择药品后自动填充">
+                    </div>
+                </div>
+
+                <!-- 报损类型 -->
+                <div class="form-group">
+                    <label>报损类型</label>
+                    <div class="damage-type-group">
+                        <div class="damage-type-option">
+                            <input type="radio" id="typeExpired" name="damageType" value="过期">
+                            <label for="typeExpired">过期</label>
+                        </div>
+                        <div class="damage-type-option">
+                            <input type="radio" id="typeBroken" name="damageType" value="破损">
+                            <label for="typeBroken">破损</label>
+                        </div>
+                        <div class="damage-type-option">
+                            <input type="radio" id="typeReturn" name="damageType" value="退药">
+                            <label for="typeReturn">退药</label>
+                        </div>
+                        <div class="damage-type-option">
+                            <input type="radio" id="typeOther" name="damageType" value="其他" checked>
+                            <label for="typeOther">其他</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 报损数量 -->
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="damageQuantity">报损数量</label>
+                        <input type="number" id="damageQuantity" min="1" placeholder="请输入数量" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="damageUnit">单位</label>
+                        <select id="damageUnit" required>
+                            <option value="盒">盒</option>
+                            <option value="瓶">瓶</option>
+                            <option value="支">支</option>
+                            <option value="袋">袋</option>
+                            <option value="片">片</option>
+                            <option value="粒">粒</option>
+                            <option value="板">板</option>
+                            <option value="个">个</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- 报损原因 -->
+                <div class="form-group">
+                    <label for="damageReason">报损原因说明</label>
+                    <textarea id="damageReason" rows="3" placeholder="请详细说明报损原因..."></textarea>
+                </div>
+
+                <!-- 操作人 -->
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="operator">操作人</label>
+                        <input type="text" id="operator" placeholder="请输入您的姓名" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="damageDate">报损日期</label>
+                        <input type="date" id="damageDate" required>
+                    </div>
+                </div>
+
+                <!-- 按钮 -->
+                <div class="btn-group">
+                    <button type="submit" class="btn btn-primary">保存报损记录</button>
+                    <button type="reset" class="btn btn-secondary">重置表单</button>
+                </div>
+            </form>
+        </div>
+
+        <!-- 报损记录列表 -->
+        <div class="records-card">
+            <h3>
+                报损记录列表
+                <span class="record-count" id="recordCount">共 0 条记录</span>
+            </h3>
+            
+            <div id="recordsContainer">
+                <div class="empty-state">
+                    <div class="empty-state-icon">📝</div>
+                    <p>暂无报损记录</p>
+                </div>
+            </div>
+
+            <!-- 导出按钮 -->
+            <div class="export-group" id="exportGroup" style="display: none;">
+                <button class="btn-export btn-excel" onclick="exportToExcel()">
+                    📊 导出Excel
+                </button>
+                <button class="btn-export btn-csv" onclick="exportToCSV()">
+                    📄 导出CSV
+                </button>
+                <button class="btn-export btn-clear" onclick="clearAllRecords()">
+                    🗑️ 清空记录
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <p>上海市养志康复医院药剂科 © 2026 | 数据保存在本地浏览器中</p>
+    </footer>
+
+    <!-- 提示消息 -->
+    <div class="toast" id="toast"></div>
+
+    <script>
+        // 存储键名
+        const STORAGE_KEY = 'medication_damage_records';
+        
+        // 当前选中的药品
+        let selectedDrug = null;
+        
+        // 报损记录数组
+        let damageRecords = [];
+
+        // 初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            // 设置默认日期为今天
+            document.getElementById('damageDate').valueAsDate = new Date();
+
+            // 加载保存的记录
+            loadRecords();
+
+            // 初始化搜索功能
+            initDrugSearch();
+
+            // 绑定表单提交
+            document.getElementById('damageForm').addEventListener('submit', handleSubmit);
+
+            console.log('药品数据已就绪:', drugSearchData.length, '个药品');
+        });
+
+        // 初始化药品搜索
+        function initDrugSearch() {
+            const searchInput = document.getElementById('drugSearch');
+            const dropdown = document.getElementById('searchDropdown');
+            
+            searchInput.addEventListener('input', function() {
+                const query = this.value.trim().toLowerCase();
+                
+                if (query.length === 0) {
+                    dropdown.classList.remove('active');
+                    return;
+                }
+                
+                // 搜索药品
+                const results = searchDrugs(query);
+                displaySearchResults(results);
+            });
+            
+            // 点击外部关闭下拉框
+            document.addEventListener('click', function(e) {
+                if (!searchInput.contains(e.target) && !dropdown.contains(e.target)) {
+                    dropdown.classList.remove('active');
+                }
+            });
+        }
+
+        // 搜索药品（支持首字母、名称、拼音）
+        function searchDrugs(query) {
+            if (!drugSearchData || !Array.isArray(drugSearchData)) {
+                console.log('药品数据未加载');
+                return [];
+            }
+
+            console.log('搜索关键词:', query, '药品总数:', drugSearchData.length);
+
+            const results = drugSearchData.filter(drug => {
+                const nameMatch = drug.name && drug.name.toLowerCase().includes(query);
+                const pinyinMatch = drug.pinyin && drug.pinyin.toLowerCase().includes(query);
+                const pinyinInitialsMatch = drug.pinyin_initials &&
+                    drug.pinyin_initials.toLowerCase().includes(query);
+
+                return nameMatch || pinyinMatch || pinyinInitialsMatch;
+            }).slice(0, 10); // 最多显示10条
+
+            console.log('搜索结果:', results.length, '条');
+            return results;
+        }
+
+        // 显示搜索结果
+        function displaySearchResults(results) {
+            const dropdown = document.getElementById('searchDropdown');
+            console.log('显示搜索结果:', results.length, '条');
+            
+            if (results.length === 0) {
+                dropdown.innerHTML = '<div class="search-item"><div class="search-item-name">未找到相关药品</div></div>';
+                dropdown.classList.add('active');
+                console.log('显示: 未找到相关药品');
+                return;
+            }
+            
+            dropdown.innerHTML = results.map(drug => {
+                return `
+                    <div class="search-item" onclick="selectDrug('${drug.searchName}')">
+                        <div class="search-item-name">${drug.searchName}</div>
+                        <div class="search-item-spec">规格：${drug.spec || '未知'} | 生产企业：${drug.manufacturer || '未知'}</div>
+                        <div class="search-item-pinyin">首字母：${drug.pinyin_initials || '无'}</div>
+                    </div>
+                `;
+            }).join('');
+            
+            dropdown.classList.add('active');
+            console.log('下拉框已激活');
+        }
+
+        // 选择药品
+        function selectDrug(searchName) {
+            const drug = drugSearchData.find(d => d.searchName === searchName);
+            if (!drug) return;
+
+            selectedDrug = drug;
+
+            // 填充表单 - 搜索框显示药品名称，下方显示规格和生产企业
+            document.getElementById('drugSearch').value = drug.displayName;
+            document.getElementById('drugSpec').value = drug.spec || '';
+            document.getElementById('drugManufacturer').value = drug.manufacturer || '';
+
+            // 设置默认单位
+            const unitSelect = document.getElementById('damageUnit');
+            if (drug.unit) {
+                unitSelect.value = drug.unit;
+            }
+
+            // 关闭下拉框
+            document.getElementById('searchDropdown').classList.remove('active');
+
+            console.log('已选择药品:', drug.displayName, '生产企业:', drug.manufacturer, '默认单位:', drug.unit);
+        }
+
+        // 处理表单提交
+        function handleSubmit(e) {
+            e.preventDefault();
+            
+            // 验证
+            if (!selectedDrug) {
+                showToast('请先选择药品', 'error');
+                return;
+            }
+            
+            const quantity = document.getElementById('damageQuantity').value;
+            if (!quantity || quantity < 1) {
+                showToast('请输入有效的报损数量', 'error');
+                return;
+            }
+            
+            const operator = document.getElementById('operator').value.trim();
+            if (!operator) {
+                showToast('请输入操作人姓名', 'error');
+                return;
+            }
+            
+            // 创建记录
+            const record = {
+                id: Date.now(),
+                drugName: selectedDrug ? selectedDrug.displayName : document.getElementById('drugSearch').value,
+                drugSpec: selectedDrug ? selectedDrug.spec : '',
+                drugManufacturer: selectedDrug ? selectedDrug.manufacturer : '',
+                damageType: document.querySelector('input[name="damageType"]:checked').value,
+                quantity: parseInt(quantity),
+                unit: document.getElementById('damageUnit').value,
+                reason: document.getElementById('damageReason').value,
+                operator: operator,
+                date: document.getElementById('damageDate').value,
+                createTime: new Date().toISOString()
+            };
+            
+            // 保存记录
+            damageRecords.unshift(record);
+            saveRecords();
+            
+            // 显示记录
+            displayRecords();
+            
+            // 重置表单
+            document.getElementById('damageForm').reset();
+            selectedDrug = null;
+            document.getElementById('damageDate').valueAsDate = new Date();
+            
+            showToast('报损记录保存成功！');
+        }
+
+        // 保存记录到 LocalStorage
+        function saveRecords() {
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(damageRecords));
+        }
+
+        // 从 LocalStorage 加载记录
+        function loadRecords() {
+            const saved = localStorage.getItem(STORAGE_KEY);
+            if (saved) {
+                damageRecords = JSON.parse(saved);
+                displayRecords();
+            }
+        }
+
+        // 显示记录列表
+        function displayRecords() {
+            const container = document.getElementById('recordsContainer');
+            const countEl = document.getElementById('recordCount');
+            const exportGroup = document.getElementById('exportGroup');
+            
+            countEl.textContent = `共 ${damageRecords.length} 条记录`;
+            
+            if (damageRecords.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">📝</div>
+                        <p>暂无报损记录</p>
+                    </div>
+                `;
+                exportGroup.style.display = 'none';
+                return;
+            }
+            
+            exportGroup.style.display = 'flex';
+            
+            container.innerHTML = `
+                <table class="records-table">
+                    <thead>
+                        <tr>
+                            <th>药品名称</th>
+                            <th>生产企业</th>
+                            <th>规格</th>
+                            <th>报损类型</th>
+                            <th>数量</th>
+                            <th>操作人</th>
+                            <th>日期</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${damageRecords.map(record => `
+                            <tr>
+                                <td>${record.drugName}</td>
+                                <td>${record.drugManufacturer}</td>
+                                <td>${record.drugSpec}</td>
+                                <td>${record.damageType}</td>
+                                <td>${record.quantity} ${record.unit}</td>
+                                <td>${record.operator}</td>
+                                <td>${record.date}</td>
+                                <td>
+                                    <div class="record-actions">
+                                        <button class="btn-small btn-delete" onclick="deleteRecord(${record.id})">删除</button>
+                                    </div>
+                                </td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            `;
+        }
+
+        // 删除单条记录
+        function deleteRecord(id) {
+            if (!confirm('确定要删除这条记录吗？')) return;
+            
+            damageRecords = damageRecords.filter(r => r.id !== id);
+            saveRecords();
+            displayRecords();
+            showToast('记录已删除');
+        }
+
+        // 清空所有记录
+        function clearAllRecords() {
+            if (!confirm('确定要清空所有报损记录吗？此操作不可恢复！')) return;
+            
+            damageRecords = [];
+            saveRecords();
+            displayRecords();
+            showToast('所有记录已清空');
+        }
+
+        // 导出为 Excel
+        function exportToExcel() {
+            if (damageRecords.length === 0) {
+                showToast('没有可导出的记录', 'error');
+                return;
+            }
+            
+            // 创建 CSV 内容（Excel 可以直接打开 CSV）
+            const headers = ['药品名称', '规格', '生产企业', '报损类型', '数量', '单位', '报损原因', '操作人', '报损日期'];
+            const rows = damageRecords.map(r => [
+                r.drugName,
+                r.drugSpec,
+                r.drugManufacturer,
+                r.damageType,
+                r.quantity,
+                r.unit,
+                r.reason,
+                r.operator,
+                r.date
+            ]);
+            
+            // 添加 BOM 以支持中文
+            const BOM = '\uFEFF';
+            const csvContent = BOM + [
+                headers.join(','),
+                ...rows.map(row => row.map(cell => `"${cell}"`).join(','))
+            ].join('\n');
+            
+            // 下载文件
+            const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = `药品报损记录_${new Date().toISOString().split('T')[0]}.csv`;
+            link.click();
+            
+            showToast('Excel文件已导出');
+        }
+
+        // 导出为 CSV
+        function exportToCSV() {
+            exportToExcel(); // CSV 和 Excel 使用相同的导出逻辑
+        }
+
+        // 显示提示消息
+        function showToast(message, type = 'success') {
+            const toast = document.getElementById('toast');
+            toast.textContent = message;
+            toast.className = 'toast' + (type === 'error' ? ' error' : '');
+            toast.style.display = 'block';
+            
+            setTimeout(() => {
+                toast.style.display = 'none';
+            }, 3000);
+        }
+
+        // 检查登录状态
+        if (typeof AuthManager !== 'undefined') {
+            AuthManager.checkAuth();
+        }
+    </script>
+</body>
+</html>
