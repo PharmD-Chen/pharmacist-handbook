@@ -1,0 +1,44 @@
+{
+  "id": 646,
+  "name": "羟苯磺酸钙胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)羟苯磺酸钙胶囊",
+  "chemical_name": "羟苯磺酸钙胶囊",
+  "types": [],
+  "manufacturers": [
+    "上海朝晖药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.5g/粒",
+      "manufacturer": "上海朝晖药业",
+      "full_manufacturer": "上海朝晖药业有限公司",
+      "price": 20.4,
+      "unit": "盒",
+      "code": "Y00000014620",
+      "approval_number": "国药准字H20030088",
+      "insurance_code": "XS01XAQ020E001010300665",
+      "location": "G-1",
+      "outpatient_location": "2G-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "qiangbenhuangsuangai",
+  "pinyin_initials": "qbhsg",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=390"
+  }
+}

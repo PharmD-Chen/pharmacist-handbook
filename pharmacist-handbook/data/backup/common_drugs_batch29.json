@@ -1,0 +1,156 @@
+[
+  {
+    "name": "吲哚美辛栓",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "<strong>关节炎</strong>（类风湿性关节炎、骨性关节炎、强直性脊柱炎）；<strong>痛风</strong>（急性痛风性关节炎）；<strong>滑囊炎、腱鞘炎、肩周炎</strong>；<strong>高热解热</strong>；<strong>偏头痛、痛经、手术后痛</strong>。",
+      "dosage": "直肠给药。一次50-100mg，一日1-2次。",
+      "contraindications": "<strong>对阿司匹林过敏者禁用</strong>；<strong>妊娠后3个月禁用</strong>；<strong>哺乳期禁用</strong>；<strong>活动性溃疡病禁用</strong>；<strong>癫痫、帕金森病及精神病患者禁用</strong>。",
+      "adverse_reactions": "<strong>胃肠道反应</strong>（消化不良、胃痛、恶心、溃疡、胃出血）；<strong>神经系统</strong>（头痛、头晕、焦虑、失眠、精神行为障碍）；<strong>肾损害</strong>（血尿、水肿、肾功能不全）；<strong>皮疹</strong>（大疱性多形红斑）；<strong>造血系统抑制</strong>（再障、白细胞减少、血小板减少）；<strong>过敏反应</strong>（哮喘、血管性水肿、休克）。",
+      "interactions": "与阿司匹林有交叉过敏；与其他NSAIDs合用增加不良反应。",
+      "pregnancy_category": "B级；D级-妊娠34周后",
+      "pharmacokinetics": "非甾体抗炎药，抑制环氧酶减少前列腺素合成。口服吸收迅速，直肠给药更易吸收，99%与血浆蛋白结合，半衰期4.5小时，60%经肾排泄。",
+      "precautions": "<strong>不良反应较布洛芬、萘普生、双氯芬酸钠多</strong>；老年人慎用；2025版医保甲类（栓剂）。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "葆宫止血",
+    "dosage_form": "颗粒",
+    "manual": {
+      "indications": "<strong>功能性子宫出血</strong>；<strong>上环后子宫出血</strong>。症见月经量多或经期延长，经色深红、质稠，腰膝酸软。",
+      "dosage": "开水冲服。一次1袋（15g），一日2次。月经来后开始服药，14天为一疗程，连续服2个月经周期。",
+      "contraindications": "对本品过敏者禁用。",
+      "adverse_reactions": "尚不明确。",
+      "interactions": "如与其他药物同时使用可能发生药物相互作用。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "固经止血，滋阴清热。用于冲任不固、阴虚血热所致月经过多、经期延长。",
+      "precautions": "2025版医保甲类；基药（15g）。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "呋麻",
+    "dosage_form": "滴鼻液",
+    "manual": {
+      "indications": "<strong>急、慢性鼻炎的鼻塞症状</strong>。",
+      "dosage": "滴鼻。一次1-3滴，一日3-4次。",
+      "contraindications": "<strong>鼻腔干燥、萎缩性鼻炎患者禁用</strong>；对本品过敏者禁用。",
+      "adverse_reactions": "长期使用可产生<strong>反跳现象</strong>，出现更严重的鼻塞；可造成鼻黏膜损伤。",
+      "interactions": "与其他药物相互作用尚不明确。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "复方制剂，每10ml含呋喃西林2mg，盐酸麻黄碱100mg。",
+      "precautions": "<strong>小儿、孕妇慎用</strong>；<strong>冠心病、高血压、甲亢、糖尿病、闭角型青光眼患者慎用</strong>；<strong>运动员慎用</strong>；频繁使用可产生反跳现象；长期使用可造成鼻黏膜损伤；2025版医保乙类，限滴鼻剂。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "硫酸特布他林雾化吸入用溶液",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "<strong>支气管哮喘</strong>；<strong>伴有支气管痉挛的肺部疾病</strong>；<strong>中期早产</strong>；<strong>胎儿宫内窘迫</strong>。",
+      "dosage": "雾化吸入。一次0.25-0.5mg，一日3-4次。静脉滴注：一次0.25mg稀释于0.9%氯化钠注射液100ml中。",
+      "contraindications": "对本品及其他肾上腺素受体激动药过敏者禁用。",
+      "adverse_reactions": "<strong>震颤、头痛、恶心、心动过速、心悸</strong>；胃肠道障碍、皮疹、荨麻疹；<strong>低钾血症</strong>；睡眠失调、行为失调（易激动、多动）。",
+      "interactions": "<strong>与其他肾上腺素受体激动剂合用疗效增加但不良反应加重</strong>；<strong>与茶碱类合用增加松弛支气管作用但心悸加重</strong>；<strong>非选择性β受体拮抗药（普萘洛尔等）可抑制本品作用</strong>；单胺氧化酶抑制药、三环类抗抑郁药可增加不良反应。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "选择性β2受体激动剂，舒张支气管平滑肌和子宫平滑肌。吸入5-30分钟起效，作用持续3-6小时。",
+      "precautions": "<strong>孕妇应用静脉制剂可引起室性心动过速</strong>；<strong>分娩时应用可能引起母体低血钾、低血糖、肺水肿及胎儿低血糖</strong>；<strong>甲亢、冠心病、高血压、糖尿病者慎用</strong>；长期应用可形成耐药；2025版医保甲类。",
+      "solvent": "雾化吸入用溶液，无需稀释；静脉滴注用0.9%氯化钠注射液100ml稀释",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "华蟾素",
+    "dosage_form": "胶囊",
+    "manual": {
+      "indications": "<strong>中、晚期肿瘤</strong>；<strong>慢性乙型肝炎</strong>。",
+      "dosage": "口服。一次2粒，一日3-4次。",
+      "contraindications": "对本品过敏者禁用。",
+      "adverse_reactions": "口服初期偶有<strong>腹痛、腹泻</strong>等胃肠道刺激反应，继续使用症状会减轻或消失。",
+      "interactions": "<strong>避免与剧烈兴奋心脏药物配伍</strong>。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "解毒，消肿，止痛。成份：干蟾皮。",
+      "precautions": "过敏体质者慎用；不可过量、久服；2025版医保甲类；基药（0.25g、0.3g）。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "复方对乙酰氨基酚",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>普通感冒或流感引起的发热</strong>；<strong>轻至中度疼痛</strong>（头痛、关节痛、偏头痛、牙痛、肌肉痛、神经痛、痛经）。",
+      "dosage": "口服。6岁以上儿童一次0.5-1片；成人一次1-2片，一日3次。",
+      "contraindications": "对本品过敏者禁用；<strong>溶血性贫血史者禁用</strong>；<strong>严重肝肾功能不全者禁用</strong>。",
+      "adverse_reactions": "偶见<strong>白血球缺乏症、正铁血红蛋白血症、血小板减少症</strong>；厌食、恶心、呕吐、皮疹等过敏反应。",
+      "interactions": "<strong>不宜与抗凝药（双香豆素、肝素）同用</strong>；<strong>与皮质激素类同用增加胃肠道不良反应</strong>；<strong>不宜与氯霉素、巴比妥类、颠茄类药物同服</strong>；对乙酰氨基酚与氟氯西林合用可能增加焦谷氨酸酸中毒风险。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "每片含对乙酰氨基酚250mg，异丙安替比林150mg，无水咖啡因50mg。",
+      "precautions": "<strong>解热连续使用不超过3天，止痛不超过5天</strong>；<strong>服用期间不得饮酒</strong>；<strong>不能同时服用其他含解热镇痛药的药品</strong>；痛风、心功能不全、鼻出血、月经过多及溶血性贫血史者慎用；肝肾功能不全者慎用；2025版医保乙类。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "紫杉醇",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>卵巢癌</strong>（一线化疗及转移性癌）；<strong>乳腺癌</strong>；<strong>肺癌</strong>；<strong>食管癌</strong>；<strong>软组织肉瘤</strong>。",
+      "dosage": "静脉滴注。135-175mg/m²，每3周1次。使用前需预处理防过敏。",
+      "contraindications": "<strong>对聚氧乙烯蓖麻油过敏者禁用</strong>；<strong>白细胞低于1.5×10⁹/L者禁用</strong>；<strong>孕妇和哺乳期禁用</strong>。",
+      "adverse_reactions": "<strong>骨髓抑制</strong>（中性粒细胞减少，最低值第11天）；<strong>过敏反应</strong>（呼吸困难、低血压、胸痛，发生率约2%）；<strong>周围神经毒性</strong>（四肢麻木62%，肌无力）；<strong>脱发</strong>（几乎100%）；关节肌肉酸痛（55%）；心电图异常（30%）。",
+      "interactions": "<strong>先给予顺铂后再给予紫杉醇可产生更严重骨髓抑制</strong>（清除率降低约1/3）；<strong>酮康唑可能抑制紫杉醇代谢</strong>；<strong>慎与CYP2C8和CYP3A4底物或抑制药同用</strong>；与其他细胞毒药物联合应酌情减量。",
+      "pregnancy_category": "D级",
+      "pharmacokinetics": "抗微管药物，促进微管装配并抑制去多聚化，使细胞分裂受阻。静脉滴注后半衰期5.3-17.4小时，89-98%与血浆蛋白结合，仅13%以原形从尿排出。",
+      "precautions": "<strong>黑框警告：应在专业使用细胞毒化疗药物的医疗机构进行</strong>；<strong>治疗前应先给予预处理防严重过敏反应</strong>；育龄妇女和心脏传导功能异常者慎用；用药期间定期检查血常规、肝肾功能和心电图；2025版医保甲类（普通注射剂），乙类（脂质体注射剂，协议期谈判药品）。",
+      "solvent": "稀释于0.9%氯化钠注射液或5%葡萄糖注射液500ml中",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "活血风湿膏",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "<strong>骨关节炎颈、膝关节疼痛</strong>。",
+      "dosage": "外用。贴于患处。",
+      "contraindications": "对本品过敏者禁用。",
+      "adverse_reactions": "用药后皮肤过敏如出现<strong>瘙痒、皮疹</strong>等现象时应停止使用。",
+      "interactions": "与其他药物相互作用尚不明确。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "祛风胜湿，活血止痛。",
+      "precautions": "<strong>外用药，忌生冷、油腻食物</strong>；<strong>心脏病患者慎用</strong>；<strong>若出现恶心、呕吐、腹痛、腹泻、头昏眼花、口舌四肢发麻、畏寒、瞳孔散大、呼吸困难、手足抽搐、躁动、大小便失禁应立即停用就医</strong>；<strong>儿童、经期及哺乳期妇女、年老体弱者应在医师指导下使用</strong>；不宜长期或大面积使用；用药3天症状无缓解应就医；过敏体质者慎用。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲注射用伊尼妥单抗",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>HER2阳性转移性乳腺癌</strong>。与长春瑞滨联合治疗接受过1个或多个化疗方案的转移性乳腺癌患者。",
+      "dosage": "静脉滴注。负荷剂量4mg/kg，维持剂量2mg/kg，每周1次。",
+      "contraindications": "<strong>对本品任一组分或中国仓鼠卵巢细胞表达蛋白过敏者禁用</strong>。",
+      "adverse_reactions": "<strong>中性粒细胞减少、白细胞减少、贫血、发热、寒战、恶心、呕吐、转氨酶升高</strong>；发生率>2%的3级及以上不良反应包括中性粒细胞减少、白细胞减少、贫血、血小板减少。",
+      "interactions": "与其他药物相互作用尚不明确。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "重组人源化单克隆抗体，作用于HER2细胞外部位，可介导抗体依赖的细胞介导的细胞毒反应（ADCC）。消除半衰期约181小时。",
+      "precautions": "<strong>黑框警告：心脏毒性、输注相关反应和肺部反应、胚胎毒性</strong>；<strong>治疗前及治疗过程中需评估左心室功能</strong>；<strong>发生呼吸困难或临床显著低血压应立即停止输注</strong>；<strong>育龄妇女需采取有效避孕措施</strong>；2-8℃避光干燥保存；2025版医保乙类，协议期谈判药品（2025.1.1-2026.12.31）。",
+      "solvent": "灭菌注射用水溶解后稀释于0.9%氯化钠注射液250ml中",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲司美格鲁肽",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>2型糖尿病</strong>（二甲双胍和/或磺脲类药物治疗血糖仍控制不佳）；<strong>降低伴有心血管疾病的2型糖尿病患者主要心血管不良事件风险</strong>；<strong>成人长期体重管理</strong>（BMI≥30kg/m²或BMI≥27kg/m²且存在体重相关合并症）。",
+      "dosage": "皮下注射。起始剂量0.25mg，每周1次，每4周增加剂量，最大剂量1mg，每周1次。",
+      "contraindications": "<strong>甲状腺髓样癌（MTC）个人或家族史者禁用</strong>；<strong>2型多发性内分泌肿瘤综合征（MEN-2）患者禁用</strong>；<strong>对本品过敏者禁用</strong>。",
+      "adverse_reactions": "<strong>恶心、腹痛、腹泻、食欲下降、呕吐、便秘</strong>（发生率≥5%）。",
+      "interactions": "与其他药物相互作用尚不明确。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "GLP-1受体激动剂，刺激胰岛素分泌和降低胰高血糖素分泌，延迟胃排空。皮下给药后1-3天达峰，半衰期约1周，99%与血浆白蛋白结合。",
+      "precautions": "<strong>黑框警告：啮齿类动物中会引起甲状腺C细胞肿瘤，人类相关性尚不明确</strong>；<strong>有急性肾损害和慢性肾衰竭加重的上市后报告</strong>；<strong>首次使用前2-8℃储存，首次使用后30℃以下或2-8℃储存，切勿冷冻</strong>；首次使用后最多保存6周；2025版医保乙类，协议期谈判药品（2026.1.1-2027.12.31）。",
+      "solvent": "皮下注射，腹部、大腿或上臂轮换注射部位",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": 473,
+  "name": "硫酸镁",
+  "dosage_form": "其他",
+  "full_name": "(甲)硫酸镁",
+  "chemical_name": "硫酸镁",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "河北武罗药业"
+  ],
+  "specifications": [
+    {
+      "specification": "10g/袋",
+      "manufacturer": "河北武罗药业",
+      "full_manufacturer": "河北武罗药业有限公司",
+      "price": 69.07,
+      "unit": "盒",
+      "code": "Y00000014957",
+      "approval_number": "国药准字H13022977",
+      "insurance_code": "XA06ADL146P001010102670",
+      "location": "J-5",
+      "outpatient_location": "L-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "liusuanmei",
+  "pinyin_initials": "lsm",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt"
+}

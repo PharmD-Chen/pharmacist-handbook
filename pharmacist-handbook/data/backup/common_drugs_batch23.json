@@ -1,0 +1,18 @@
+[
+  {
+    "name": "注射用头孢西丁钠/氯化钠",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>下呼吸道感染</strong>（肺炎链球菌、金葡菌、大肠埃希菌等）；<strong>尿路感染</strong>；<strong>腹膜炎和腹腔内感染</strong>；<strong>妇科感染</strong>（子宫内膜炎、盆腔炎）；<strong>骨、关节感染</strong>；<strong>皮肤软组织感染</strong>；<strong>围手术期预防用药</strong>（胃肠道手术、子宫切除术、剖宫产）。",
+      "dosage": "静脉滴注。成人1-2g，每6-8小时1次；严重感染可增至2g，每4小时1次。围手术期预防：术前30-60分钟1-2g。",
+      "contraindications": "对头孢西丁或其他头孢菌素过敏者禁用；<strong>对青霉素有交叉过敏</strong>。",
+      "adverse_reactions": "<strong>局部反应</strong>（血栓性静脉炎、肌注疼痛）；<strong>过敏反应</strong>（皮疹、瘙痒、呼吸困难）；<strong>消化道反应</strong>（腹泻、恶心、呕吐）；<strong>血液系统</strong>（血细胞减少、Coombs试验阳性）；<strong>肝肾功能异常</strong>。",
+      "interactions": "与<strong>氨基糖苷类</strong>合用增加肾毒性；与<strong>强效利尿剂</strong>合用增加肾毒性；<strong>与丙磺舒合用延缓排泄</strong>。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "第二代头孢菌素，对β内酰胺酶高度稳定。蛋白结合率70%，半衰期41-65分钟，主要经肾排泄（85%原形）。不能透过血脑屏障（脑膜炎时脑脊液浓度为血浓度10%）。",
+      "precautions": "<strong>青霉素过敏者慎用</strong>；<strong>监测肾功能</strong>；长期使用可能导致耐药菌过度生长；<strong>围手术期预防用药需术前30-60分钟给药</strong>；2025版医保乙类，限注射剂。",
+      "solvent": "已含氯化钠注射液，直接静脉滴注",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

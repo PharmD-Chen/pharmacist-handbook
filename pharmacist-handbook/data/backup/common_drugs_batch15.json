@@ -1,0 +1,182 @@
+[
+  {
+    "name": "氯雷他定",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>过敏性鼻炎</strong>、<strong>慢性荨麻疹</strong>、瘙痒性皮肤病。",
+      "dosage": "口服。成人10mg，每日1次。2-12岁儿童体重>30kg：10mg，每日1次；体重≤30kg：5mg，每日1次。",
+      "contraindications": "对氯雷他定过敏者禁用。",
+      "adverse_reactions": "头痛、嗜睡、口干、恶心；<strong>罕见心悸、肝功能异常</strong>。",
+      "interactions": "与<strong>酮康唑、大环内酯类抗生素</strong>合用可能增加血药浓度；与<strong>葡萄柚汁</strong>合用可能增加血药浓度。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服吸收良好，1-1.5小时达峰。半衰期8-15小时，主要经肝代谢。",
+      "precautions": "<strong>2岁以下儿童慎用</strong>；严重肝功能不全者减量（隔日10mg）。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "西替利嗪",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>过敏性鼻炎</strong>、<strong>慢性荨麻疹</strong>、皮肤瘙痒。",
+      "dosage": "口服。成人10mg，每日1次。6-12岁儿童：5-10mg，每日1次。",
+      "contraindications": "对西替利嗪过敏者禁用；<strong>严重肾功能不全禁用</strong>（肌酐清除率<10ml/min）。",
+      "adverse_reactions": "嗜睡、口干、头痛、头晕；<strong>罕见心动过速、肝功能异常</strong>。",
+      "interactions": "与<strong>中枢抑制剂</strong>合用增强镇静作用；与<strong>茶碱</strong>合用可能降低茶碱清除率。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服吸收迅速，1小时达峰。半衰期8-11小时，主要经肾排泄。",
+      "precautions": "<strong>肾功能不全者减量</strong>（肌酐清除率30-49ml/min：5mg/日）；<strong>服药期间避免驾驶</strong>。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "地氯雷他定",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>慢性特发性荨麻疹</strong>、<strong>常年性过敏性鼻炎</strong>。",
+      "dosage": "口服。成人5mg，每日1次。",
+      "contraindications": "对地氯雷他定过敏者禁用。",
+      "adverse_reactions": "头痛、口干、乏力；<strong>罕见过敏反应</strong>。",
+      "interactions": "与<strong>酮康唑、红霉素</strong>合用可能增加血药浓度；与<strong>葡萄柚汁</strong>合用可能增加血药浓度。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "口服吸收良好，3小时达峰。半衰期27小时，主要经肝代谢。",
+      "precautions": "严重肝功能不全者慎用；<strong>12岁以下儿童安全性未确立</strong>。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "孟鲁司特",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>哮喘预防和长期治疗</strong>、<strong>过敏性鼻炎</strong>。",
+      "dosage": "口服。成人10mg，每日1次，睡前服用。6-14岁儿童：5mg，每日1次。",
+      "contraindications": "对孟鲁司特过敏者禁用。",
+      "adverse_reactions": "头痛、腹痛、口渴、腹泻；<strong>罕见神经精神症状</strong>（焦虑、抑郁、自杀倾向、幻觉）。",
+      "interactions": "与<strong>苯巴比妥、利福平</strong>合用可能降低孟鲁司特血药浓度。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服吸收迅速，3-4小时达峰。半衰期2.7-5.5小时，主要经肝代谢。",
+      "precautions": "<strong>不能用于急性哮喘发作</strong>；<strong>出现神经精神症状立即停药</strong>；肝功能不全者慎用。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "异丙托溴铵",
+    "dosage_form": "吸入溶液",
+    "manual": {
+      "indications": "<strong>慢性阻塞性肺疾病（COPD）</strong>、<strong>支气管哮喘</strong>。",
+      "dosage": "吸入。成人250-500μg，每日3-4次。",
+      "contraindications": "对阿托品类药物过敏者禁用；<strong>对大豆卵磷脂过敏者禁用</strong>（气雾剂）。",
+      "adverse_reactions": "口干、口苦、咳嗽、头痛；<strong>罕见尿潴留、青光眼急性发作</strong>。",
+      "interactions": "与<strong>β受体激动剂</strong>合用有协同作用；与<strong>其他抗胆碱药</strong>合用可能增加不良反应。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "吸入后全身吸收少，主要作用于局部。半衰期2小时。",
+      "precautions": "<strong>青光眼、前列腺增生患者慎用</strong>；<strong>不能用于急性支气管痉挛</strong>；使用后漱口。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "噻托溴铵",
+    "dosage_form": "粉吸入剂",
+    "manual": {
+      "indications": "<strong>慢性阻塞性肺疾病（COPD）维持治疗</strong>。",
+      "dosage": "吸入。18μg，每日1次。",
+      "contraindications": "对噻托溴铵或阿托品类药物过敏者禁用；<strong>对乳糖过敏者禁用</strong>。",
+      "adverse_reactions": "口干、便秘、尿潴留；<strong>罕见青光眼、心动过速、过敏反应</strong>。",
+      "interactions": "与<strong>其他抗胆碱药</strong>合用可能增加不良反应。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "吸入后全身吸收少，5-7分钟起效，24小时达稳态。半衰期5-6天。",
+      "precautions": "<strong>青光眼、前列腺增生、心律失常患者慎用</strong>；<strong>不能用于急性支气管痉挛</strong>；仅用于HandiHaler吸入装置。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "布地奈德",
+    "dosage_form": "吸入粉雾剂",
+    "manual": {
+      "indications": "<strong>哮喘长期控制</strong>、<strong>COPD</strong>。",
+      "dosage": "吸入。成人200-400μg，每日2次。维持剂量：200μg，每日2次。",
+      "contraindications": "对布地奈德过敏者禁用。",
+      "adverse_reactions": "声音嘶哑、口腔念珠菌感染、咳嗽；<strong>罕见肾上腺抑制、骨质疏松、青光眼</strong>。",
+      "interactions": "与<strong>酮康唑、利托那韦</strong>合用可能增加布地奈德血药浓度；与<strong>强效CYP3A4抑制剂</strong>合用需谨慎。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "吸入后约30%沉积于肺部，全身吸收少。半衰期2-3小时。",
+      "precautions": "<strong>不能用于急性哮喘发作</strong>；<strong>使用后漱口</strong>；长期高剂量监测骨密度和眼压；活动性肺结核患者慎用。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "氟替卡松",
+    "dosage_form": "吸入气雾剂",
+    "manual": {
+      "indications": "<strong>哮喘长期控制</strong>、<strong>过敏性鼻炎</strong>。",
+      "dosage": "吸入。成人100-500μg，每日2次。",
+      "contraindications": "对氟替卡松过敏者禁用。",
+      "adverse_reactions": "口腔念珠菌感染、声音嘶哑、头痛；<strong>罕见肾上腺抑制、骨质疏松、青光眼、白内障</strong>。",
+      "interactions": "与<strong>强效CYP3A4抑制剂</strong>（酮康唑、利托那韦）合用可能增加血药浓度。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "吸入后约30%沉积于肺部，全身吸收少。半衰期7-8小时。",
+      "precautions": "<strong>不能用于急性哮喘发作</strong>；<strong>使用后漱口</strong>；长期高剂量监测骨密度和眼压。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "沙丁胺醇",
+    "dosage_form": "吸入气雾剂",
+    "manual": {
+      "indications": "<strong>支气管哮喘急性发作</strong>、<strong>预防运动诱发哮喘</strong>、COPD。",
+      "dosage": "吸入。每次100-200μg，必要时每4-6小时1次；<strong>预防运动诱发哮喘</strong>：运动前15分钟吸入。",
+      "contraindications": "对沙丁胺醇过敏者禁用。",
+      "adverse_reactions": "震颤、心悸、头痛、低钾血症；<strong>罕见心律失常、支气管痉挛</strong>。",
+      "interactions": "与<strong>β受体阻滞剂</strong>合用拮抗作用；与<strong>地高辛</strong>合用增加地高辛毒性（低钾）；与<strong>利尿剂</strong>合用增加低钾风险。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "吸入后5-15分钟起效，1-1.5小时达峰，持续4-6小时。半衰期4-6小时。",
+      "precautions": "<strong>24小时内不超过8次</strong>；<strong>过度使用可能致心律失常、死亡</strong>；糖尿病患者监测血糖；甲亢、心血管疾病患者慎用。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "特布他林",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>支气管哮喘</strong>、<strong>慢性支气管炎</strong>、肺气肿。",
+      "dosage": "口服。成人2.5-5mg，每日3次。",
+      "contraindications": "对特布他林过敏者禁用。",
+      "adverse_reactions": "震颤、心悸、头痛、低钾血症；<strong>罕见心律失常</strong>。",
+      "interactions": "与<strong>β受体阻滞剂</strong>合用拮抗作用；与<strong>地高辛</strong>合用增加地高辛毒性（低钾）。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服吸收约30-50%，1-4小时达峰。半衰期3-4小时。",
+      "precautions": "糖尿病患者监测血糖；<strong>甲亢、心血管疾病患者慎用</strong>。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "氨溴索",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>痰液粘稠、咳痰困难</strong>。",
+      "dosage": "口服。成人30-60mg，每日3次。",
+      "contraindications": "对氨溴索过敏者禁用；<strong>妊娠早期禁用</strong>。",
+      "adverse_reactions": "恶心、胃部不适、腹泻、皮疹；<strong>罕见过敏反应</strong>。",
+      "interactions": "与<strong>抗生素</strong>（阿莫西林、头孢呋辛、红霉素、多西环素）合用可能增加抗生素在肺组织浓度。",
+      "pregnancy_category": "B级（中晚期）",
+      "pharmacokinetics": "口服吸收约70%，0.5-3小时达峰。半衰期7-12小时，主要经肝代谢。",
+      "precautions": "<strong>妊娠早期禁用</strong>；胃溃疡患者慎用；避免与中枢镇咳药合用（可能稀痰阻塞气道）。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "乙酰半胱氨酸",
+    "dosage_form": "泡腾片",
+    "manual": {
+      "indications": "<strong>浓稠粘液分泌物过多的呼吸道疾病</strong>。",
+      "dosage": "口服。成人600mg，每日1-2次。",
+      "contraindications": "对乙酰半胱氨酸过敏者禁用；<strong>哮喘患者禁用</strong>（可能诱发支气管痉挛）。",
+      "adverse_reactions": "恶心、呕吐、口腔炎、皮疹；<strong>罕见支气管痉挛</strong>。",
+      "interactions": "与<strong>硝酸甘油</strong>合用可能增强硝酸甘油作用（低血压、头痛）；与<strong>活性炭</strong>合用降低效果。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服吸收约6-10%，0.5-1小时达峰。半衰期2小时。",
+      "precautions": "<strong>哮喘患者禁用</strong>；胃溃疡患者慎用；<strong>泡腾片需溶于温水</strong>；不宜与金属、橡胶接触。",
+      "source": "手动录入"
+    }
+  }
+]

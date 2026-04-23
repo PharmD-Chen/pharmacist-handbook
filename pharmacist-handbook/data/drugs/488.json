@@ -1,0 +1,55 @@
+{
+  "id": 488,
+  "name": "脉络宁口服液",
+  "dosage_form": "其他",
+  "full_name": "(甲)脉络宁口服液",
+  "chemical_name": "脉络宁口服液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "金陵药业股份有限公司南京金陵制药厂"
+  ],
+  "specifications": [
+    {
+      "specification": "10ml/支",
+      "manufacturer": "金陵药业股份有限公司南京金陵制药厂",
+      "full_manufacturer": "金陵药业股份有限公司南京金陵制药厂",
+      "price": 55.0,
+      "unit": "盒",
+      "code": "C00035",
+      "approval_number": "国药准字Z20000014",
+      "insurance_code": "ZA12EAM0052010201529",
+      "location": "3",
+      "outpatient_location": "P-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "清热养阴，活血化瘀。用于血栓闭塞性脉管炎、静脉血栓形成、动脉硬化性闭塞症、脑血栓形成及后遗症等。",
+    "dosage": "口服：一次20ml(1支)，一日3次。",
+    "contraindications": "对本品过敏者禁用；孕妇忌用。",
+    "adverse_reactions": "少数患者服药后出现恶心、上腹饱满、便溏等胃肠道反应。",
+    "interactions": "如与其他药物同时使用可能会发生",
+    "pregnancy_category": null,
+    "pharmacokinetics": "牛膝、玄参、石斛、金银花。",
+    "precautions": "1.脑出血慎用。 2.出血性疾病或有出血倾向的患者慎用。 3.本品在药师或医生指导下服用。 4.本品为非溶栓类药物，但具有一定活血祛瘀作用，下肢深静脉血栓形成急性期七天内是否用，由医生根据病情决定。",
+    "source": "湖南药事服务网",
+    "full_indications": "清热养阴，活血化瘀。用于血栓闭塞性脉管炎、静脉血栓形成、动脉硬化性闭塞症、脑血栓形成及后遗症等。",
+    "full_dosage": "口服：一次20ml(1支)，一日3次。",
+    "full_contraindications": "对本品过敏者禁用；孕妇忌用。",
+    "full_adverse_reactions": "少数患者服药后出现恶心、上腹饱满、便溏等胃肠道反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生",
+    "full_pharmacokinetics": "牛膝、玄参、石斛、金银花。",
+    "full_precautions": "1.脑出血慎用。 2.出血性疾病或有出血倾向的患者慎用。 3.本品应在药师或医生指导下服用。 4.本品为非溶栓类药物，但具有一定活血祛瘀作用，下肢深静脉血栓形成急性期七天内是否应用，建议由医生根据病情决定。",
+    "composition": "牛膝、玄参、石斛、金银花。"
+  },
+  "pinyin": "mailuoningkoufuye",
+  "pinyin_initials": "mlnkfy",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5198",
+    "last_updated": "2026-03-21"
+  }
+}

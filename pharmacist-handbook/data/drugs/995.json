@@ -1,0 +1,52 @@
+{
+  "id": 995,
+  "name": "艾地苯醌片",
+  "dosage_form": "片",
+  "full_name": "(自)艾地苯醌片",
+  "chemical_name": "艾地苯醌片",
+  "types": [],
+  "manufacturers": [
+    "齐鲁制药"
+  ],
+  "specifications": [
+    {
+      "specification": "30mg/片",
+      "manufacturer": "齐鲁制药",
+      "full_manufacturer": "齐鲁制药有限公司",
+      "price": 82.87,
+      "unit": "盒",
+      "code": "X00252",
+      "approval_number": "国药准字H10970137",
+      "insurance_code": "XN06BXA083A001010204146",
+      "location": "L-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "⑴用于脑梗死、脑出血后遗症及脑动脉硬化在等伴随的情绪低落、语言障碍及智能减退等症。 ⑵用于治疗与Leber氏遗传性视神经病变有关的视觉障碍（罕见病：LHON）。（欧盟说明书已批准） ⑶用于治疗线粒体脑肌病（罕见病）。",
+    "dosage": "口服，一次30mg，一日3次，餐后服用。或每日90mg，一日2次。",
+    "contraindications": "症 对本品过敏者禁用。",
+    "adverse_reactions": "不良反应发生率3％左右，主要有过敏性皮疹、胃肠不适、兴奋、颤抖、失眠等。偶见红细胞、白细胞减少，肝功能异常，血BUN升高，血总胆固醇和甘油三酯升高。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": "t1/2约8小时。",
+    "precautions": "⑴妊娠及哺乳期妇女慎用。 ⑵长期服用需监测肝功能。",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴用于脑梗死、脑出血后遗症及脑动脉硬化在等伴随的情绪低落、语言障碍及智能减退等症。 ⑵用于治疗与Leber氏遗传性视神经病变有关的视觉障碍（罕见病：LHON）。（欧盟说明书已批准） ⑶用于治疗线粒体脑肌病（罕见病）。",
+    "full_dosage": "口服，一次30mg，一日3次，餐后服用。或每日90mg，一日2次。",
+    "full_contraindications": "症 对本品过敏者禁用。",
+    "full_adverse_reactions": "不良反应发生率3％左右，主要有过敏性皮疹、胃肠不适、兴奋、颤抖、失眠等。偶见红细胞、白细胞减少，肝功能异常，血BUN升高，血总胆固醇和甘油三酯升高。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "半衰期约为8小时",
+    "full_precautions": "⑴妊娠及哺乳期妇女慎用。 ⑵长期服用需监测肝功能。"
+  },
+  "pinyin": "aidibenkun",
+  "pinyin_initials": "adbk",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=986",
+    "last_updated": "2026-03-21"
+  }
+}

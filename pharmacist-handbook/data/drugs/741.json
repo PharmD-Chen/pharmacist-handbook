@@ -1,0 +1,51 @@
+{
+  "id": 741,
+  "name": "特立帕肽注射液",
+  "dosage_form": "注射液",
+  "full_name": "(自)特立帕肽注射液",
+  "chemical_name": "特立帕肽注射液",
+  "types": [],
+  "manufacturers": [
+    "信立泰药业"
+  ],
+  "specifications": [
+    {
+      "specification": "2.4ml/支",
+      "manufacturer": "信立泰药业",
+      "full_manufacturer": "信立泰（苏州）药业有限公司",
+      "price": 960.0,
+      "unit": "盒",
+      "code": "X00749",
+      "approval_number": "国药准字S20220015",
+      "insurance_code": "XH05AAT154B002010181162"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "⑴除可替代甲状旁腺激素用于鉴别甲状旁腺功能减退(简称甲减)和假性甲状旁腺功能减退，也可用于治疗甲状旁腺功能减退。 ⑵用于有骨折高发风险的绝经后妇女骨质疏松症的治疗。 ⑶用于男性骨质疏松【美国FDA已批准】。",
+    "dosage": "皮下注射：推荐剂量为一次200IU(20μg)，一日1次，皮下注射于腹壁或大腿。3岁以上儿童可给予3U/kg，但每次用量不超过200U。 用于男性骨质疏松。20μg qd 皮下注射。",
+    "contraindications": "症 禁用于已患骨肿瘤或可疑患骨肿瘤者。",
+    "adverse_reactions": "最常报告的不良反应有胃肠道功能紊乱、恶心、口腔金属味、肢体疼痛、四肢麻木、头痛和眩晕；静脉输注部位疼痛；过敏症；高钙血症等。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴用后出现血磷降低，血钙升高，血中1,25-(OH)2-D3生成增多，即可初步诊断为状旁腺功能减退。 ⑵本品总共治疗的最长时间为24个月。病人终身仅可接受一次为期24个月的治疗。 给药说明 用所附1瓶10ml溶媒溶解冻干粉针，然后再加入0.9％氯化钠注射液，使成为50ml供输注。",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴除可替代甲状旁腺激素用于鉴别甲状旁腺功能减退(简称甲减)和假性甲状旁腺功能减退，也可用于治疗甲状旁腺功能减退。 ⑵用于有骨折高发风险的绝经后妇女骨质疏松症的治疗。 ⑶用于男性骨质疏松【美国FDA已批准】。",
+    "full_dosage": "皮下注射：推荐剂量为一次200IU(20μg)，一日1次，皮下注射于腹壁或大腿。3岁以上儿童可给予3U/kg，但每次用量不超过200U。 用于男性骨质疏松。20μg qd 皮下注射。",
+    "full_contraindications": "症 禁用于已患骨肿瘤或可疑患骨肿瘤者。",
+    "full_adverse_reactions": "最常报告的不良反应有胃肠道功能紊乱、恶心、口腔金属味、肢体疼痛、四肢麻木、头痛和眩晕；静脉输注部位疼痛；过敏症；高钙血症等。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴用后出现血磷降低，血钙升高，血中1,25-(OH)2-D3生成增多，即可初步诊断为状旁腺功能减退。 ⑵本品总共治疗的最长时间为24个月。病人终身仅可接受一次为期24个月的治疗。 给药说明 用所附1瓶10ml溶媒溶解冻干粉针，然后再加入0.9％氯化钠注射液，使成为50ml供输注。"
+  },
+  "pinyin": "telipatai",
+  "pinyin_initials": "tlpt",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1465",
+    "last_updated": "2026-03-21"
+  }
+}

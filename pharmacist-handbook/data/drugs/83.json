@@ -1,0 +1,50 @@
+{
+  "id": 83,
+  "name": "替瑞奇珠单抗注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)替瑞奇珠单抗注射液",
+  "chemical_name": "替瑞奇珠单抗注射液",
+  "types": [],
+  "manufacturers": [
+    "Sun Pharmaceutical Industries Limited"
+  ],
+  "specifications": [
+    {
+      "specification": "100mg/支",
+      "manufacturer": "Sun Pharmaceutical Industries Limited",
+      "full_manufacturer": "Sun Pharmaceutical Industries Limited",
+      "price": 4360.0,
+      "unit": "盒",
+      "code": "X00922",
+      "approval_number": "国药准字SJ20230006",
+      "insurance_code": " "
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于适合接受系统治疗或光疗的中度至重度斑块状银屑病（俗称牛皮癣）成人患者。",
+    "dosage": "皮下注射：推荐剂量为一次100mg，在第0、4周各1次，以后每12周1次。",
+    "contraindications": "对本品成分或其任何赋形剂的严重超敏反应者禁用。",
+    "adverse_reactions": "最常见（≥1%）不良反应治疗包括上呼吸道感染、注射部位反应和腹泻。",
+    "interactions": "避免在接受治疗的患者中使用活疫苗。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "Tildrakizumab是一种人源化的IgG1/k单克隆抗体，是一种白介素23拮抗剂，可选择性、高亲和力结合白细胞介素23（IL-23）的p19亚基，抑制其与IL-23受体的相互作用，从而抑制促炎细胞因子和趋化因子的释放，用于银屑病的治疗。",
+    "precautions": "本品可能会增加感染的风险，如果患者发生严重的慢性或急性感染考虑停止本品治疗，直到感染解决。如果使用的患者有结核病或结核病史，进行结核病的评估以决定是否使用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗适合接受系统治疗或光疗的中度至重度斑块状银屑病（俗称牛皮癣）成人患者。",
+    "full_dosage": "皮下注射：推荐剂量为一次100mg，在第0、4周各1次，以后每12周1次。",
+    "full_contraindications": "对本品成分或其任何赋形剂的严重超敏反应者禁用。",
+    "full_adverse_reactions": "最常见（≥1%）不良反应治疗包括上呼吸道感染、注射部位反应和腹泻。",
+    "full_interactions": "避免在接受治疗的患者中使用活疫苗。",
+    "full_pharmacokinetics": "Tildrakizumab是一种人源化的IgG1/k单克隆抗体，是一种白介素23拮抗剂，可选择性、高亲和力结合白细胞介素23（IL-23）的p19亚基，抑制其与IL-23受体的相互作用，从而抑制促炎细胞因子和趋化因子的释放，用于银屑病的治疗。",
+    "full_precautions": "本品可能会增加感染的风险，如果患者发生严重的慢性或急性感染考虑停止本品治疗，直到感染解决。如果使用的患者有结核病或结核病史，应进行结核病的评估以决定是否使用。"
+  },
+  "pinyin": "※▲tiruiqizhudankang",
+  "pinyin_initials": "※▲trqzdk",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13354",
+    "last_updated": "2026-03-22"
+  }
+}

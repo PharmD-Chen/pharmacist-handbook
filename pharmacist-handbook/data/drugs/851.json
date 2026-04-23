@@ -1,0 +1,55 @@
+{
+  "id": 851,
+  "name": "阿魏酸哌嗪片",
+  "dosage_form": "片",
+  "full_name": "(甲)阿魏酸哌嗪片[市基]",
+  "chemical_name": "阿魏酸哌嗪片",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "成都亨达药业"
+  ],
+  "specifications": [
+    {
+      "specification": "50mg/片",
+      "manufacturer": "成都亨达药业",
+      "full_manufacturer": "成都亨达药业有限公司",
+      "price": 6.72,
+      "unit": "瓶",
+      "code": "X00702",
+      "approval_number": "国药准字H51023368",
+      "insurance_code": "XB01AXA073A001020102030",
+      "location": "L-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于各类伴有镜下血尿和高凝状态的肾小球疾病，如肾炎、慢性肾炎、肾病综合征、早期尿毒症以及冠心病、脑梗死、脉管炎等的辅助治疗。",
+    "dosage": "口服：一次100～200mg，一日3次。",
+    "contraindications": "症 ⑴对本品及所含成分过敏者禁用。 ⑵本品禁与阿苯达唑类和双羟萘酸噻嘧啶类药物合用。",
+    "adverse_reactions": "常见：皮疹、恶心、呕吐、腹泻、头痛、头晕、瘙痒、过敏等。",
+    "interactions": "本品不能与阿苯达唑和双羟萘酸噻嘧啶类药物合用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴本品与可能增加出血风险的溶栓药、抗凝药、抗血小板及活血化瘀药合用时应谨慎；有出血倾向及有凝血功能障碍患者应避免使用本品。 ⑵与降压药物合用时，应注意血压变化，防止低血压的发生。 ⑶尚无孕妇及哺乳期妇女用药的安全性数据。 ⑷未进行儿童用药实验且无可靠参考文献。 ⑸未进行老年人实验且无可靠参考文献。 药物相互作用 本品不能与阿苯达唑和双羟萘酸噻嘧啶类药物合用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于各类伴有镜下血尿和高凝状态的肾小球疾病，如肾炎、慢性肾炎、肾病综合征、早期尿毒症以及冠心病、脑梗死、脉管炎等的辅助治疗。",
+    "full_dosage": "口服：一次100～200mg，一日3次。",
+    "full_contraindications": "症 ⑴对本品及所含成分过敏者禁用。 ⑵本品禁与阿苯达唑类和双羟萘酸噻嘧啶类药物合用。",
+    "full_adverse_reactions": "上市后监测数据显示本品可见以下不良反应/事件（源自自发报告系统无法估算发生率）： ⑴出血：牙龈出血、鼻衄、皮下出血、结膜出血、月经出血过多等。 ⑵胃肠系统：恶心、呕吐、腹泻、腹部不适、腹胀、腹痛、口干等。 ⑶皮肤及皮下组织：皮疹、瘙痒、丘疹、荨麻疹等。 ⑷神经系统：头晕、头痛等。 ⑸全身反应：乏力、水肿等。 ⑹其他：心悸、潮红、过敏性休克、低血压、肝功能异常等。",
+    "full_interactions": "本品不能与阿苯达唑和双羟萘酸噻嘧啶类药物合用。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴本品与可能增加出血风险的溶栓药、抗凝药、抗血小板及活血化瘀药合用时应谨慎；有出血倾向及有凝血功能障碍患者应避免使用本品。 ⑵与降压药物合用时，应注意血压变化，防止低血压的发生。 ⑶尚无孕妇及哺乳期妇女用药的安全性数据。 ⑷未进行儿童用药实验且无可靠参考文献。 ⑸未进行老年人实验且无可靠参考文献。 药物相互作用 本品不能与阿苯达唑和双羟萘酸噻嘧啶类药物合用。"
+  },
+  "pinyin": "aweisuanpaiqin",
+  "pinyin_initials": "awspq",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1795",
+    "last_updated": "2026-03-21"
+  }
+}

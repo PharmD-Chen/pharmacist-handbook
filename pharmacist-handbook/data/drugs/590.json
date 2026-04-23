@@ -1,0 +1,46 @@
+{
+  "id": 590,
+  "name": "盐酸米诺环素胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙)盐酸米诺环素胶囊",
+  "chemical_name": "盐酸米诺环素胶囊",
+  "types": [
+    "乙类"
+  ],
+  "manufacturers": [
+    "瀚晖制药"
+  ],
+  "specifications": [
+    {
+      "specification": "50mg/粒",
+      "manufacturer": "瀚晖制药",
+      "full_manufacturer": "瀚晖制药有限公司",
+      "price": 46.2,
+      "unit": "盒",
+      "code": "X00844",
+      "approval_number": "国药准字H20174080",
+      "insurance_code": "XJ01AAM106E001020109853",
+      "location": "X-2",
+      "outpatient_location": "B-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "yansuanminuohuansu",
+  "pinyin_initials": "ysmnhs",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2031"
+  }
+}

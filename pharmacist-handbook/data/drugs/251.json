@@ -1,0 +1,53 @@
+{
+  "id": 251,
+  "name": "注射用血栓通(冻干)",
+  "dosage_form": "注射用",
+  "full_name": "(甲)注射用血栓通(冻干)[国基]",
+  "chemical_name": "注射用血栓通(冻干)",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "广西梧州制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.15g/瓶",
+      "manufacturer": "广西梧州制药",
+      "full_manufacturer": "广西梧州制药(集团)股份有限公司",
+      "price": 135.0,
+      "unit": "盒",
+      "code": "C00003",
+      "approval_number": "国药准字Z20025652",
+      "insurance_code": "ZA12HAZ0412020105156"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "联合曲妥珠单抗和化疗用于具有高复发风险的人表皮生长因子受体2（HER2）阳性早期乳腺癌患者的辅助治疗。",
+    "dosage": "静脉输注：初始剂量为840mg，历时60分钟静脉输注完毕。其后每3周420mg，历时30至60分钟静脉输注。",
+    "contraindications": "过敏；对本品过敏；儿童禁用。",
+    "adverse_reactions": "常见：腹泻、发热等。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "1．本品",
+    "source": "湖南药事服务网",
+    "full_indications": "联合曲妥珠单抗和化疗用于具有高复发风险的人表皮生长因子受体2（HER2）阳性早期乳腺癌患者的辅助治疗。",
+    "full_dosage": "静脉输注：初始剂量为840mg，历时60分钟静脉输注完毕。其后每3周420mg，历时30至60分钟静脉输注。",
+    "full_contraindications": "1.对人参和三七过敏者禁用；<br>2.对本品过敏者禁用；<br>3.出血性疾病急性期禁用；<br>4.儿童禁用。",
+    "full_adverse_reactions": "最常见≥3级的严重不良事件（AEs）为中性粒细胞减少症（44.9%），发热性中性粒细胞减少（8.4%），白细胞减少症（4.7%）和腹泻（5.6%）。 用药交代 全球关键III期辅助治疗研究显示，与当前标准治疗曲妥珠单抗联合化疗相比，帕妥珠单抗联合曲妥珠单抗和化疗用于具有高复发风险的HER2阳性早期乳腺癌患者辅助治疗，显著改善了患者无侵袭性疾病生存期，不良反应可控。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察",
+    "full_pharmacokinetics": "",
+    "full_precautions": "1．本品"
+  },
+  "pinyin": "zhusheyongxueshuantong",
+  "pinyin_initials": "zsyxst",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=12828",
+    "last_updated": "2026-03-21"
+  }
+}

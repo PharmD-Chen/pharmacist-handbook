@@ -1,0 +1,50 @@
+{
+  "id": 897,
+  "name": "丹参酮胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)丹参酮胶囊",
+  "chemical_name": "丹参酮胶囊",
+  "types": [],
+  "manufacturers": [
+    "河北兴隆希力药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.25g/粒",
+      "manufacturer": "河北兴隆希力药业",
+      "full_manufacturer": "河北兴隆希力药业有限公司",
+      "price": 18.13,
+      "unit": "瓶",
+      "code": "C00080",
+      "approval_number": "国药准字Z13020110",
+      "insurance_code": "ZB01BAD0071010102674",
+      "outpatient_location": "S-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "祛瘀止痛，活血通经，去烦安神。用于冠心病，改善冠状动脉血流而缓解心绞痛。",
+    "dosage": "口服：一次4粒，一日3次。 剂型与规格 胶囊剂 0.2g 0.25g ZB01B乙0875 5% 暂无",
+    "contraindications": "对本品过敏者禁用；孕妇禁用。",
+    "adverse_reactions": "尚不明确。 禁忌症 对本品过敏者禁用；孕妇禁用。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。 用法与用量 口服：一次4粒，一日3次。 剂型与规格 胶囊剂 0.2g 0.25g ZB01B乙0875 5% 暂无",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "3.用药期间不宜同时服用温热性药物。4.不宜同时使用外用药类，如需配合使用，应在药师或医师指导下使用。",
+    "source": "",
+    "full_indications": "祛瘀止痛，活血通经，去烦安神。用于冠心病，改善冠状动脉血流而缓解心绞痛。",
+    "full_dosage": "口服：一次4粒，一日3次。 剂型与规格 胶囊剂 0.2g 0.25g ZB01B乙0875 5% 暂无",
+    "full_contraindications": "对本品过敏者禁用；孕妇禁用。",
+    "full_adverse_reactions": "尚不明确。 禁忌症 对本品过敏者禁用；孕妇禁用。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。 用法与用量 口服：一次4粒，一日3次。 剂型与规格 胶囊剂 0.2g 0.25g ZB01B乙0875 5% 暂无",
+    "full_precautions": "1.忌烟酒、辛辣、油腻及腥发食物。 2.切忌以手挤压患处。 3.用药期间不宜同时服用温热性药物。 4.不宜同时使用外用药类，如需配合使用，应在药师或医师指导下使用。 5.儿童、年老体弱或患有其他疾病者应在药师或医师指导下服用。 6.如有多量结节、囊肿、脓疱等应去医院就诊。 7.扁桃体有化脓及全身高热者应去医院就诊。 8.痤疮服药2周、其他适应症服药3天症状无缓解，应去医院就诊。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。 用法与用量 口服：一次4粒，一日3次。 剂型与规格 胶囊剂 0.2g 0.25g ZB01B乙0875 5% 暂无",
+    "composition": "丹参提取物。"
+  },
+  "pinyin": "danshentong",
+  "pinyin_initials": "dst",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5289"
+  }
+}

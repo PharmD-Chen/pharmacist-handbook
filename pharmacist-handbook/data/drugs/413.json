@@ -1,0 +1,63 @@
+{
+  "id": 413,
+  "name": "复方甘草酸苷注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)复方甘草酸苷注射液",
+  "chemical_name": "复方甘草酸苷注射液",
+  "types": [],
+  "manufacturers": [
+    "Minophagen Pharmaceutical Co., Ltd.",
+    "湖南明瑞制药"
+  ],
+  "specifications": [
+    {
+      "specification": "1单位/支",
+      "manufacturer": "湖南明瑞制药",
+      "full_manufacturer": "湖南明瑞制药股份有限公司（委托生产企业：西安利君制药有限责任公司）",
+      "price": 9.72,
+      "unit": "支",
+      "code": "X00654",
+      "approval_number": "国药准字H20057478",
+      "insurance_code": "XA05BAF632B002010202503",
+      "location": "B-4"
+    },
+    {
+      "specification": "40mg/支",
+      "manufacturer": "Minophagen Pharmaceutical Co., Ltd.",
+      "full_manufacturer": "Minophagen Pharmaceutical Co., Ltd.(Minophagen Pharmaceutical Co., Ltd. Zama Factory)",
+      "price": 15.37,
+      "unit": "支",
+      "code": "X00769",
+      "approval_number": "国药准字HJ20181051",
+      "insurance_code": "XA05BAF632B002010379084",
+      "location": "B-4"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "用于急、慢性肝炎引起的肝功能异常，改善肝功能异常。亦可用于湿疹、皮肤炎、斑秃。",
+    "dosage": "可依年龄、症状适当增减。",
+    "contraindications": "对本品有过敏史者和醛固酮症患者，肌病患者，低钾、高钠血症患者和肾衰竭患者禁用。",
+    "adverse_reactions": "不良反应有食欲缺乏、恶心、呕吐、腹胀，以及皮肤瘙痒、荨麻疹、口干和水肿，头痛、头晕、心悸及高血压增高等，一般较轻。",
+    "interactions": "与袢利尿剂、利尿酸、速尿等噻嗪类及降压利尿剂三氯甲噻嗪、氯噻酮等同时使用时可能出现低血钾症，应特别注意血钾的检测。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "参阅甘草酸单胺。",
+    "precautions": "⑵一般注意事项 由于该制剂中含有甘草酸苷，所以与含其它甘草制剂并用时，可增加体内甘草酸苷含量，容易出现假性醛固酮增多症，应予注意。⑶给药时注意 药品交付时，应指导服药时请将片剂从铝铂包装中取出后再服用(有报导将铝铂包装一起服用而导致食道粘膜损伤，甚至穿孔引起纵膈炎症等危重并发症)。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于急、慢性肝炎引起的肝功能异常，改善肝功能异常。亦可用于治疗湿疹、皮肤炎、斑秃。",
+    "full_dosage": "口服：推荐剂量为成人一次2～3片(粒)，小儿一次1片(粒)，一日3次，饭后口服。可依年龄、症状适当增减。",
+    "full_contraindications": "对本品有过敏史者和醛固酮症患者，肌病患者，低钾、高钠血症患者和肾衰竭患者禁用。",
+    "full_adverse_reactions": "不良反应有食欲缺乏、恶心、呕吐、腹胀，以及皮肤瘙痒、荨麻疹、口干和水肿，头痛、头晕、心悸及高血压增高等，一般较轻。",
+    "full_interactions": "与袢利尿剂、利尿酸、速尿等噻嗪类及降压利尿剂三氯甲噻嗪、氯噻酮等同时使用时可能出现低血钾症，应特别注意血钾的检测。",
+    "full_pharmacokinetics": "参阅甘草酸单胺。",
+    "full_precautions": "⑴慎重给药 对高龄患者应慎重给药(高龄患者低钾血症发生率高)。  <br>⑵一般注意事项 由于该制剂中含有甘草酸苷，所以与含其它甘草制剂并用时，可增加体内甘草酸苷含量，容易出现假性醛固酮增多症，应予注意。  <br>⑶给药时注意 药品交付时，应指导服药时请将片剂从铝铂包装中取出后再服用(有报导将铝铂包装一起服用而导致食道粘膜损伤，甚至穿孔引起纵膈炎症等危重并发症)。"
+  },
+  "pinyin": "※▲fufanggancaosuangan",
+  "pinyin_initials": "※▲ffgcsg",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=623",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "氢溴酸替格列汀",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>2型糖尿病</strong>。",
+      "dosage": "口服。20mg，每日1次；效果不佳可增至40mg/日。",
+      "contraindications": "对替格列汀过敏者禁用。",
+      "adverse_reactions": "低血糖（与胰岛素/磺脲类合用时）、头痛、上呼吸道感染、鼻咽炎。",
+      "interactions": "主要经<strong>CYP3A4、FMO1及FMO3代谢</strong>；对CYP2D6、CYP3A4及FMO有弱抑制作用。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "口服吸收良好，1-2小时达峰。蛋白结合率77.6%-82.2%。半衰期20-24小时，主要经肾排泄（约21%原形）。",
+      "precautions": "<strong>肾功能不全者需调整剂量</strong>；与胰岛素或磺脲类合用注意低血糖风险；不适用于1型糖尿病或糖尿病酮症酸中毒。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

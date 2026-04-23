@@ -1,0 +1,56 @@
+{
+  "id": 1014,
+  "name": "甲钴胺注射液",
+  "dosage_form": "注射液",
+  "full_name": "(甲)甲钴胺注射液[市基]",
+  "chemical_name": "甲钴胺注射液",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "哈尔滨三联药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.5mg/支",
+      "manufacturer": "哈尔滨三联药业",
+      "full_manufacturer": "哈尔滨三联药业股份有限公司",
+      "price": 1.74,
+      "unit": "支",
+      "code": "X00705",
+      "approval_number": "国药准字H20044627",
+      "insurance_code": "XB03BAJ038B002020103662",
+      "location": "B-4",
+      "outpatient_location": "Q-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于周围神经病变；亦可用于治疗缺乏维生素B12引起的巨幼红细胞性贫血，",
+    "dosage": "⑴口服：周围神经病，成人通常一次0.5mg，一日3次，可按年龄、症状酌情增减。 ⑵肌内注射或静脉注射：成人，①周围神经病，通常一次0.5mg，一日1次，一周3次，可按年龄、症状酌情增减。②巨幼红细胞性贫血，通常一次0.5mg，一周3次，给药2个月后，改用维持剂量一次0.5mg，每1～3个月1次。",
+    "contraindications": "症 对本品过敏者禁用。",
+    "adverse_reactions": "偶见皮疹、头痛、发热感、出汗、肌内注射部位疼痛和硬结。可引起血压下降、呼吸困难等严重过敏反应。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": "Cmax）各自为22.4±1.1、85.0±8.9ng/ml",
+    "precautions": "⑴避免同一部位反复肌内注射；避开神经分布密集的部位；针扎入时，如有剧痛、血液逆流的情况，应立即拔出针头，换部位注射。 ⑵妊娠及哺乳期妇女用药尚不明确。 ⑶老年患者因身体功能减退，应酌情减少剂量。 输液调配 冻干粉针每0.5mg加灭菌注射用水1ml溶解作静脉注射液或肌内注射液。新鲜调配为红色的澄明液体。 【稳定性】本品见光易分解，调配的药液应立即避光使用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于周围神经病变；亦可用于治疗缺乏维生素B12引起的巨幼红细胞性贫血，",
+    "full_dosage": "⑴口服：周围神经病，成人通常一次0.5mg，一日3次，可按年龄、症状酌情增减。 ⑵肌内注射或静脉注射：成人，①周围神经病，通常一次0.5mg，一日1次，一周3次，可按年龄、症状酌情增减。②巨幼红细胞性贫血，通常一次0.5mg，一周3次，给药2个月后，改用维持剂量一次0.5mg，每1～3个月1次。",
+    "full_contraindications": "症 对本品过敏者禁用。",
+    "full_adverse_reactions": "偶见皮疹、头痛、发热感、出汗、肌内注射部位疼痛和硬结。可引起血压下降、呼吸困难等严重过敏反应。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "Cmax）各自为22.4±1.1、85.0±8.9ng/ml",
+    "full_precautions": "⑴避免同一部位反复肌内注射；避开神经分布密集的部位；针扎入时，如有剧痛、血液逆流的情况，应立即拔出针头，换部位注射。 ⑵妊娠及哺乳期妇女用药尚不明确。 ⑶老年患者因身体功能减退，应酌情减少剂量。 输液调配 冻干粉针每0.5mg加灭菌注射用水1ml溶解作静脉注射液或肌内注射液。新鲜调配为红色的澄明液体。 【稳定性】本品见光易分解，调配的药液应立即避光使用。"
+  },
+  "pinyin": "jiaguan",
+  "pinyin_initials": "jga",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1076",
+    "last_updated": "2026-03-21"
+  }
+}

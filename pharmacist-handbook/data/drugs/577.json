@@ -1,0 +1,44 @@
+{
+  "id": 577,
+  "name": "恒古骨伤愈合剂",
+  "dosage_form": "合剂",
+  "full_name": "(乙10%)恒古骨伤愈合剂",
+  "chemical_name": "恒古骨伤愈合剂",
+  "types": [],
+  "manufacturers": [
+    "赛灵药业科技集团"
+  ],
+  "specifications": [
+    {
+      "specification": "25ml/瓶",
+      "manufacturer": "赛灵药业科技集团",
+      "full_manufacturer": "赛灵药业科技集团股份有限公司",
+      "price": 77.06,
+      "unit": "瓶",
+      "code": "C00069",
+      "approval_number": "国药准字Z20025103",
+      "insurance_code": "ZG03AAH0102020105665",
+      "location": "L-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": "",
+    "composition": "陈皮、红花、三七、杜仲、人参、洋金花、黄芪、钻地风、鳖甲。"
+  },
+  "pinyin": "henggugushangyu",
+  "pinyin_initials": "hggsy",
+  "dosage_form_pinyin": "heji",
+  "dosage_form_initials": "hj",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5797"
+  }
+}

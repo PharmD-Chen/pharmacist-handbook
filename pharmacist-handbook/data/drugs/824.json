@@ -1,0 +1,56 @@
+{
+  "id": 824,
+  "name": "枣仁安神胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(甲)枣仁安神胶囊[国基]",
+  "chemical_name": "枣仁安神胶囊",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "国药集团同济堂制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.45g/粒",
+      "manufacturer": "国药集团同济堂制药",
+      "full_manufacturer": "国药集团同济堂（贵州）制药有限公司",
+      "price": 20.6,
+      "unit": "瓶",
+      "code": "Y00000013178",
+      "approval_number": "国药准字Z20010033",
+      "insurance_code": "ZA10AAZ0010010205535",
+      "outpatient_location": "K-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "养血安神。用于心血不足所致的失眠、健忘、心烦、头晕；神经衰弱症见上述证候者。",
+    "full_indications": "养血安神。用于心血不足所致的失眠、健忘、心烦、头晕；神经衰弱症见上述证候者。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "口服：一次5粒，一日1次，睡前服用。",
+    "full_dosage": "口服：一次5粒，一日1次，睡前服用。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "full_adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "孕妇禁用；消化不良者慎用；服药期间忌烟酒及辛辣、油腻食物。",
+    "full_precautions": "1.孕妇禁用。2.消化不良者慎用。3.服药期间忌烟酒及辛辣、油腻食物。4.服药期间要保持情绪乐观，切忌生气恼怒。5.有高血压、心脏病、糖尿病、肝病、肾病等慢性病严重者应在医师指导下服用。",
+    "source": "湖南药事服务网",
+    "composition": "炒酸枣仁、丹参、醋五味子。"
+  },
+  "pinyin": "zaorenanshen",
+  "pinyin_initials": "zras",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=7505",
+    "last_updated": "2026-03-22"
+  }
+}

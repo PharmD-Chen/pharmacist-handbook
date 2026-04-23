@@ -1,0 +1,52 @@
+{
+  "id": 705,
+  "name": "肌醇烟酸酯片",
+  "dosage_form": "片",
+  "full_name": "(乙10%)肌醇烟酸酯片",
+  "chemical_name": "肌醇烟酸酯片",
+  "types": [],
+  "manufacturers": [
+    "广东南国药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.2g/片",
+      "manufacturer": "广东南国药业",
+      "full_manufacturer": "广东南国药业有限公司",
+      "price": 138.0,
+      "unit": "瓶",
+      "code": "X00774",
+      "approval_number": "国药准字H44023542",
+      "insurance_code": "XC04ACJ217A001010100315",
+      "location": "L-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "⑴用于高脂血症、冠心病、各种末梢血管阻塞性疾病（如闭塞性动脉硬化、肢端动脉痉挛症、冻伤、血管性偏头痛等）的辅助治疗。 ⑵外用膏剂用于预防和治疗冻疮。",
+    "dosage": "口服：一次0.2～0.6g，一日3次。连续服用1～3个月。 软膏剂：局部涂擦或包敷患处，一日1-2次（包敷法，每1-2日换药1次）。",
+    "contraindications": "症 ⑴对本品或其他烟酸类药物过敏者禁用。⑵患活动性肝病、不明原因ALT、AST升高等肝功能异常者禁用。⑶活动性溃疡病、有出血倾向者禁用。",
+    "adverse_reactions": "偶有轻度恶心、发汗、皮疹及瘙痒感，面部潮红。大剂量时可致轻度血压降低、心动过缓。 肝损伤 可能导致肝损伤。",
+    "interactions": "本品结构与烟酸类似，当与他汀或贝特类药物联合应用时应谨慎，因为有烟酸与这类降脂药联合应用时骨骼肌肉事件增加的报道。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴胃酸缺乏者同时服用稀盐酸或柠檬汁以减少",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴用于高脂血症、冠心病、各种末梢血管阻塞性疾病（如闭塞性动脉硬化、肢端动脉痉挛症、冻伤、血管性偏头痛等）的辅助治疗。 ⑵外用膏剂用于预防和治疗冻疮。",
+    "full_dosage": "口服：一次0.2～0.6g，一日3次。连续服用1～3个月。 软膏剂：局部涂擦或包敷患处，一日1-2次（包敷法，每1-2日换药1次）。",
+    "full_contraindications": "症 ⑴对本品或其他烟酸类药物过敏者禁用。⑵患活动性肝病、不明原因ALT、AST升高等肝功能异常者禁用。⑶活动性溃疡病、有出血倾向者禁用。",
+    "full_adverse_reactions": "偶有轻度恶心、发汗、皮疹及瘙痒感，面部潮红。大剂量时可致轻度血压降低、心动过缓。 肝损伤 可能导致肝损伤。",
+    "full_interactions": "本品结构与烟酸类似，当与他汀或贝特类药物联合应用时应谨慎，因为有烟酸与这类降脂药联合应用时骨骼肌肉事件增加的报道。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴胃酸缺乏者应同时服用稀盐酸或柠檬汁以减少"
+  },
+  "pinyin": "jichunyansuanzhi",
+  "pinyin_initials": "jcysz",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=331",
+    "last_updated": "2026-03-21"
+  }
+}

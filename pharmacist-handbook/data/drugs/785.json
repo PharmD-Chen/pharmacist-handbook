@@ -1,0 +1,52 @@
+{
+  "id": 785,
+  "name": "奥马珠单抗注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)奥马珠单抗注射液",
+  "chemical_name": "奥马珠单抗注射液",
+  "types": [],
+  "manufacturers": [
+    "Novartis Europharm Limited"
+  ],
+  "specifications": [
+    {
+      "specification": "150mg/支",
+      "manufacturer": "Novartis Europharm Limited",
+      "full_manufacturer": "Novartis Europharm Limited（Vetter Pharma-Fertigung GmbH & Co. KG）",
+      "price": 986.0,
+      "unit": "支",
+      "code": "X00948",
+      "approval_number": "国药准字SJ20220016",
+      "insurance_code": "XR03DXA305B002010178672",
+      "outpatient_location": "2B-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "⑴用于中度或重度常年性过敏性哮喘，尤其是采用糖皮质激素吸入疗法不能控制的中重度、持续性哮喘。 ⑵用于抗组胺药物难治性慢性荨麻疹（CSU）患者的治疗。",
+    "dosage": "⑴静脉滴注：2.5μg/kg，与口服或吸入糖皮质激素联用。其中第1日、第4日给予半量，第7日给予全量，以后每2周给予全量1次，共20周。⑵皮下注射：推荐剂量一次150～300mg，每2～4周1次。如用于慢性荨麻疹治疗的推荐剂量为一次150mg~300mg，每4周注射一次，但要注意其罕见的过敏反应。",
+    "contraindications": "症 对本品过敏者禁用。",
+    "adverse_reactions": "可见头痛、眩晕、疲乏、上呼吸道感染和病毒性感染，偶可出现风疹样皮疹等不良反应；常见皮下注射部位反应。过敏反应发生率约为0.1％，多出现在皮下给药2小时内。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "B\n \n",
+    "pharmacokinetics": "为抗免疫球蛋白Ｅ（IgE）的人源化单克隆抗体，能特异性地识别循环IgE的Fc段，阻断IgE与其高亲和力受体结合。",
+    "precautions": "肝肾功能不全者、急性支气管痉挛或哮喘持续状态患者以及有对其他抗体制剂（尤其是来源于小鼠的制剂）过敏史者慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴用于中度或重度常年性过敏性哮喘，尤其是采用糖皮质激素吸入疗法不能控制的中重度、持续性哮喘。 ⑵用于抗组胺药物难治性慢性荨麻疹（CSU）患者的治疗。",
+    "full_dosage": "⑴静脉滴注：2.5μg/kg，与口服或吸入糖皮质激素联用。其中第1日、第4日给予半量，第7日给予全量，以后每2周给予全量1次，共20周。⑵皮下注射：推荐剂量一次150～300mg，每2～4周1次。如用于慢性荨麻疹治疗的推荐剂量为一次150mg~300mg，每4周注射一次，但要注意其罕见的过敏反应。",
+    "full_contraindications": "症 对本品过敏者禁用。",
+    "full_adverse_reactions": "可见头痛、眩晕、疲乏、上呼吸道感染和病毒性感染，偶可出现风疹样皮疹等不良反应；常见皮下注射部位反应。过敏反应发生率约为0.1％，多出现在皮下给药2小时内。",
+    "full_interactions": "",
+    "full_pregnancy_category": "B\n \n",
+    "full_pharmacokinetics": "为抗免疫球蛋白Ｅ（IgE）的人源化单克隆抗体，能特异性地识别循环IgE的Fc段，阻断IgE与其高亲和力受体结合。",
+    "full_precautions": "肝肾功能不全者、急性支气管痉挛或哮喘持续状态患者以及有对其他抗体制剂（尤其是来源于小鼠的制剂）过敏史者慎用。"
+  },
+  "pinyin": "※▲aomazhudankang",
+  "pinyin_initials": "※▲amzdk",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3572",
+    "last_updated": "2026-03-21"
+  }
+}

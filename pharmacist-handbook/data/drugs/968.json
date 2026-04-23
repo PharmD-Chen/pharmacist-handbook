@@ -1,0 +1,56 @@
+{
+  "id": 968,
+  "name": "金匮肾气丸",
+  "dosage_form": "丸",
+  "full_name": "(甲)金匮肾气丸[国基]",
+  "chemical_name": "金匮肾气丸",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "昆明中药厂"
+  ],
+  "specifications": [
+    {
+      "specification": "5g/袋",
+      "manufacturer": "昆明中药厂",
+      "full_manufacturer": "昆明中药厂有限公司",
+      "price": 33.48,
+      "unit": "盒",
+      "code": "Y00000014509",
+      "approval_number": "国药准字Z53021294",
+      "insurance_code": "ZA09DBJ0389020205615",
+      "location": "D-1",
+      "outpatient_location": "J-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "温补肾阳，化气行水。用于肾虚水肿，腰膝酸软，小便不利，畏寒肢冷。主要治疗肾阳不足症，表现为腰疼、脚软，下半身冷，小肚拘急，小便不利，夜尿尤多。",
+    "dosage": "口服：大蜜丸一次1丸，水蜜丸一次6g，小蜜丸一次9g，一日2次。",
+    "contraindications": "对本品过敏者禁用；孕妇忌服。",
+    "adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药品同时使用可能会产生",
+    "pregnancy_category": null,
+    "pharmacokinetics": "地黄、山茱萸、山药、泽泻、茯苓、牡丹皮、桂枝、附子（炙）。",
+    "precautions": "忌房欲、气恼。忌食生冷食物。",
+    "source": "湖南药事服务网",
+    "full_indications": "温补肾阳，化气行水。用于肾虚水肿，腰膝酸软，小便不利，畏寒肢冷。主要治疗肾阳不足症，表现为腰疼、脚软，下半身冷，小肚拘急，小便不利，夜尿尤多。",
+    "full_dosage": "口服：大蜜丸一次1丸，水蜜丸一次6g，小蜜丸一次9g，一日2次。",
+    "full_contraindications": "对本品过敏者禁用；孕妇忌服。",
+    "full_adverse_reactions": "尚不明确。",
+    "full_interactions": "如与其他药品同时使用可能会产生",
+    "full_pharmacokinetics": "地黄、山茱萸、山药、泽泻、茯苓、牡丹皮、桂枝、附子（炙）。",
+    "full_precautions": "忌房欲、气恼。忌食生冷食物。",
+    "composition": "地黄、山茱萸、山药、泽泻、茯苓、牡丹皮、桂枝、附子（炙）。"
+  },
+  "pinyin": "jinkuishenqi",
+  "pinyin_initials": "jksq",
+  "dosage_form_pinyin": "wan",
+  "dosage_form_initials": "w",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=6502",
+    "last_updated": "2026-03-21"
+  }
+}

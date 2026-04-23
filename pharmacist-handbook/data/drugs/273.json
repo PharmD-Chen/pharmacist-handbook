@@ -1,0 +1,54 @@
+{
+  "id": 273,
+  "name": "乳酸菌阴道胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(甲)乳酸菌阴道胶囊",
+  "chemical_name": "乳酸菌阴道胶囊",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "西安正浩生物制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.25g/粒",
+      "manufacturer": "西安正浩生物制药",
+      "full_manufacturer": "西安正浩生物制药有限公司",
+      "price": 56.22,
+      "unit": "盒",
+      "code": "Y00000014948",
+      "approval_number": "国药准字H10980293",
+      "insurance_code": "XG02CCR054E006010302485",
+      "location": "2M-1",
+      "outpatient_location": "2F-6"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "主要用于风湿病、类风湿性关节炎、强直性脊柱炎、各种类型骨折、创伤修复机腰腿痛等。",
+    "dosage": "⑴",
+    "contraindications": "症 对本品过敏者禁用。",
+    "adverse_reactions": "偶见皮疹、瘙痒、发热、寒战、头晕、恶心等过敏反应，如发生宜酌情减少用量或停药；罕见斑丘疹、过敏性休克、出现症状时应停药并对症正确处理。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "⑴本品须单独使用，不要与其他药同时混合给药。 ⑵过敏体质者慎用。 ⑶尚无妊娠期及哺乳期妇女、老人和儿童的用药资料，不推荐使用。 配伍",
+    "source": "湖南药事服务网",
+    "full_indications": "主要用于风湿病、类风湿性关节炎、强直性脊柱炎、各种类型骨折、创伤修复机腰腿痛等。",
+    "full_dosage": "⑴肌内注射：每次2～4ml，一日2次； ⑵静脉滴注：一日8～12ml，加入5％葡萄糖注射液或0.9％氯化钠注射液中使用，10～15天为一疗程，或遵医嘱，小儿酌减。",
+    "full_contraindications": "症 对本品过敏者禁用。",
+    "full_adverse_reactions": "偶见皮疹、瘙痒、发热、寒战、头晕、恶心等过敏反应，如发生宜酌情减少用量或停药；罕见斑丘疹、过敏性休克、出现症状时应停药并对症正确处理。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴本品须单独使用，不要与其他药同时混合给药。 ⑵过敏体质者慎用。 ⑶尚无妊娠期及哺乳期妇女、老人和儿童的用药资料，不推荐使用。 配伍"
+  },
+  "pinyin": "rusuanjunyindao",
+  "pinyin_initials": "rsjyd",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=7965",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 856,
+  "name": "清咳平喘颗粒",
+  "dosage_form": "颗粒",
+  "full_name": "(甲)清咳平喘颗粒",
+  "chemical_name": "清咳平喘颗粒",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "长春雷允上药业"
+  ],
+  "specifications": [
+    {
+      "specification": "10g/袋",
+      "manufacturer": "长春雷允上药业",
+      "full_manufacturer": "长春雷允上药业有限公司",
+      "price": 96.0,
+      "unit": "盒",
+      "code": "X00813",
+      "approval_number": "国药准字Z20040047",
+      "insurance_code": "ZA06CBQ0398010203310",
+      "location": "C-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "清热宣肺，止咳平喘。用于急性支气管炎、慢性支气管炎急性发作属痰热郁肺证，症见咳嗽气急，甚或喘息，咳痰色黄或不爽，发热，咽痛，便干，苔黄或黄腻等。",
+    "full_indications": "清热宣肺，止咳平喘。用于急性支气管炎、慢性支气管炎急性发作属痰热郁肺证，症见咳嗽气急，甚或喘息，咳痰色黄或不爽，发热，咽痛，便干，苔黄或黄腻等。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "开水冲服：一次10g，一日3次。",
+    "full_dosage": "开水冲服：一次10g，一日3次。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "full_adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "孕妇慎用；服药期间忌辛辣、油腻食物。",
+    "full_precautions": "1.孕妇慎用。2.服药期间忌辛辣、油腻食物。3.不宜在服药期间同时服用滋补性中药。4.脾胃虚寒者慎用。",
+    "source": "湖南药事服务网",
+    "composition": "石膏、金荞麦、鱼腥草、麻黄（蜜炙）、炒苦杏仁、川贝母、矮地茶等。"
+  },
+  "pinyin": "qingkepingchuan",
+  "pinyin_initials": "qkpc",
+  "dosage_form_pinyin": "keli",
+  "dosage_form_initials": "kl",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=6254"
+  }
+}

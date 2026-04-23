@@ -1,0 +1,52 @@
+{
+  "id": 591,
+  "name": "九味止咳口服液",
+  "dosage_form": "其他",
+  "full_name": "(乙10%)九味止咳口服液",
+  "chemical_name": "九味止咳口服液",
+  "types": [],
+  "manufacturers": [
+    "卓和药业集团"
+  ],
+  "specifications": [
+    {
+      "specification": "10ml/支",
+      "manufacturer": "卓和药业集团",
+      "full_manufacturer": "卓和药业集团股份有限公司（委托生产企业： 亚宝药业四川制药有限公司）",
+      "price": 41.5,
+      "unit": "盒",
+      "code": "C00096",
+      "approval_number": "国药准字Z20240002",
+      "insurance_code": "ZA06BCJ0753010183234",
+      "location": "K-3",
+      "outpatient_location": "B-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "宣肺止咳。用于急性气管-支气管炎中医辨证属风热证的咳嗽，伴见咳痰、咽干，舌红苔薄黄、脉浮数或浮滑。",
+    "dosage": "口服。一次20ml，一日3次。疗程7天。 剂型与规格 合剂 10ml(每1ml相当于饮片2.14g) ZA06BC乙13 5% 哪儿有",
+    "contraindications": "对本品及所含成份过敏者禁用。",
+    "adverse_reactions": "临床试验期间，用药后可见尿白细胞、尿红细胞、尿蛋白异常，肝生化指标单 项升高，个别受试者用药后出现窦性心动过速。 禁忌症 对本品及所含成份过敏者禁用。",
+    "interactions": "本品尚无与其他药物联合使用的数据。 用法与用量 口服。一次20ml，一日3次。疗程7天。 剂型与规格 合剂 10ml(每1ml相当于饮片2.14g) ZA06BC乙13 5% 哪儿有",
+    "pregnancy_category": "",
+    "pharmacokinetics": "矮地茶、蜜枇杷叶、麻黄、苦杏仁、薄荷、陈皮、竹茹、鱼腥草和炙甘草",
+    "precautions": "1.本品含麻黄，运动员慎用，用药期间应关注心率、心律的变化，如有不适及时就医。4.过敏体质者慎用。",
+    "source": "",
+    "full_indications": "宣肺止咳。用于急性气管-支气管炎中医辨证属风热证的咳嗽，伴见咳痰、咽干，舌红苔薄黄、脉浮数或浮滑。",
+    "full_dosage": "口服。一次20ml，一日3次。疗程7天。 剂型与规格 合剂 10ml(每1ml相当于饮片2.14g) ZA06BC乙13 5% 哪儿有",
+    "full_contraindications": "对本品及所含成份过敏者禁用。",
+    "full_adverse_reactions": "临床试验期间，用药后可见尿白细胞、尿红细胞、尿蛋白异常，肝生化指标单 项升高，个别受试者用药后出现窦性心动过速。 禁忌症 对本品及所含成份过敏者禁用。",
+    "full_precautions": "1.本品含麻黄，运动员慎用，用药期间应关注心率、心律的变化，如有不适及时就医。2.虚寒多汗者忌用。3.忌辛辣、生冷、油腻食物，饮食宜清淡。4.过敏体质者慎用。5.本品尚无用于孕妇、哺乳期妇女、儿童的有效性和安全性数据。 药物相互作用 本品尚无与其他药物联合使用的数据。 用法与用量 口服。一次20ml，一日3次。疗程7天。 剂型与规格 合剂 10ml(每1ml相当于饮片2.14g) ZA06BC乙13 5% 哪儿有",
+    "full_pharmacokinetics": "矮地茶、蜜枇杷叶、麻黄、苦杏仁、薄荷、陈皮、竹茹、鱼腥草和炙甘草",
+    "full_interactions": "本品尚无与其他药物联合使用的数据。 用法与用量 口服。一次20ml，一日3次。疗程7天。 剂型与规格 合剂 10ml(每1ml相当于饮片2.14g) ZA06BC乙13 5% 哪儿有",
+    "composition": "矮地茶、蜜枇杷叶、麻黄、苦杏仁、薄荷、陈皮、竹茹、鱼腥草和炙甘草"
+  },
+  "pinyin": "jiuweizhikekoufuye",
+  "pinyin_initials": "jwzkkfy",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13758"
+  }
+}

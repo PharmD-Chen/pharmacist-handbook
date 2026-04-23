@@ -1,0 +1,52 @@
+{
+  "id": 202,
+  "name": "复方福尔可定口服溶液",
+  "dosage_form": "口服溶液",
+  "full_name": "(自)复方福尔可定口服溶液",
+  "chemical_name": "复方福尔可定口服溶液",
+  "types": [],
+  "manufacturers": [
+    "澳美制药厂"
+  ],
+  "specifications": [
+    {
+      "specification": "150ml/瓶",
+      "manufacturer": "澳美制药厂",
+      "full_manufacturer": "澳美制药厂有限公司（Bright Future Pharmaceuticals Factory）",
+      "price": 19.4,
+      "unit": "盒",
+      "code": "X00276",
+      "approval_number": "国药准字HC20150057",
+      "insurance_code": "XR05FAF270X001020179136",
+      "location": "H-3",
+      "outpatient_location": "A-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于伤风、流感、咽喉及支气管刺激引起的咳嗽、痰多咳嗽、干咳、敏感性咳、流涕、鼻塞和咽喉痛。",
+    "dosage": "口服：2岁以下儿童一次2.5ml，一日3～4次；2～6岁儿童一次5ml，一日3～4次；6岁以上儿童及成人一次10ml，一日3～4次；或遵医嘱。",
+    "contraindications": "对本品有耐受的患者禁用；有严重高血压、冠心病或正服用单胺氧化酶抑制剂的患者禁用。",
+    "adverse_reactions": "偶有胃肠不适、胃痉挛、便秘、恶心、呕吐、口干、嗜睡、头晕。",
+    "interactions": "⑴与单胺氧化酶抑制剂合用会致血压升高。<br>⑵避免与其它拟交感神经药合用，如：抗充血剂，食欲抑制剂，苯丙胺，抗高血压药及其它抗组胺药。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "福尔可定是一种中枢作用镇咳药，通过直接作用于延髓咳嗽中心选择性抑制咳嗽。<br>盐酸曲普利啶是一种具有中枢镇定及抗毒蕈作用的强效H受体拮抗剂，通过竞争性、可逆性阻断组织上的组胺受体而消除组胺导致的过敏性反应。<br>盐酸伪麻黄碱是一种拟交感神经药，有效对抗鼻充血及咽鼓管充血。<br>愈创木酚甘油醚是",
+    "precautions": "⑴操作机械或驾驶时需慎用，有严重肝肾功能损害者，需调整剂量。⑵妊娠期间服用本品的安全性尚未确定，需慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于伤风、流感、咽喉及支气管刺激引起的咳嗽、痰多咳嗽、干咳、敏感性咳、流涕、鼻塞和咽喉痛。",
+    "full_dosage": "口服：2岁以下儿童一次2.5ml，一日3～4次；2～6岁儿童一次5ml，一日3～4次；6岁以上儿童及成人一次10ml，一日3～4次；或遵医嘱。",
+    "full_contraindications": "对本品有耐受的患者禁用；有严重高血压、冠心病或正服用单胺氧化酶抑制剂的患者禁用。",
+    "full_adverse_reactions": "偶有胃肠不适、胃痉挛、便秘、恶心、呕吐、口干、嗜睡、头晕。",
+    "full_interactions": "⑴与单胺氧化酶抑制剂合用会致血压升高。<br>⑵避免与其它拟交感神经药合用，如：抗充血剂，食欲抑制剂，苯丙胺，抗高血压药及其它抗组胺药。",
+    "full_pharmacokinetics": "福尔可定是一种中枢作用镇咳药，通过直接作用于延髓咳嗽中心选择性抑制咳嗽。<br>盐酸曲普利啶是一种具有中枢镇定及抗毒蕈作用的强效H受体拮抗剂，通过竞争性、可逆性阻断组织上的组胺受体而消除组胺导致的过敏性反应。<br>盐酸伪麻黄碱是一种拟交感神经药，有效对抗鼻充血及咽鼓管充血。<br>愈创木酚甘油醚是一种祛痰剂，通过扩张支气管及降低支气管分泌物粘度发挥化痰作用。",
+    "full_precautions": "⑴操作机械或驾驶时需慎用，有严重肝肾功能损害者，需调整剂量。  <br>⑵妊娠期间服用本品的安全性尚未确定，需慎用。本品的伪麻黄碱和曲普利定可经乳汁排泄，但无相关危害性报道。  <br>⑶运动员慎用。"
+  },
+  "pinyin": "fufangfuerkeding",
+  "pinyin_initials": "fffekd",
+  "dosage_form_pinyin": "koufurongye",
+  "dosage_form_initials": "kfry",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1670",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>药师手册</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+        body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(180deg, #ECFEFF 0%, #F0FDFA 100%); min-height: 100vh; padding-bottom: 80px; }
+        :root { --primary: #0891B2; --primary-light: #22D3EE; --primary-dark: #164E63; }
+        .search-container { position: sticky; top: 0; z-index: 50; background: linear-gradient(135deg, #0891B2 0%, #06B6D4 100%); padding: 12px 16px 20px; border-radius: 0 0 24px 24px; box-shadow: 0 4px 20px rgba(8, 145, 178, 0.3); }
+        .search-box { position: relative; background: rgba(255, 255, 255, 0.95); border-radius: 12px; display: flex; align-items: center; padding: 10px 14px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); }
+        .search-box input { flex: 1; border: none; background: transparent; font-size: 16px; color: #164E63; outline: none; margin-left: 8px; }
+        .search-box input::placeholder { color: #94A3B8; }
+        .search-icon { color: #0891B2; font-size: 20px; }
+        .clear-btn { color: #94A3B8; font-size: 18px; padding: 4px; display: none; background: none; border: none; }
+        .clear-btn.visible { display: block; }
+        .stats-bar { display: flex; justify-content: space-around; padding: 12px 16px; background: white; margin: 12px 16px; border-radius: 12px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05); }
+        .stat-item { text-align: center; }
+        .stat-value { font-size: 20px; font-weight: 700; color: #0891B2; }
+        .stat-label { font-size: 12px; color: #64748B; margin-top: 2px; }
+        .drug-list { padding: 0 16px; }
+        .drug-card { background: white; border-radius: 16px; padding: 16px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05); border: 1px solid #E0F2FE; cursor: pointer; }
+        .drug-card:active { transform: scale(0.98); }
+        .drug-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; }
+        .drug-name { font-size: 17px; font-weight: 600; color: #164E63; flex: 1; line-height: 1.3; }
+        .drug-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-left: 8px; }
+        .tag { font-size: 10px; padding: 3px 8px; border-radius: 20px; font-weight: 500; }
+        .tag-甲类 { background: #FEE2E2; color: #DC2626; }
+        .tag-乙类 { background: #FEF3C7; color: #D97706; }
+        .tag-国家基药 { background: #D1FAE5; color: #059669; }
+        .tag-市基药 { background: #DBEAFE; color: #2563EB; }
+        .drug-info { display: flex; flex-wrap: wrap; gap: 12px; font-size: 13px; color: #64748B; }
+        .drug-info-item { display: flex; align-items: center; gap: 4px; }
+        .drug-price { color: #0891B2; font-weight: 600; font-size: 14px; }
+        .load-more { text-align: center; padding: 20px; }
+        .load-more-btn { background: linear-gradient(135deg, #0891B2 0%, #06B6D4 100%); color: white; border: none; padding: 12px 32px; border-radius: 24px; font-size: 14px; font-weight: 500; cursor: pointer; }
+        .bottom-nav { position: fixed; bottom: 0; left: 0; right: 0; background: white; display: flex; justify-content: space-around; padding: 8px 0; box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05); border-top: 1px solid #E0F2FE; z-index: 100; }
+        .nav-item { display: flex; flex-direction: column; align-items: center; padding: 6px 20px; color: #94A3B8; font-size: 11px; cursor: pointer; }
+        .nav-item.active { color: #0891B2; }
+        .nav-icon { font-size: 22px; margin-bottom: 2px; }
+        .modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0, 0, 0, 0.5); z-index: 200; opacity: 0; visibility: hidden; transition: all 0.3s; }
+        .modal-overlay.active { opacity: 1; visibility: visible; }
+        .modal-content { position: fixed; bottom: 0; left: 0; right: 0; background: white; border-radius: 24px 24px 0 0; max-height: 85vh; overflow-y: auto; z-index: 201; transform: translateY(100%); transition: transform 0.3s ease-out; }
+        .modal-overlay.active .modal-content { transform: translateY(0); }
+        .modal-header { position: sticky; top: 0; background: white; padding: 16px 20px; border-bottom: 1px solid #E0F2FE; display: flex; justify-content: space-between; align-items: center; z-index: 10; }
+        .modal-title { font-size: 18px; font-weight: 600; color: #164E63; }
+        .modal-close { font-size: 24px; color: #94A3B8; background: none; border: none; cursor: pointer; }
+        .modal-body { padding: 20px; }
+        .detail-section { margin-bottom: 20px; }
+        .detail-section-title { font-size: 14px; font-weight: 600; color: #0891B2; margin-bottom: 8px; }
+        .detail-section-content { font-size: 14px; color: #334155; line-height: 1.6; background: #F0FDFA; padding: 12px; border-radius: 12px; }
+        .detail-info-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-bottom: 20px; }
+        .detail-info-item { background: #F0FDFA; padding: 12px; border-radius: 12px; }
+        .detail-info-label { font-size: 12px; color: #64748B; margin-bottom: 4px; }
+        .detail-info-value { font-size: 14px; font-weight: 500; color: #164E63; }
+        .favorite-btn { background: none; border: none; font-size: 24px; color: #CBD5E1; cursor: pointer; }
+        .favorite-btn.active { color: #F59E0B; }
+        .empty-state { text-align: center; padding: 60px 20px; color: #94A3B8; }
+        .empty-icon { font-size: 64px; margin-bottom: 16px; opacity: 0.5; }
+        .history-item { background: white; border-radius: 12px; padding: 12px 16px; margin: 0 16px 8px; display: flex; justify-content: space-between; cursor: pointer; }
+        .loading { text-align: center; padding: 40px; color: #64748B; }
+    </style>
+</head>
+<body>
+    <div class="search-container">
+        <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="searchInput" placeholder="搜索药品名称、厂家..." autocomplete="off">
+            <button class="clear-btn" id="clearBtn">✕</button>
+        </div>
+    </div>
+    
+    <div class="stats-bar" id="statsBar">
+        <div class="stat-item">
+            <div class="stat-value" id="totalCount">-</div>
+            <div class="stat-label">药品总数</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-value" id="searchCount">-</div>
+            <div class="stat-label">搜索结果</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-value" id="favCount">-</div>
+            <div class="stat-label">我的收藏</div>
+        </div>
+    </div>
+    
+    <div id="mainContent">
+        <div class="loading" id="loading">正在加载药品数据...</div>
+        <div class="drug-list" id="drugList" style="display:none;"></div>
+        <div class="load-more" id="loadMore" style="display:none;">
+            <button class="load-more-btn" onclick="loadMore()">加载更多</button>
+        </div>
+    </div>
+    
+    <div id="favoritesContent" style="display: none;">
+        <div class="favorites-list" id="favoritesList"></div>
+        <div class="empty-state" id="emptyFavorites" style="display: none;">
+            <div class="empty-icon">⭐</div>
+            <div>暂无收藏药品</div>
+        </div>
+    </div>
+    
+    <div id="historyContent" style="display: none;">
+        <div class="history-list" id="historyList"></div>
+        <div class="empty-state" id="emptyHistory" style="display: none;">
+            <div class="empty-icon">🕐</div>
+            <div>暂无搜索历史</div>
+        </div>
+    </div>
+    
+    <div class="bottom-nav">
+        <div class="nav-item active" onclick="showHome()">
+            <span class="nav-icon">🏠</span>
+            <span>首页</span>
+        </div>
+        <div class="nav-item" onclick="showFavorites()">
+            <span class="nav-icon">⭐</span>
+            <span>收藏</span>
+        </div>
+        <div class="nav-item" onclick="showHistory()">
+            <span class="nav-icon">🕐</span>
+            <span>历史</span>
+        </div>
+    </div>
+    
+    <div class="modal-overlay" id="drugModal" onclick="closeModal(event)">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <div class="modal-header">
+                <div class="modal-title" id="modalTitle">药品详情</div>
+                <div>
+                    <button class="favorite-btn" id="modalFavoriteBtn" onclick="toggleFavoriteFromModal()">⭐</button>
+                    <button class="modal-close" onclick="closeModal()">✕</button>
+                </div>
+            </div>
+            <div class="modal-body" id="modalBody"></div>
+        </div>
+    </div>
+
+    <script>
+        // 药品数据（内嵌）
+        const DRUGS_DATA = [];
+        
+        // 从外部文件加载数据
+        function loadData() {
+            return fetch('data/drugs.js')
+                .then(r => r.text())
+                .then(text => {
+                    // 提取JSON数组
+                    const start = text.indexOf('[');
+                    const end = text.lastIndexOf(']');
+                    if (start !== -1 && end !== -1) {
+                        const jsonStr = text.substring(start, end + 1);
+                        return JSON.parse(jsonStr);
+                    }
+                    throw new Error('无法解析数据文件');
+                });
+        }
+        
+        // 全局状态
+        let currentPage = 1;
+        const pageSize = 20;
+        let currentDrugs = [];
+        let favorites = [];
+        let searchHistory = [];
+        let currentDrug = null;
+        
+        // 初始化
+        document.addEventListener('DOMContentLoaded', async function() {
+            try {
+                // 加载数据
+                const data = await loadData();
+                DRUGS_DATA.push(...data);
+                
+                // 加载localStorage
+                try {
+                    favorites = JSON.parse(localStorage.getItem('pharmacist_favorites') || '[]');
+                    searchHistory = JSON.parse(localStorage.getItem('pharmacist_history') || '[]');
+                } catch(e) {}
+                
+                // 隐藏加载，显示内容
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('drugList').style.display = 'block';
+                
+                init();
+            } catch (e) {
+                document.getElementById('loading').innerHTML = 
+                    '<div style="color:#DC2626;">加载失败: ' + e.message + '</div>' +
+                    '<div style="font-size:14px;margin-top:10px;">请确保通过HTTP服务器访问本页面</div>';
+            }
+        });
+        
+        function init() {
+            updateStats();
+            loadDrugs(DRUGS_DATA.slice(0, pageSize));
+            
+            const searchInput = document.getElementById('searchInput');
+            const clearBtn = document.getElementById('clearBtn');
+            
+            searchInput.addEventListener('input', function(e) {
+                const keyword = e.target.value.trim();
+                clearBtn.classList.toggle('visible', keyword.length > 0);
+                if (keyword) {
+                    loadDrugs(searchDrugs(keyword));
+                } else {
+                    currentPage = 1;
+                    loadDrugs(DRUGS_DATA.slice(0, pageSize));
+                }
+            });
+            
+            clearBtn.addEventListener('click', function() {
+                searchInput.value = '';
+                clearBtn.classList.remove('visible');
+                currentPage = 1;
+                loadDrugs(DRUGS_DATA.slice(0, pageSize));
+            });
+        }
+        
+        function searchDrugs(keyword) {
+            const results = DRUGS_DATA.filter(drug => {
+                return drug.name.includes(keyword) ||
+                       drug.dosage_form.includes(keyword) ||
+                       drug.manufacturers.some(m => m.includes(keyword)) ||
+                       drug.specifications.some(s => s.specification.includes(keyword));
+            });
+            if (results.length > 0 && !searchHistory.includes(keyword)) {
+                searchHistory.unshift(keyword);
+                if (searchHistory.length > 20) searchHistory.pop();
+                localStorage.setItem('pharmacist_history', JSON.stringify(searchHistory));
+            }
+            return results;
+        }
+        
+        function loadDrugs(drugs) {
+            currentDrugs = drugs;
+            const listEl = document.getElementById('drugList');
+            if (drugs.length === 0) {
+                listEl.innerHTML = '<div class="empty-state"><div class="empty-icon">🔍</div><div>未找到相关药品</div></div>';
+                updateSearchCount(0);
+                return;
+            }
+            listEl.innerHTML = drugs.map(drug => createDrugCard(drug)).join('');
+            updateSearchCount(drugs.length);
+            document.getElementById('loadMore').style.display = 
+                (drugs.length >= pageSize && drugs.length < DRUGS_DATA.length) ? 'block' : 'none';
+        }
+        
+        function createDrugCard(drug) {
+            const tagsHtml = drug.types.map(t => `<span class="tag tag-${t}">${t}</span>`).join('');
+            const specBadge = drug.spec_count > 1 ? `<span style="background:#E0F2FE;color:#0891B2;font-size:11px;padding:2px 8px;border-radius:10px;margin-left:8px;">${drug.spec_count}个规格</span>` : '';
+            const prices = drug.specifications.map(s => s.price).filter(p => p > 0);
+            const priceText = prices.length === 0 ? '暂无价格' : prices.length === 1 ? `¥${prices[0].toFixed(2)}` : `¥${Math.min(...prices).toFixed(2)}起`;
+            const mfrText = drug.manufacturers.length > 2 ? `${drug.manufacturers[0]}等${drug.manufacturers.length}家` : drug.manufacturers.join('、');
+            
+            return `<div class="drug-card" onclick="showDrugDetail(${drug.id})">
+                <div class="drug-header">
+                    <div class="drug-name">${drug.name}${specBadge}</div>
+                    <div class="drug-tags">${tagsHtml}</div>
+                </div>
+                <div class="drug-info">
+                    <div class="drug-info-item">💊 ${drug.dosage_form}</div>
+                    <div class="drug-info-item">🏭 ${mfrText}</div>
+                    <div class="drug-info-item drug-price">💰 ${priceText}</div>
+                </div>
+            </div>`;
+        }
+        
+        function loadMore() {
+            currentPage++;
+            const more = DRUGS_DATA.slice((currentPage-1)*pageSize, currentPage*pageSize);
+            document.getElementById('drugList').innerHTML += more.map(d => createDrugCard(d)).join('');
+            if (currentPage*pageSize >= DRUGS_DATA.length) {
+                document.getElementById('loadMore').style.display = 'none';
+            }
+        }
+        
+        function showDrugDetail(id) {
+            const drug = DRUGS_DATA.find(d => d.id === id);
+            if (!drug) return;
+            currentDrug = drug;
+            document.getElementById('modalTitle').textContent = drug.name + ' ' + drug.dosage_form;
+            document.getElementById('modalFavoriteBtn').classList.toggle('active', favorites.includes(drug.id));
+            
+            const tagsHtml = drug.types.map(t => `<span class="tag tag-${t}">${t}</span>`).join('');
+            const specsHtml = drug.specifications.map((s, i) => `
+                <div style="background:${i%2?'white':'#F8FAFC'};padding:12px;border-radius:8px;margin-bottom:8px;">
+                    <div style="display:flex;justify-content:space-between;font-weight:600;">
+                        <span style="color:#164E63;">${s.specification}</span>
+                        <span style="color:#0891B2;">¥${s.price.toFixed(2)}</span>
+                    </div>
+                    <div style="font-size:13px;color:#64748B;margin-top:4px;">🏭 ${s.manufacturer}</div>
+                </div>
+            `).join('');
+            
+            const manual = drug.manual || {};
+            let manualHtml = '';
+            if (manual.indications) manualHtml += `<div class="detail-section"><div class="detail-section-title">📋 适应症</div><div class="detail-section-content">${manual.indications}</div></div>`;
+            if (manual.dosage) manualHtml += `<div class="detail-section"><div class="detail-section-title">💉 用法用量</div><div class="detail-section-content">${manual.dosage}</div></div>`;
+            if (!manual.indications && !manual.dosage) manualHtml = '<div class="empty-state" style="padding:40px 0;"><div class="empty-icon">📖</div><div>暂无详细手册数据</div></div>';
+            
+            document.getElementById('modalBody').innerHTML = `
+                <div class="detail-info-grid">
+                    <div class="detail-info-item"><div class="detail-info-label">剂型</div><div class="detail-info-value">${drug.dosage_form}</div></div>
+                    <div class="detail-info-item"><div class="detail-info-label">规格数</div><div class="detail-info-value">${drug.spec_count}个</div></div>
+                    <div class="detail-info-item"><div class="detail-info-label">厂家数</div><div class="detail-info-value">${drug.manufacturers.length}家</div></div>
+                    <div class="detail-info-item"><div class="detail-info-label">类型</div><div class="detail-info-value">${tagsHtml}</div></div>
+                </div>
+                <div class="detail-section"><div class="detail-section-title">📋 规格与价格</div><div style="max-height:300px;overflow-y:auto;">${specsHtml}</div></div>
+                ${manualHtml}
+            `;
+            document.getElementById('drugModal').classList.add('active');
+        }
+        
+        function closeModal(e) { if (!e || e.target.id === 'drugModal') { document.getElementById('drugModal').classList.remove('active'); currentDrug = null; } }
+        function toggleFavoriteFromModal() { if (!currentDrug) return; const i = favorites.indexOf(currentDrug.id); if (i > -1) favorites.splice(i, 1); else favorites.push(currentDrug.id); localStorage.setItem('pharmacist_favorites', JSON.stringify(favorites)); document.getElementById('modalFavoriteBtn').classList.toggle('active'); updateStats(); }
+        function showHome() { switchTab('home'); document.getElementById('mainContent').style.display = 'block'; document.getElementById('favoritesContent').style.display = 'none'; document.getElementById('historyContent').style.display = 'none'; document.querySelector('.search-container').style.display = 'block'; document.getElementById('statsBar').style.display = 'flex'; }
+        function showFavorites() { switchTab('favorites'); document.getElementById('mainContent').style.display = 'none'; document.getElementById('favoritesContent').style.display = 'block'; document.getElementById('historyContent').style.display = 'none'; document.querySelector('.search-container').style.display = 'none'; document.getElementById('statsBar').style.display = 'none'; loadFavorites(); }
+        function loadFavorites() { const list = document.getElementById('favoritesList'), empty = document.getElementById('emptyFavorites'); if (favorites.length === 0) { list.innerHTML = ''; empty.style.display = 'block'; return; } empty.style.display = 'none'; list.innerHTML = DRUGS_DATA.filter(d => favorites.includes(d.id)).map(d => createDrugCard(d)).join(''); }
+        function showHistory() { switchTab('history'); document.getElementById('mainContent').style.display = 'none'; document.getElementById('favoritesContent').style.display = 'none'; document.getElementById('historyContent').style.display = 'block'; document.querySelector('.search-container').style.display = 'none'; document.getElementById('statsBar').style.display = 'none'; loadHistory(); }
+        function loadHistory() { const list = document.getElementById('historyList'), empty = document.getElementById('emptyHistory'); if (searchHistory.length === 0) { list.innerHTML = ''; empty.style.display = 'block'; return; } empty.style.display = 'none'; list.innerHTML = searchHistory.map(k => `<div class="history-item" onclick="searchFromHistory('${k}')"><span style="color:#164E63;">${k}</span><span style="color:#94A3B8;">🔍</span></div>`).join(''); }
+        function searchFromHistory(k) { showHome(); document.getElementById('searchInput').value = k; document.getElementById('clearBtn').classList.add('visible'); loadDrugs(searchDrugs(k)); }
+        function switchTab(tab) { document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active')); const tabs = ['home','favorites','history']; const i = tabs.indexOf(tab); if (i > -1) document.querySelectorAll('.nav-item')[i].classList.add('active'); }
+        function updateStats() { document.getElementById('totalCount').textContent = DRUGS_DATA.length; document.getElementById('favCount').textContent = favorites.length; }
+        function updateSearchCount(c) { document.getElementById('searchCount').textContent = c; }
+    </script>
+</body>
+</html>

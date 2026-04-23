@@ -1,0 +1,56 @@
+{
+  "id": 533,
+  "name": "灵泽片",
+  "dosage_form": "片",
+  "full_name": "(甲)灵泽片[国基]",
+  "chemical_name": "灵泽片",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "浙江佐力药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.58g/片",
+      "manufacturer": "浙江佐力药业",
+      "full_manufacturer": "浙江佐力药业股份有限公司",
+      "price": 87.96,
+      "unit": "盒",
+      "code": "C00037",
+      "approval_number": "国药准字Z20110050",
+      "insurance_code": "ZA16GAL0451010304761",
+      "location": "L-6"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "益肾活血，散结利水。用于轻中度良性前列腺增生肾虚血瘀湿阻证出现的尿频，排尿困难，尿线变细，淋漓不尽，腰膝酸软等症。",
+    "dosage": "口服。一次4片，一日3次。疗程为6周。",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "1.部分患者用药后出现口干、呃逆、恶心、胃胀、胃酸、胃痛、腹泻等。 2.少数患者用药后出现ALT、AST升高。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "有胃十二指肠溃疡以及各种急慢性胃炎、肠炎者慎用。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情咨询药师或医师。",
+    "source": "湖南药事服务网",
+    "full_indications": "益肾活血，散结利水。用于轻中度良性前列腺增生肾虚血瘀湿阻证出现的尿频，排尿困难，尿线变细，淋漓不尽，腰膝酸软等症。",
+    "full_dosage": "口服。一次4片，一日3次。疗程为6周。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "1.部分患者用药后出现口干、呃逆、恶心、胃胀、胃酸、胃痛、腹泻等。 2.少数患者用药后出现ALT、AST升高。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "有胃十二指肠溃疡以及各种急慢性胃炎、肠炎者慎用。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "composition": "乌灵菌粉、莪术、浙贝母、泽泻。"
+  },
+  "pinyin": "lingze",
+  "pinyin_initials": "lz",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=8135",
+    "last_updated": "2026-03-21"
+  }
+}

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>药品追溯码盘点系统</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #333;
+        }
+        
+        .container {
+            text-align: center;
+            padding: 40px;
+        }
+        
+        .logo {
+            font-size: 80px;
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            color: white;
+            font-size: 36px;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.2);
+        }
+        
+        .subtitle {
+            color: rgba(255,255,255,0.9);
+            font-size: 18px;
+            margin-bottom: 40px;
+        }
+        
+        .cards {
+            display: flex;
+            gap: 30px;
+            justify-content: center;
+            flex-wrap: wrap;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            width: 280px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+        }
+        
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        .card-icon {
+            font-size: 60px;
+            margin-bottom: 20px;
+        }
+        
+        .card h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: #2c3e50;
+        }
+        
+        .card p {
+            color: #7f8c8d;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        
+        .features {
+            margin-top: 60px;
+            color: rgba(255,255,255,0.9);
+        }
+        
+        .features h3 {
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .feature-list {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            flex-wrap: wrap;
+        }
+        
+        .feature-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 16px;
+        }
+        
+        .footer {
+            margin-top: 60px;
+            color: rgba(255,255,255,0.7);
+            font-size: 14px;
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 28px;
+            }
+            
+            .cards {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .card {
+                width: 90%;
+                max-width: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">📦</div>
+        <h1>药品追溯码盘点系统</h1>
+        <p class="subtitle">基于追溯码的智能药品盘点与养护管理</p>
+        
+        <div class="cards">
+            <a href="/mobile" class="card">
+                <div class="card-icon">📱</div>
+                <h2>移动端盘点</h2>
+                <p>使用手机扫描药品追溯码<br>快速完成药品盘点和养护记录</p>
+            </a>
+            
+            <a href="/admin" class="card">
+                <div class="card-icon">💻</div>
+                <h2>管理后台</h2>
+                <p>查看盘点数据、生成报表<br>管理货架和药品信息</p>
+            </a>
+        </div>
+        
+        <div class="features">
+            <h3>系统特点</h3>
+            <div class="feature-list">
+                <div class="feature-item">
+                    <span>✅</span> 扫码识别追溯码
+                </div>
+                <div class="feature-item">
+                    <span>✅</span> 实时数据同步
+                </div>
+                <div class="feature-item">
+                    <span>✅</span> 多货架管理
+                </div>
+                <div class="feature-item">
+                    <span>✅</span> 盘点养护一体
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>本机服务器版本 | 测试稳定后可部署到云服务器</p>
+        </div>
+    </div>
+</body>
+</html>

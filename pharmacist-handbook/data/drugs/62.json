@@ -1,0 +1,50 @@
+{
+  "id": 62,
+  "name": "盐酸奥布卡因滴眼液",
+  "dosage_form": "滴眼液",
+  "full_name": "(乙10%)盐酸奥布卡因滴眼液",
+  "chemical_name": "盐酸奥布卡因滴眼液",
+  "types": [],
+  "manufacturers": [
+    "Santen Pharmaceutical Co.,Ltd."
+  ],
+  "specifications": [
+    {
+      "specification": "0.5ml/支",
+      "manufacturer": "Santen Pharmaceutical Co.,Ltd.",
+      "full_manufacturer": "Santen Pharmaceutical Co.,Ltd.(Santen Pharmaceutical Co.,Ltd. Noto Plant)",
+      "price": 148.8,
+      "unit": "盒",
+      "code": "Y00000014900",
+      "approval_number": "国药准字HJ20215002",
+      "insurance_code": "XS01HAA203G010010183504"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于眼科手术或眼部处理（如眼压测量，前房角镜检查，去角膜异物等）前表面麻醉。",
+    "dosage": "滴入眼睑内：一次1～4滴，可根据年龄、病情增减。①清除眼内深部异物、前房诊断穿刺及翼状胬肉、睑腺炎等手术麻醉：一次1滴，每30秒1次，连续滴5～10次。②清除角膜浅处异物、泪道导管插入手术及结膜下或球后注射麻醉：在5分钟内连滴3次，一次1～2滴。③侧眼压、眼检查及置入隐形眼镜麻醉：一次1～2滴，1分钟后即可检查。    也可以1％溶液用于耳鼻喉科表面麻醉。",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "偶见过敏反应，应立即停药，及时对症处理；本品反复多次应用可能导致角膜炎和角膜严重损害。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品是一种作用迅速、扩散面广、对组织穿透力强及毒性低的新型酯类表面麻醉剂，在相同浓度下下，其结膜麻醉时的刺激性比丁卡因小。滴入眼内平均24秒发生作用，无痛持续时间约10～20分钟。不影响瞳孔直径、调节功能、光觉及眼压。对角膜上皮的毒性和损伤极小，术中很少引起角膜上皮混浊。对结膜、角膜、巩膜、虹膜和睫",
+    "precautions": "患心脏疾患、甲状腺功能亢进或溃疡的患者慎用。孕妇及高龄患者慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于眼科手术或眼部处理（如眼压测量，前房角镜检查，去角膜异物等）前表面麻醉。",
+    "full_dosage": "滴入眼睑内：一次1～4滴，可根据年龄、病情增减。①清除眼内深部异物、前房诊断穿刺及翼状胬肉、睑腺炎等手术麻醉：一次1滴，每30秒1次，连续滴5～10次。②清除角膜浅处异物、泪道导管插入手术及结膜下或球后注射麻醉：在5分钟内连滴3次，一次1～2滴。③侧眼压、眼检查及置入隐形眼镜麻醉：一次1～2滴，1分钟后即可检查。    也可以1％溶液用于耳鼻喉科表面麻醉。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "偶见过敏反应，应立即停药，及时对症处理；本品反复多次应用可能导致角膜炎和角膜严重损害。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品是一种作用迅速、扩散面广、对组织穿透力强及毒性低的新型酯类表面麻醉剂，在相同浓度下下，其结膜麻醉时的刺激性比丁卡因小。滴入眼内平均24秒发生作用，无痛持续时间约10～20分钟。不影响瞳孔直径、调节功能、光觉及眼压。对角膜上皮的毒性和损伤极小，术中很少引起角膜上皮混浊。对结膜、角膜、巩膜、虹膜和睫状体均有麻醉作用。",
+    "full_precautions": "患心脏疾患、甲状腺功能亢进或溃疡的患者慎用。孕妇及高龄患者慎用。"
+  },
+  "pinyin": "yansuanaobukayin",
+  "pinyin_initials": "ysabky",
+  "dosage_form_pinyin": "diyanye",
+  "dosage_form_initials": "dyy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2874",
+    "last_updated": "2026-03-22"
+  }
+}

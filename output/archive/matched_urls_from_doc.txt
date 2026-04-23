@@ -1,0 +1,749 @@
+================================================================================
+通过名称匹配找到的网址
+================================================================================
+
+ID 69: ※▲维立西呱
+  匹配文档中的: ※▲维立西呱
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=13544
+
+ID 166: 双氯芬酸二乙胺乳胶剂
+  匹配文档中的: 双氯芬酸二乙胺乳胶剂
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2699
+
+ID 309: 注射用环磷酰胺
+  匹配文档中的: 注射用环磷酰胺
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2462
+
+ID 335: 妥布霉素
+  匹配文档中的: 妥布霉素
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1983
+
+ID 355: 复方阿嗪米特
+  匹配文档中的: 复方阿嗪米特
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=504
+
+ID 356: 注射用曲妥珠单抗
+  匹配文档中的: 注射用曲妥珠单抗
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3567
+
+ID 358: 草乌甲素软
+  匹配文档中的: 草乌甲素软
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1034
+
+ID 359: 醋酸阿比特龙
+  匹配文档中的: 醋酸阿比特龙
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2630
+
+ID 360: 氯膦酸二钠
+  匹配文档中的: 氯膦酸二钠
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1450
+
+ID 361: 注射用硫普罗宁
+  匹配文档中的: 注射用硫普罗宁
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=633
+
+ID 362: 胶原酶
+  匹配文档中的: 胶原酶
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3662
+
+ID 363: ※▲注射用重组人脑利钠肽
+  匹配文档中的: ※▲注射用重组人脑利钠肽
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=20
+
+ID 364: 柑橘黄酮
+  匹配文档中的: 柑橘黄酮
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=13203
+
+ID 365: ※▲谷胱甘肽
+  匹配文档中的: ※▲谷胱甘肽
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=635
+
+ID 366: 茴三硫
+  匹配文档中的: 茴三硫
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=599
+
+ID 367: ※▲帕妥珠单抗
+  匹配文档中的: ※▲帕妥珠单抗
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=12828
+
+ID 368: 炉甘石
+  匹配文档中的: 炉甘石
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2959
+
+ID 369: 盐酸多巴酚丁胺
+  匹配文档中的: 盐酸多巴酚丁胺
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=149
+
+ID 370: 盐酸伊立替康
+  匹配文档中的: 盐酸伊立替康
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2539
+
+ID 373: ※▲法瑞西单抗
+  匹配文档中的: ※▲法瑞西单抗
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=13732
+
+ID 374: 盐酸多巴胺
+  匹配文档中的: 盐酸多巴胺
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=148
+
+ID 375: ※▲盐酸右美托咪定氯化钠
+  匹配文档中的: ※▲盐酸右美托咪定氯化钠
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2922
+
+ID 376: ※▲盐酸右美托咪定鼻
+  匹配文档中的: ※▲盐酸右美托咪定鼻
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2922
+
+ID 377: 琥珀酸地文拉法辛
+  匹配文档中的: 琥珀酸地文拉法辛
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=13270
+
+ID 379: 富马酸奥赛利定
+  匹配文档中的: 富马酸奥赛利定
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=13627
+
+ID 380: 盐酸丙卡特罗吸入溶液
+  匹配文档中的: 盐酸丙卡特罗吸入溶液
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1607
+
+ID 381: 盐酸溴己新
+  匹配文档中的: 盐酸溴己新
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1584
+
+ID 382: 开塞露
+  匹配文档中的: 开塞露
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=571
+
+ID 393: 普罗雌烯阴道胶
+  匹配文档中的: 普罗雌烯阴道胶
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1405
+
+ID 399: 帕博利珠单抗
+  匹配文档中的: 帕博利珠单抗
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=11290
+
+ID 400: 注射用鹿瓜多肽
+  匹配文档中的: 注射用鹿瓜多肽
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3632
+
+ID 402: ※▲聚乙二醇化重组人粒细胞刺激因子
+  匹配文档中的: ※▲聚乙二醇化重组人粒细胞刺激因子
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=7938
+
+ID 405: ※▲榄香烯口服乳
+  匹配文档中的: ※▲榄香烯口服乳
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2551
+
+ID 406: 大蒜素
+  匹配文档中的: 大蒜素
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2124
+
+ID 409: 醋酸甲羟孕酮
+  匹配文档中的: 醋酸甲羟孕酮
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1414
+
+ID 412: 醋酸戈舍瑞林缓释植入剂
+  匹配文档中的: 醋酸戈舍瑞林缓释植入剂
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1280
+
+ID 413: ※▲复方甘草酸苷
+  匹配文档中的: ※▲复方甘草酸苷
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=623
+
+ID 414: 苹果酸舒尼替尼
+  匹配文档中的: 苹果酸舒尼替尼
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2599
+
+ID 415: 马来酸氯苯那敏
+  匹配文档中的: 马来酸氯苯那敏
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2641
+
+ID 416: ※▲氢醌
+  匹配文档中的: ※▲氢醌
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2965
+
+ID 417: 复方肝素钠尿囊素
+  匹配文档中的: 复方肝素钠尿囊素
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2963
+
+ID 418: 白芍总苷
+  匹配文档中的: 白芍总苷
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2843
+
+ID 421: ※▲西妥昔单抗
+  匹配文档中的: ※▲西妥昔单抗
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3568
+
+ID 424: ※▲人生长激素
+  匹配文档中的: ※▲人生长激素
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1291
+
+ID 427: 盐酸小檗碱
+  匹配文档中的: 盐酸小檗碱
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2121
+
+ID 428: 盐酸乙哌立松
+  匹配文档中的: 盐酸乙哌立松
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=914
+
+ID 430: 盐酸异丙嗪
+  匹配文档中的: 盐酸异丙嗪
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2652
+
+ID 436: ※▲甲苯磺酸多纳非尼
+  匹配文档中的: ※▲甲苯磺酸多纳非尼
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=13105
+
+ID 442: 尿素胶囊呼气试验药盒
+  匹配文档中的: 尿素胶囊呼气试验药盒
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=10543
+
+ID 443: 尿素
+  匹配文档中的: 尿素
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1749
+
+ID 445: 二羟丙茶碱
+  匹配文档中的: 二羟丙茶碱
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1600
+
+ID 446: 非布司他
+  匹配文档中的: 非布司他
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2852
+
+ID 448: 阿达帕林
+  匹配文档中的: 阿达帕林
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2942
+
+ID 449: 盐酸特比萘芬
+  匹配文档中的: 盐酸特比萘芬
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2198
+
+ID 450: 维生素B6
+  匹配文档中的: 维生素B6
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3074
+
+ID 451: 复方甘草酸苷
+  匹配文档中的: ※▲复方甘草酸苷
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=623
+
+ID 452: 曲安奈德益康唑
+  匹配文档中的: 曲安奈德益康唑
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1261
+
+ID 453: 卤米松
+  匹配文档中的: 卤米松
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1244
+
+ID 454: 哈西奈德溶液
+  匹配文档中的: 哈西奈德溶液
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1250
+
+ID 456: 盐酸利多卡因胶浆
+  匹配文档中的: 盐酸利多卡因胶浆
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2864
+
+ID 457: 盐酸罗哌卡因
+  匹配文档中的: 盐酸罗哌卡因
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2871
+
+ID 458: 盐酸洛贝林
+  匹配文档中的: 盐酸洛贝林
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=941
+
+ID 459: 盐酸麻黄碱
+  匹配文档中的: 盐酸麻黄碱
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1626
+
+ID 460: 盐酸吗啡
+  匹配文档中的: 盐酸吗啡
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1003
+
+ID 462: 复方盐酸阿米洛利
+  匹配文档中的: 复方盐酸阿米洛利
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1738
+
+ID 463: 盐酸曲唑酮
+  匹配文档中的: 盐酸曲唑酮
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=824
+
+ID 465: ※※▲注射用两性霉素B
+  匹配文档中的: ※※▲注射用两性霉素B
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2168
+
+ID 466: 蔗糖铁
+  匹配文档中的: 蔗糖铁
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1182
+
+ID 467: ※▲罗沙司他
+  匹配文档中的: ※▲罗沙司他
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=12904
+
+ID 469: ※▲氟康唑
+  匹配文档中的: ※▲氟康唑
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2178
+
+ID 470: 氯雷他定
+  匹配文档中的: 氯雷他定
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2661
+
+ID 471: 氯雷他定
+  匹配文档中的: 氯雷他定
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2661
+
+ID 475: 硫酸庆大霉素
+  匹配文档中的: 硫酸庆大霉素
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1977
+
+ID 479: 盐酸特比萘芬
+  匹配文档中的: 盐酸特比萘芬
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2198
+
+ID 480: 盐酸特拉唑嗪
+  匹配文档中的: 盐酸特拉唑嗪
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1760
+
+ID 481: 盐酸替罗非班氯化钠
+  匹配文档中的: 盐酸替罗非班氯化钠
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1172
+
+ID 482: 马来酸噻吗洛尔
+  匹配文档中的: 马来酸噻吗洛尔
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2984
+
+ID 483: 马破伤风免疫球蛋白2)
+  匹配文档中的: 马破伤风免疫球蛋白2)
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=13395
+
+ID 484: 迈之灵
+  匹配文档中的: 迈之灵
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=13398
+
+ID 486: 盐酸雷洛昔芬
+  匹配文档中的: 盐酸雷洛昔芬
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2584
+
+ID 491: 注射用人白介素-11
+  匹配文档中的: 注射用人白介素-11
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3543
+
+ID 493: 阿昔洛韦
+  匹配文档中的: 阿昔洛韦
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2234
+
+ID 496: 夫西地酸
+  匹配文档中的: 夫西地酸
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2119
+
+ID 497: 卡泊三醇
+  匹配文档中的: 卡泊三醇
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2945
+
+ID 532: 注射用阿昔洛韦
+  匹配文档中的: 注射用阿昔洛韦
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2234
+
+ID 539: ※▲注射用曲克芦丁
+  匹配文档中的: ※▲注射用曲克芦丁
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=379
+
+ID 548: ※▲依达拉奉右莰醇注射用浓溶液
+  匹配文档中的: ※▲依达拉奉右莰醇注射用浓溶液
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=13176
+
+ID 580: 注射用舒巴坦钠
+  匹配文档中的: 注射用舒巴坦钠
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1933
+
+ID 584: 盐酸二甲双胍
+  匹配文档中的: ※盐酸二甲双胍
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1333
+
+ID 588: ※盐酸二甲双胍
+  匹配文档中的: ※盐酸二甲双胍
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1333
+
+ID 603: ※沙格列汀二甲双胍
+  匹配文档中的: ※沙格列汀二甲双胍
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=9011
+
+ID 616: 瑞舒伐他汀钙
+  匹配文档中的: 瑞舒伐他汀钙
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=313
+
+ID 623: 盐酸美金刚口溶膜
+  匹配文档中的: 盐酸美金刚口溶膜
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=910
+
+ID 630: 注射用戈那瑞林
+  匹配文档中的: 注射用戈那瑞林
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1278
+
+ID 640: 人血白蛋白
+  匹配文档中的: 人血白蛋白
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3510
+
+ID 650: 米诺地尔酊
+  匹配文档中的: 米诺地尔酊
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=239
+
+ID 657: 注射用头孢地嗪钠/氯化钠
+  匹配文档中的: 注射用头孢地嗪钠/氯化钠
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1916
+
+ID 659: ※▲先诺特韦片/利托那韦片组合包装
+  匹配文档中的: ※▲先诺特韦片/利托那韦片组合包装
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=13601
+
+ID 662: 利格列汀二甲双胍
+  匹配文档中的: 利格列汀二甲双胍
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=9015
+
+ID 673: 盐酸氟西汀
+  匹配文档中的: 盐酸氟西汀
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=815
+
+ID 694: 注射用六氟化硫微泡
+  匹配文档中的: 注射用六氟化硫微泡
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3332
+
+ID 734: 注射用双羟萘酸曲普瑞林
+  匹配文档中的: 注射用双羟萘酸曲普瑞林
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1282
+
+ID 737: 注射用尿激酶
+  匹配文档中的: 注射用尿激酶
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1146
+
+ID 740: 注射用胸腺五肽
+  匹配文档中的: 注射用胸腺五肽
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3627
+
+ID 743: 注射用甲苯磺酸奥马环素
+  匹配文档中的: 注射用甲苯磺酸奥马环素
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=13087
+
+ID 761: 阿昔洛韦
+  匹配文档中的: 阿昔洛韦
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2234
+
+ID 777: 注射用生长抑素
+  匹配文档中的: 注射用生长抑素
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=663
+
+ID 778: 丙戊酸钠注射用浓溶液
+  匹配文档中的: 丙戊酸钠注射用浓溶液
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=857
+
+ID 787: 注射用氨曲南
+  匹配文档中的: 注射用氨曲南
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1973
+
+ID 796: 阿立哌唑口溶膜
+  匹配文档中的: 阿立哌唑口溶膜
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=786
+
+ID 801: 蓖麻油
+  匹配文档中的: 蓖麻油
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=578
+
+ID 802: 注射用头孢噻肟钠他唑巴坦钠
+  匹配文档中的: 注射用头孢噻肟钠他唑巴坦钠
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1951
+
+ID 808: ※▲注射用尤瑞克林
+  匹配文档中的: ※▲注射用尤瑞克林
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3659
+
+ID 816: 注射用醋酸地加瑞克
+  匹配文档中的: 注射用醋酸地加瑞克
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=12868
+
+ID 817: ※▲注射用盐酸万古霉素
+  匹配文档中的: ※▲注射用盐酸万古霉素
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2041
+
+ID 818: 注射用盐酸表柔比星
+  匹配文档中的: 注射用盐酸表柔比星
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2518
+
+ID 850: 外用人表皮生长因子
+  匹配文档中的: 外用人表皮生长因子
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3551
+
+ID 858: 注射用胶原酶
+  匹配文档中的: 注射用胶原酶
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3662
+
+ID 886: 注射用伏立康唑
+  匹配文档中的: 注射用伏立康唑
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2180
+
+ID 899: 注射用甲磺酸齐拉西酮
+  匹配文档中的: 注射用甲磺酸齐拉西酮
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=782
+
+ID 908: 格列喹酮
+  匹配文档中的: 格列喹酮
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1327
+
+ID 910: 谷维素
+  匹配文档中的: 谷维素
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=839
+
+ID 911: 过氧化氢溶液
+  匹配文档中的: 过氧化氢溶液
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2409
+
+ID 912: 肝素钠
+  匹配文档中的: 肝素钠
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1120
+
+ID 915: 注射用培美曲塞二钠
+  匹配文档中的: 注射用培美曲塞二钠
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2494
+
+ID 931: 碘酊
+  匹配文档中的: 碘酊
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=2432
+
+ID 975: 己酮可可碱
+  匹配文档中的: 己酮可可碱
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=375
+
+ID 985: ※注射用英夫利西单抗
+  匹配文档中的: ※注射用英夫利西单抗
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=3565
+
+ID 1007: 注射用哌拉西林钠他唑巴坦钠
+  匹配文档中的: 注射用哌拉西林钠他唑巴坦钠
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1949
+
+ID 1031: ※注射用头孢哌酮钠舒巴坦钠
+  匹配文档中的: 注射用头孢哌酮钠舒巴坦钠
+  相似度: 1.00
+  网址: https://www.hnysfww.com/goods.php?id=1944
+
+ID 746: 骨化三醇胶
+  匹配文档中的: ※▲骨化三醇
+  相似度: 0.89
+  网址: https://www.hnysfww.com/goods.php?id=3090
+
+ID 819: 注射用盐酸多柔比星
+  匹配文档中的: 注射用盐酸表柔比星
+  相似度: 0.89
+  网址: https://www.hnysfww.com/goods.php?id=2518
+
+ID 824: 枣仁安神
+  匹配文档中的: 枣仁安神液
+  相似度: 0.89
+  网址: https://www.hnysfww.com/goods.php?id=7505
+
+ID 596: ※▲醋酸甲地孕酮
+  匹配文档中的: 醋酸甲地孕酮分散
+  相似度: 0.86
+  网址: https://www.hnysfww.com/goods.php?id=1420
+
+ID 924: 注射用头孢哌酮钠舒巴坦钠/氯化钠
+  匹配文档中的: 注射用头孢哌酮钠舒巴坦钠
+  相似度: 0.86
+  网址: https://www.hnysfww.com/goods.php?id=1944
+
+ID 582: 人纤维蛋白粘
+  匹配文档中的: 人纤维蛋白原
+  相似度: 0.83
+  网址: https://www.hnysfww.com/goods.php?id=3518
+
+ID 593: 利多卡因
+  匹配文档中的: ※▲利多卡因凝胶
+  相似度: 0.80
+  网址: https://www.hnysfww.com/goods.php?id=2864
+
+ID 695: 复方托吡卡胺
+  匹配文档中的: 托吡卡胺
+  相似度: 0.80
+  网址: https://www.hnysfww.com/goods.php?id=3009
+
+ID 720: 复方甘草
+  匹配文档中的: ※▲复方甘草酸苷
+  相似度: 0.80
+  网址: https://www.hnysfww.com/goods.php?id=623
+
+ID 956: 克林霉素磷酸酯外用溶液
+  匹配文档中的: 克林霉素磷酸酯
+  相似度: 0.78
+  网址: https://www.hnysfww.com/goods.php?id=2038
+
+ID 820: 盐酸美金刚
+  匹配文档中的: 盐酸美金刚口溶膜
+  相似度: 0.77
+  网址: https://www.hnysfww.com/goods.php?id=910
+
+ID 926: 盐酸纳洛酮
+  匹配文档中的: 注射用盐酸纳洛酮
+  相似度: 0.77
+  网址: https://www.hnysfww.com/goods.php?id=3284
+
+ID 957: 维A酸
+  匹配文档中的: 异维A酸软
+  相似度: 0.75
+  网址: https://www.hnysfww.com/goods.php?id=2941
+
+ID 765: ※▲※注射用头孢他啶
+  匹配文档中的: ※▲注射用头孢他啶阿维巴坦钠
+  相似度: 0.74
+  网址: https://www.hnysfww.com/goods.php?id=1954
+
+ID 607: ※▲注射用紫杉醇
+  匹配文档中的: ※▲注射用紫杉醇聚合物胶束
+  相似度: 0.71
+  网址: https://www.hnysfww.com/goods.php?id=13853
+
+ID 840: 0.3%玻璃酸钠
+  匹配文档中的: 玻璃酸钠
+  相似度: 0.67
+  网址: https://www.hnysfww.com/goods.php?id=2840
+
+ID 1011: 凝血酶
+  匹配文档中的: ※▲重组人凝血酶
+  相似度: 0.67
+  网址: https://www.hnysfww.com/goods.php?id=13851
+
+ID 512: 丙戊酸钠
+  匹配文档中的: 丙戊酸钠注射用浓溶液
+  相似度: 0.57
+  网址: https://www.hnysfww.com/goods.php?id=857
+
+ID 513: 丙戊酸钠
+  匹配文档中的: 丙戊酸钠注射用浓溶液
+  相似度: 0.57
+  网址: https://www.hnysfww.com/goods.php?id=857
+

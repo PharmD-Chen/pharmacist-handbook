@@ -1,0 +1,52 @@
+{
+  "id": 666,
+  "name": "心可宁胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)心可宁胶囊",
+  "chemical_name": "心可宁胶囊",
+  "types": [],
+  "manufacturers": [
+    "河北国金药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.4g/粒",
+      "manufacturer": "河北国金药业",
+      "full_manufacturer": "河北国金药业有限责任公司",
+      "price": 245.0,
+      "unit": "盒",
+      "code": "C00039",
+      "approval_number": "国药准字Z19993008",
+      "insurance_code": "ZA12FAX0622020102611",
+      "location": "K-1",
+      "outpatient_location": "K-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "益气活血，通脉止痛。用于气虚血瘀、痹阻心脉所致的胸痹，症见胸闷心痛，心悸气短，痛处固定 冠心病、心绞痛见上述证候者。",
+    "dosage": "口服：一次2粒，一日3次。 剂型与规格 胶囊剂 0.4g ZA12F乙0547 5% 哪儿有",
+    "contraindications": "对本品过敏者禁用；出血性疾病及妇女月经期禁用。",
+    "adverse_reactions": "尚不明确。 禁忌症 对本品过敏者禁用；出血性疾病及妇女月经期禁用。",
+    "interactions": "1.慎与洋地黄类药品同用。 2.如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。 用法与用量 口服：一次2粒，一日3次。 剂型与规格 胶囊剂 0.4g ZA12F乙0547 5% 哪儿有",
+    "pregnancy_category": "",
+    "pharmacokinetics": "丹参、三七、冰片、水牛角浓缩粉、蟾酥、红花、牛黄、人参须。",
+    "precautions": "尚不明确。 药物相互作用 1.慎与洋地黄类药品同用。 2.如与其他药物同时使用可能会发生药物相互作用，详情咨询药师或医师。 用法与用量 口服：一次2粒，一日3次。 剂型与规格 胶囊剂 0.4g ZA12F乙0547 5% 哪儿有",
+    "source": "",
+    "full_indications": "益气活血，通脉止痛。用于气虚血瘀、痹阻心脉所致的胸痹，症见胸闷心痛，心悸气短，痛处固定；冠心病、心绞痛见上述证候者。",
+    "full_dosage": "口服：一次2粒，一日3次。 剂型与规格 胶囊剂 0.4g ZA12F乙0547 5% 哪儿有",
+    "full_contraindications": "对本品过敏者禁用；出血性疾病及妇女月经期禁用。",
+    "full_adverse_reactions": "尚不明确。 禁忌症 对本品过敏者禁用；出血性疾病及妇女月经期禁用。",
+    "full_precautions": "尚不明确。 药物相互作用 1.慎与洋地黄类药品同用。 2.如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。 用法与用量 口服：一次2粒，一日3次。 剂型与规格 胶囊剂 0.4g ZA12F乙0547 5% 哪儿有",
+    "full_pharmacokinetics": "丹参、三七、冰片、水牛角浓缩粉、蟾酥、红花、牛黄、人参须。",
+    "full_interactions": "1.慎与洋地黄类药品同用。 2.如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。 用法与用量 口服：一次2粒，一日3次。 剂型与规格 胶囊剂 0.4g ZA12F乙0547 5% 哪儿有",
+    "composition": "丹参、三七、冰片、水牛角浓缩粉、蟾酥、红花、牛黄、人参须。"
+  },
+  "pinyin": "xinkening",
+  "pinyin_initials": "xkn",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5393"
+  }
+}

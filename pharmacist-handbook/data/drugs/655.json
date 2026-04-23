@@ -1,0 +1,62 @@
+{
+  "id": 655,
+  "name": "甲磺酸仑伐替尼胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)甲磺酸仑伐替尼胶囊",
+  "chemical_name": "甲磺酸仑伐替尼胶囊",
+  "types": [],
+  "manufacturers": [
+    "Eisai Europe LimitedEisai Europe Limited\r\nEisai Europe Limited\r\nEisai Europe Limited\r\nEisai Europe Limited",
+    "先声药业"
+  ],
+  "specifications": [
+    {
+      "specification": "4mg/粒",
+      "manufacturer": "Eisai Europe LimitedEisai Europe Limited\r\nEisai Europe Limited\r\nEisai Europe Limited\r\nEisai Europe Limited",
+      "full_manufacturer": "Eisai Europe Limited（Eisai Co., Ltd.）Eisai Europe Limited（Eisai Co., Ltd.）\r\nEisai Europe Limited（Eisai Co., Ltd.）\r\nEisai Europe Limited（Eisai Co., Ltd.）\r\nEisai Europe Limited（Eisai Co., Ltd.）",
+      "price": 3240.0,
+      "unit": "盒",
+      "code": "X00963",
+      "approval_number": "国药准字HJ20200044",
+      "insurance_code": "XL01EXL369E001010183050"
+    },
+    {
+      "specification": "4mg/粒",
+      "manufacturer": "先声药业",
+      "full_manufacturer": "先声药业有限公司",
+      "price": 96.0,
+      "unit": "盒",
+      "code": "X00289",
+      "approval_number": "国药准字H20213599",
+      "insurance_code": "XL01EXL369E001010101594",
+      "location": "L-3"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "用于各种原因；各种原因引起的角膜上皮缺损。",
+    "dosage": "⑴外用，用生理盐水溶解本品，配制成浓度约为5000IU/ml的药液，每ml药液湿透约10cm²的双层纱布，敷于清创后的创面上，并按常规包扎。每日换药一次或遵医嘱。 推荐剂量为每100cm²创面使用凝胶10g。 ⑵滴眼：一次2～3滴，一日4次。",
+    "contraindications": "症 对rhEGF、甘油、甘露醇过敏者禁用。",
+    "adverse_reactions": "偶见轻度刺激症状，如刺痛、灼热感。",
+    "interactions": "rhEGF与蛋白变性剂或蛋白水解酶类外用药物同时使用时会影响药效。 给药说明 ⑴应注意清创、除痂。 ⑵感染性创面，用药同时应外敷1％磺胺嘧啶银霜纱布或与其他合适的抗感染药物配合使用。 ⑶供皮区创伤创面，用药同时可外敷凡士林油纱。 ⑷用药面积不超过20％全身体表面积时，未发现药物过量。暂无用药面积超过20％全身体表面积的临床病例资料。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "Tmax约0.5小时。",
+    "precautions": "给药说明 ⑴应注意清创、除痂。不宜与蛋白变性剂或蛋白水解酶类外用药物同时使用。",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴用于烧伤创面（包括浅Ⅱ度或深Ⅱ度烧伤创面）、残余小创面、供皮区新鲜创面等的治疗。 ⑵用于各种原因引起的角膜上皮缺损。[1.《中华人民共和国药典临床用药须知》（2015版）；2中华医学会眼科学分会白内障及人工晶状体学组《中国白内障围手术期干眼防治专家共识》(2021年)；3亚洲干眼协会中国分会，海峡两岸医药卫生交流协会眼科学专业委员会眼表与泪液病学组，中国医师协会眼科医师分会眼表与干眼学组《中国干眼专家共识:治疗(2020年)》]",
+    "full_pharmacokinetics": "达峰时间0.5小时，体内滞留时间2.76小时",
+    "full_dosage": "⑴外用，用生理盐水溶解本品，配制成浓度约为5000IU/ml的药液，每ml药液湿透约10cm²的双层纱布，敷于清创后的创面上，并按常规包扎。每日换药一次或遵医嘱。 推荐剂量为每100cm²创面使用凝胶10g。 ⑵滴眼：一次2～3滴，一日4次。",
+    "full_contraindications": "症 对rhEGF、甘油、甘露醇过敏者禁用。",
+    "full_adverse_reactions": "偶见轻度刺激症状，如刺痛、灼热感。",
+    "full_interactions": "rhEGF与蛋白变性剂或蛋白水解酶类外用药物同时使用时会影响药效。 给药说明 ⑴应注意清创、除痂。 ⑵感染性创面，用药同时应外敷1％磺胺嘧啶银霜纱布或与其他合适的抗感染药物配合使用。 ⑶供皮区创伤创面，用药同时可外敷凡士林油纱。 ⑷用药面积不超过20％全身体表面积时，未发现药物过量。暂无用药面积超过20％全身体表面积的临床病例资料。",
+    "full_precautions": "不宜与蛋白变性剂或蛋白水解酶类外用药物同时使用。 药物相互作用 rhEGF与蛋白变性剂或蛋白水解酶类外用药物同时使用时会影响药效。 给药说明 ⑴应注意清创、除痂。 ⑵感染性创面，用药同时应外敷1％磺胺嘧啶银霜纱布或与其他合适的抗感染药物配合使用。 ⑶供皮区创伤创面，用药同时可外敷凡士林油纱。 ⑷用药面积不超过20％全身体表面积时，未发现药物过量。暂无用药面积超过20％全身体表面积的临床病例资料。"
+  },
+  "pinyin": "jiahuangsuanlunfatini",
+  "pinyin_initials": "jhslftn",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3551",
+    "last_updated": "2026-03-21"
+  }
+}

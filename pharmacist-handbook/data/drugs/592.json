@@ -1,0 +1,62 @@
+{
+  "id": 592,
+  "name": "帕妥珠曲妥珠单抗注射液(皮下注射)",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)帕妥珠曲妥珠单抗注射液(皮下注射)",
+  "chemical_name": "帕妥珠曲妥珠单抗注射液(皮下注射)",
+  "types": [],
+  "manufacturers": [
+    "Roche PharmaAG"
+  ],
+  "specifications": [
+    {
+      "specification": "10ml/瓶",
+      "manufacturer": "Roche PharmaAG",
+      "full_manufacturer": "Roche Pharma（Schweiz）AG（F.Hoffmann-La Roche Ltd.）",
+      "price": 7567.0,
+      "unit": "盒",
+      "code": "X00743",
+      "approval_number": "国药准字SJ20230019",
+      "insurance_code": "XL01XYP150B002010181735",
+      "location": "2D-6"
+    },
+    {
+      "specification": "1200mg/瓶",
+      "manufacturer": "Roche PharmaAG",
+      "full_manufacturer": "Roche Pharma（Schweiz）AG（F.Hoffmann-La Roche Ltd.）",
+      "price": 10321.14,
+      "unit": "盒",
+      "code": "X00725",
+      "approval_number": "国药准字SJ20230020",
+      "insurance_code": "XL01XYP150B002020181735"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "用于成人HER2阳性早期和转移性乳腺癌患者；方案的一部分；或者化疗；治疗成人HER2阳性早期和转移性乳腺癌患者；具有高复发风险HER2阳性早期乳腺癌患者的辅助治疗；HER2阳性、转移性或不可切除的局部复发性乳腺癌患者。",
+    "dosage": "皮下注射：本品的起始剂量为负荷剂量(15ml)，皮下注射8分钟；此后每3周给药一次维持剂量(10ml)，皮下注射5分钟。仅用于大腿皮下给药。",
+    "contraindications": "症 禁用：已知对曲妥珠单抗、帕妥珠单抗或任何赋形剂过敏的患者。",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴有生育能力的女性，包括男性患者的伴侣，应在赫捷康治疗期间和赫捷康末次给药后7个月采取有效的避孕措施。 ⑵尚未确定赫捷康在待产和分娩过程中用药的安全性。 ⑶由于人IgG能分泌至人乳中，而且尚不清楚婴儿吸收的可能性和对婴儿的危害,因此应建议哺乳期女性在赫捷康治疗期间和赫捷康末次给药之后7个月内停止哺乳。 ⑷尚未确定本品用于18岁以下儿童和青少年的安全性和有效性",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗成人HER2阳性早期和转移性乳腺癌患者。 ①早期乳腺癌（EBC）：本品与化疗联合用于HER2阳性、局部晚期、炎性或早期乳腺癌患者（直径>2cm或淋巴结阳性）的新辅助治疗，作为早期乳腺癌整体治疗方案的一部分。用于具有高复发风险HER2阳性早期乳腺癌患者的辅助治疗。②转移性乳腺癌（MBC）：本品和多西他赛联合，适用于HER2阳性、转移性或不可切除的局部复发性乳腺癌患者。患者既往未接受过针对转移性乳腺癌的抗HER2治疗或者化疗。",
+    "full_dosage": "皮下注射：本品的起始剂量为负荷剂量(15ml)，皮下注射8分钟；此后每3周给药一次维持剂量(10ml)，皮下注射5分钟。仅用于大腿皮下给药。",
+    "full_contraindications": "症 禁用于已知对曲妥珠单抗、帕妥珠单抗或任何赋形剂过敏的患者。",
+    "full_adverse_reactions": "",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴有生育能力的女性，包括男性患者的伴侣，应在赫捷康治疗期间和赫捷康末次给药后7个月采取有效的避孕措施。 ⑵尚未确定赫捷康在待产和分娩过程中用药的安全性。 ⑶由于人IgG能分泌至人乳中，而且尚不清楚婴儿吸收的可能性和对婴儿的危害,因此应建议哺乳期女性在赫捷康治疗期间和赫捷康末次给药之后7个月内停止哺乳。 ⑷尚未确定本品用于18岁以下儿童和青少年的安全性和有效性。 药物过量 人体临床试验中尚无本品用药过量的经验。试验的本品最高剂量为负荷剂量(帕妥珠单抗1200mg与曲妥珠单抗600mg)。"
+  },
+  "pinyin": "※▲patuozhuqutuozhudankang",
+  "pinyin_initials": "※▲ptzqtzdk",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13793",
+    "last_updated": "2026-03-21"
+  }
+}

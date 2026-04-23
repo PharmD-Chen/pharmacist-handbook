@@ -1,0 +1,50 @@
+{
+  "id": 182,
+  "name": "恩扎卢胺软胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)恩扎卢胺软胶囊",
+  "chemical_name": "恩扎卢胺软胶囊",
+  "types": [],
+  "manufacturers": [
+    "Astellas Pharma Europe B.V."
+  ],
+  "specifications": [
+    {
+      "specification": "40mg/粒",
+      "manufacturer": "Astellas Pharma Europe B.V.",
+      "full_manufacturer": "Astellas Pharma Europe B.V.（Catalent Pharma Solutions, LLC）",
+      "price": 7795.2,
+      "unit": "盒",
+      "code": "X00795",
+      "approval_number": "国药准字HJ20200043",
+      "insurance_code": "XL02BBE088E002010279406"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于化疗后转移性去势抵抗性前列腺癌(CRPC)患者；用于化疗前转移性CRPC患者。",
+    "dosage": "⑴口服：一次160mg，一日1次。",
+    "contraindications": "对本品过敏；儿童禁用。",
+    "adverse_reactions": "常见：(≥5％)是虚弱/疲劳，背痛，腹泻，关节痛，潮热，外周血水肿，肌肉骨骼痛，头痛，上呼吸道感染，肌肉无力，眩晕，失眠，下呼吸道感染，脊髓压迫症和马尾神经综合征，血尿，感觉异常，焦虑，和高血压",
+    "interactions": "⑴避免与强CYP2C8抑制剂同用，因为这样可增加血浆恩扎卢胺的暴露量。如果必须一起服用，应减少恩扎卢胺剂量。<br>⑵避免与强CYP3A4诱导剂同用，因为这样可减少血浆enzalutamide的暴露量。如果必须一起服用，应增加enzalutamide剂量。<br>⑶避免与治疗指数狭窄的CYP3A4，CYP2C9，CYP2C19底物同服，因为恩扎卢胺可减少这些药物的血浆暴露量。如果同时使用恩扎卢胺和华法林（CYP2C9底物），则须增加监测INR。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "恩杂鲁胺为第二代雄激素受体（AR）拮抗药，恩杂鲁胺有几个优势：没有对野生型雄激素受体的激动剂活性、不升高雄激素受体共激活因子的水平，并抑制雄激素受体结合至DNA。相比比卡鲁胺，恩杂鲁胺与雄激素受体的亲和力高５～８倍。",
+    "precautions": "⑴在使用恩扎卢胺的患者中有0.5%的患者发生癫痫发作。在有癫痫发作诱因或易感因素的患者中，癫痫发作的比率为2.2%。若在使用恩扎卢胺治疗期间发生癫痫，应永久停止使用该药。\n⑵发生脑后部可逆性白质病变综合征时，应停用恩扎卢胺。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗化疗后转移性去势抵抗性前列腺癌(CRPC)患者；用于治疗化疗前转移性CRPC患者。",
+    "full_dosage": "⑴口服：一次160mg，一日1次。吞服整个胶囊，可与食物一起或空腹服用。<br>⑵剂量调整：<br>①如果患者出现≥3级的毒性反应或不能耐受的副作用，停药1周或直至症状缓解达到≤2级反应，然后可以继续按原剂量服用或减量（120mg或80mg）服用，如有必要。<br>②尽量避免与强CYP2A4诱导剂同时服用。如果必须同时使用，则增加恩扎卢胺的剂量至240mg/天。如果停用了强CYP2A4诱导剂，则将恩扎卢胺的剂量调至开始使用强CYP2A4诱导剂之前的剂量。<br>③尽量避免与强CYP2C8抑制剂同时服用。如果必须同时使用，则减少恩扎卢胺的剂量至80mg/天。如果停用了强CYP2C8抑制剂，则将恩扎卢胺的剂量调至开始使用强CYP2C8抑制剂之前的剂量。",
+    "full_contraindications": "⑴妇女、儿童禁用。  <br>⑵对本品过敏者禁用。",
+    "full_adverse_reactions": "最常见不良反应(≥5％)是虚弱/疲劳，背痛，腹泻，关节痛，潮热，外周血水肿，肌肉骨骼痛，头痛，上呼吸道感染，肌肉无力，眩晕，失眠，下呼吸道感染，脊髓压迫症和马尾神经综合征，血尿，感觉异常，焦虑，和高血压。",
+    "full_interactions": "⑴避免与强CYP2C8抑制剂同用，因为这样可增加血浆恩扎卢胺的暴露量。如果必须一起服用，应减少恩扎卢胺剂量。<br>⑵避免与强CYP3A4诱导剂同用，因为这样可减少血浆enzalutamide的暴露量。如果必须一起服用，应增加enzalutamide剂量。<br>⑶避免与治疗指数狭窄的CYP3A4，CYP2C9，CYP2C19底物同服，因为恩扎卢胺可减少这些药物的血浆暴露量。如果同时使用恩扎卢胺和华法林（CYP2C9底物），则须增加监测INR。",
+    "full_pharmacokinetics": "恩杂鲁胺为第二代雄激素受体（AR）拮抗药，恩杂鲁胺有几个优势：没有对野生型雄激素受体的激动剂活性、不升高雄激素受体共激活因子的水平，并抑制雄激素受体结合至DNA。相比比卡鲁胺，恩杂鲁胺与雄激素受体的亲和力高５～８倍。",
+    "full_precautions": "⑴在使用恩扎卢胺的患者中有0.5%的患者发生癫痫发作。在有癫痫发作诱因或易感因素的患者中，癫痫发作的比率为2.2%。若在使用恩扎卢胺治疗期间发生癫痫，应永久停止使用该药。<br>⑵发生脑后部可逆性白质病变综合征时，应停用恩扎卢胺。"
+  },
+  "pinyin": "enzhaluanruan",
+  "pinyin_initials": "ezlar",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2572",
+    "last_updated": "2026-03-22"
+  }
+}

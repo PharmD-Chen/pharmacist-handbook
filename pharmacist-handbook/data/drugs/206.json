@@ -1,0 +1,53 @@
+{
+  "id": 206,
+  "name": "包醛氧淀粉胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(甲)包醛氧淀粉胶囊",
+  "chemical_name": "包醛氧淀粉胶囊",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "天津太平洋制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.625g/粒",
+      "manufacturer": "天津太平洋制药",
+      "full_manufacturer": "天津太平洋制药有限公司",
+      "price": 44.12,
+      "unit": "瓶",
+      "code": "X00281",
+      "approval_number": "国药准字H20000078",
+      "insurance_code": "XG04BXB023E001010100931",
+      "location": "L-6"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "适用于各种原因造成的氮质血症。可缓解尿毒症的各种症状。",
+    "dosage": "口服：",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "偶见排便次数增多，减量可逐渐减轻。",
+    "interactions": "本品不宜与碱性药物同服，以免影响其吸附尿素氮的作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品为尿素氮吸附药。胃肠道中的氨、氮可通过复醛处理与氧化淀粉中的醛基结合成席夫碱络合物从粪便中排出，故能代偿肾功能、降低血液中非蛋白氮和尿素氮的浓度，从而发挥治疗作用。本品在体内不吸收，长期服用无体内蓄积，安全性好。由于本品中氧化淀粉的醛基不和胃肠道直接接触，消除了服用氧化淀粉所发生的不良生理反应。",
+    "precautions": "⑴本品在胃肠道中不被吸收，故无氧化淀粉的胃肠道不良反应。  \n⑵服用本品时要适当控制蛋白质摄入量，如能配合低蛋白饮食，将有助于提高疗效。  \n⑶药品内容物受潮发霉后勿服用。",
+    "source": "湖南药事服务网",
+    "full_indications": "适用于各种原因造成的氮质血症。可缓解尿毒症的各种症状。",
+    "full_dosage": "口服：",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "偶见排便次数增多，减量可逐渐减轻。",
+    "full_interactions": "本品不宜与碱性药物同服，以免影响其吸附尿素氮的作用。",
+    "full_pharmacokinetics": "本品为尿素氮吸附药。胃肠道中的氨、氮可通过复醛处理与氧化淀粉中的醛基结合成席夫碱络合物从粪便中排出，故能代偿肾功能、降低血液中非蛋白氮和尿素氮的浓度，从而发挥治疗作用。本品在体内不吸收，长期服用无体内蓄积，安全性好。由于本品中氧化淀粉的醛基不和胃肠道直接接触，消除了服用氧化淀粉所发生的不良生理反应。",
+    "full_precautions": "⑴本品在胃肠道中不被吸收，故无氧化淀粉的胃肠道不良反应。  <br>⑵服用本品时要适当控制蛋白质摄入量，如能配合低蛋白饮食，将有助于提高疗效。  <br>⑶药品内容物受潮发霉后勿服用。"
+  },
+  "pinyin": "baoquanyangdianfen",
+  "pinyin_initials": "bqydf",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1793",
+    "last_updated": "2026-03-22"
+  }
+}

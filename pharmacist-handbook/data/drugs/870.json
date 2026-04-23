@@ -1,0 +1,54 @@
+{
+  "id": 870,
+  "name": "美敏伪麻口服溶液",
+  "dosage_form": "口服溶液",
+  "full_name": "(甲)美敏伪麻口服溶液",
+  "chemical_name": "美敏伪麻口服溶液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "赫力昂制药"
+  ],
+  "specifications": [
+    {
+      "specification": "100ml/瓶",
+      "manufacturer": "赫力昂制药",
+      "full_manufacturer": "赫力昂(苏州)制药有限公司",
+      "price": 12.3,
+      "unit": "盒",
+      "code": "X00157",
+      "approval_number": "国药准字H20030051",
+      "insurance_code": "XR05XXM050X001010101421",
+      "location": "H-3",
+      "outpatient_location": "A-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于感冒及过敏引起的鼻塞、流涕、喷嚏、咳嗽等。",
+    "dosage": "口服：成人一次10ml，一日3～4次。儿童，5~7岁：每次5~7ml；7~10岁：每次7~10ml； 10~14岁：每次10~12ml。一日3次。",
+    "contraindications": "对本品任一成份过敏者禁用；5岁以下儿童禁用。",
+    "adverse_reactions": "少数患者可出现嗜睡、头晕、心悸、兴奋、失眠、恶心等。",
+    "interactions": "1.本品不宜与抗抑郁药、降压药、解痉药、巴比妥类、氯霉素、洋地黄苷类药物等并用。\n2.如正在服用其他药品，使用本品前请咨询药师或医师。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品为复方制剂，每毫升含主要成分盐酸伪麻黄碱3mg、氢溴酸右美沙芬1mg，马来酸氯苯那敏0.2mg。 盐酸伪麻黄碱为减轻鼻充血剂，能消除鼻、咽部粘膜充血、减轻鼻塞症状；氢溴酸右美沙芬为中枢性镇咳...",
+    "precautions": "1.本品每日剂量不超过4次，疗程不超过7天，症状不改善请咨询药师或医师。；2.孕妇、哺乳期妇女慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于感冒及过敏引起的鼻塞、流涕、喷嚏、咳嗽等。",
+    "full_dosage": "口服：成人一次10ml，一日3～4次。儿童，5~7岁：每次5~7ml；7~10岁：每次7~10ml； 10~14岁：每次10~12ml。一日3次。",
+    "full_contraindications": "对本品任一成份过敏者禁用；5岁以下儿童禁用。",
+    "full_adverse_reactions": "少数患者可出现嗜睡、头晕、心悸、兴奋、失眠、恶心等。",
+    "full_interactions": "1.本品不宜与抗抑郁药、降压药、解痉药、巴比妥类、氯霉素、洋地黄苷类药物等并用。<br>2.如正在服用其他药品，使用本品前请咨询药师或医师。",
+    "full_pharmacokinetics": "本品为复方制剂，每毫升含主要成分盐酸伪麻黄碱3mg、氢溴酸右美沙芬1mg，马来酸氯苯那敏0.2mg。<br>　　盐酸伪麻黄碱为减轻鼻充血剂，能消除鼻、咽部粘膜充血、减轻鼻塞症状；氢溴酸右美沙芬为中枢性镇咳药，能直接作用于延脑咳嗽中枢抑制咳嗽反射，但无成瘾性；马来酸氯苯那敏为抗组胺药，具有消除或减轻流泪，打喷嚏和流涕的作用。",
+    "full_precautions": "1.本品每日剂量不超过4次，疗程不超过7天，症状不改善请咨询药师或医师。<br>2.孕妇、哺乳期妇女慎用。<br>3.心脏病、高血压、甲状腺机能亢进、糖尿病、哮喘、青光眼、肺气肿、前列肥大等患者使用本品前请咨询药师或医师。<br>4.驾驶机动车，操作机器以及高空作业者在工作时间禁用。<br>5.当本品性状发生改变时禁用。<br>6.服用本品期间禁止饮酒。<br>7.服用过量或有严重反应时请即就医。<br>8.请将本品放在儿童不能接触的地方。"
+  },
+  "pinyin": "meiminweima",
+  "pinyin_initials": "mmwm",
+  "dosage_form_pinyin": "koufurongye",
+  "dosage_form_initials": "kfry",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=7990",
+    "last_updated": "2026-03-22"
+  }
+}

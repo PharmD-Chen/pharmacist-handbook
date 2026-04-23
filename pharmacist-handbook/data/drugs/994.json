@@ -1,0 +1,53 @@
+{
+  "id": 994,
+  "name": "复方嗜酸乳杆菌片",
+  "dosage_form": "片",
+  "full_name": "(乙10%)复方嗜酸乳杆菌片",
+  "chemical_name": "复方嗜酸乳杆菌片",
+  "types": [],
+  "manufacturers": [
+    "通化金马药业集团"
+  ],
+  "specifications": [
+    {
+      "specification": "500mg/片",
+      "manufacturer": "通化金马药业集团",
+      "full_manufacturer": "通化金马药业集团股份有限公司",
+      "price": 35.16,
+      "unit": "盒",
+      "code": "X00251",
+      "approval_number": "国药准字H10940114",
+      "insurance_code": "XA07FAF478A001010303560",
+      "location": "J-4",
+      "outpatient_location": "L-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于肠道菌群失调引起的肠功能紊乱，如轻型急性腹泻等。",
+    "dosage": "口服：成人一次1～2片，一日3次。",
+    "contraindications": "症 对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "interactions": "1 抗酸药、抗菌药与本品合用时，可减弱其疗效，故应分开服用(间隔3小时)。 2 铋剂、鞣酸、药用炭、酊剂等能抑制、吸附活菌，不能合用。 3 如正在服用其他药品，服用本品前请咨询药师或医师。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "2.当本品性状发生改变时禁用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于肠道菌群失调引起的肠功能紊乱，如轻型急性腹泻等。",
+    "full_dosage": "口服：成人一次1～2片，一日3次。",
+    "full_contraindications": "症 对本品过敏者禁用。",
+    "full_adverse_reactions": "尚不明确。",
+    "full_interactions": "1 抗酸药、抗菌药与本品合用时，可减弱其疗效，故应分开服用(间隔3小时)。 2 铋剂、鞣酸、药用炭、酊剂等能抑制、吸附活菌，不能合用。 3 如正在服用其他药品，服用本品前请咨询药师或医师。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "1.儿童用量请咨询药师或医师。 2.当本品性状发生改变时禁用。 3.如服用过量或发生严重不良反应时应立即就医。 4.儿童必须在成人监护下使用。 5.请将此药品放在儿童不能接触的地方。 药物相互作用 1 抗酸药、抗菌药与本品合用时，可减弱其疗效，故应分开服用(间隔3小时)。 2 铋剂、鞣酸、药用炭、酊剂等能抑制、吸附活菌，不能合用。 3 如正在服用其他药品，服用本品前请咨询药师或医师。"
+  },
+  "pinyin": "fufangshisuanruganjun",
+  "pinyin_initials": "ffssrgj",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=468",
+    "last_updated": "2026-03-21"
+  }
+}

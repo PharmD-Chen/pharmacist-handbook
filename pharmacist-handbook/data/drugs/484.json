@@ -1,0 +1,53 @@
+{
+  "id": 484,
+  "name": "迈之灵片",
+  "dosage_form": "片",
+  "full_name": "(乙10%)迈之灵片",
+  "chemical_name": "迈之灵片",
+  "types": [],
+  "manufacturers": [
+    "Aescuven Pharma Deutschland  GmbH & Co.KG"
+  ],
+  "specifications": [
+    {
+      "specification": "260mg/片",
+      "manufacturer": "Aescuven Pharma Deutschland  GmbH & Co.KG",
+      "full_manufacturer": "Aescuven Pharma Deutschland  GmbH & Co.KG(进口分包企业：南京星银药业集团有限公司)",
+      "price": 42.0,
+      "unit": "盒",
+      "code": "Y00000013161",
+      "approval_number": "国药准字ZJ20140002",
+      "insurance_code": "ZA16DAM0035010579003",
+      "location": "D-2",
+      "outpatient_location": "2H-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "饭后口服。成人每日2次，早、晚各1次，每次一至二片。病情较重或治疗初期，每日2次，每次二片，或遵医嘱服用。二十天为一疗程。可长期服用。",
+    "contraindications": "过敏禁用。",
+    "adverse_reactions": "可能会出现胃肠道不适、恶心、轻度腹泻、口干、头痛、眩晕、瘙痒或过敏反应。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "2.胃溃疡患者慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "",
+    "full_dosage": "饭后口服。成人每日2次，早、晚各1次，每次一至二片。病情较重或治疗初期，每日2次，每次二片，或遵医嘱服用。二十天为一疗程。可长期服用。",
+    "full_contraindications": "1.对本品活性成分或任何赋形剂过敏者禁用。<br>2.罕见遗传性半乳糖不耐受症、Lapp乳糖酶缺乏症或葡萄糖-半乳糖吸收不良症患者禁用。",
+    "full_adverse_reactions": "可能会出现胃肠道不适、恶心、轻度腹泻、口干、头痛、眩晕、瘙痒或过敏反应。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "1.如果患者出现皮肤炎症、血栓性静脉炎或皮下硬结、剧烈疼痛、溃疡、单腿或双腿突然肿胀、心脏或肾功能不全，应咨询医生。<br>2.胃溃疡患者慎用。<br>3.服用本品期间应严格遵守医生嘱托的其他非侵入性治疗方法，例如使用弹性绷带或压力袜或使用冷水。<br>4.本品在妊娠和哺乳期间的安全性尚未确定。由于数据不足，妊娠和哺乳期间不建议使用本品。<br>5.该药不适用于18岁以下的儿童和青少年。<br>6.尚未开展本品对生育力影响的研究。",
+    "composition": "马栗提取物。"
+  },
+  "pinyin": "maizhiling",
+  "pinyin_initials": "mzl",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13398",
+    "last_updated": "2026-03-22"
+  }
+}

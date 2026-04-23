@@ -1,0 +1,5657 @@
+{
+  "summary": {
+    "total_drugs": 1032,
+    "checked_drugs": 1032,
+    "passed": 471,
+    "warnings": 17,
+    "issues": 544
+  },
+  "source_stats": {
+    "湖南药事服务网": 895,
+    "药品说明书": 3,
+    "": 134
+  },
+  "field_stats": {
+    "indications": 897,
+    "dosage": 897,
+    "contraindications": 887,
+    "adverse_reactions": 889,
+    "precautions": 879,
+    "interactions": 779,
+    "pharmacokinetics": 579
+  },
+  "drugs_with_issues": [
+    {
+      "id": 1,
+      "name": "阿司匹林",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "氟尿嘧啶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 8,
+      "name": "盐酸贝尼地平",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 10,
+      "name": "※▲安奈拉唑钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "※▲芦比前列酮软",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "氢溴酸替格列汀",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 13,
+      "name": "※▲妥布霉素吸入溶液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 14,
+      "name": "注射用头孢西丁钠/氯化钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 15,
+      "name": "※▲注射用头孢他啶阿维巴坦钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 16,
+      "name": "※▲注射用紫杉醇聚合物胶束",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 17,
+      "name": "※▲注射用替加环素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "注射用鼠神经生长因子",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "※▲甲苯磺酸艾多沙班",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 21,
+      "name": "依洛尤单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 23,
+      "name": "枸橼酸托法替布",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 26,
+      "name": "吲哚美辛栓",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 27,
+      "name": "葆宫止血",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 30,
+      "name": "硫酸特布他林雾化吸入用溶液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 33,
+      "name": "复方对乙酰氨基酚",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 37,
+      "name": "紫杉醇",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 38,
+      "name": "活血风湿膏",
+      "issues": [
+        "dosage包含可疑内容: 剂型与规格.*(?:基药|医保)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 39,
+      "name": "※▲注射用伊尼妥单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 40,
+      "name": "※▲司美格鲁肽",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 42,
+      "name": "※▲利多卡因凝胶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 49,
+      "name": "地衣芽孢杆菌活菌",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 52,
+      "name": "羟丙甲纤维素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 53,
+      "name": "复方电解质眼内冲洗液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 62,
+      "name": "盐酸奥布卡因",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "贝米肝素钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 66,
+      "name": "※注射用多种维生素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 67,
+      "name": "※▲ω-3甘油三酯中/长链脂肪乳/氨基酸/葡萄糖",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 68,
+      "name": "复方电解质醋酸钠葡萄糖",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 69,
+      "name": "※▲维立西呱",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 73,
+      "name": "帕拉米韦",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 74,
+      "name": "※▲注射用艾普拉唑钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 75,
+      "name": "※▲注射用全氟丁烷微球",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 78,
+      "name": "※▲乌司奴单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 79,
+      "name": "※▲依奇珠单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "※▲古塞奇尤单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "※▲佩索利单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "※▲巴瑞替尼",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "※▲替瑞奇珠单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "甲磺酸雷沙吉兰",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 87,
+      "name": "盐酸帕罗西汀",
+      "issues": [
+        "dosage包含可疑内容: 剂型与规格.*(?:基药|医保)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 89,
+      "name": "盐酸普罗帕酮",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 90,
+      "name": "西格列他钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 91,
+      "name": "泛影葡胺",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 92,
+      "name": "※▲硫培非格司亭",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 94,
+      "name": "注射用醋酸卡泊芬净",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 95,
+      "name": "门冬氨酸钾镁",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 97,
+      "name": "厄贝沙坦氢氯噻嗪",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "恩他卡朋",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 100,
+      "name": "恩他卡朋双多巴",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 102,
+      "name": "碘美普尔",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 106,
+      "name": "康柏西普眼用",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 109,
+      "name": "注射用拉氧头孢钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 110,
+      "name": "对乙酰氨基酚",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 111,
+      "name": "10%葡萄糖",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 112,
+      "name": "5%葡萄糖氯化钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "precautions为空",
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "阿柏西普眼内注射溶液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 118,
+      "name": "妥布霉素地塞米松",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 119,
+      "name": "外用重组人碱性成纤维细胞生长因子",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "曲安奈德",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 123,
+      "name": "玉屏风",
+      "issues": [
+        "dosage包含可疑内容: 剂型与规格.*(?:基药|医保)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 133,
+      "name": "脂肪乳",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 135,
+      "name": "重酒石酸间羟胺",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 138,
+      "name": "注射用阿替普酶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 139,
+      "name": "银杏叶",
+      "issues": [
+        "adverse_reactions包含indications的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 140,
+      "name": "※▲甲磺酸伏美替尼",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "※▲托珠单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 144,
+      "name": "汉防己甲素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 146,
+      "name": "※▲瑞维鲁胺",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 147,
+      "name": "注射用曲普瑞林",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 148,
+      "name": "※▲水合氯醛/糖浆组合包装",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 150,
+      "name": "人凝血酶原复合物",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 151,
+      "name": "※▲注射用七叶皂苷钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 152,
+      "name": "注射用盐酸丙帕他莫",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "醋酸甲地孕酮分散",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 155,
+      "name": "盐酸氢吗啡酮",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 156,
+      "name": "盐酸曲马多",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 157,
+      "name": "静注人免疫球蛋白",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "酒石酸托特罗定",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 161,
+      "name": "玻璃酸钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 163,
+      "name": "注射用泮托拉唑钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 164,
+      "name": "己酮可可碱",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 165,
+      "name": "曲克芦丁",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 166,
+      "name": "双氯芬酸二乙胺乳胶剂",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 167,
+      "name": "托伐普坦",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 168,
+      "name": "硫辛酸",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 169,
+      "name": "盐酸莫西沙星",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 170,
+      "name": "复方卡比多巴",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 173,
+      "name": "猪源纤维蛋白粘",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 174,
+      "name": "盐酸氯丙嗪",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 175,
+      "name": "※▲注射用重组人凝血因子Ⅷ",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 176,
+      "name": "盐酸氨基葡萄糖",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 177,
+      "name": "注射用A型肉毒毒素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 178,
+      "name": "注射用胸腺法新",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 180,
+      "name": "盐酸左西替利嗪",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 182,
+      "name": "恩扎卢胺软",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 184,
+      "name": "司美格鲁肽",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 185,
+      "name": "盐酸艾司洛尔",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 187,
+      "name": "肠内营养混悬液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 189,
+      "name": "垂体后叶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 190,
+      "name": "雌二醇片/雌二醇地屈孕酮片复合包装",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 192,
+      "name": "仑卡奈单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 194,
+      "name": "※▲门冬氨酸鸟氨酸",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 196,
+      "name": "替硝唑栓",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 197,
+      "name": "硝呋太尔制霉素阴道软",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 198,
+      "name": "阿昔替尼",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 200,
+      "name": "头孢克肟",
+      "issues": [
+        "dosage包含可疑内容: 剂型与规格.*(?:基药|医保)"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 201,
+      "name": "盐酸西替利嗪滴剂",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 202,
+      "name": "复方福尔可定",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 204,
+      "name": "布洛芬混悬液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 205,
+      "name": "塞替派",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 206,
+      "name": "包醛氧淀粉",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 207,
+      "name": "氟哌啶醇",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 209,
+      "name": "辅酶Q10",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 215,
+      "name": "丁丙诺啡透皮",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 216,
+      "name": "丁酸氢化可的松",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 217,
+      "name": "丁溴东莨菪碱",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 221,
+      "name": "醋酸泼尼松",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 222,
+      "name": "异维A酸软",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 225,
+      "name": "荧光素钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 226,
+      "name": "盐酸厄洛替尼",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 228,
+      "name": "更昔洛韦眼用",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 229,
+      "name": "利鲁唑",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 240,
+      "name": "桉柠蒎肠溶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 242,
+      "name": "萘普生钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 243,
+      "name": "联苯苄唑溶液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 244,
+      "name": "盐酸甲哌卡因/肾上腺素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 245,
+      "name": "精蛋白人胰岛素混合",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 246,
+      "name": "醋酸氢化可的松",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 247,
+      "name": "※▲达罗他胺",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 248,
+      "name": "注射用赖氨匹林",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 249,
+      "name": "※▲地达西尼",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 253,
+      "name": "注射用亚胺培南西司他丁钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 254,
+      "name": "注射用盐酸去甲万古霉素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 255,
+      "name": "注射用盐酸瑞芬太尼",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 257,
+      "name": "富马酸替诺福韦二吡呋酯",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 259,
+      "name": "纳武利尤单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 260,
+      "name": "戊酸雌二醇",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 261,
+      "name": "硫酸阿托品眼用",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 262,
+      "name": "硫酸阿托品",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": [
+        "precautions内容过长(2254字符)"
+      ]
+    },
+    {
+      "id": 266,
+      "name": "胰激肽原酶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 270,
+      "name": "复合维生素B",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 275,
+      "name": "乳酸依沙吖啶溶液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 278,
+      "name": "注射用吲哚菁绿",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 280,
+      "name": "左氧氟沙星",
+      "issues": [
+        "dosage包含可疑内容: 剂型与规格.*(?:基药|医保)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 283,
+      "name": "盐酸羟甲唑啉",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 284,
+      "name": "新癀",
+      "issues": [
+        "precautions包含可疑内容: 注意事项.*(?:药物相互作用|用法用量)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 285,
+      "name": "阿兹夫定",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 288,
+      "name": "乙型肝炎人免疫球蛋白",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 289,
+      "name": "醋酸泼尼松龙",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 290,
+      "name": "盐酸丙卡特罗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 297,
+      "name": "枸橼酸舒芬太尼",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 301,
+      "name": "硝酸异山梨酯",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 302,
+      "name": "硝酸咪康唑",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 306,
+      "name": "西咪替丁",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 307,
+      "name": "注射用顺铂",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 309,
+      "name": "注射用环磷酰胺",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 310,
+      "name": "注射用帕瑞昔布钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 311,
+      "name": "注射用氨苄西林钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 312,
+      "name": "注射用奥沙利铂",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 313,
+      "name": "注射用白眉蛇毒血凝酶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 315,
+      "name": "注射用丁二磺酸腺苷蛋氨酸",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 319,
+      "name": "二甲双胍维格列汀",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 322,
+      "name": "盐酸可乐定",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 323,
+      "name": "※▲屈昔多巴",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 326,
+      "name": "舒更葡糖钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 329,
+      "name": "※▲盐酸凯普拉生",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 330,
+      "name": "注射用头孢呋辛钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 332,
+      "name": "注射用头孢唑林钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 333,
+      "name": "托吡卡胺",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 334,
+      "name": "托吡酯",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 335,
+      "name": "妥布霉素",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 339,
+      "name": "利福昔明",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 340,
+      "name": "利格列汀",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 341,
+      "name": "利可君",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 342,
+      "name": "※▲利奈唑胺",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 345,
+      "name": "※▲甘精胰岛素利司那肽",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 346,
+      "name": "※▲多格列艾汀",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 347,
+      "name": "※▲骨化三醇",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 350,
+      "name": "※▲盐酸阿比多尔",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 351,
+      "name": "注射用醋酸亮丙瑞林微球",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 352,
+      "name": "氯氮平口腔崩解",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 353,
+      "name": "※▲多种微量元素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 354,
+      "name": "注射用丹曲林钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 355,
+      "name": "复方阿嗪米特",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "precautions为空",
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 356,
+      "name": "注射用曲妥珠单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 358,
+      "name": "草乌甲素软",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 359,
+      "name": "醋酸阿比特龙",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 360,
+      "name": "氯膦酸二钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 361,
+      "name": "注射用硫普罗宁",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 362,
+      "name": "胶原酶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 363,
+      "name": "※▲注射用重组人脑利钠肽",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 364,
+      "name": "柑橘黄酮",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 365,
+      "name": "※▲谷胱甘肽",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 366,
+      "name": "茴三硫",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 367,
+      "name": "※▲帕妥珠单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "contraindications为空",
+        "precautions为空",
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 368,
+      "name": "炉甘石",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "contraindications为空",
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 369,
+      "name": "盐酸多巴酚丁胺",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 370,
+      "name": "盐酸伊立替康",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 372,
+      "name": "灭菌注射用水",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 373,
+      "name": "※▲法瑞西单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 374,
+      "name": "盐酸多巴胺",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 375,
+      "name": "※▲盐酸右美托咪定氯化钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 376,
+      "name": "※▲盐酸右美托咪定鼻",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 377,
+      "name": "琥珀酸地文拉法辛",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 378,
+      "name": "盐酸氟西汀",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 379,
+      "name": "富马酸奥赛利定",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 380,
+      "name": "盐酸丙卡特罗吸入溶液",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 381,
+      "name": "盐酸溴己新",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 382,
+      "name": "开塞露",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 384,
+      "name": "糠酸莫米松",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 393,
+      "name": "普罗雌烯阴道胶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 399,
+      "name": "帕博利珠单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 400,
+      "name": "注射用鹿瓜多肽",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 402,
+      "name": "※▲聚乙二醇化重组人粒细胞刺激因子",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 405,
+      "name": "※▲榄香烯口服乳",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 406,
+      "name": "大蒜素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 409,
+      "name": "醋酸甲羟孕酮",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 412,
+      "name": "醋酸戈舍瑞林缓释植入剂",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 413,
+      "name": "※▲复方甘草酸苷",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 414,
+      "name": "苹果酸舒尼替尼",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 415,
+      "name": "马来酸氯苯那敏",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 416,
+      "name": "※▲氢醌",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 417,
+      "name": "复方肝素钠尿囊素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 418,
+      "name": "白芍总苷",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 421,
+      "name": "※▲西妥昔单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 424,
+      "name": "※▲人生长激素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 427,
+      "name": "盐酸小檗碱",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 428,
+      "name": "盐酸乙哌立松",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 430,
+      "name": "盐酸异丙嗪",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 434,
+      "name": "盐酸氯丙嗪",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 436,
+      "name": "※▲甲苯磺酸多纳非尼",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 441,
+      "name": "尼莫地平",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 442,
+      "name": "尿素胶囊呼气试验药盒",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 443,
+      "name": "尿素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 445,
+      "name": "二羟丙茶碱",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 446,
+      "name": "非布司他",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 448,
+      "name": "阿达帕林",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 449,
+      "name": "盐酸特比萘芬",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 450,
+      "name": "维生素B6",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 451,
+      "name": "复方甘草酸苷",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 452,
+      "name": "曲安奈德益康唑",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "precautions为空",
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 453,
+      "name": "卤米松",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 454,
+      "name": "哈西奈德溶液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 456,
+      "name": "盐酸利多卡因胶浆",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 457,
+      "name": "盐酸罗哌卡因",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 458,
+      "name": "盐酸洛贝林",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 459,
+      "name": "盐酸麻黄碱",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 460,
+      "name": "盐酸吗啡",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 462,
+      "name": "复方盐酸阿米洛利",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 463,
+      "name": "盐酸曲唑酮",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 464,
+      "name": "盐酸阿米替林",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 465,
+      "name": "※※▲注射用两性霉素B",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 466,
+      "name": "蔗糖铁",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 467,
+      "name": "※▲罗沙司他",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 468,
+      "name": "复方倍他米松",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 469,
+      "name": "※▲氟康唑",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 470,
+      "name": "氯雷他定",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 471,
+      "name": "氯雷他定",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 472,
+      "name": "六味地黄",
+      "issues": [
+        "precautions包含dosage的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 473,
+      "name": "硫酸镁",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 475,
+      "name": "硫酸庆大霉素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 476,
+      "name": "硫酸沙丁胺醇吸入",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 478,
+      "name": "盐酸坦索罗辛缓释",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 479,
+      "name": "盐酸特比萘芬",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 480,
+      "name": "盐酸特拉唑嗪",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 481,
+      "name": "盐酸替罗非班氯化钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 482,
+      "name": "马来酸噻吗洛尔",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 483,
+      "name": "马破伤风免疫球蛋白2)",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 484,
+      "name": "迈之灵",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空"
+      ]
+    },
+    {
+      "id": 485,
+      "name": "尼麦角林",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 486,
+      "name": "盐酸雷洛昔芬",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 487,
+      "name": "※▲※▲清开灵",
+      "issues": [
+        "adverse_reactions包含indications的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 490,
+      "name": "布地奈德福莫特罗吸入粉雾剂",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 491,
+      "name": "注射用人白介素-11",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 492,
+      "name": "甘油果糖氯化钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 493,
+      "name": "阿昔洛韦",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 494,
+      "name": "二硫化硒",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 496,
+      "name": "夫西地酸",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 497,
+      "name": "卡泊三醇",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 498,
+      "name": "德谷胰岛素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "contraindications为空",
+        "adverse_reactions为空"
+      ]
+    },
+    {
+      "id": 499,
+      "name": "※▲盐酸安罗替尼",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 500,
+      "name": "氨溴特罗",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 503,
+      "name": "※▲百令",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 504,
+      "name": "板蓝根",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 506,
+      "name": "便通",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 507,
+      "name": "丙泊酚乳状",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 512,
+      "name": "丙戊酸钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 513,
+      "name": "丙戊酸钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 514,
+      "name": "布林佐胺",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 515,
+      "name": "布洛芬缓释",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 516,
+      "name": "参松养心",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 517,
+      "name": "双氯芬酸钠",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 521,
+      "name": "苏黄止咳",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 522,
+      "name": "注射用苯巴比妥钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 525,
+      "name": "未确瑞基奥仑赛",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 526,
+      "name": "※▲香丹",
+      "issues": [
+        "adverse_reactions包含indications的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 530,
+      "name": "雷贝拉唑钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 531,
+      "name": "阿奇霉素干",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 532,
+      "name": "注射用阿昔洛韦",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 537,
+      "name": "盐酸拉贝洛尔",
+      "issues": [
+        "dosage包含可疑内容: 剂型与规格.*(?:基药|医保)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 539,
+      "name": "※▲注射用曲克芦丁",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 540,
+      "name": "※▲利拉鲁肽",
+      "issues": [
+        "dosage包含可疑内容: 剂型与规格.*(?:基药|医保)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 542,
+      "name": "阿维A",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 543,
+      "name": "过氧苯甲酰",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 545,
+      "name": "一清",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 548,
+      "name": "※▲依达拉奉右莰醇注射用浓溶液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 553,
+      "name": "格列吡嗪",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 557,
+      "name": "氧氟沙星",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 559,
+      "name": "盐酸哌甲酯",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 561,
+      "name": "盐酸羟考酮",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 564,
+      "name": "盐酸文拉法辛缓释",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 566,
+      "name": "托拉塞米",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 572,
+      "name": "注射用磷霉素钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 573,
+      "name": "复方鲜竹沥液",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 575,
+      "name": "金嗓开音",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 577,
+      "name": "恒古骨伤愈",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 580,
+      "name": "注射用舒巴坦钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 582,
+      "name": "人纤维蛋白粘",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 583,
+      "name": "盐酸地尔硫卓缓释",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 584,
+      "name": "盐酸二甲双胍",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 586,
+      "name": "※▲辅酶Q10",
+      "issues": [
+        "adverse_reactions包含indications的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 587,
+      "name": "※▲呋喹替尼",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 588,
+      "name": "※盐酸二甲双胍",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 590,
+      "name": "盐酸米诺环素",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 591,
+      "name": "九味止咳口服液",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 593,
+      "name": "利多卡因",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 594,
+      "name": "降脂灵",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 596,
+      "name": "※▲醋酸甲地孕酮",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 597,
+      "name": "可溶性止血纱布",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 600,
+      "name": "※▲二甲硅油",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 603,
+      "name": "※沙格列汀二甲双胍",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 605,
+      "name": "生理氯化钠溶液",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 607,
+      "name": "※▲注射用紫杉醇",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 609,
+      "name": "那屈肝素钙",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 611,
+      "name": "替勃龙",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 615,
+      "name": "双环醇",
+      "issues": [
+        "contraindications包含precautions的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 616,
+      "name": "瑞舒伐他汀钙",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 621,
+      "name": "胰酶肠溶",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 623,
+      "name": "盐酸美金刚口溶膜",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 627,
+      "name": "替普瑞酮",
+      "issues": [
+        "adverse_reactions包含contraindications的内容（交叉污染）"
+      ],
+      "warnings": [
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 630,
+      "name": "注射用戈那瑞林",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 632,
+      "name": "蚓激酶肠溶",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 633,
+      "name": "※▲艾米替诺福韦",
+      "issues": [
+        "indications包含adverse_reactions的内容（交叉污染）",
+        "contraindications包含precautions的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 636,
+      "name": "全天麻",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 640,
+      "name": "人血白蛋白",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 643,
+      "name": "盐酸氮卓斯汀鼻",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 644,
+      "name": "盐酸氮卓斯汀",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 646,
+      "name": "羟苯磺酸钙",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 649,
+      "name": "米拉贝隆",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 650,
+      "name": "米诺地尔酊",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 652,
+      "name": "奥拉西坦",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 653,
+      "name": "奥美拉唑肠溶",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 654,
+      "name": "赛洛多辛",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 657,
+      "name": "注射用头孢地嗪钠/氯化钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 659,
+      "name": "※▲先诺特韦片/利托那韦片组合包装",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "adverse_reactions为空",
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 660,
+      "name": "草酸艾司西酞普兰",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 662,
+      "name": "利格列汀二甲双胍",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 663,
+      "name": "※▲阿贝西利",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 664,
+      "name": "※▲利司扑兰口服溶液用",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 666,
+      "name": "心可宁",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 667,
+      "name": "注射用奥美拉唑钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 670,
+      "name": "洛芬待因",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 672,
+      "name": "骨痛灵酊",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 673,
+      "name": "盐酸氟西汀",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 679,
+      "name": "甘草酸二铵肠溶",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 680,
+      "name": "甘桔冰梅",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 683,
+      "name": "复方利多卡因",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 685,
+      "name": "※▲氟替美维吸入粉雾剂",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 687,
+      "name": "注射用丙戊酸钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 690,
+      "name": "他氟前列素",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 692,
+      "name": "布地奈德鼻",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 694,
+      "name": "注射用六氟化硫微泡",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 695,
+      "name": "复方托吡卡胺",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 697,
+      "name": "碳酸钙D3",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 698,
+      "name": "注射用青霉素钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 699,
+      "name": "可乐定控释贴",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 702,
+      "name": "丙酸氯倍他索",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 704,
+      "name": "金蝉止痒",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 709,
+      "name": "※▲吡非尼酮",
+      "issues": [
+        "dosage包含可疑内容: 剂型与规格.*(?:基药|医保)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 710,
+      "name": "※▲整蛋白型肠内营养剂",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 711,
+      "name": "※▲注射用右兰索拉唑",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 717,
+      "name": "五酯",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 718,
+      "name": "单硝酸异山梨酯缓释",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 719,
+      "name": "稳心",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 720,
+      "name": "复方甘草",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 723,
+      "name": "芪黄通秘软",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 727,
+      "name": "皮肤康洗液",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 730,
+      "name": "胰酶",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 732,
+      "name": "※▲布地格福吸入",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 734,
+      "name": "注射用双羟萘酸曲普瑞林",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 737,
+      "name": "注射用尿激酶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 740,
+      "name": "注射用胸腺五肽",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 743,
+      "name": "注射用甲苯磺酸奥马环素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 746,
+      "name": "骨化三醇胶",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 750,
+      "name": "除湿止痒",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 751,
+      "name": "他克莫司",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 758,
+      "name": "盐酸金霉素",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 759,
+      "name": "鲑降钙素鼻",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 761,
+      "name": "阿昔洛韦",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 763,
+      "name": "注射用头孢曲松钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 764,
+      "name": "※▲注射用头孢曲松钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 765,
+      "name": "※▲※注射用头孢他啶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 769,
+      "name": "龙加通络",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 770,
+      "name": "※▲克唑替尼",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 777,
+      "name": "注射用生长抑素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 778,
+      "name": "丙戊酸钠注射用浓溶液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 779,
+      "name": "氨甲环酸",
+      "issues": [
+        "dosage包含可疑内容: 用法与用量.*(?:口服|外用).*剂型"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 783,
+      "name": "氟伐他汀钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 787,
+      "name": "注射用氨曲南",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 791,
+      "name": "※▲瑞帕妥单抗",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 792,
+      "name": "※▲酮洛芬凝胶",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 794,
+      "name": "※▲丁甘交联玻璃酸钠",
+      "issues": [
+        "adverse_reactions包含contraindications的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 796,
+      "name": "阿立哌唑口溶膜",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 797,
+      "name": "※▲注射用头孢比罗酯钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 798,
+      "name": "丙酸氟替卡松",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 799,
+      "name": "※▲英克司兰钠",
+      "issues": [
+        "contraindications包含indications的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 801,
+      "name": "蓖麻油",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 802,
+      "name": "注射用头孢噻肟钠他唑巴坦钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 803,
+      "name": "※▲血必净",
+      "issues": [
+        "adverse_reactions包含indications的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 808,
+      "name": "※▲注射用尤瑞克林",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 810,
+      "name": "复方甲氧那明",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 812,
+      "name": "非诺贝特",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 813,
+      "name": "芬太尼透皮",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 815,
+      "name": "多种微量元素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 816,
+      "name": "注射用醋酸地加瑞克",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "precautions为空",
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 817,
+      "name": "※▲注射用盐酸万古霉素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 818,
+      "name": "注射用盐酸表柔比星",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 819,
+      "name": "注射用盐酸多柔比星",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 820,
+      "name": "盐酸美金刚",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 822,
+      "name": "氧氟沙星",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 824,
+      "name": "枣仁安神",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 825,
+      "name": "樟脑",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 827,
+      "name": "噻托溴铵粉雾剂",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 829,
+      "name": "逍遥",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 836,
+      "name": "麝香痔疮栓",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 840,
+      "name": "0.3%玻璃酸钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 841,
+      "name": "孟鲁司特钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 842,
+      "name": "缬沙坦",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 845,
+      "name": "血塞通",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 846,
+      "name": "血脂康",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 850,
+      "name": "外用人表皮生长因子",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 855,
+      "name": "喷托维林氯化铵",
+      "issues": [
+        "contraindications包含precautions的内容（交叉污染）",
+        "adverse_reactions包含contraindications的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 856,
+      "name": "清咳平喘",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 858,
+      "name": "注射用胶原酶",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 862,
+      "name": "正骨紫金",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 865,
+      "name": "盐酸班布特罗",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 867,
+      "name": "单唾液酸四己糖神经节苷脂钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 868,
+      "name": "醋酸奥曲肽",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 869,
+      "name": "※▲脂肪乳氨基酸葡萄糖",
+      "issues": [
+        "contraindications包含adverse_reactions的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 870,
+      "name": "美敏伪麻",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 872,
+      "name": "黄体酮",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 873,
+      "name": "磺胺嘧啶银",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 875,
+      "name": "消旋山莨菪碱",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 876,
+      "name": "辛伐他汀",
+      "issues": [
+        "dosage包含可疑内容: 剂型与规格.*(?:基药|医保)"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 878,
+      "name": "浓替硝唑含漱液",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 879,
+      "name": "地塞米松磷酸钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 880,
+      "name": "甘露醇",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 881,
+      "name": "※▲乙磺酸尼达尼布软",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 882,
+      "name": "西帕依固龈液",
+      "issues": [
+        "precautions包含dosage的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 883,
+      "name": "复方阿胶浆",
+      "issues": [
+        "precautions包含dosage的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 884,
+      "name": "碳酸锂",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 886,
+      "name": "注射用伏立康唑",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 893,
+      "name": "门冬胰岛素30",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "contraindications为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 894,
+      "name": "天麻素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 895,
+      "name": "黄体酮软",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 896,
+      "name": "※▲苯磺酸克利加巴林",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 897,
+      "name": "丹参酮",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 898,
+      "name": "利培酮口服液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 899,
+      "name": "注射用甲磺酸齐拉西酮",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 902,
+      "name": "青霉素皮试剂",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 904,
+      "name": "氢溴酸山莨菪碱",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 908,
+      "name": "格列喹酮",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 910,
+      "name": "谷维素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 911,
+      "name": "过氧化氢溶液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 912,
+      "name": "肝素钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 915,
+      "name": "注射用培美曲塞二钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 919,
+      "name": "盐酸格拉司琼",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 921,
+      "name": "酒石酸长春瑞滨软",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 922,
+      "name": "硫酸鱼精蛋白",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 923,
+      "name": "丙戊酸镁",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 924,
+      "name": "注射用头孢哌酮钠舒巴坦钠/氯化钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 926,
+      "name": "盐酸纳洛酮",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 928,
+      "name": "※▲特瑞普利单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 929,
+      "name": "多奈单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 930,
+      "name": "宫血宁",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 931,
+      "name": "碘酊",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 932,
+      "name": "碘普罗胺",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 933,
+      "name": "华佗再造",
+      "issues": [
+        "precautions包含dosage的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 935,
+      "name": "多烯磷脂酰胆碱",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 936,
+      "name": "吡格列酮二甲双胍",
+      "issues": [
+        "adverse_reactions包含contraindications的内容（交叉污染）"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 941,
+      "name": "氨甲苯酸",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 942,
+      "name": "抗凝血用枸橼酸钠溶液",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 943,
+      "name": "氢溴酸东莨菪碱",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 944,
+      "name": "头孢拉定",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 945,
+      "name": "※注射用糜蛋白酶",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 947,
+      "name": "蒙脱石",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 948,
+      "name": "孟鲁司特钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 949,
+      "name": "洛索洛芬钠凝胶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 950,
+      "name": "麻仁软",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 951,
+      "name": "氯化琥珀胆碱",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 952,
+      "name": "吸入用布地奈德混悬液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 953,
+      "name": "吸入用复方异丙托溴铵溶液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 954,
+      "name": "吸入用七氟烷",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 955,
+      "name": "吸入用乙酰半胱氨酸溶液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 956,
+      "name": "克林霉素磷酸酯外用溶液",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 957,
+      "name": "维A酸",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 958,
+      "name": "磷霉素氨丁三醇",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 959,
+      "name": "磷酸可待因",
+      "issues": [
+        "dosage包含可疑内容: 剂型与规格.*(?:基药|医保)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 963,
+      "name": "口服补液盐",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 964,
+      "name": "坤泰",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 965,
+      "name": "兰索拉唑肠溶",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 969,
+      "name": "精蛋白锌重组赖脯胰岛素混合",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 971,
+      "name": "甲硝唑栓",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 972,
+      "name": "甲钴胺",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 973,
+      "name": "积雪苷霜",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 975,
+      "name": "己酮可可碱",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 976,
+      "name": "维生素B12",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 977,
+      "name": "维生素B1",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 978,
+      "name": "维生素B1",
+      "issues": [
+        "precautions包含可疑内容: 药物相互作用.*(?:用法|用量)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 980,
+      "name": "头孢克洛",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 981,
+      "name": "他克莫司",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 984,
+      "name": "巴曲酶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 985,
+      "name": "※注射用英夫利西单抗",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 986,
+      "name": "※▲本维莫德",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 989,
+      "name": "※▲乌帕替尼",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 990,
+      "name": "※▲依那西普",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 991,
+      "name": "阿莫西林",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 993,
+      "name": "胃复春",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 1002,
+      "name": "盐酸丙美卡因",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 1005,
+      "name": "氢溴酸依他佐辛",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 1007,
+      "name": "注射用哌拉西林钠他唑巴坦钠",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 1008,
+      "name": "※▲麦考酚钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 1009,
+      "name": "谷赖胰岛素",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 1011,
+      "name": "凝血酶",
+      "issues": [
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空",
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 1012,
+      "name": "硫酸钡干",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 1022,
+      "name": "大活络",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 1026,
+      "name": "甲磺酸二氢麦角碱",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 1030,
+      "name": "对乙酰氨基酚",
+      "issues": [
+        "dosage包含可疑内容: 剂型与规格.*(?:基药|医保)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": 1031,
+      "name": "※注射用头孢哌酮钠舒巴坦钠",
+      "issues": [
+        "缺少source字段",
+        "缺少湖南药事服务网网址"
+      ],
+      "warnings": [
+        "indications为空",
+        "dosage为空",
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 1032,
+      "name": "桂林西瓜霜",
+      "issues": [
+        "precautions包含dosage的内容（交叉污染）"
+      ],
+      "warnings": []
+    }
+  ],
+  "drugs_with_warnings": [
+    {
+      "id": 122,
+      "name": "牛碱性成纤维细胞生长因子",
+      "warnings": [
+        "adverse_reactions为空"
+      ]
+    },
+    {
+      "id": 181,
+      "name": "来氟米特",
+      "warnings": [
+        "dosage: full版比精简版短"
+      ]
+    },
+    {
+      "id": 203,
+      "name": "※▲小儿豉翘清热",
+      "warnings": [
+        "dosage: full版比精简版短"
+      ]
+    },
+    {
+      "id": 293,
+      "name": "琥珀酸索利那新",
+      "warnings": [
+        "dosage: full版比精简版短"
+      ]
+    },
+    {
+      "id": 371,
+      "name": "湿润烧伤膏",
+      "warnings": [
+        "pharmacokinetics可能包含药效学而非药动学内容"
+      ]
+    },
+    {
+      "id": 502,
+      "name": "白脉",
+      "warnings": [
+        "contraindications为空",
+        "adverse_reactions为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 547,
+      "name": "依达拉奉氯化钠",
+      "warnings": [
+        "dosage: full版比精简版短"
+      ]
+    },
+    {
+      "id": 552,
+      "name": "格列齐特",
+      "warnings": [
+        "dosage: full版比精简版短"
+      ]
+    },
+    {
+      "id": 592,
+      "name": "※▲帕妥珠曲妥珠单抗",
+      "warnings": [
+        "adverse_reactions为空"
+      ]
+    },
+    {
+      "id": 606,
+      "name": "信迪利单抗",
+      "warnings": [
+        "contraindications为空"
+      ]
+    },
+    {
+      "id": 637,
+      "name": "炔雌醇环丙孕酮",
+      "warnings": [
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 645,
+      "name": "氘丁苯那嗪",
+      "warnings": [
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 668,
+      "name": "牛痘疫苗接种家兔炎症皮肤提取物",
+      "warnings": [
+        "contraindications为空",
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 749,
+      "name": "※▲度普利尤单抗",
+      "warnings": [
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 793,
+      "name": "※▲右酮洛芬氨丁三醇",
+      "warnings": [
+        "precautions为空"
+      ]
+    },
+    {
+      "id": 885,
+      "name": "牛黄清心",
+      "warnings": [
+        "contraindications为空",
+        "adverse_reactions为空"
+      ]
+    },
+    {
+      "id": 940,
+      "name": "黄葵",
+      "warnings": [
+        "contraindications为空"
+      ]
+    }
+  ]
+}

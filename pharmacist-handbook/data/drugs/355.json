@@ -1,0 +1,53 @@
+{
+  "id": 355,
+  "name": "复方阿嗪米特肠溶片",
+  "dosage_form": "肠溶片",
+  "full_name": "(甲)复方阿嗪米特肠溶片",
+  "chemical_name": "复方阿嗪米特肠溶片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "扬州一洋制药"
+  ],
+  "specifications": [
+    {
+      "specification": "1片/片",
+      "manufacturer": "扬州一洋制药",
+      "full_manufacturer": "扬州一洋制药有限公司",
+      "price": 30.0,
+      "unit": "盒",
+      "code": "X00243",
+      "approval_number": "国药准字H20000232",
+      "insurance_code": "XA09AXF117A012010201742",
+      "location": "L"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "适用于胆汁分泌不足或消化酶缺乏而引起的症状，如吸收不良、气鼓气胀、胃痛等。也可用于慢性胆囊炎或胆囊炎切除后引起的消化不良症状。",
+    "dosage": "口服：一次1～2片，一日3次，餐后服用。",
+    "contraindications": "严重肝功能障碍、胆石症引起的胆绞痛、胆管阻塞、急性肝炎患者均禁用。",
+    "adverse_reactions": "尚未见严重的不良反应。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询医师或药师。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "阿嗪米特是一种促进胆汁分泌的药物，可增加胆汁的液体量，增加胆汁中固体成分的分泌。本品中有效成分胰酶内含有淀粉酶、蛋白酶、脂肪酶，可以改善糖类、蛋白质、脂肪的消化和吸收，恢复机体的正常消化功能；纤维素酶有解聚和溶解或切断细胞壁的作用，使植物营养物质变为可利用的细胞能量，还有改善胀气和肠道菌群失调作用；",
+    "precautions": "",
+    "source": "湖南药事服务网",
+    "full_indications": "适用于胆汁分泌不足或消化酶缺乏而引起的症状，如吸收不良、气鼓气胀、胃痛等。也可用于慢性胆囊炎或胆囊炎切除后引起的消化不良症状。",
+    "full_dosage": "口服：一次1～2片，一日3次，餐后服用。",
+    "full_contraindications": "严重肝功能障碍、胆石症引起的胆绞痛、胆管阻塞、急性肝炎患者均禁用。",
+    "full_adverse_reactions": "尚未见严重的不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询医师或药师。",
+    "full_pharmacokinetics": "阿嗪米特是一种促进胆汁分泌的药物，可增加胆汁的液体量，增加胆汁中固体成分的分泌。本品中有效成分胰酶内含有淀粉酶、蛋白酶、脂肪酶，可以改善糖类、蛋白质、脂肪的消化和吸收，恢复机体的正常消化功能；纤维素酶有解聚和溶解或切断细胞壁的作用，使植物营养物质变为可利用的细胞能量，还有改善胀气和肠道菌群失调作用；二甲硅油有减少胀气、消除胀气性胃痛等作用。",
+    "full_precautions": ""
+  },
+  "pinyin": "fufangaqinmite",
+  "pinyin_initials": "ffaqmt",
+  "dosage_form_pinyin": "changrongpian",
+  "dosage_form_initials": "crp",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=504",
+    "last_updated": "2026-03-22"
+  }
+}

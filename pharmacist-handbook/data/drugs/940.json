@@ -1,0 +1,49 @@
+{
+  "id": 940,
+  "name": "黄葵胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)黄葵胶囊",
+  "chemical_name": "黄葵胶囊",
+  "types": [],
+  "manufacturers": [
+    "苏中药业集团"
+  ],
+  "specifications": [
+    {
+      "specification": "0.43g/粒",
+      "manufacturer": "苏中药业集团",
+      "full_manufacturer": "苏中药业集团股份有限公司",
+      "price": 30.01,
+      "unit": "盒",
+      "code": "C00047",
+      "approval_number": "国药准字Z19990040",
+      "insurance_code": "ZA16EAH0298020101493"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于中枢性呼吸功能不全，各种继发性的呼吸抑制、慢性阻塞性肺疾患者并伴有高碳酸血症。对肺心病引起的呼吸衰竭及阿片类药物中毒的解救有效，对巴比妥类药中毒效果较差。",
+    "dosage": "皮下、肌肉或静脉注射常用量：1.成人：一次0.25～0.5g；极量，一次1.25g。2.小儿：6个月以下一次75mg，1岁125mg，4～7岁175mg。",
+    "contraindications": "",
+    "adverse_reactions": "不良反应较少，较大剂量可出现多汗、恶心、喷嚏、呛咳、面部潮红及全身瘙痒；血压升高、脉搏快、甚至心律失常。",
+    "interactions": "尼可刹米与其他抗惊厥药合用可致惊厥。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "大剂量出现血压升高、震颤及肌僵直时，应及时停药以防惊厥。如出现惊厥，应及时静注苯二氮䓬类药或小剂量硫喷妥钠控制。 药物相互作用 尼可刹米与其他抗惊厥药合用可致惊厥。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于中枢性呼吸功能不全，各种继发性的呼吸抑制、慢性阻塞性肺疾患者并伴有高碳酸血症。对肺心病引起的呼吸衰竭及阿片类药物中毒的解救有效，对巴比妥类药中毒效果较差。",
+    "full_pharmacokinetics": "",
+    "full_dosage": "皮下、肌肉或静脉注射常用量：1.成人：一次0.25～0.5g；极量，一次1.25g。2.小儿：6个月以下一次75mg，1岁125mg，4～7岁175mg。",
+    "full_adverse_reactions": "不良反应较少，较大剂量可出现多汗、恶心、喷嚏、呛咳、面部潮红及全身瘙痒；血压升高、脉搏快、甚至心律失常。",
+    "full_interactions": "尼可刹米与其他抗惊厥药合用可致惊厥。",
+    "full_precautions": "大剂量出现血压升高、震颤及肌僵直时，应及时停药以防惊厥。如出现惊厥，应及时静注苯二氮䓬类药或小剂量硫喷妥钠控制。 药物相互作用 尼可刹米与其他抗惊厥药合用可致惊厥。"
+  },
+  "pinyin": "huangkui",
+  "pinyin_initials": "hk",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=940",
+    "last_updated": "2026-03-21"
+  }
+}

@@ -1,0 +1,2215 @@
+[
+  {
+    "id": 113,
+    "name": "5%葡萄糖",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 114,
+    "name": "50%葡萄糖",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 569,
+    "name": "※※▲银杏叶提取物",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 721,
+    "name": "※※醒脑静",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 766,
+    "name": "※▲丹红",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 745,
+    "name": "※▲伊奈利珠单抗",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 540,
+    "name": "※▲利拉鲁肽",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 793,
+    "name": "※▲右酮洛芬氨丁三醇",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 733,
+    "name": "※▲司库奇尤单抗",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 997,
+    "name": "※▲天麻素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 785,
+    "name": "※▲奥马珠单抗",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 859,
+    "name": "※▲左西孟旦",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 795,
+    "name": "※▲布比卡因脂质体",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 592,
+    "name": "※▲帕妥珠曲妥珠单抗",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 729,
+    "name": "※▲度拉糖肽",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 749,
+    "name": "※▲度普利尤单抗",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 768,
+    "name": "※▲德谷胰岛素利拉鲁肽",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 581,
+    "name": "※▲替雷利珠单抗",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 791,
+    "name": "※▲瑞帕妥单抗",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 789,
+    "name": "※▲盐酸伊立替康脂质体",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications",
+      "缺少库位信息(门诊和住院)",
+      "不良反应字段包含禁忌症内容，数据混乱",
+      "仅存在不良反应数据，其他关键字段缺失"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": true,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 849,
+    "name": "※▲盐酸艾司氯胺酮",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 757,
+    "name": "※▲盐酸莫西沙星氯化钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications",
+      "缺少住院库位号",
+      "不良反应字段包含禁忌症内容，数据混乱",
+      "仅存在不良反应数据，其他关键字段缺失"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": true,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 738,
+    "name": "※▲肾康",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 869,
+    "name": "※▲脂肪乳氨基酸葡萄糖",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 799,
+    "name": "※▲英克司兰钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 803,
+    "name": "※▲血必净",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 586,
+    "name": "※▲辅酶Q10",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 571,
+    "name": "※▲重组人血管内皮抑制素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 604,
+    "name": "※地舒单抗",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 916,
+    "name": "※硫酸庆大霉素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 103,
+    "name": "丁苯酞氯化钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 629,
+    "name": "丹参",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 788,
+    "name": "乳酸环丙沙星氯化钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications",
+      "缺少库位信息(门诊和住院)",
+      "仅存在不良反应数据，其他关键字段缺失"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": true,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 847,
+    "name": "亚甲蓝",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 105,
+    "name": "人促红素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 639,
+    "name": "人粒细胞刺激因子",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 263,
+    "name": "人胰岛素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 595,
+    "name": "伊匹木单抗",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 558,
+    "name": "依托泊苷",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 547,
+    "name": "依达拉奉氯化钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 549,
+    "name": "依降钙素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 606,
+    "name": "信迪利单抗",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 439,
+    "name": "克林霉素磷酸酯",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 804,
+    "name": "利奈唑胺葡萄糖",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 837,
+    "name": "卡铂",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications",
+      "缺少库位信息(门诊和住院)",
+      "仅存在不良反应数据，其他关键字段缺失"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": true,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 905,
+    "name": "去乙酰毛花苷",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 277,
+    "name": "呋塞米",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 826,
+    "name": "咪达唑仑",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 411,
+    "name": "唑来膦酸",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 833,
+    "name": "地佐辛",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 1024,
+    "name": "地塞米松棕榈酸酯",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 830,
+    "name": "地特胰岛素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 832,
+    "name": "地西泮",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 628,
+    "name": "复方曲肽",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 684,
+    "name": "复方氨基酸",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 387,
+    "name": "多索茶碱",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 388,
+    "name": "多西他赛",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 435,
+    "name": "奥沙利铂",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 887,
+    "name": "尼莫地平",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 281,
+    "name": "左氧氟沙星氯化钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications",
+      "缺少库位信息(门诊和住院)",
+      "不良反应字段包含禁忌症内容，数据混乱",
+      "仅存在不良反应数据，其他关键字段缺失"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": true,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 107,
+    "name": "德谷门冬双胰岛素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications",
+      "缺少库位信息(门诊和住院)",
+      "不良反应字段包含禁忌症内容，数据混乱",
+      "仅存在不良反应数据，其他关键字段缺失"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": true,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 934,
+    "name": "托拉塞米",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 688,
+    "name": "拉考沙胺",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 295,
+    "name": "枸橼酸芬太尼",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": true
+    }
+  },
+  {
+    "id": 900,
+    "name": "氟哌啶醇",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 234,
+    "name": "氟康唑氯化钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 781,
+    "name": "氢溴酸加兰他敏",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 779,
+    "name": "氨甲环酸",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 6,
+    "name": "氨茶碱",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 5,
+    "name": "氯化钾",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 658,
+    "name": "注射用头孢地嗪钠/5%葡萄糖",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 656,
+    "name": "注射用头孢曲松钠/氯化钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": true,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 444,
+    "name": "浓氯化钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 741,
+    "name": "特立帕肽",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 585,
+    "name": "环磷腺苷葡胺",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 681,
+    "name": "甘精胰岛素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 736,
+    "name": "甲氨蝶呤",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": true,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 86,
+    "name": "甲硝唑氯化钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": true
+    }
+  },
+  {
+    "id": 624,
+    "name": "甲磺酸酚妥拉明",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 1014,
+    "name": "甲钴胺",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 565,
+    "name": "盐酸乌拉地尔",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 1027,
+    "name": "盐酸二甲弗林",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 641,
+    "name": "盐酸倍他司汀",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 77,
+    "name": "盐酸克林霉素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 35,
+    "name": "盐酸利多卡因",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": true,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 431,
+    "name": "盐酸右美托咪定",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 461,
+    "name": "盐酸吗啡",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 560,
+    "name": "盐酸哌替啶",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": true,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 786,
+    "name": "盐酸帕洛诺司琼",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 55,
+    "name": "盐酸昂丹司琼",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 917,
+    "name": "盐酸普罗帕酮",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 432,
+    "name": "盐酸曲马多",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 130,
+    "name": "盐酸氨溴索",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 434,
+    "name": "盐酸氯丙嗪",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 634,
+    "name": "盐酸甲氧氯普胺",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 631,
+    "name": "盐酸精氨酸",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 563,
+    "name": "盐酸维拉帕米",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 753,
+    "name": "盐酸肾上腺素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 132,
+    "name": "盐酸胺碘酮",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 185,
+    "name": "盐酸艾司洛尔",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 739,
+    "name": "盐酸苯海拉明",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 398,
+    "name": "盐酸莫西沙星氯化钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications",
+      "缺少库位信息(门诊和住院)",
+      "不良反应字段包含禁忌症内容，数据混乱",
+      "仅存在不良反应数据，其他关键字段缺失"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": true,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 61,
+    "name": "硝酸甘油",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 852,
+    "name": "硫酸妥布霉素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 1029,
+    "name": "硫酸镁",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 262,
+    "name": "硫酸阿托品",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications",
+      "缺少库位信息(门诊和住院)",
+      "缺少住院库位号",
+      "不良反应字段包含禁忌症内容，数据混乱",
+      "仅存在不良反应数据，其他关键字段缺失"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": true,
+      "has_interactions": true,
+      "has_precautions": true
+    }
+  },
+  {
+    "id": 224,
+    "name": "硫酸阿米卡星",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 983,
+    "name": "碳酸氢钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 978,
+    "name": "维生素B1",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 979,
+    "name": "维生素B6",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 509,
+    "name": "维生素C",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 510,
+    "name": "维生素K1",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 735,
+    "name": "缩宫素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 725,
+    "name": "罗库溴铵",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 647,
+    "name": "羟乙基淀粉130/0.4氯化钠",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 619,
+    "name": "肌氨肽苷",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 36,
+    "name": "肌苷",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 800,
+    "name": "脑苷肌肽",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 774,
+    "name": "苯磺顺阿曲库铵",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 391,
+    "name": "葡萄糖酸钙",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 419,
+    "name": "贝伐珠单抗",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 610,
+    "name": "赖脯胰岛素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 609,
+    "name": "那屈肝素钙",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 608,
+    "name": "重组人血小板生成素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 137,
+    "name": "重酒石酸去甲肾上腺素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 3,
+    "name": "钆特酸葡胺",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, adverse_reactions",
+      "缺少住院库位号",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": true,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 946,
+    "name": "门冬胰岛素",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少住院库位号"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  },
+  {
+    "id": 700,
+    "name": "阿加曲班",
+    "exists": true,
+    "issues": [
+      "缺少关键字段: indications, dosage, contraindications, adverse_reactions",
+      "缺少库位信息(门诊和住院)"
+    ],
+    "data_summary": {
+      "has_indications": false,
+      "has_dosage": false,
+      "has_contraindications": false,
+      "has_adverse_reactions": false,
+      "has_interactions": false,
+      "has_precautions": false
+    }
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": 645,
+  "name": "氘丁苯那嗪片",
+  "dosage_form": "片",
+  "full_name": "(乙10%)氘丁苯那嗪片",
+  "chemical_name": "氘丁苯那嗪片",
+  "types": [],
+  "manufacturers": [
+    "Teva Branded Pharmaceutical Products R&D, Inc."
+  ],
+  "specifications": [
+    {
+      "specification": "6mg/片",
+      "manufacturer": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "full_manufacturer": "Teva Branded Pharmaceutical Products R&D, Inc.(Anesta LLC)",
+      "price": 2189.6,
+      "unit": "瓶",
+      "code": "Y00000014680",
+      "approval_number": "国药准字HJ20200013",
+      "insurance_code": "XN05AXD342A001010182951",
+      "location": "E-2",
+      "outpatient_location": "H-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "⑴用于罕见的亨廷顿氏舞蹈症（又称汉廷顿病，属罕见病）。亨廷顿舞蹈症是一种罕见的常染色体显性遗传病，目前无有效治疗手段。 ⑵美国FDA已经批准用于成人迟发性运动障碍。",
+    "dosage": "口服：推荐剂量为一次6mg，一日1次。一周之后每周增加6mg，每日总剂量为12mg或以上，分2次服用。最大每日剂量不超过48mg。",
+    "contraindications": "症 禁止有自杀倾向的患者使用。",
+    "adverse_reactions": "最常见的不良反应（> 8％接受AUSTEDO治疗的患者亨廷顿舞蹈病，大于安慰剂）：嗜睡，腹泻，干燥口和疲劳。",
+    "interactions": "1.与强效CYP2D6抑制剂的同时使用：建议最大剂量为每天36mg（每次18mg，每天2次）。 2.与酒精或其他镇静药物同时服用，镇静作用和嗜睡作用可能叠加。 用药交代 吞咽整个片剂；不要咀嚼，压碎或破碎。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴用于治疗罕见的亨廷顿氏舞蹈症（又称汉廷顿病，属罕见病）。亨廷顿舞蹈症是一种罕见的常染色体显性遗传病，目前无有效治疗手段。 ⑵美国FDA已经批准用于治疗成人迟发性运动障碍。",
+    "full_dosage": "口服：推荐剂量为一次6mg，一日1次。一周之后每周增加6mg，每日总剂量为12mg或以上，分2次服用。最大每日剂量不超过48mg。",
+    "full_contraindications": "症 禁止有自杀倾向的患者使用。",
+    "full_adverse_reactions": "最常见的不良反应（> 8％接受AUSTEDO治疗的患者亨廷顿舞蹈病，大于安慰剂）：嗜睡，腹泻，干燥口和疲劳。",
+    "full_interactions": "1.与强效CYP2D6抑制剂的同时使用：建议最大剂量为每天36mg（每次18mg，每天2次）。 2.与酒精或其他镇静药物同时服用，镇静作用和嗜睡作用可能叠加。 用药交代 吞咽整个片剂；不要咀嚼，压碎或破碎。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": ""
+  },
+  "pinyin": "daodingbennaqin",
+  "pinyin_initials": "ddbnq",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13151",
+    "last_updated": "2026-03-21"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 216,
+  "name": "丁酸氢化可的松乳膏",
+  "dosage_form": "乳膏",
+  "full_name": "(甲)丁酸氢化可的松乳膏[国基、上增]",
+  "chemical_name": "丁酸氢化可的松乳膏",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "天津金耀药业"
+  ],
+  "specifications": [
+    {
+      "specification": "10g/支",
+      "manufacturer": "天津金耀药业",
+      "full_manufacturer": "天津金耀药业有限公司",
+      "price": 8.7,
+      "unit": "盒",
+      "code": "X00136",
+      "approval_number": "国药准字H10940095",
+      "insurance_code": "XD07ABD139F002010100952",
+      "location": "2L-2",
+      "outpatient_location": "2E-6"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "外用适用于对糖皮质激素治疗有效的皮肤病，如接触性皮炎、特应性皮炎、脂溢性皮炎、湿疹、神经性皮炎、银屑病等瘙痒性及非感染性炎症性皮肤病。",
+    "dosage": "外用均匀涂于患处，用后轻轻揉擦，一日2～3次。对顽固、肥厚性皮损可采用封包疗法。",
+    "contraindications": "过敏禁用。",
+    "adverse_reactions": "偶可出现瘙痒、干燥及烧灼感。长期局部外用，可以起糖皮质激素类的不良反应，如痤疮样皮炎、毛细血管扩张、色素沉着或脱失、增加对感染的易感性等。",
+    "interactions": "参阅肾上腺皮质激素项。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "是一个不含氟的中效糖皮质激素。外用能降低毛细血管通透性，抑制角质生成，细胞增殖，具有抗过敏、抗炎症的作用。由于在化学结构中不含氟，局部外用不良反应的发生率低，可适用于儿童及面部皮肤的使用。",
+    "precautions": "⑷不宜用于破损皮肤。",
+    "source": "湖南药事服务网",
+    "full_indications": "外用适用于对糖皮质激素治疗有效的皮肤病，如接触性皮炎、特应性皮炎、脂溢性皮炎、湿疹、神经性皮炎、银屑病等瘙痒性及非感染性炎症性皮肤病。",
+    "full_dosage": "外用均匀涂于患处，用后轻轻揉擦，一日2～3次。对顽固、肥厚性皮损可采用封包疗法。",
+    "full_contraindications": "⑴对本药及其基质成分过敏者和对其他糖皮质激素过敏者禁用。  <br>⑵水痘、化脓性皮肤病或其他感染性皮肤病时禁用。",
+    "full_adverse_reactions": "偶可出现瘙痒、干燥及烧灼感。长期局部外用，可以起糖皮质激素类的不良反应，如痤疮样皮炎、毛细血管扩张、色素沉着或脱失、增加对感染的易感性等。",
+    "full_interactions": "参阅肾上腺皮质激素项。",
+    "full_pharmacokinetics": "是一个不含氟的中效糖皮质激素。外用能降低毛细血管通透性，抑制角质生成，细胞增殖，具有抗过敏、抗炎症的作用。由于在化学结构中不含氟，局部外用不良反应的发生率低，可适用于儿童及面部皮肤的使用。",
+    "full_precautions": "⑴婴儿及儿童勿长期、大面积使用或采用封包法治疗，以免抑制下丘脑-垂体-肾上腺轴，产生继发性肾上腺功能不足。  <br>⑵孕妇、哺乳期妇女应考虑用药的利弊，慎重使用。  <br>⑶币买了与眼睛接触。  <br>⑷不宜用于破损皮肤。  <br>⑸久用可产生耐受性。"
+  },
+  "pinyin": "dingsuanqinghuakedisong",
+  "pinyin_initials": "dsqhkds",
+  "dosage_form_pinyin": "rugao",
+  "dosage_form_initials": "rg",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1234",
+    "last_updated": "2026-03-22"
+  }
+}

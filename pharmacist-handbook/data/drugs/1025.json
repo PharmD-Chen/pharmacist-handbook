@@ -1,0 +1,53 @@
+{
+  "id": 1025,
+  "name": "普适泰片",
+  "dosage_form": "片",
+  "full_name": "(甲)普适泰片",
+  "chemical_name": "普适泰片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "南京美瑞制药"
+  ],
+  "specifications": [
+    {
+      "specification": "120mg/片",
+      "manufacturer": "南京美瑞制药",
+      "full_manufacturer": "南京美瑞制药有限公司",
+      "price": 97.2,
+      "unit": "盒",
+      "code": "X00666",
+      "approval_number": "国药准字H20217069",
+      "insurance_code": "XG04CXP102A001020101575"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于良性前列腺增生症(如尿频、尿急、尿线变细、排尿困难、夜尿增多、排尿不尽感等症状），慢性非细菌性前列腺炎。",
+    "dosage": "常用剂量，一次1片，一日2次。3～6个月后有明显疗效，对BPH疗程是长期的。高龄或肾功能不全者无需调整剂量。",
+    "contraindications": "症 对本品过敏者和儿童禁用。",
+    "adverse_reactions": "绝大多数病人对本药高度耐受，仅少数人有轻微的腹胀、胃灼痛和恶心，停药后症状即可消失。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴临服用前才将铝箔撕开，以免药品吸潮变质。 ⑵可单独或与食物同服，老年或肾功能不全者无需改变剂量。 ⑶由于本品起效慢，3～6个月才收到明显效果，故对残余尿量大或尿素严重降低者，需密切监视，以防尿流梗阻。 ⑷前列腺感染、尿道狭窄、前列腺结石、膀胱颈硬化、前列腺癌和其他前列腺疾病都会引起类似的症状，所以在使用本品治疗之前应对上述疾病作出正确的判断。 给药说明 每",
+    "source": "湖南药事服务网",
+    "full_indications": "用于良性前列腺增生症(如尿频、尿急、尿线变细、排尿困难、夜尿增多、排尿不尽感等症状），慢性非细菌性前列腺炎。",
+    "full_dosage": "常用剂量，一次1片，一日2次。3～6个月后有明显疗效，对BPH疗程是长期的。高龄或肾功能不全者无需调整剂量。",
+    "full_contraindications": "症 对本品过敏者和儿童禁用。",
+    "full_adverse_reactions": "绝大多数病人对本药高度耐受，仅少数人有轻微的腹胀、胃灼痛和恶心，停药后症状即可消失。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴临服用前才将铝箔撕开，以免药品吸潮变质。 ⑵可单独或与食物同服，老年或肾功能不全者无需改变剂量。 ⑶由于本品起效慢，3～6个月才收到明显效果，故对残余尿量大或尿素严重降低者，需密切监视，以防尿流梗阻。 ⑷前列腺感染、尿道狭窄、前列腺结石、膀胱颈硬化、前列腺癌和其他前列腺疾病都会引起类似的症状，所以在使用本品治疗之前应对上述疾病作出正确的判断。 给药说明 每片含花粉提取物P570mg或120mg，花粉提取物EA104mg或6.6mg。"
+  },
+  "pinyin": "pushitai",
+  "pinyin_initials": "pst",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1771",
+    "last_updated": "2026-03-21"
+  }
+}

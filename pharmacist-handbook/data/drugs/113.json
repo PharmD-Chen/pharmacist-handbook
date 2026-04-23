@@ -1,0 +1,91 @@
+{
+  "id": 113,
+  "name": "5%葡萄糖注射液(塑)",
+  "dosage_form": "注射液",
+  "full_name": "(甲)5%葡萄糖注射液(塑)[国]",
+  "chemical_name": "5%葡萄糖注射液(塑)",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "上海百特医疗用品",
+    "四川科伦药业",
+    "浙江天瑞药业"
+  ],
+  "specifications": [
+    {
+      "specification": "500ml/瓶",
+      "manufacturer": "浙江天瑞药业",
+      "full_manufacturer": "浙江天瑞药业有限公司",
+      "price": 2.58,
+      "unit": "瓶",
+      "code": "Y00000000027",
+      "approval_number": "国药准字H33020670",
+      "insurance_code": "XB05BBP072B002060304718",
+      "outpatient_location": "1",
+      "inpatient_location": "1"
+    },
+    {
+      "specification": "250ml/袋",
+      "manufacturer": "上海百特医疗用品",
+      "full_manufacturer": "上海百特医疗用品有限公司",
+      "price": 4.96,
+      "unit": "袋",
+      "code": "X00003",
+      "approval_number": "国药准字H19994071",
+      "insurance_code": "XB05BBP072B002050100628",
+      "outpatient_location": "1",
+      "inpatient_location": "1"
+    },
+    {
+      "specification": "250ml/袋",
+      "manufacturer": "四川科伦药业",
+      "full_manufacturer": "四川科伦药业股份有限公司",
+      "price": 2.9,
+      "unit": "袋",
+      "code": "X00673",
+      "approval_number": "国药准字H51020636",
+      "insurance_code": "XB05BBP072B002090302180",
+      "outpatient_location": "1",
+      "inpatient_location": "1"
+    },
+    {
+      "specification": "100ml/袋",
+      "manufacturer": "四川科伦药业",
+      "full_manufacturer": "四川科伦药业股份有限公司",
+      "price": 2.57,
+      "unit": "袋",
+      "code": "X00674",
+      "approval_number": "国药准字H51020635",
+      "insurance_code": "XB05BBP072B002050702180",
+      "outpatient_location": "1",
+      "inpatient_location": "1"
+    }
+  ],
+  "spec_count": 4,
+  "manual": {
+    "indications": "1.补充能量和体液：用于各种原因引起的进食不足或大量体液丢失（如呕吐、腹泻等），全静脉内营养，饥饿性酮症；2.低血糖症；3.高钾血症；4.高渗溶液用作组织脱水剂；5.配制腹膜透析液；6.药物稀释剂；7.静脉法葡萄糖耐量试验；8.供配制GIK（极化液）液用。",
+    "full_indications": "1.补充能量和体液：用于各种原因引起的进食不足或大量体液丢失（如呕吐、腹泻等），全静脉内营养，饥饿性酮症；2.低血糖症；3.高钾血症；4.高渗溶液用作组织脱水剂；5.配制腹膜透析液；6.药物稀释剂；7.静脉法葡萄糖耐量试验；8.供配制GIK（极化液）液用。",
+    "dosage": "静脉滴注。用量视病情而定，一般每次500-1000ml。",
+    "full_dosage": "静脉滴注。用量视病情而定，一般每次500-1000ml。",
+    "contraindications": "1.糖尿病酮症酸中毒未控制者；2.高血糖非酮症性高渗状态。",
+    "full_contraindications": "1.糖尿病酮症酸中毒未控制者；2.高血糖非酮症性高渗状态。",
+    "adverse_reactions": "1.静脉炎，发生于高渗葡萄糖注射液滴注时；2.高浓度葡萄糖注射液外渗可致局部肿痛；3.反应性低血糖：合并使用胰岛素过量，原有低血糖倾向及全静脉营养疗法突然停止时易发生；4.高血糖非酮症昏迷：多见于糖尿病、应激状态、使用大量的糖皮质激素、尿毒症腹膜透析患者腹腔内给予高渗葡萄糖溶液及全营养疗法时；5.电解质紊乱：长期单纯补给葡萄糖时易出现低钾、低钠及低磷血症。",
+    "full_adverse_reactions": "1.静脉炎，发生于高渗葡萄糖注射液滴注时；2.高浓度葡萄糖注射液外渗可致局部肿痛；3.反应性低血糖：合并使用胰岛素过量，原有低血糖倾向及全静脉营养疗法突然停止时易发生；4.高血糖非酮症昏迷：多见于糖尿病、应激状态、使用大量的糖皮质激素、尿毒症腹膜透析患者腹腔内给予高渗葡萄糖溶液及全营养疗法时；5.电解质紊乱：长期单纯补给葡萄糖时易出现低钾、低钠及低磷血症。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "full_interactions": "尚不明确。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "1.分娩时注射过多葡萄糖可刺激胎儿胰岛素分泌，发生产后婴儿低血糖；2.下列情况慎用：①胃大部分切除患者作口服糖耐量试验时易出现倾倒综合征及低血糖反，改为静脉葡萄糖试验；②周期性麻痹、低钾血症患者；③激状态或用糖皮质激素时容易诱发高血糖；④水肿及严重心、肾功能不全、肝硬化腹水者，易致水潴留，控制输液量；心功能不全者尤控制滴速。",
+    "full_precautions": "1.分娩时注射过多葡萄糖可刺激胎儿胰岛素分泌，发生产后婴儿低血糖；2.下列情况慎用：①胃大部分切除患者作口服糖耐量试验时易出现倾倒综合征及低血糖反应，应改为静脉葡萄糖试验；②周期性麻痹、低钾血症患者；③应激状态或应用糖皮质激素时容易诱发高血糖；④水肿及严重心、肾功能不全、肝硬化腹水者，易致水潴留，应控制输液量；心功能不全者尤应控制滴速。",
+    "source": "湖南药事服务网"
+  },
+  "pinyin": "5%putaotang",
+  "pinyin_initials": "5%ptt",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=113",
+    "last_updated": "2026-03-21"
+  }
+}

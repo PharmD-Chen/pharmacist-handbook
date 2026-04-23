@@ -1,0 +1,66 @@
+{
+  "id": 490,
+  "name": "(80μg)布地奈德福莫特罗吸入粉雾剂（I）",
+  "dosage_form": "粉雾剂",
+  "full_name": "(甲)(80μg)布地奈德福莫特罗吸入粉雾剂（I）[国基]",
+  "chemical_name": "布地奈德福莫特罗吸入粉雾剂（I）",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "AstraZeneca AB"
+  ],
+  "specifications": [
+    {
+      "specification": "60吸/支",
+      "manufacturer": "AstraZeneca AB",
+      "full_manufacturer": "AstraZeneca AB",
+      "price": 155.1,
+      "unit": "盒",
+      "code": "X00373",
+      "approval_number": "国药准字HJ20140459",
+      "insurance_code": "XR03AKB238L031010179096",
+      "location": "C-3",
+      "outpatient_location": "C-4"
+    },
+    {
+      "specification": "60吸/支",
+      "manufacturer": "AstraZeneca AB",
+      "full_manufacturer": "AstraZeneca AB",
+      "price": 220.18,
+      "unit": "支",
+      "code": "X00841",
+      "approval_number": "国药准字HJ20140458",
+      "insurance_code": "XR03AKB237L031020179096",
+      "outpatient_location": "C-2"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "用于支气管哮喘，主要用于慢性持续性支气管哮喘；也可在重度慢性阻塞性肺疾病使用。",
+    "dosage": "干粉吸入剂：\n　　⑴吸入，160μg/4.5μg（1喷），成人和12岁及12岁以上患者，一次1～2喷，一日2次。",
+    "contraindications": "参阅布地奈德和福莫特罗。",
+    "adverse_reactions": "参阅布地奈德和福莫特罗。",
+    "interactions": "⑴与其他CYP3A4酶强抑制药合用时会显著增加布地奈德的血药浓度。  <br>⑵β受体拮抗药能减弱或抑制福莫特罗的作用，不宜合用。  <br>⑶与奎尼丁、丙吡胺、普鲁卡因胺、吩噻嗪、抗组胺药（特非那定）、单胺氧化酶抑制药和三环类抗抑郁药合用可延长ＱＴc间期，并增加室性心律失常的危险。  <br>⑷左旋多巴、左甲状腺素、缩宫素和乙醇也可损害心脏对β2受体激动药的耐受性。  <br>⑸同时与单胺氧化酶抑制药合用，包括特性相似的物质，如呋喃唑酮和丙卡巴肼，可能会突然引起高血压反应。  <br>⑹患者同",
+    "pregnancy_category": null,
+    "pharmacokinetics": "参阅布地奈德和福莫特罗。",
+    "precautions": "参阅布地奈德和福莫特罗。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于支气管哮喘，主要用于慢性持续性支气管哮喘；也可在重度慢性阻塞性肺疾病使用。",
+    "full_dosage": "干粉吸入剂：<br>　　⑴吸入，160μg/4.5μg（1喷），成人和12岁及12岁以上患者，一次1～2喷，一日2次。    <br>　　⑵800μg/4.5μg（1喷），成人一次1～2喷，一日2次；或一次4喷，一日2次；12～17岁患者，一次1～2喷，一日2次；6岁和6岁以上患者一次2喷，一日2次。在常规治疗中，当一日2次剂量可有效控制症状时，应逐渐减少剂量直至最低有效剂量，甚至一日1次给予本品。",
+    "full_contraindications": "参阅布地奈德和福莫特罗。",
+    "full_adverse_reactions": "参阅布地奈德和福莫特罗。",
+    "full_interactions": "⑴与其他CYP3A4酶强抑制药合用时会显著增加布地奈德的血药浓度。  <br>⑵β受体拮抗药能减弱或抑制福莫特罗的作用，不宜合用。  <br>⑶与奎尼丁、丙吡胺、普鲁卡因胺、吩噻嗪、抗组胺药（特非那定）、单胺氧化酶抑制药和三环类抗抑郁药合用可延长ＱＴc间期，并增加室性心律失常的危险。  <br>⑷左旋多巴、左甲状腺素、缩宫素和乙醇也可损害心脏对β2受体激动药的耐受性。  <br>⑸同时与单胺氧化酶抑制药合用，包括特性相似的物质，如呋喃唑酮和丙卡巴肼，可能会突然引起高血压反应。  <br>⑹患者同时接受含卤素麻醉时，发生心律失常的危险增加。  <br>⑺同时使用其他β肾上腺药物则有潜在的相加作用。  <br>⑻对于正在使用洋地黄毒苷的低钾血症患者发生心律失常的可能性增加。",
+    "full_pharmacokinetics": "参阅布地奈德和福莫特罗。",
+    "full_precautions": "参阅布地奈德和福莫特罗。"
+  },
+  "pinyin": "budinaidefumoteluoxirufenwuji",
+  "pinyin_initials": "bdndfmtlxrfwj",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1665",
+    "last_updated": "2026-03-22"
+  }
+}

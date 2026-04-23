@@ -1,0 +1,54 @@
+{
+  "id": 918,
+  "name": "胆宁片",
+  "dosage_form": "片",
+  "full_name": "(甲)胆宁片[市基]",
+  "chemical_name": "胆宁片",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "上海和黄药业"
+  ],
+  "specifications": [
+    {
+      "specification": "360mg/片",
+      "manufacturer": "上海和黄药业",
+      "full_manufacturer": "上海和黄药业有限公司",
+      "price": 27.9,
+      "unit": "盒",
+      "code": "C00005",
+      "approval_number": "国药准字Z10910040",
+      "insurance_code": "ZB01AAD0148010200674"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "疏肝利胆，清热通下。用于肝郁气滞、湿热未清所致的右上腹隐隐作痛，食入作胀，胃纳不香，嗳气，便秘；慢性胆囊炎见上述证候者。",
+    "dosage": "口服：一次5片，一日3次，餐后服用。",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "可引起大便次数增多，偶有轻度腹泻。",
+    "interactions": "如与其他药物同时使用可能会发生",
+    "pregnancy_category": null,
+    "pharmacokinetics": "大黄、虎杖、青皮、白茅根、陈皮、郁金、山楂。",
+    "precautions": "1.孕妇及过敏体质者慎用。 2.服用本品后，如每日排便增至三次以上者，应酌情减量服用。 3.药品性状发生改变时禁止使用。 4.请将此药品放在儿童不能接触的地方。",
+    "source": "湖南药事服务网",
+    "full_indications": "疏肝利胆，清热通下。用于肝郁气滞、湿热未清所致的右上腹隐隐作痛，食入作胀，胃纳不香，嗳气，便秘；慢性胆囊炎见上述证候者。",
+    "full_dosage": "口服：一次5片，一日3次，餐后服用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "可引起大便次数增多，偶有轻度腹泻。",
+    "full_interactions": "如与其他药物同时使用可能会发生",
+    "full_pharmacokinetics": "大黄、虎杖、青皮、白茅根、陈皮、郁金、山楂。",
+    "full_precautions": "1.孕妇及过敏体质者慎用。 2.服用本品后，如每日排便增至三次以上者，应酌情减量服用。 3.药品性状发生改变时禁止使用。 4.请将此药品放在儿童不能接触的地方。",
+    "composition": "大黄、虎杖、青皮、白茅根、陈皮、郁金、山楂。"
+  },
+  "pinyin": "danning",
+  "pinyin_initials": "dn",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=4417",
+    "last_updated": "2026-03-21"
+  }
+}

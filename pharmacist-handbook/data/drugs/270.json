@@ -1,0 +1,55 @@
+{
+  "id": 270,
+  "name": "复合维生素B片",
+  "dosage_form": "片",
+  "full_name": "(甲)复合维生素B片[市基]",
+  "chemical_name": "复合维生素B片",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "上海新黄河制药"
+  ],
+  "specifications": [
+    {
+      "specification": "1片/片",
+      "manufacturer": "上海新黄河制药",
+      "full_manufacturer": "上海新黄河制药有限公司",
+      "price": 12.41,
+      "unit": "瓶",
+      "code": "Y00000012485",
+      "approval_number": "国药准字H31021754",
+      "insurance_code": "XA11EAF607A001010100787",
+      "location": "I-2",
+      "outpatient_location": "M-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于营养不良、厌食、脚气病、糙皮病及因缺乏维生素B族所致的各种疾病作为辅助治疗。",
+    "dosage": "⑴片剂：成人口服一次1～3片，一日3次。儿童一次1～2片，一日3次。    ⑵口服溶液：口服一次2.5～5ml，一日3次。    ⑶注射剂：每次",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "大剂量服用可出现烦躁、疲倦、食欲减退等。偶见皮肤潮红、瘙痒。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "日常补充和预防时，宜用最低量。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于营养不良、厌食、脚气病、糙皮病及因缺乏维生素B族所致的各种疾病作为辅助治疗。",
+    "full_dosage": "⑴片剂：成人口服一次1～3片，一日3次。儿童一次1～2片，一日3次。    ⑵口服溶液：口服一次2.5～5ml，一日3次。    ⑶注射剂：每次肌内注射2ml，一日1次，亦可视病情需要给予。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "大剂量服用可出现烦躁、疲倦、食欲减退等。偶见皮肤潮红、瘙痒。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "日常补充和预防时，宜用最低量。"
+  },
+  "pinyin": "fuheweishengsub",
+  "pinyin_initials": "fhwssb",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3077",
+    "last_updated": "2026-03-22"
+  }
+}

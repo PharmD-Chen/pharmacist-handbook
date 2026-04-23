@@ -1,0 +1,56 @@
+{
+  "id": 821,
+  "name": "消炎利胆片",
+  "dosage_form": "片",
+  "full_name": "(甲)消炎利胆片[国基]",
+  "chemical_name": "新消炎利胆片",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "广东万年青制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.52g/片",
+      "manufacturer": "广东万年青制药",
+      "full_manufacturer": "广东万年青制药股份有限公司",
+      "price": 24.68,
+      "unit": "瓶",
+      "code": "C00015",
+      "approval_number": "国药准字Z44023159",
+      "insurance_code": "ZB01AAX0289010100347"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "清热，祛湿，利胆。用于肝胆湿热所致的胁痛、口苦；急性胆囊炎、胆管炎见上述证候者。",
+    "full_indications": "清热，祛湿，利胆。用于肝胆湿热所致的胁痛、口苦；急性胆囊炎、胆管炎见上述证候者。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "口服：一次6片，一日3次。",
+    "full_dosage": "口服：一次6片，一日3次。疗程根据病情而定。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "偶见恶心、呕吐、腹痛、腹泻等胃肠道反应；偶见皮疹、瘙痒等过敏反应。",
+    "full_adverse_reactions": "偶见恶心、呕吐、腹痛、腹泻等胃肠道反应；偶见皮疹、瘙痒等过敏反应；长期大量服用可能对肝肾功能有影响。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "服药期间忌烟酒及油腻食物；孕妇慎用；脾胃虚寒者慎用。",
+    "full_precautions": "1.服药期间忌烟酒及油腻食物。2.孕妇慎用。3.脾胃虚寒者慎用。4.不宜长期服用。5.服药3天症状无缓解，应去医院就诊。6.药品性状发生改变时禁止使用。",
+    "source": "湖南药事服务网",
+    "url_added": true,
+    "composition": "穿心莲、溪黄草、苦木。"
+  },
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=4431",
+    "last_updated": "2026-03-20"
+  },
+  "pinyin": "xiaoyanlidan",
+  "pinyin_initials": "xyld",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p"
+}

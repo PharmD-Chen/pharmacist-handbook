@@ -1,0 +1,53 @@
+{
+  "id": 668,
+  "name": "牛痘疫苗接种家兔炎症皮肤提取物片",
+  "dosage_form": "片",
+  "full_name": "(自)牛痘疫苗接种家兔炎症皮肤提取物片",
+  "chemical_name": "牛痘疫苗接种家兔炎症皮肤提取物片",
+  "types": [],
+  "manufacturers": [
+    "Nippon Zoki Pharmaceutical Co.,Ltd."
+  ],
+  "specifications": [
+    {
+      "specification": "4单位/片",
+      "manufacturer": "Nippon Zoki Pharmaceutical Co.,Ltd.",
+      "full_manufacturer": "Nippon Zoki Pharmaceutical Co.,Ltd.（Nippon Zoki Pharmaceutical Co.,Ltd.,Ono Greenery Factory）",
+      "price": 158.96,
+      "unit": "盒",
+      "code": "Y00000015006",
+      "approval_number": "S20140086",
+      "insurance_code": "XN02BGN064A001010179092",
+      "location": "L-6",
+      "outpatient_location": "V"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "适用于腰痛症、颈肩腕综合征、症状性神经痛、过敏性皮肤瘙痒、变态性鼻炎、亚急性视神经脊髓病后遗症所引起的冷感、疼痛、感觉异常，还可用于带状疱疹后遗神经痛。",
+    "dosage": "亚急性视神经脊髓病后遗症引起的症状：一般腰痛等其他组织一般",
+    "contraindications": "",
+    "adverse_reactions": "不良反应总发生率1.4％。有肝、呼吸、循环、肾、消化道不良反应及感冒。神经系统不良反应很低，安全性好。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "",
+    "source": "湖南药事服务网",
+    "full_indications": "适用于腰痛症、颈肩腕综合征、症状性神经痛、过敏性皮肤瘙痒、变态性鼻炎、亚急性视神经脊髓病后遗症所引起的冷感、疼痛、感觉异常，还可用于带状疱疹后遗神经痛。",
+    "full_dosage": "亚急性视神经脊髓病后遗症引起的症状：一般静脉注射6ml（7.2U）。腰痛等其他组织一般肌内注射、静脉或皮下注射3ml（3.6U）。",
+    "full_contraindications": "",
+    "full_adverse_reactions": "不良反应总发生率1.4％。有肝、呼吸、循环、肾、消化道不良反应及感冒。神经系统不良反应很低，安全性好。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": ""
+  },
+  "pinyin": "niudouyimiaojiezhongjiatuyanzhengpifutiquwu",
+  "pinyin_initials": "ndymjzjtyzpftqw",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3642",
+    "last_updated": "2026-03-21"
+  }
+}

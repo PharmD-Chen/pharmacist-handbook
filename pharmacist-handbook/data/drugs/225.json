@@ -1,0 +1,54 @@
+{
+  "id": 225,
+  "name": "荧光素钠注射液",
+  "dosage_form": "注射液",
+  "full_name": "(甲)荧光素钠注射液",
+  "chemical_name": "荧光素钠注射液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "Alcon Laboratories, Inc."
+  ],
+  "specifications": [
+    {
+      "specification": "5ml/瓶",
+      "manufacturer": "Alcon Laboratories, Inc.",
+      "full_manufacturer": "Alcon Laboratories, Inc.（Alcon Research LLC）",
+      "price": 87.32,
+      "unit": "支",
+      "code": "X00607",
+      "approval_number": "国药准字HJ20130649",
+      "insurance_code": "XS01JAY182B002010278196",
+      "location": "B-2",
+      "outpatient_location": "Q-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于眼科诊断；测血液循环时间。",
+    "dosage": "⑴用于眼科检查：\n　　　①滴眼液：在滴眼后于角膜显微镜下观察颜色。",
+    "contraindications": "对本品过敏者、严重肝损害患者禁用。",
+    "adverse_reactions": "静脉注射后可发生恶心、头痛、胃肠道不适、晕厥、呕吐、低血压以及过敏反应。已有使用本品后心搏停止、基底动脉缺血、严重休克、抽搐、注射部位发生血栓性静脉炎和注射侧手臂的钝痛、荨麻疹、瘙痒、支气管痉挛和过敏反应的报告。注射本品后可发生强烈的味觉改变。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "有哮喘史、哺乳期妇女、过敏体质者慎用；对怀孕3个月内的孕妇避免血管注射造影；本品静脉注射后可使皮肤黄染，但24小时内可褪色。",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴滴眼液用于眼科诊断，正常角膜不显色，异常角膜显色。  <br>⑵针剂用于测血液循环时间，静脉注射后，在紫外线下观察，以10～15秒内唇部黏膜能见到黄绿色荧光为正常。",
+    "full_dosage": "⑴用于眼科检查：<br>　　　①滴眼液：在滴眼后于角膜显微镜下观察颜色。滴入眼睑内，一次1滴，经1～3分钟后用生理盐水冲洗过量药液病观察角膜着色程度。泪道通畅试验：用本品1滴滴眼，如2分钟后眼部仍有药液或3分钟后鼻内棉卷不染色，者表示泪道阻塞。<br>　　　②注射剂：10％本品5～10ml做静注，4秒内注完，8秒后进行眼底摄片检查眼底病变。    <br>　　⑵测血液循环时间，于臂静脉注入2ml，每次用量0.4～0.8g（2～4ml）。    <br>　　⑶血管造影：静脉注射，5％荧光素钠注射液一次10ml，或10％荧光素钠一次5ml，缓慢静脉注射。",
+    "full_contraindications": "对本品过敏者、严重肝损害患者禁用。",
+    "full_adverse_reactions": "静脉注射后可发生恶心、头痛、胃肠道不适、晕厥、呕吐、低血压以及过敏反应。已有使用本品后心搏停止、基底动脉缺血、严重休克、抽搐、注射部位发生血栓性静脉炎和注射侧手臂的钝痛、荨麻疹、瘙痒、支气管痉挛和过敏反应的报告。注射本品后可发生强烈的味觉改变。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "有哮喘史、哺乳期妇女、过敏体质者慎用；对怀孕3个月内的孕妇应避免血管注射造影；本品静脉注射后可使皮肤黄染，但24小时内可褪色。"
+  },
+  "pinyin": "yingguangsuna",
+  "pinyin_initials": "ygsn",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3354",
+    "last_updated": "2026-03-22"
+  }
+}

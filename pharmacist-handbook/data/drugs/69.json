@@ -1,0 +1,52 @@
+{
+  "id": 69,
+  "name": "维立西呱片",
+  "dosage_form": "片",
+  "full_name": "※▲(乙10%)维立西呱片",
+  "chemical_name": "维立西呱片",
+  "types": [],
+  "manufacturers": [
+    "Bayer AG"
+  ],
+  "specifications": [
+    {
+      "specification": "5mg/片",
+      "manufacturer": "Bayer AG",
+      "full_manufacturer": "Bayer AG(进口分包装：拜耳医药保健有限公司)",
+      "price": 77.84,
+      "unit": "盒",
+      "code": "X00324",
+      "approval_number": "国药准字HJ20220051",
+      "insurance_code": "XC01DXW128A001050178262",
+      "location": "F-1",
+      "outpatient_location": "F-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于的风险。",
+    "dosage": "口服：一般从小剂量开始，推荐的起始剂量为一次2.5mg，一日1次，与食物一起服用。大约每2周将剂量加倍，以达到患者耐受的每天10mg的维持剂量。对于吞咽困难的患者，可以将片剂压碎并与水混合服用。",
+    "contraindications": "孕妇禁用。",
+    "adverse_reactions": "报告的最常见(≥5% )不良反应是低血压和贫血。",
+    "interactions": "⑴禁用于同时使用其他可溶性鸟苷酸环化酶(sGC)刺激剂，如利奥西呱、普拉西呱、奥拉西呱等。<br>⑵PDE-5抑制剂：不建议同时使用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "维立西呱是一种可溶性鸟苷酸环化酶（sGC）刺激剂，是一氧化氮(NO)信号通路中的一种重要酶。当NO与sGC结合时，该酶催化细胞内环磷酸鸟苷(cGMP)的合成，这是一种在调节血管张力、心脏收缩性和心脏重塑中发挥作用的第二信使。心力衰竭与NO合成受损和sGC活性降低有关，这可能导致心肌和血管功能障碍。通",
+    "precautions": "⑴本品可能会伤害婴儿，不要给怀孕的女性服用。\n⑵具有生殖潜力的女性：在治疗开始前排除怀孕。为防止怀孕，有生育能力的女性在治疗期间和停止治疗后的一个月内必须使用有效的避孕措施。\n⑶哺乳期：不推荐母乳喂养。",
+    "source": "湖南药事服务网",
+    "full_indications": "适用于近期心力衰竭失代偿经静脉治疗后病情稳定的射血分数降低（射血分数<45%）的症状性慢性心力衰竭成人患者，以降低发生心力衰竭住院或需要急诊静脉利尿剂治疗的风险。",
+    "full_dosage": "口服：一般从小剂量开始，推荐的起始剂量为一次2.5mg，一日1次，与食物一起服用。大约每2周将剂量加倍，以达到患者耐受的每天10mg的维持剂量。对于吞咽困难的患者，可以将片剂压碎并与水混合服用。",
+    "full_contraindications": "⑴同时使用其他可溶性鸟苷酸环化酶(sGC)刺激剂的患者。<br>⑵孕妇禁用。",
+    "full_adverse_reactions": "报告的最常见(≥5% )不良反应是低血压和贫血。",
+    "full_interactions": "⑴禁用于同时使用其他可溶性鸟苷酸环化酶(sGC)刺激剂，如利奥西呱、普拉西呱、奥拉西呱等。<br>⑵PDE-5抑制剂：不建议同时使用。",
+    "full_pharmacokinetics": "维立西呱是一种可溶性鸟苷酸环化酶（sGC）刺激剂，是一氧化氮(NO)信号通路中的一种重要酶。当NO与sGC结合时，该酶催化细胞内环磷酸鸟苷(cGMP)的合成，这是一种在调节血管张力、心脏收缩性和心脏重塑中发挥作用的第二信使。心力衰竭与NO合成受损和sGC活性降低有关，这可能导致心肌和血管功能障碍。通过直接刺激sGC，独立于NO并与NO协同作用，维立西呱增加了细胞内cGMP的水平，导致平滑肌松弛和血管舒张。",
+    "full_precautions": "⑴本品可能会伤害婴儿，不要给怀孕的女性服用。<br>⑵具有生殖潜力的女性：在治疗开始前排除怀孕。为防止怀孕，有生育能力的女性在治疗期间和停止治疗后的一个月内必须使用有效的避孕措施。<br>⑶哺乳期：不推荐母乳喂养。"
+  },
+  "pinyin": "※▲weilixigu",
+  "pinyin_initials": "※▲wlxg",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13544",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 180,
+  "name": "盐酸左西替利嗪口服溶液",
+  "dosage_form": "口服溶液",
+  "full_name": "(甲)盐酸左西替利嗪口服溶液",
+  "chemical_name": "盐酸左西替利嗪口服溶液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "重庆华邦制药"
+  ],
+  "specifications": [
+    {
+      "specification": "10ml/支",
+      "manufacturer": "重庆华邦制药",
+      "full_manufacturer": "重庆华邦制药有限公司",
+      "price": 27.8,
+      "unit": "盒",
+      "code": "X00791",
+      "approval_number": "国药准字H20061289",
+      "insurance_code": "XR06AEZ066X001010201003",
+      "outpatient_location": "C-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "1.季节性过敏性鼻炎、常年性过敏性鼻炎；2.过敏性结膜炎；3.慢性特发性荨麻疹。",
+    "dosage": "成人：，一次5mg；儿童：根据症状轻重可一次2.5mg",
+    "contraindications": "对本品或西替利嗪、羟嗪过敏者禁用。",
+    "adverse_reactions": "一般为轻至中度的嗜睡、疲劳、虚弱、头痛、口干等。少见乏力。罕见过敏反应、呼吸困难、恶心、血管性水肿、瘙痒、荨麻疹、皮疹和体重增加。本品服药过量症状为嗜睡，切无特效的解毒药。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "蛋白结合率96.1。",
+    "precautions": "⑴肾功能不全者慎用。⑵驾驶或操作机械的患者慎用。⑸老年患者在服用本品时需监测肾功能，并根据肌酐清除率调整剂量。",
+    "source": "湖南药事服务网",
+    "full_indications": "1.季节性过敏性鼻炎、常年性过敏性鼻炎；2.过敏性结膜炎；3.慢性特发性荨麻疹。",
+    "full_dosage": "口服：<br>　　①成人，一次5mg，一日1次。②12岁以上或体重在30kg以上儿童的用法用量与成人相同。<br>　　③6～12岁儿童根据症状轻重可一次2.5mg或5mg，一日1次。<br>　　④肾功能损害患者，肌酐清除率≥50ml/min时，无需调整剂量；肌酐清除率为30～49ml/min时，减量至每两天5mg；肌酐清除率＜30ml/min时，减量至每3天5mg。肾功能不全终末期需进行透析的患者减量至每3～4天5mg，透析后无需补充剂量。<br>　　⑤仅有肝功能损害者无需调整剂量，肝功能损害伴肾功能损害者剂量调整同肾功能损害患者。",
+    "full_contraindications": "对本品或西替利嗪、羟嗪过敏者禁用。",
+    "full_adverse_reactions": "一般为轻至中度的嗜睡、疲劳、虚弱、头痛、口干等。少见乏力。罕见过敏反应、呼吸困难、恶心、血管性水肿、瘙痒、荨麻疹、皮疹和体重增加。本品服药过量症状为嗜睡，切无特效的解毒药。",
+    "full_interactions": "未曾见报道。",
+    "full_pharmacokinetics": "⑴药效学：本品是西替利嗪的R-对映体，也是西替利嗪的活性成分。对H1受体具有高度选择性，可竞争性拮抗H1受体。<br>　　⑵药动学：本品口服吸收迅速，单次口服5mg本品后约0.75小时血药浓度达峰值，峰值为0.27μg/ml，服药后1小时血浆蛋白结合率为96.1％。本品在吸收和消除过程中不发生手性转换。",
+    "full_precautions": "⑴肾功能不全者慎用。  <br>⑵驾驶或操作机械的患者慎用。  <br>⑶孕妇及哺乳期妇女应避免使用本品。  <br>⑷适用西替利嗪的儿童也使用本品。  <br>⑸老年患者在服用本品时需监测肾功能，并根据肌酐清除率调整剂量。"
+  },
+  "pinyin": "yansuanzuoxitiliqin",
+  "pinyin_initials": "yszxtlq",
+  "dosage_form_pinyin": "koufurongye",
+  "dosage_form_initials": "kfry",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2671",
+    "last_updated": "2026-03-22"
+  }
+}

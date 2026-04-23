@@ -1,0 +1,55 @@
+{
+  "id": 382,
+  "name": "开塞露（含甘油）",
+  "dosage_form": "其他",
+  "full_name": "(甲)开塞露（含甘油）[国基]",
+  "chemical_name": "开塞露（含甘油）",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "上海小方制药"
+  ],
+  "specifications": [
+    {
+      "specification": "20ml/支",
+      "manufacturer": "上海小方制药",
+      "full_manufacturer": "上海小方制药股份有限公司",
+      "price": 12.83,
+      "unit": "盒",
+      "code": "Y00000014462",
+      "approval_number": "国药准字H31021363",
+      "insurance_code": "XA06AGK111S004020500830",
+      "location": "3",
+      "outpatient_location": "1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于便秘。常用于小儿及年老体弱者便秘的治疗。",
+    "dosage": "用时将容器顶端刺破或剪开，外面涂油脂少许，徐徐插入肛门，然后将药液挤入直肠内，引起排便。成人剂量一次20ml，儿童一次10ml。",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "外用无不良反应。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品含甘油52.8％～58.3％（g/g）。开塞露所含的甘油的吸湿性很强，有一定的保湿性，能从空气中吸收水分，涂于皮肤上时可以起到滞留水份，可以滞留水份保持皮肤柔润从而防裂防皴，保持皮肤柔润，还可以直接注入肛门从而起到润滑并刺激肠壁，软化大便的作用。",
+    "precautions": "⑵过敏体质者慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗便秘。常用于小儿及年老体弱者便秘的治疗。",
+    "full_dosage": "用时将容器顶端刺破或剪开，外面涂油脂少许，徐徐插入肛门，然后将药液挤入直肠内，引起排便。成人剂量一次20ml，儿童一次10ml。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "外用无不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_pharmacokinetics": "本品含甘油52.8％～58.3％（g/g）。开塞露所含的甘油的吸湿性很强，有一定的保湿性，能从空气中吸收水分，涂于皮肤上时可以起到滞留水份，可以滞留水份保持皮肤柔润从而防裂防皴，保持皮肤柔润，还可以直接注入肛门从而起到润滑并刺激肠壁，软化大便的作用。",
+    "full_precautions": "⑴刺破或剪开后的注药导管的开口应光滑，以免擦伤肛门或直肠。 <br>⑵过敏体质者慎用。 <br>⑶本品性状发生改变时禁止使用。 <br>⑷请将本品放在儿童不能接触的地方。 <br>⑸儿童必须在成人监护下使用。"
+  },
+  "pinyin": "kaisailu",
+  "pinyin_initials": "ksl",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=571",
+    "last_updated": "2026-03-22"
+  }
+}

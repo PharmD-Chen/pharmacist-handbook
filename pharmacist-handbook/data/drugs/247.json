@@ -1,0 +1,50 @@
+{
+  "id": 247,
+  "name": "达罗他胺片",
+  "dosage_form": "片",
+  "full_name": "※▲(乙10%)达罗他胺片",
+  "chemical_name": "达罗他胺片",
+  "types": [],
+  "manufacturers": [
+    "Bayer HealthCare Pharmaceuticals Inc."
+  ],
+  "specifications": [
+    {
+      "specification": "300mg/片",
+      "manufacturer": "Bayer HealthCare Pharmaceuticals Inc.",
+      "full_manufacturer": "Bayer HealthCare Pharmaceuticals Inc.(Orion Corporation, Orion Pharma, Espoo)",
+      "price": 5707.2,
+      "unit": "盒",
+      "code": "X00697",
+      "approval_number": "国药准字HJ20210010",
+      "insurance_code": "XL02BBD348A001010183396"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于有高危转移风险的非转移性去势抵抗性前列腺癌（NM-CRPC）成年患者。即肿瘤未扩散到身体其他部位且对降低睾酮的药物或手术治疗不再有效的前列腺癌患者。",
+    "dosage": "口服：推荐剂量为一次600mg，一日2次。与食物同服。严重肾功能损害或中度肝功能损害的患者剂量为一次300mg，一日2次。",
+    "contraindications": "⑴对活性成分或任何辅料发生超敏反应禁用。\n⑵妊娠期或计划怀孕的女性禁用。",
+    "adverse_reactions": "不良反应：比安慰剂频率增加≥2%的不良事件仅为疲乏、肢体疼痛、皮疹；频率更高的实验室检查异常仅为中性粒细胞计数降低、AST升高、胆红素增加。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品为非甾体雄激素受体（AR）拮抗剂，它能与AR强力结合，并抑制其功能以及向细胞核内的转移，从而达到抑制前列腺癌细胞生长的目的。另外，darolutamide显示出可忽略不计的血脑屏障（BBB）渗透，这可能降低癫痫发生等中枢神经系统相关的副作用。<br>Darolutamide联合ADT治疗组中位M",
+    "precautions": "具有生殖潜力的女性的伴侣采取有效的避孕措施。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗有高危转移风险的非转移性去势抵抗性前列腺癌（NM-CRPC）成年患者。即肿瘤未扩散到身体其他部位且对降低睾酮的药物或手术治疗不再有效的前列腺癌患者。",
+    "full_dosage": "口服：推荐剂量为一次600mg，一日2次。与食物同服。严重肾功能损害或中度肝功能损害的患者建议剂量为一次300mg，一日2次。",
+    "full_contraindications": "⑴对活性成分或任何辅料发生超敏反应禁用。<br>⑵妊娠期或计划怀孕的女性禁用。",
+    "full_adverse_reactions": "不良反应：比安慰剂频率增加≥2%的不良事件仅为疲乏、肢体疼痛、皮疹；频率更高的实验室检查异常仅为中性粒细胞计数降低、AST升高、胆红素增加。",
+    "full_interactions": "⑴避免与强或中度的CYP3A4诱导剂合用。与强CYP抑制剂联用应注意监测患者的不良反应发生情况。<br>⑵本品避免与瑞舒伐他汀合用。",
+    "full_pharmacokinetics": "本品为非甾体雄激素受体（AR）拮抗剂，它能与AR强力结合，并抑制其功能以及向细胞核内的转移，从而达到抑制前列腺癌细胞生长的目的。另外，darolutamide显示出可忽略不计的血脑屏障（BBB）渗透，这可能降低癫痫发生等中枢神经系统相关的副作用。<br>Darolutamide联合ADT治疗组中位MFS为40.4个月，安慰剂组为18.4个月，中位MFS总体改善为22个月。<br>发生率大于等于5%或治疗中出现的3-5级不良事件的发生率在darolutamide和安慰剂两组之间相当；只有超过10%的患者出现疲劳。",
+    "full_precautions": "具有生殖潜力的女性的伴侣应采取有效的避孕措施。"
+  },
+  "pinyin": "※▲daluotaan",
+  "pinyin_initials": "※▲dlta",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=12953",
+    "last_updated": "2026-03-22"
+  }
+}

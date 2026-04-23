@@ -1,0 +1,52 @@
+{
+  "id": 102,
+  "name": "碘美普尔注射液",
+  "dosage_form": "注射液",
+  "full_name": "(乙10%)碘美普尔注射液",
+  "chemical_name": "碘美普尔注射液",
+  "types": [],
+  "manufacturers": [
+    "Bracco Imaging S.P.A."
+  ],
+  "specifications": [
+    {
+      "specification": "40g/瓶",
+      "manufacturer": "Bracco Imaging S.P.A.",
+      "full_manufacturer": "Bracco Imaging S.P.A.(Patheon Italia S.P.A.)(进口分包企业：上海博莱科信谊药业有限责任公司)",
+      "price": 440.98,
+      "unit": "瓶",
+      "code": "X00612",
+      "approval_number": "国药准字HJ20150064",
+      "insurance_code": "XV08ABD114B002030100639",
+      "location": "检查",
+      "outpatient_location": "检查"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于静脉尿路造影（成人包括肾脏损害或糖尿病患者）、ＣＴ（躯干）、常规血管造影、动脉、心血管造影（成人和儿童）、常规选择性冠状动脉造影、介入性冠状动脉造影、瘘管造影、乳管造影、泪囊造影和涎管造影。",
+    "dosage": "静脉注射：剂量视造影需要而定。",
+    "contraindications": "对碘过敏者禁用；甲状腺功能亢进、心脏代偿不全及癫痫患者禁用。",
+    "adverse_reactions": "常见：恶心、呕吐、头痛、过敏等。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "⑵肾功能严重损害者、癫痫、低血压、哮喘及其他变态反应性呼吸道病患者慎用。⑶本品对妊娠期妇女的安全性尚未确立，妊娠期及哺乳期妇女慎用。应特别注意3岁以下的儿童患者，因为在生命早期发生甲状腺功能低下可能对运动、听力和认知发育有害，并且可能需要短暂的T4替代治疗。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于静脉尿路造影（成人包括肾脏损害或糖尿病患者）、ＣＴ（躯干）、常规血管造影、动脉、心血管造影（成人和儿童）、常规选择性冠状动脉造影、介入性冠状动脉造影、瘘管造影、乳管造影、泪囊造影和涎管造影。",
+    "full_dosage": "静脉注射：剂量视造影需要而定。",
+    "full_contraindications": "对碘过敏者禁用；甲状腺功能亢进、心脏代偿不全及癫痫患者禁用。",
+    "full_adverse_reactions": "⑴少见头痛、恶心、呕吐、味觉改变、心动过速、心律失常、心电图异常、肝肾功能改变、变态反应等。<br>⑵上市后监测到本品的下列不良反应（发生率未知）：过敏性休克。<br>⑶当新生儿暴露于碘美普尔时，可能发生一过性的甲状腺功能减退症，尤其是早产儿或低出生体重儿。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴本品可引起危及生命或致命的过敏性休克、严重过敏样反应和超敏反应，这些反应通常在注射开始后不久就会发生，但也可能会在数小时后发生。<br>⑵肾功能严重损害者、癫痫、低血压、哮喘及其他变态反应性呼吸道病患者慎用。 <br>⑶本品对妊娠期妇女的安全性尚未确立，妊娠期及哺乳期妇女慎用。<br>⑷暴露于碘对比剂后可能会出现甲状腺功能减退或短暂的甲状腺抑制。应特别注意3岁以下的儿童患者，因为在生命早期发生甲状腺功能低下可能对运动、听力和认知发育有害，并且可能需要短暂的T4替代治疗。所有3岁以下的儿童患者在暴露于碘对比剂后3周内都应评估甲状腺功能，尤其是早产儿和新生儿。如果检测到甲状腺功能减退，即使给予替代治疗，也应酌情监测甲状腺功能。"
+  },
+  "pinyin": "dianmeipuer",
+  "pinyin_initials": "dmpe",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3308",
+    "last_updated": "2026-03-22"
+  }
+}

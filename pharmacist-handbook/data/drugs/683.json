@@ -1,0 +1,41 @@
+{
+  "id": 683,
+  "name": "复方利多卡因乳膏",
+  "dosage_form": "乳膏",
+  "full_name": "(自)复方利多卡因乳膏",
+  "chemical_name": "复方利多卡因乳膏",
+  "types": [],
+  "manufacturers": [
+    "同方药业集团"
+  ],
+  "specifications": [
+    {
+      "specification": "10g/支",
+      "manufacturer": "同方药业集团",
+      "full_manufacturer": "同方药业集团有限公司",
+      "price": 49.32,
+      "unit": "盒",
+      "code": "X00147",
+      "approval_number": "国药准字H20063466",
+      "insurance_code": "XN01BBF351F002010100107",
+      "location": "G-2",
+      "outpatient_location": "T-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "fufangliduokayin",
+  "pinyin_initials": "ffldky",
+  "dosage_form_pinyin": "rugao",
+  "dosage_form_initials": "rg"
+}

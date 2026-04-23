@@ -1,0 +1,56 @@
+{
+  "id": 504,
+  "name": "板蓝根颗粒(无蔗糖)",
+  "dosage_form": "颗粒",
+  "full_name": "(甲)板蓝根颗粒(无蔗糖)[国基]",
+  "chemical_name": "板蓝根颗粒(无蔗糖)",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "上海静安制药"
+  ],
+  "specifications": [
+    {
+      "specification": "3g/袋",
+      "manufacturer": "上海静安制药",
+      "full_manufacturer": "上海静安制药有限公司",
+      "price": 7.55,
+      "unit": "盒",
+      "code": "Y00000012279",
+      "approval_number": "国药准字Z31020027",
+      "insurance_code": "ZA04BAB0189030100703",
+      "location": "X-4",
+      "outpatient_location": "C-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "清热解毒，凉血利咽。用于肺胃热盛所致的咽喉肿痛、口咽干燥；急性扁桃体炎见上述证候者。",
+    "full_indications": "清热解毒，凉血利咽。用于肺胃热盛所致的咽喉肿痛、口咽干燥；急性扁桃体炎见上述证候者。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "开水冲服：一次1-2袋，一日3-4次。",
+    "full_dosage": "开水冲服：一次1-2袋，一日3-4次。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "full_adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "忌烟酒、辛辣、鱼腥食物；不宜在服药期间同时服用滋补性中药；糖尿病患者应在医师指导下服用。",
+    "full_precautions": "1.忌烟酒、辛辣、鱼腥食物。2.不宜在服药期间同时服用滋补性中药。3.糖尿病患者应在医师指导下服用。4.高血压、心脏病、肝病、肾病等慢性病严重者应在医师指导下服用。5.儿童、孕妇、哺乳期妇女、年老体弱者应在医师指导下服用。",
+    "source": "湖南药事服务网",
+    "composition": "板蓝根。"
+  },
+  "pinyin": "banlangen",
+  "pinyin_initials": "blg",
+  "dosage_form_pinyin": "keli",
+  "dosage_form_initials": "kl",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=4088"
+  }
+}

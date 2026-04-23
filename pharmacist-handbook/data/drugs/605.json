@@ -1,0 +1,45 @@
+{
+  "id": 605,
+  "name": "生理氯化钠溶液",
+  "dosage_form": "其他",
+  "full_name": "(甲)生理氯化钠溶液",
+  "chemical_name": "生理氯化钠溶液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "浙江天瑞药业"
+  ],
+  "specifications": [
+    {
+      "specification": "3000ml/袋",
+      "manufacturer": "浙江天瑞药业",
+      "full_manufacturer": "浙江天瑞药业有限公司",
+      "price": 15.54,
+      "unit": "袋",
+      "code": "X00832",
+      "approval_number": "国药准字H20073148",
+      "insurance_code": "XB05CBS079S002010104718",
+      "location": "1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "shenglilvhuanarongye",
+  "pinyin_initials": "sllhnry",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13017"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 816,
+  "name": "注射用醋酸地加瑞克",
+  "dosage_form": "注射用",
+  "full_name": "(乙10%)注射用醋酸地加瑞克",
+  "chemical_name": "注射用醋酸地加瑞克",
+  "types": [],
+  "manufacturers": [
+    "Ferring Pharmaceuticals A/S"
+  ],
+  "specifications": [
+    {
+      "specification": "80mg/瓶",
+      "manufacturer": "Ferring Pharmaceuticals A/S",
+      "full_manufacturer": "Ferring Pharmaceuticals A/S(Ferring GmbH)",
+      "price": 750.0,
+      "unit": "盒",
+      "code": "X00968",
+      "approval_number": "国药准字HJ20180054",
+      "insurance_code": "XL02BXD329B001020182471",
+      "location": "L-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于需要雄激素去势治疗的前列腺癌患者。",
+    "dosage": "皮下注射（仅腹部区域）：推荐起始剂量为240mg，分2次连续皮下注射，每次120mg，浓度为40mg/ml。起始剂量给药28天后给予首个维持剂量，以后每28天给药1次。维持剂量为一次皮下注射80...",
+    "contraindications": "⑴对本品有严重超敏反应史的患者禁用。\n⑵已经或可能怀孕的妇女禁用。",
+    "adverse_reactions": "最常见的不良反应（≥10％）是注射部位反应（例如，疼痛，红斑，肿胀或硬结），潮热和血清转氨酶和γ-谷氨酰转移酶（GGT）水平升高。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品为促性腺素释放激素(GnRH)受体阻滞剂，相当于促性腺激素类似物。地加瑞克（Firmagon或degarelix）与其他前列腺治疗药物相比，能降低心血管疾病的风险。本品通过快速、有效的控制前...",
+    "precautions": "",
+    "source": "湖南药事服务网",
+    "full_indications": "用于需要雄激素去势治疗的前列腺癌患者。",
+    "full_dosage": "皮下注射（仅腹部区域）：推荐起始剂量为240mg，分2次连续皮下注射，每次120mg，浓度为40mg/ml。起始剂量给药28天后给予首个维持剂量，以后每28天给药1次。维持剂量为一次皮下注射80mg，浓度为20mg/ml。<br>注射用粉末120mg：1瓶含有120mg地加瑞克。每瓶需要用1支含3mL无菌注射用水的预充式注射器复溶。3mL无菌注射用水溶解120mg地加瑞克，得到的终浓度为40mg/mL。单个维持剂量包含80mg地加瑞克，单次注射4mL/80mg。注射用粉末80mg：1瓶含有80mg地加瑞克。每瓶需要用1支含4.2mL无菌注射用水的预充式注射器复溶。4mL无菌注射用水溶解80mg地加瑞克，得到的终浓度为20mg/mL。",
+    "full_contraindications": "⑴对本品有严重超敏反应史的患者禁用。<br>⑵已经或可能怀孕的妇女禁用。",
+    "full_adverse_reactions": "最常见的不良反应（≥10％）是注射部位反应（例如，疼痛，红斑，肿胀或硬结），潮热和血清转氨酶和γ-谷氨酰转移酶（GGT）水平升高。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品为促性腺素释放激素(GnRH)受体阻滞剂，相当于促性腺激素类似物。地加瑞克（Firmagon或degarelix）与其他前列腺治疗药物相比，能降低心血管疾病的风险。本品通过快速、有效的控制前列腺特异性抗原(PSA)水平，可以延长患者的存活时间，其耐受性至少与目前标准治疗药物相当，克服了其他GnRH抑制剂的缺点，不会引起睾酮波动，且无引起严重的全身性的不良反应。",
+    "full_precautions": ""
+  },
+  "pinyin": "zhusheyongcusuandijiaruike",
+  "pinyin_initials": "zsycsdjrk",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=12868",
+    "last_updated": "2026-03-22"
+  }
+}

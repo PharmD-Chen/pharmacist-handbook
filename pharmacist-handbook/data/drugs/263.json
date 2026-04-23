@@ -1,0 +1,55 @@
+{
+  "id": 263,
+  "name": "人胰岛素注射液(天麦)",
+  "dosage_form": "注射液",
+  "full_name": "(甲)人胰岛素注射液(天麦)[国基、上增]",
+  "chemical_name": "人胰岛素注射液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "合肥天麦生物科技发展"
+  ],
+  "specifications": [
+    {
+      "specification": "400IU/支",
+      "manufacturer": "合肥天麦生物科技发展",
+      "full_manufacturer": "合肥天麦生物科技发展有限公司",
+      "price": 25.9,
+      "unit": "盒",
+      "code": "X00168",
+      "approval_number": "国药准字S20194002",
+      "insurance_code": "XA10ABR113B002010180333",
+      "location": "2B-1",
+      "outpatient_location": "2A-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于未获良好控制者。",
+    "full_indications": "1.1型糖尿病。<br>2.2型糖尿病经饮食控制及口服降糖药治疗未获良好控制者。<br>3.糖尿病酮症酸中毒、高血糖高渗性昏迷。<br>4.合并重度感染、消耗性疾病、视网膜病变、肾病变、神经病变、急性心肌梗死、脑血管意外等。<br>5.妊娠、分娩、大手术前后。",
+    "dosage": "皮下注射：一般每日3次，分别于三餐前15-30分钟注射。",
+    "full_dosage": "皮下注射：一般每日3次，分别于三餐前15-30分钟注射。剂量根据病情、血糖、尿糖由小剂量开始，逐步调整。<br>静脉注射：用于糖尿病酮症酸中毒、高血糖高渗性昏迷的治疗。",
+    "contraindications": "过敏禁用。",
+    "full_contraindications": "1.低血糖患者禁用。<br>2.对人胰岛素过敏者禁用。",
+    "adverse_reactions": "常见：皮疹、瘙痒、过敏等。",
+    "full_adverse_reactions": "1.低血糖反应：最常见，表现为饥饿感、心悸、出汗、震颤，严重者可致昏迷。<br>2.过敏反应：局部或全身皮疹、瘙痒、血管神经性水肿。<br>3.注射部位脂肪萎缩或增生。<br>4.体重增加、水肿。<br>5.视力模糊（多为暂时性）。",
+    "interactions": "1.增强降糖作用的药物：口服降糖药、ACE抑制剂、单胺氧化酶抑制剂、非选择性β受体阻滞剂、水杨酸盐、磺胺类药物。<br>2.减弱降糖作用的药物：糖皮质激素、甲状腺激素、噻嗪类利尿剂、口服避孕药、生长激素。<br>3.β受体阻滞剂可掩盖低血糖症状。",
+    "full_interactions": "1.增强降糖作用的药物：口服降糖药、ACE抑制剂、单胺氧化酶抑制剂、非选择性β受体阻滞剂、水杨酸盐、磺胺类药物。<br>2.减弱降糖作用的药物：糖皮质激素、甲状腺激素、噻嗪类利尿剂、口服避孕药、生长激素。<br>3.β受体阻滞剂可掩盖低血糖症状。",
+    "pregnancy_category": "B级",
+    "full_pregnancy_category": "B级。妊娠糖尿病可用胰岛素治疗。",
+    "pharmacokinetics": "肝脏代谢，肾脏排泄。",
+    "full_pharmacokinetics": "皮下注射后0.5-1小时起效，2-4小时达峰，持续5-8小时。静脉注射后立即起效，0.5-1小时达峰，持续2小时。主要在肝、肾灭活。",
+    "precautions": "4.运动员慎用。1.定期监测血糖、尿糖、糖化血红蛋白。2.注射部位应轮换，避免脂肪萎缩。",
+    "full_precautions": "1.定期监测血糖、尿糖、糖化血红蛋白。<br>2.注射部位应轮换，避免脂肪萎缩。<br>3.出现低血糖症状时立即口服葡萄糖或含糖食品。<br>4.运动员慎用。<br>5.应激状态（感染、外伤、手术）时可能需要增加胰岛素剂量。<br>6.肾功能或肝功能减退时胰岛素需要量可能减少。",
+    "source": "湖南药事服务网"
+  },
+  "pinyin": "renyidaosu",
+  "pinyin_initials": "ryds",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=263",
+    "last_updated": "2026-03-21"
+  }
+}

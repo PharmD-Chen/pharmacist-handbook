@@ -1,0 +1,54 @@
+{
+  "id": 636,
+  "name": "全天麻胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(甲)全天麻胶囊[市基]",
+  "chemical_name": "全天麻胶囊",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "贵州盛世龙方制药"
+  ],
+  "specifications": [
+    {
+      "specification": "500mg/粒",
+      "manufacturer": "贵州盛世龙方制药",
+      "full_manufacturer": "贵州盛世龙方制药股份有限公司",
+      "price": 14.51,
+      "unit": "盒",
+      "code": "Y00000014917",
+      "approval_number": "国药准字Z52020425",
+      "insurance_code": "ZA15BAQ0606010305523"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "平肝，息风，止痉。用于肝阳上亢引起的头痛、眩晕、肢体麻木、癫痫抽搐。",
+    "full_indications": "平肝，息风，止痉。用于肝阳上亢引起的头痛、眩晕、肢体麻木、癫痫抽搐。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "口服：一次2-6粒，一日3次。",
+    "full_dosage": "口服：一次2-6粒，一日3次。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "full_adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "孕妇慎用；服药期间忌生冷、油腻食物。",
+    "full_precautions": "1.孕妇慎用。2.服药期间忌生冷、油腻食物。3.药品性状发生改变时禁止使用。4.请将此药品放在儿童不能接触的地方。",
+    "source": "湖南药事服务网",
+    "composition": "天麻。"
+  },
+  "pinyin": "quantianma",
+  "pinyin_initials": "qtm",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=7183"
+  }
+}

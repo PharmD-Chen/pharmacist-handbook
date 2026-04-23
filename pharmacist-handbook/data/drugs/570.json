@@ -1,0 +1,55 @@
+{
+  "id": 570,
+  "name": "益肾养心安神片",
+  "dosage_form": "片",
+  "full_name": "(乙10%)益肾养心安神片",
+  "chemical_name": "益肾养心安神片",
+  "types": [],
+  "manufacturers": [
+    "石家庄以岭药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.4g/片",
+      "manufacturer": "石家庄以岭药业",
+      "full_manufacturer": "石家庄以岭药业股份有限公司",
+      "price": 70.92,
+      "unit": "盒",
+      "code": "C00022",
+      "approval_number": "国药准字Z20210001",
+      "insurance_code": "ZA10AAY0786010202767",
+      "location": "D-1",
+      "outpatient_location": "K-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "益肾健脑，养心安神。用于失眠症中医辨证属心血亏虚、肾精不足证，症见失眠、多梦、心悸、神疲乏力、腰膝酸软、头晕耳鸣、健忘等；神经衰弱见上述证候者。",
+    "full_indications": "益肾健脑，养心安神。用于失眠症中医辨证属心血亏虚、肾精不足证，症见失眠、多梦、心悸、神疲乏力、腰膝酸软、头晕耳鸣、健忘等；神经衰弱见上述证候者。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "口服：一次4片，一日3次。疗程4周。",
+    "full_dosage": "口服：一次4片，一日3次。疗程4周。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "偶见胃肠道不适、恶心、腹胀、腹泻等；偶见头晕、头痛、嗜睡等；偶见皮疹、瘙痒等过敏反应。",
+    "full_adverse_reactions": "偶见胃肠道不适、恶心、腹胀、腹泻等；偶见头晕、头痛、嗜睡等；偶见皮疹、瘙痒等过敏反应。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "1.忌烟、酒及辛辣、油腻食物。2.孕妇慎用。3.哺乳期妇女慎用。4.有高血压、心脏病、肝病、糖尿病、肾病等慢性病严重者在医师指导下服用。5.服药7天症状无缓解，去医院就诊。6.严格按用法用量服用，不宜长期服用。",
+    "full_precautions": "1.忌烟、酒及辛辣、油腻食物。2.孕妇慎用。3.哺乳期妇女慎用。4.有高血压、心脏病、肝病、糖尿病、肾病等慢性病严重者应在医师指导下服用。5.服药7天症状无缓解，应去医院就诊。6.严格按用法用量服用，不宜长期服用。",
+    "source": "湖南药事服务网",
+    "url_added": true,
+    "composition": "炒酸枣仁、制何首乌、桑葚、百合、丹参、灵芝、茯苓、知母、合欢花、菊花。"
+  },
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13340",
+    "last_updated": "2026-03-20"
+  },
+  "pinyin": "yishenyangxinanshen",
+  "pinyin_initials": "ysyxas",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p"
+}

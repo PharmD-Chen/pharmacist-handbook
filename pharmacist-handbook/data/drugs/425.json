@@ -1,0 +1,52 @@
+{
+  "id": 425,
+  "name": "利鲁唑口服混悬液",
+  "dosage_form": "口服混悬液",
+  "full_name": "(乙10%)利鲁唑口服混悬液",
+  "chemical_name": "利鲁唑口服混悬液",
+  "types": [],
+  "manufacturers": [
+    "ITALFARMACO, S.A."
+  ],
+  "specifications": [
+    {
+      "specification": "300ml/瓶",
+      "manufacturer": "ITALFARMACO, S.A.",
+      "full_manufacturer": "ITALFARMACO, S.A.",
+      "price": 520.0,
+      "unit": "盒",
+      "code": "X00885",
+      "approval_number": "国药准字HJ20220053",
+      "insurance_code": "XN07XXL068X002010178532",
+      "location": "E-5",
+      "outpatient_location": "V-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "临床上常将舒巴坦与氨苄西林或头孢哌酮联合治疗产酶敏感菌所致的呼吸道、尿路、盆腔及腹腔内、耳鼻喉科、骨和关节感染以及败血症等。",
+    "dosage": "临床上很少单独应用，常与β-内酰胺类抗生素按一定比例（如1:1/1:2/1:4或1:15等）合用。舒巴坦最高剂量不超过一日4g。",
+    "contraindications": "症 参阅舒巴坦复方制剂。",
+    "adverse_reactions": "不良反应少而轻，偶尔有恶心、呕吐、腹痛、腹泻等胃肠道反应，本品个别病例发生剥脱性皮炎、过敏性休克。",
+    "interactions": "与氨苄西林联合应用，可使后者的最小抑菌浓度降低而增效，对产酶的菌株恢复敏感。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴本品口服吸收不完全，宜注射给药。 ⑵本品和某种β内酰胺类抗生素合用，可使因β内酰胺酶而对该抗生素耐药的细菌转呈敏感，从而扩大抗菌谱并增加抗菌活性，但不能加强本品对该种抗生素敏感细菌的抗菌活性。 药物相互作用 与氨苄西林联合用，可使后者的最小抑菌浓度降低而增效，对产酶的菌株恢复敏感。",
+    "source": "湖南药事服务网",
+    "full_indications": "临床上常将舒巴坦与氨苄西林或头孢哌酮联合治疗产酶敏感菌所致的呼吸道、尿路、盆腔及腹腔内、耳鼻喉科、骨和关节感染以及败血症等。",
+    "full_pharmacokinetics": "",
+    "full_dosage": "临床上很少单独应用，常与β-内酰胺类抗生素按一定比例（如1:1/1:2/1:4或1:15等）合用。舒巴坦最高剂量不超过一日4g。",
+    "full_contraindications": "症 参阅舒巴坦复方制剂。",
+    "full_adverse_reactions": "不良反应少而轻，偶尔有恶心、呕吐、腹痛、腹泻等胃肠道反应，本品个别病例发生剥脱性皮炎、过敏性休克。",
+    "full_interactions": "与氨苄西林联合应用，可使后者的最小抑菌浓度降低而增效，对产酶的菌株恢复敏感。",
+    "full_precautions": "⑴本品口服吸收不完全，宜注射给药。 ⑵本品和某种β内酰胺类抗生素合用，可使因β内酰胺酶而对该抗生素耐药的细菌转呈敏感，从而扩大抗菌谱并增加抗菌活性，但不能加强本品对该种抗生素敏感细菌的抗菌活性。 药物相互作用 与氨苄西林联合应用，可使后者的最小抑菌浓度降低而增效，对产酶的菌株恢复敏感。"
+  },
+  "pinyin": "liluzuo",
+  "pinyin_initials": "llz",
+  "dosage_form_pinyin": "koufuhunxuanye",
+  "dosage_form_initials": "kfhxy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=919",
+    "last_updated": "2026-03-22"
+  }
+}

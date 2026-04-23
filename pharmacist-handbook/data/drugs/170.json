@@ -1,0 +1,51 @@
+{
+  "id": 170,
+  "name": "复方卡比多巴片",
+  "dosage_form": "片",
+  "full_name": "(乙10%)复方卡比多巴片",
+  "chemical_name": "复方卡比多巴片",
+  "types": [],
+  "manufacturers": [
+    "精华制药集团"
+  ],
+  "specifications": [
+    {
+      "specification": "1片/片",
+      "manufacturer": "精华制药集团",
+      "full_manufacturer": "精华制药集团股份有限公司",
+      "price": 48.2,
+      "unit": "盒",
+      "code": "X00220",
+      "approval_number": "国药准字H10950085",
+      "insurance_code": "XN04BAF338A001010101622",
+      "location": "E-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于帕金森病和帕金森综合症。",
+    "dosage": "成人：最大日剂量可达1375mg",
+    "contraindications": "参阅左旋多巴和卡比多巴。",
+    "adverse_reactions": "参阅左旋多巴和卡比多巴。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "参阅左旋多巴和卡比多巴。",
+    "precautions": "参阅左旋多巴和卡比多巴。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗帕金森病和帕金森综合症。",
+    "full_dosage": "⑴普通片：未用过左旋多巴的患者，开始时110mg，一日3次，以后视需要及耐受情况，每隔1～2日逐渐增加每日量。如已用过左旋多巴治疗的患者，改用本品时，需先停用左旋多巴至少8小时。<br>　　①过去每日用左旋多巴少于1.5g的患者，开始时110mg，一日3～4次；<br>　　②过去每日用左旋多巴大于1.5g的患者，开始275mg，一日3～4次；均视需要及耐受情况，每隔1～2日逐渐增加每日量。成人最大日剂量可达1375mg。以上用的均为（1:10）的片剂，如果效果不理想，可改用（1:4）的片剂，每日总量酌情减少。<br>　　⑵控释片(1:4)：<br>　　①从未用过左旋多巴的轻症患者，开始时125mg，一日2次，需要较大量左旋多巴的中、重度患者，初次量也可用250mg，一日2次，但间隔时间至少需要6小时；<br>　　②对正在应用普通片的治疗患者，控释片应调节至每天能供给比原先剂量多约10％以上的左旋多巴。白天控释片的两剂间隔时间应为4～8小时。<br>　　③对正在单用左旋多巴的患者，在开始给控释片前，须停用左旋多巴至少8小时，且控释片应提供比原先约多25％的左旋多巴量。轻、中度患者初量用250mg，一日2次。    <br>　　⑶控释片维持量：治疗开始后，可根据治疗效果增加或减少剂量和给药时间。大多数患者一日只需控释片250mg/片2～4片（亚洲人应偏少），分次服用；给药间隔为白天4～8小时。",
+    "full_contraindications": "参阅左旋多巴和卡比多巴。",
+    "full_adverse_reactions": "参阅左旋多巴和卡比多巴。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "参阅左旋多巴和卡比多巴。",
+    "full_precautions": "参阅左旋多巴和卡比多巴。"
+  },
+  "pinyin": "fufangkabiduoba",
+  "pinyin_initials": "ffkbdb",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=890",
+    "last_updated": "2026-03-22"
+  }
+}

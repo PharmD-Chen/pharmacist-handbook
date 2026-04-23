@@ -1,0 +1,43 @@
+{
+  "id": 769,
+  "name": "龙加通络胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)龙加通络胶囊",
+  "chemical_name": "龙加通络胶囊",
+  "types": [],
+  "manufacturers": [
+    "天津德天药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.45g/粒",
+      "manufacturer": "天津德天药业",
+      "full_manufacturer": "天津德天药业有限公司(委托生产企业:天津世纪天龙药业有限公司)",
+      "price": 78.4,
+      "unit": "盒",
+      "code": "C00043",
+      "approval_number": "国药准字Z20133032",
+      "insurance_code": "ZA12AAL0461010109669",
+      "location": "L-6"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "longjiatongluo",
+  "pinyin_initials": "ljtl",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1926"
+  }
+}

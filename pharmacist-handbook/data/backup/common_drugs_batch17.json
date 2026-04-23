@@ -1,0 +1,17 @@
+[
+  {
+    "name": "氟尿嘧啶",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>乳腺癌、消化道癌</strong>（包括原发性和转移性肝癌、胆道系统癌和胰腺癌）、<strong>卵巢癌</strong>；<strong>恶性葡萄胎和绒毛膜上皮癌</strong>的主要化疗药物；浆膜腔癌性积液和膀胱癌的腔内化疗；颈部恶性肿瘤和肝癌的动脉内插管化疗；局部治疗如瘤内注射，软膏用于皮肤癌及乳腺癌胸壁转移等。",
+      "dosage": "静脉注射。单药治疗：一日10-20mg/kg，连用5-10日，每5-7周重复。联合化疗：一日300-600mg/m²，连用5日，每4周重复。",
+      "contraindications": "<strong>妊娠及哺乳期禁用</strong>；<strong>严重骨髓抑制禁用</strong>；<strong>严重肝肾功能不全禁用</strong>；水痘或带状疱疹患者禁用；",
+      "adverse_reactions": "<strong>骨髓抑制</strong>（白细胞、血小板减少）；<strong>消化道反应</strong>（恶心、呕吐、食欲减退、腹泻、口腔黏膜炎）；<strong>脱发</strong>；<strong>神经系统毒性</strong>（小脑共济失调）；<strong>心脏毒性</strong>（心绞痛、心肌梗死）；手足综合征、皮肤色素沉着。",
+      "interactions": "与<strong>甲氨蝶呤</strong>合用可能降低疗效（需先给甲氨蝶呤）；与<strong>四氢叶酸</strong>合用增强毒性；与<strong>华法林</strong>合用增强抗凝作用；与<strong>苯妥英钠</strong>合用降低苯妥英钠血药浓度。",
+      "pregnancy_category": "D级（X级-外用）",
+      "pharmacokinetics": "静脉注射后迅速分布，半衰期10-20分钟（α相），20小时（β相）。主要经肝脏代谢，约15%以原形经肾排泄。可透过血脑屏障。",
+      "precautions": "<strong>严格监测血象</strong>（白细胞、血小板）；<strong>肝功能不全者减量</strong>；<strong>出现严重腹泻立即停药</strong>；用药期间避免接种活疫苗；治疗期间及停药后3个月内避免妊娠。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

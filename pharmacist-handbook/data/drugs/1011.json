@@ -1,0 +1,53 @@
+{
+  "id": 1011,
+  "name": "凝血酶散",
+  "dosage_form": "散",
+  "full_name": "(甲)凝血酶散",
+  "chemical_name": "凝血酶散",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "浙江杭康药业"
+  ],
+  "specifications": [
+    {
+      "specification": "5000单位/瓶",
+      "manufacturer": "浙江杭康药业",
+      "full_manufacturer": "浙江杭康药业有限公司",
+      "price": 122.6,
+      "unit": "盒",
+      "code": "X00222",
+      "approval_number": "国药准字H33021734",
+      "insurance_code": "XB02BCN063P013040204642",
+      "location": "2E-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于成人经标准外科止血技术(如缝合、结扎或电凝)控制出血无效或不可行，促进手术创面渗血或毛细血管和小静脉出血的止血。",
+    "dosage": "外用。",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "重组人凝血酶是一种高度特异性人丝氨酸蛋白酶，可有效活化血小板、催化纤维蛋白原转化为纤维蛋白；并通过活化XIII因子维持凝块的稳定性。同时凝血酶也可以绕过凝血通路的起始酶促步骤而发挥促进凝血药理作用。",
+    "precautions": "",
+    "source": "湖南药事服务网",
+    "full_indications": "用于成人经标准外科止血技术(如缝合、结扎或电凝)控制出血无效或不可行，促进手术创面渗血或毛细血管和小静脉出血的止血。",
+    "full_dosage": "外用。",
+    "full_contraindications": "",
+    "full_adverse_reactions": "",
+    "full_interactions": "",
+    "full_pharmacokinetics": "重组人凝血酶是一种高度特异性人丝氨酸蛋白酶，可有效活化血小板、催化纤维蛋白原转化为纤维蛋白；并通过活化XIII因子维持凝块的稳定性。同时凝血酶也可以绕过凝血通路的起始酶促步骤而发挥促进凝血药理作用。",
+    "full_precautions": ""
+  },
+  "pinyin": "ningxuemei",
+  "pinyin_initials": "nxm",
+  "dosage_form_pinyin": "san",
+  "dosage_form_initials": "s",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13851",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 958,
+  "name": "磷霉素氨丁三醇散",
+  "dosage_form": "散",
+  "full_name": "(甲)磷霉素氨丁三醇散[国基]",
+  "chemical_name": "磷霉素氨丁三醇散",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "东北制药集团沈阳第一制药"
+  ],
+  "specifications": [
+    {
+      "specification": "3g/瓶",
+      "manufacturer": "东北制药集团沈阳第一制药",
+      "full_manufacturer": "东北制药集团沈阳第一制药有限公司",
+      "price": 67.38,
+      "unit": "盒",
+      "code": "Y00000012525",
+      "approval_number": "国药准字H10930155",
+      "insurance_code": "XJ01XXL097P001010101162",
+      "location": "X-3",
+      "outpatient_location": "B-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于细菌性急性膀胱炎、慢性膀胱炎急性发作、急性尿道膀胱综合征、非特异性尿道炎、无症状性菌尿症、手术及尿路诊断引起的感染。",
+    "dosage": "口服：成人一次5.631g，一日1次，睡前排尿后空腹服用。每包加水50～70ml或用非乙醇饮料冲服。预防外科手术及经尿路诊断治疗所致的尿路感染，每次2包。",
+    "contraindications": "对本品中任何成分过敏者禁用。",
+    "adverse_reactions": "参阅磷霉素。",
+    "interactions": "西咪替丁、甲硝唑可影响本品的吸收，避免合用。其余参阅磷霉素。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "参阅磷霉素。",
+    "precautions": "参阅磷霉素。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于细菌性急性膀胱炎、慢性膀胱炎急性发作、急性尿道膀胱综合征、非特异性尿道炎、无症状性菌尿症、手术及尿路诊断引起的感染。",
+    "full_dosage": "口服：成人一次5.631g，一日1次，睡前排尿后空腹服用。每包加水50～70ml或用非乙醇饮料冲服。预防外科手术及经尿路诊断治疗所致的尿路感染，每次2包。",
+    "full_contraindications": "对本品中任何成分过敏者禁用。",
+    "full_adverse_reactions": "参阅磷霉素。",
+    "full_interactions": "西咪替丁、甲硝唑可影响本品的吸收，避免合用。其余参阅磷霉素。",
+    "full_pharmacokinetics": "参阅磷霉素。",
+    "full_precautions": "参阅磷霉素。"
+  },
+  "pinyin": "linmeisuandingsanchun",
+  "pinyin_initials": "lmsadsc",
+  "dosage_form_pinyin": "san",
+  "dosage_form_initials": "s",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2117",
+    "last_updated": "2026-03-22"
+  }
+}

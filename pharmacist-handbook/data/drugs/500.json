@@ -1,0 +1,45 @@
+{
+  "id": 500,
+  "name": "氨溴特罗口服溶液",
+  "dosage_form": "口服溶液",
+  "full_name": "(自)氨溴特罗口服溶液",
+  "chemical_name": "氨溴特罗口服溶液",
+  "types": [],
+  "manufacturers": [
+    "北京韩美药品"
+  ],
+  "specifications": [
+    {
+      "specification": "100ml/瓶",
+      "manufacturer": "北京韩美药品",
+      "full_manufacturer": "北京韩美药品有限公司",
+      "price": 20.39,
+      "unit": "盒",
+      "code": "X00129",
+      "approval_number": "国药准字H20040317",
+      "insurance_code": "XR03CCA199X001010100041",
+      "location": "H-5",
+      "outpatient_location": "A-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "anxiuteluo",
+  "pinyin_initials": "axtl",
+  "dosage_form_pinyin": "koufurongye",
+  "dosage_form_initials": "kfry",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1657",
+    "last_updated": "2026-03-22"
+  }
+}

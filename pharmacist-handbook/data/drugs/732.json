@@ -1,0 +1,43 @@
+{
+  "id": 732,
+  "name": "布地格福吸入气雾剂",
+  "dosage_form": "气雾剂",
+  "full_name": "※▲(乙10%)布地格福吸入气雾剂",
+  "chemical_name": "布地格福吸入气雾剂",
+  "types": [],
+  "manufacturers": [
+    "AstraZeneca AB"
+  ],
+  "specifications": [
+    {
+      "specification": "120掀/瓶",
+      "manufacturer": "AstraZeneca AB",
+      "full_manufacturer": "AstraZeneca AB(ASTRAZENECA DUNKERQUE PRODUCTION)",
+      "price": 233.0,
+      "unit": "瓶",
+      "code": "X00469",
+      "approval_number": "国药准字HJ20190063",
+      "insurance_code": "XR03ALB240L028010179096",
+      "location": "C-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "※▲budigefuxiru",
+  "pinyin_initials": "※▲bdgfxr",
+  "dosage_form_pinyin": "qiwuji",
+  "dosage_form_initials": "qwj",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13081"
+  }
+}

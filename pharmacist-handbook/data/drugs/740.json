@@ -1,0 +1,50 @@
+{
+  "id": 740,
+  "name": "注射用胸腺五肽",
+  "dosage_form": "注射用",
+  "full_name": "(自)注射用胸腺五肽",
+  "chemical_name": "注射用胸腺五肽",
+  "types": [],
+  "manufacturers": [
+    "北京双鹭药业"
+  ],
+  "specifications": [
+    {
+      "specification": "10mg/瓶",
+      "manufacturer": "北京双鹭药业",
+      "full_manufacturer": "北京双鹭药业股份有限公司",
+      "price": 52.0,
+      "unit": "盒",
+      "code": "X00741",
+      "approval_number": "国药准字H20058462",
+      "insurance_code": "XL03AXX162B014010200148"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "参阅胸腺肽。",
+    "dosage": "对原发性免疫缺陷，开始时肌内或皮下注射0.5～1mg/(kg·d)，连用2周，维持量为0.5～1mg/kg，每周2～3次。继发性患者皮下注射每次50mg，每周3次，连续3～6周。",
+    "contraindications": "对本品有过敏反应者或器官移植初期需免疫抑制者禁用。",
+    "adverse_reactions": "常见为发热。少数病人有荨麻疹、皮疹，个别病人出现头昏等。",
+    "interactions": "⑴本品与许多常用药物合用，其中包括干扰素、抗菌药物、激素、镇痛药、降压药、利尿药、治心血管疾病的药物、中枢神经系统药物、避孕药，没有任何干扰现象出现。但不应与其他任何药物混合注射。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品主要作用是促进Ｔ细胞分化、成熟。能诱导前Ｔ细胞转化为Ｔ细胞，并能进一步分化为Th、Ts、Tc等Ｔ细胞亚群。增强成熟Ｔ细胞对抗原或其他刺激的反应，如增强PHA或ConA诱导的淋巴细胞增殖反应，...",
+    "precautions": "⑴注射前或停药后再次注射时须作皮试。；⑵本品通过增强患者的免疫功能而发挥治疗作用，对正在接受免疫抑制治疗的患者(例如器官移植受者)应慎重使用，除非治疗带来的益明显大于危险性。",
+    "source": "湖南药事服务网",
+    "full_indications": "参阅胸腺肽。",
+    "full_dosage": "对原发性免疫缺陷，开始时肌内或皮下注射0.5～1mg/(kg·d)，连用2周，维持量为0.5～1mg/kg，每周2～3次。继发性患者皮下注射每次50mg，每周3次，连续3～6周。",
+    "full_contraindications": "对本品有过敏反应者或器官移植初期需免疫抑制者禁用。",
+    "full_adverse_reactions": "常见为发热。少数病人有荨麻疹、皮疹，个别病人出现头昏等。",
+    "full_interactions": "⑴本品与许多常用药物合用，其中包括干扰素、抗菌药物、激素、镇痛药、降压药、利尿药、治心血管疾病的药物、中枢神经系统药物、避孕药，没有任何干扰现象出现。但不应与其他任何药物混合注射。<br>⑵本品与干扰素合用，对于改善免疫功能有协同作用",
+    "full_pharmacokinetics": "本品主要作用是促进Ｔ细胞分化、成熟。能诱导前Ｔ细胞转化为Ｔ细胞，并能进一步分化为Th、Ts、Tc等Ｔ细胞亚群。增强成熟Ｔ细胞对抗原或其他刺激的反应，如增强PHA或ConA诱导的淋巴细胞增殖反应，促进羊红细胞（SRBC）、破伤风类毒素脑膜炎球菌等抗原刺激的抗体生成，促进白介素-Ⅱ生成，增强免疫排斥和移植物抗宿主反应。对体液免疫的影响甚微。",
+    "full_precautions": "⑴注射前或停药后再次注射时须作皮试。<br>⑵本品通过增强患者的免疫功能而发挥治疗作用，对正在接受免疫抑制治疗的患者(例如器官移植受者)应慎重使用，除非治疗带来的益明显大于危险性。<br>⑶慢性乙型肝炎患者治疗期间应定期检查肝功能。<br>⑷本品只能在十分必要时才给予孕妇使用，哺乳期妇女用药应特别慎重<br>⑸18岁以下患者,本品的安全性和有效性尚未确立，应慎用。"
+  },
+  "pinyin": "zhusheyongxiongxianwutai",
+  "pinyin_initials": "zsyxxwt",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3627",
+    "last_updated": "2026-03-22"
+  }
+}

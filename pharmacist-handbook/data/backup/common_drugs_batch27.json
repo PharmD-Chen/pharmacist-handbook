@@ -1,0 +1,18 @@
+[
+  {
+    "name": "注射用鼠神经生长因子",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>周围神经损伤、颅脑损伤</strong>；<strong>中枢神经系统缺血、缺氧的辅助治疗</strong>；早老性痴呆；<strong>糖尿病性周围神经病变</strong>；<strong>化疗药（紫杉醇、长春新碱、顺铂）等引起的末梢神经病变</strong>。",
+      "dosage": "皮下或肌内注射。慢性病症：500-1000U，每日1-2次，20天一疗程，最大剂量2000U/日，可用3个疗程。单一神经病变：100-500U，局部或穴位注射。紫杉醇等诱发神经病变：化疗后立即1000U，隔日1次，共5次。",
+      "contraindications": "对鼠神经生长因子过敏者禁用。",
+      "adverse_reactions": "<strong>注射部位反应</strong>（疼痛、皮疹、硬结、红肿、瘙痒）；<strong>发热、寒战、胸闷</strong>；<strong>过敏反应</strong>（过敏性休克）；<strong>神经系统</strong>（头晕、头痛、抽搐、失眠、精神障碍）；<strong>中毒性表皮坏死松解症</strong>（个案）。",
+      "interactions": "与<strong>化疗药物</strong>（紫杉醇、长春新碱、顺铂）合用用于预防/治疗末梢神经病变。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "促进中枢及外周神经系统的发育和分化，维持神经系统正常功能，加快损伤后修复。保护感觉神经元、交感神经元和中枢胆碱能神经元。",
+      "precautions": "<strong>重点监控药品</strong>；<strong>孕妇、癫痫患者慎用</strong>；<strong>高度过敏体质者皮试阴性后注射</strong>；<strong>不宜在同一部位连续注射</strong>；严格按说明书用法用量给药；<strong>非医保</strong>。",
+      "solvent": "注射用生理盐水溶解",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

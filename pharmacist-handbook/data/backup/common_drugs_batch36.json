@@ -1,0 +1,80 @@
+[
+  {
+    "name": "西格列他钠",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>适用于配合饮食和运动改善成人2型糖尿病患者的血糖控制</strong>；<strong>用于二甲双胍单药疗效不佳时的联合治疗</strong>。",
+      "dosage": "口服。<strong>单药治疗：推荐剂量为32mg/次，每日一次</strong>，可根据血糖控制加强至48mg/次，每日一次。<strong>联合二甲双胍：推荐剂量为48mg/次，每日一次</strong>。服药时间不受进餐影响。",
+      "contraindications": "<strong>对西格列他钠中任何成份过敏者禁用</strong>；<strong>1型糖尿病患者禁用</strong>；<strong>糖尿病酮症酸中毒患者禁用</strong>；<strong>重度肝、肾功能损害者禁用</strong>。",
+      "adverse_reactions": "常见<strong>头痛、低血糖（多见于与其他降糖药合用时）、恶心、腹泻、腹痛、上呼吸道感染、关节痛</strong>；可能出现<strong>水肿、体重增加、贫血、骨折</strong>等。",
+      "interactions": "<strong>与CYP2C8抑制剂合用可能增加本品血药浓度</strong>；<strong>与CYP2C8诱导剂合用可能降低本品疗效</strong>；<strong>与其他降糖药合用可能增加低血糖风险</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "过氧化物酶体增殖物激活受体（PPAR）全激动剂，可改善胰岛素抵抗。口服吸收迅速，半衰期较长。",
+      "precautions": "<strong>肝、肾功能中度损害者需慎用</strong>；<strong>治疗期间应监测肝功能及血糖</strong>；<strong>注意水肿和体重增加</strong>；2025版医保乙类。",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "泛影葡胺",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>用于尿路造影、心血管造影、脑血管造影、周围血管造影、CT增强扫描等</strong>。",
+      "dosage": "静脉注射或动脉注射。<strong>剂量根据检查部位和患者体重调整</strong>，通常为20-100ml。检查前需禁食并补充足量水分。",
+      "contraindications": "<strong>对碘过敏者禁用</strong>；<strong>甲状腺功能亢进患者禁用</strong>；<strong>失代偿性心衰患者禁用</strong>；<strong>妊娠或急性盆腔炎时禁行子宫输卵管造影</strong>；<strong>急性胰腺炎时禁用ERCP</strong>。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、流涎、眩晕、皮疹、荨麻疹</strong>；偶见<strong>呼吸困难、心悸、寒战、发热</strong>；严重过敏反应需立即处理。",
+      "interactions": "<strong>忌与抗组胺药品混合注射</strong>（与盐酸异丙嗪、盐酸苯海拉明、马来酸氯苯那敏等混合可发生沉淀）；<strong>与β受体阻滞剂合用可能增加过敏反应风险</strong>。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "离子型碘造影剂，含碘量高，可增强X线对比度。静脉注射后迅速分布于血管和细胞外液，经肾脏排泄。",
+      "precautions": "<strong>用药前应作碘过敏试验，阳性者忌用</strong>；<strong>使用前需详细询问过敏史，必要时预防性用抗组胺药或糖皮质激素</strong>；<strong>肾功能不全患者需调整剂量</strong>；<strong>脱水患者注射前需补充足量水分</strong>；检查前一天禁食产气食品；2025版医保甲类，国家基本药物。",
+      "solvent": "注射液直接使用，无需稀释",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "※▲硫培非格司亭",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>成年非髓性恶性肿瘤患者接受骨髓抑制性抗癌药物治疗时，预防发热性中性粒细胞减少症</strong>。",
+      "dosage": "皮下注射。<strong>推荐剂量为6mg，每个化疗周期单次给药</strong>。应在化疗结束后24-48小时给予。",
+      "contraindications": "<strong>对硫培非格司亭或本品中任何成份过敏者禁用</strong>；<strong>不用于造血干细胞移植患者</strong>。",
+      "adverse_reactions": "常见<strong>肌肉骨骼疼痛、消化道不适、肝酶升高、乏力、发热</strong>；严重不良反应包括<strong>脾破裂、呼吸窘迫综合征、过敏反应、肾小球肾炎、白细胞增多症、毛细血管漏综合征</strong>等。",
+      "interactions": "<strong>与化疗药物同时给药可能加重骨髓抑制</strong>；<strong>与锂剂合用可能增加中性粒细胞计数</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "聚乙二醇化重组人粒细胞刺激因子（PEG-rhG-CSF），通过刺激骨髓造血祖细胞增殖分化，增加中性粒细胞数量。皮下注射后吸收缓慢，半衰期较长（约15-80小时）。",
+      "precautions": "<strong>需在化疗结束后24-48小时给予，避免与化疗药物同时给药</strong>；<strong>出现脾破裂症状（左上腹疼痛、肩痛）应立即就医</strong>；<strong>监测全血细胞计数</strong>；<strong>出现严重过敏反应应立即停药</strong>；2025版医保乙类，限与容易引起发热性中性粒细胞减少症的化疗药物联用。",
+      "solvent": "皮下注射，无需稀释",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "※▲安宫牛黄",
+    "dosage_form": "丸",
+    "manual": {
+      "indications": "<strong>清热解毒，镇惊开窍</strong>。用于<strong>热病、邪入心包、高热惊厥、神昏谵语</strong>；<strong>中风昏迷及脑炎、脑膜炎、中毒性脑病、脑出血、败血症见上述证候者</strong>。",
+      "dosage": "口服。<strong>成人一次1丸，一日1次</strong>；小儿三岁以内一次1/4丸，四岁至六岁一次1/2丸，一日1次；或遵医嘱。",
+      "contraindications": "<strong>孕妇禁用</strong>；<strong>哺乳期妇女及婴幼儿禁用</strong>；<strong>对药物成分过敏者禁用</strong>；<strong>寒闭神昏不得使用</strong>；<strong>虚证、体质虚弱者不宜使用</strong>。",
+      "adverse_reactions": "可能出现<strong>恶心呕吐、皮疹瘙痒、头晕头痛</strong>；有文献报道不当使用本品致<strong>体温过低</strong>；亦有个别患者引起<strong>过敏反应</strong>。",
+      "interactions": "<strong>不可与含麝香、牛黄等成分的药物同时服用</strong>；<strong>避免与辛辣、油腻、生冷食物及酒精同用</strong>。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "中成药，由牛黄、水牛角浓缩粉、麝香、珍珠、朱砂、雄黄、黄连、黄芩、栀子、郁金、冰片等组成。具有清热解毒、镇惊开窍功效。",
+      "precautions": "<strong>本品为热闭神昏所设，寒闭神昏不得使用</strong>；<strong>含麝香，芳香走窜，有损胎气，孕妇禁用</strong>；<strong>不宜长期服用，以免损伤脾胃</strong>；<strong>需在中医师辨证为热闭证后方可使用</strong>；<strong>服药期间应密切观察病情变化，如神志转清、高热退却，应及时停用</strong>；2025版医保甲类，国家基本药物。",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "注射用醋酸卡泊芬净",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>经验性治疗中性粒细胞减少以及伴发热的可疑真菌感染</strong>；<strong>治疗对其他药物治疗无效的侵袭性曲霉菌病</strong>；<strong>治疗不能耐受其他药物治疗的侵袭性曲霉菌病</strong>；<strong>念珠菌血症及其他深部念珠菌感染</strong>（包括腹腔脓肿、腹膜炎和胸腔感染等）。",
+      "dosage": "静脉滴注。<strong>首日70mg负荷剂量，之后每日50mg维持</strong>。肝功能不全患者需调整剂量。",
+      "contraindications": "<strong>对本品中任何成份过敏者禁用</strong>。",
+      "adverse_reactions": "常见<strong>肝功能异常（转氨酶ALT/AST轻度升高，发生率约15%-20%）</strong>；<strong>低白蛋白、低钾、低镁血症、白细胞减少、嗜酸性粒细胞增多、血小板减少、中性白细胞减少、尿中红细胞增多</strong>；<strong>恶心、呕吐、腹泻、腹痛</strong>；偶见<strong>眩晕、皮疹、瘙痒</strong>。",
+      "interactions": "<strong>与他克莫司合用可能增加他克莫司血药浓度</strong>；<strong>与环孢素合用可能增加肝毒性风险</strong>；<strong>与利福平合用可能降低本品疗效</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "棘白菌素类抗真菌药，通过抑制许多丝状真菌和酵母菌细胞壁的β-1,3-D-葡聚糖合成而发挥杀菌作用。对多种曲霉菌属和念珠菌属具有抗菌活性。静脉给药后分布广泛，经肝脏代谢。",
+      "precautions": "<strong>肝功能异常患者需监测肝功能</strong>；<strong>出现过敏症状应停止使用并进行适当处理</strong>；<strong>适用对象为成人患者和3个月及3个月以上儿童患者</strong>；2025版医保甲类，国家基本药物。",
+      "solvent": "用0.9%氯化钠注射液溶解后静脉滴注",
+      "source": "手动录入-综合网络来源"
+    }
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": 551,
+  "name": "奥美沙坦酯片",
+  "dosage_form": "片",
+  "full_name": "(甲)奥美沙坦酯片",
+  "chemical_name": "奥美沙坦酯片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "东莞市阳之康医药"
+  ],
+  "specifications": [
+    {
+      "specification": "20mg/片",
+      "manufacturer": "东莞市阳之康医药",
+      "full_manufacturer": "东莞市阳之康医药有限责任公司(广东东阳光药业有限公司受委托生产)",
+      "price": 17.08,
+      "unit": "盒",
+      "code": "Y00000014835",
+      "approval_number": "国药准字H20193148",
+      "insurance_code": "XC09CAA257A001010306988",
+      "location": "F-2",
+      "outpatient_location": "E-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于高血压。",
+    "dosage": "口服：通常起始剂量一次20mg，一日1次，2周治疗后可酌情增至一次40mg，一日1次。可与利尿药联用。",
+    "contraindications": "症 对本品所含成分过敏者；妊娠中、晚期妇女禁用。",
+    "adverse_reactions": "常见：皮疹、恶心、腹泻、头痛、头晕、发热、疼痛、乏力等。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "C",
+    "pharmacokinetics": null,
+    "precautions": "⑶以下情况慎用，如双侧肾动脉狭窄或单侧功能性肾动脉狭窄；",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗高血压。",
+    "full_dosage": "口服：通常起始剂量一次20mg，一日1次，2周治疗后可酌情增至一次40mg，一日1次。可与利尿药联用。",
+    "full_contraindications": "症 对本品所含成分过敏者；妊娠中、晚期妇女禁用。",
+    "full_adverse_reactions": "少见头晕，背痛，支气管炎，肌酸激酶升高，腹泻，头痛，血尿，高血糖症、高三酰甘油血症，流感样症状，咽炎、鼻炎和鼻窦炎；偶见咳嗽，胸痛，乏力，疼痛，外周性水肿，眩晕，腹痛，消化不良，肠胃炎，恶心，心动过速，高胆固醇血症，高尿酸血症，关节疼痛，关节炎，肌肉疼痛，骨骼疼痛，皮疹和面部水肿。 肝损伤 ⑴肝损伤：在对照试验中，已证实奥美沙坦造成血清转氨酶升高的概率低（<2%），且不高于安慰剂治疗。血清转氨酶升高是暂时性的，很少需要调整用药剂量。虽然目前临床上还未发现明显严重的肝损伤与奥美沙坦治疗相关的病例，但与其他ARB类似，其可能与少数有症状的肝毒性病例相关。开始治疗后，肝损伤的潜伏期为2到16周，血清酶升高通常是伴急性肝炎样综合征的肝细胞损伤型。治疗过程中，部分患者出现长期复发性胆汁淤积，但并无证据表明血管紧张素Ⅱ受体拮抗剂(ARB)疗法与胆管消失综合征或慢性肝损伤有关。免疫超敏症状（皮疹、发热和嗜酸性粒细胞增多症）不常见，也无自身抗体形成。 ⑵损伤机制：奥美沙坦导致血清转氨酶轻度升高的原因不明。奥美沙坦不经由肝脏代谢，",
+    "full_interactions": "少。",
+    "full_pregnancy_category": "C",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴一旦发现妊娠，应尽快停止使用本品。 ⑵目前尚不清楚是否可以经母乳分泌，哺乳期妇女需权衡利弊后决定是否哺乳。 ⑶以下情况慎用，如双侧肾动脉狭窄或单侧功能性肾动脉狭窄；血容量不足或者。 药物相互作用 奥美沙坦酯不通过肝脏细胞色素P450系统代谢，对P450酶没有影响。因此，不会出现与酶抑制、诱导或者代谢相关的药物相互作用。 用药交代 可以与奈玛特韦/利托那韦片（组合包装）合用。"
+  },
+  "pinyin": "aomeishatanzhi",
+  "pinyin_initials": "amstz",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=208",
+    "last_updated": "2026-03-21"
+  }
+}

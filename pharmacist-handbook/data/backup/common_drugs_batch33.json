@@ -1,0 +1,34 @@
+[
+  {
+    "name": "盐酸克林霉素",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>适用于敏感厌氧菌引起的严重感染</strong>，如败血症、肺脓肿、腹腔感染、女性盆腔及生殖器感染；<strong>适用于链球菌属、葡萄球菌属及厌氧菌所致的中重度感染</strong>，如下呼吸道感染、皮肤软组织感染、骨髓炎等。",
+      "dosage": "静脉滴注。<strong>成人一日0.6-1.2g，分2-4次给药</strong>；严重感染可增至一日1.2-2.4g。<strong>儿童一日20-40mg/kg，分2-4次给药</strong>；严重感染可增至一日40mg/kg。",
+      "contraindications": "<strong>对本品或林可霉素过敏者禁用</strong>；<strong>新生儿禁用</strong>。",
+      "adverse_reactions": "常见<strong>胃肠道反应（恶心、呕吐、腹痛、腹泻）</strong>，严重者可出现<strong>伪膜性肠炎</strong>；可见<strong>皮疹、瘙痒等过敏反应</strong>；偶见<strong>肝功能异常、白细胞减少</strong>。",
+      "interactions": "<strong>与红霉素有拮抗作用，不宜合用</strong>；<strong>与神经肌肉阻滞剂合用可能增强阻滞作用</strong>；<strong>与阿片类镇痛药合用可能加重呼吸抑制</strong>。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "林可酰胺类抗生素，作用于细菌核糖体50S亚基，抑制蛋白质合成。对厌氧菌有良好抗菌活性。静脉给药后迅速分布，主要在肝脏代谢，经胆汁和尿液排泄。",
+      "precautions": "<strong>肝功能不全者慎用</strong>；<strong>肾功能不全者应调整剂量</strong>；<strong>用药期间应监测肝功能及血常规</strong>；<strong>出现腹泻应警惕伪膜性肠炎</strong>；2025版医保甲类。",
+      "solvent": "用0.9%氯化钠注射液或5%葡萄糖注射液稀释后静脉滴注",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲依奇珠单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>适用于治疗符合系统治疗或光疗指征的中度至重度斑块状银屑病成人患者</strong>；<strong>适用于活动性强直性脊柱炎成人患者</strong>。",
+      "dosage": "皮下注射。<strong>推荐剂量160mg（两次80mg注射）在第0周，随后在2、4、6、8、10、12周各80mg，之后每4周80mg</strong>。",
+      "contraindications": "<strong>对本品活性成分或任何辅料过敏者禁用</strong>；<strong>存在严重活动性感染的患者禁用</strong>。",
+      "adverse_reactions": "常见<strong>注射部位反应（红肿、疼痛、瘙痒）</strong>；<strong>上呼吸道感染、口腔疱疹、恶心</strong>；有<strong>间质性肺炎</strong>报告。",
+      "interactions": "<strong>与活疫苗合用可能降低疫苗效果</strong>；<strong>与CYP450底物药物合用可能需要监测血药浓度</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "白细胞介素-17A（IL-17A）拮抗剂，选择性结合IL-17A并抑制其与IL-17受体的相互作用。皮下注射后生物利用度约60-81%，达峰时间约4天，半衰期约13天。",
+      "precautions": "<strong>可能增加感染风险，活动性感染患者应慎用</strong>；<strong>治疗前应筛查结核</strong>；<strong>炎症性肠病患者慎用，可能加重病情</strong>；<strong>过敏体质者慎用</strong>；2025版医保乙类。",
+      "solvent": "皮下注射，无需稀释",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

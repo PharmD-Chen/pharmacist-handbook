@@ -1,0 +1,55 @@
+{
+  "id": 494,
+  "name": "二硫化硒洗剂",
+  "dosage_form": "洗剂",
+  "full_name": "(甲)二硫化硒洗剂[市基]",
+  "chemical_name": "二硫化硒洗剂",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "江苏迪赛诺制药"
+  ],
+  "specifications": [
+    {
+      "specification": "150g/瓶",
+      "manufacturer": "江苏迪赛诺制药",
+      "full_manufacturer": "江苏迪赛诺制药有限公司",
+      "price": 27.2,
+      "unit": "瓶",
+      "code": "X00526",
+      "approval_number": "国药准字H10800003",
+      "insurance_code": "XD01AEE027S001020101495",
+      "location": "G-6",
+      "outpatient_location": "S-6"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "外用于去头屑、头皮脂溢性皮炎、花斑癣的治疗以及用于外耳道脂溢性皮炎。也可用于杀蚤类寄生虫。",
+    "dosage": "⑴治疗头屑多及头皮脂溢性皮炎：用温水浸湿头发及头皮，然后将药液洒于头部，用手轻轻揉擦使起泡沫，保留3～5分钟后用水洗净，1周2次。",
+    "contraindications": "⑴皮肤有急性炎症、糜烂渗出时禁用；生殖器部位禁用。  ⑵对本品过敏者禁用。",
+    "adverse_reactions": "⑴偶可引起接触性皮炎。  ⑵对黏膜有刺激作用。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品具有抗皮脂溢出、抗真菌、杀寄生虫（如疥虫、蚤等）的作用。本品还有抑制细胞核分裂造成表皮细胞更替生成减少并促成角化。",
+    "precautions": "⑴使用前应充分振荡。  \n⑵染发和烫发后两天内不得使用本品。  \n⑶不能与金属午间接触。使用期间，所有银器首饰、发夹和其他金属物件应除去。  \n⑷使用本品后，应仔细洗手。  \n⑸药物不得直接接触眼睛。",
+    "source": "湖南药事服务网",
+    "full_indications": "外用于去头屑、头皮脂溢性皮炎、花斑癣的治疗以及用于外耳道脂溢性皮炎。也可用于杀蚤类寄生虫。",
+    "full_dosage": "⑴治疗头屑多及头皮脂溢性皮炎：用温水浸湿头发及头皮，然后将药液洒于头部，用手轻轻揉擦使起泡沫，保留3～5分钟后用水洗净，1周2次。皮损控制后每1～2周1次。    <br>　　⑵治疗花斑癣：将药液均匀涂于患部，加少量水使起泡沫，保留5～10分钟后彻底冲洗全身，一日1次，连续7日。    <br>　　⑶摇匀后滴耳：每侧耳一次1～2滴，一日3次。",
+    "full_contraindications": "⑴皮肤有急性炎症、糜烂渗出时禁用；生殖器部位禁用。  ⑵对本品过敏者禁用。",
+    "full_adverse_reactions": "⑴偶可引起接触性皮炎。  ⑵对黏膜有刺激作用。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品具有抗皮脂溢出、抗真菌、杀寄生虫（如疥虫、蚤等）的作用。本品还有抑制细胞核分裂造成表皮细胞更替生成减少并促成角化。",
+    "full_precautions": "⑴使用前应充分振荡。  <br>⑵染发和烫发后两天内不得使用本品。  <br>⑶不能与金属午间接触。使用期间，所有银器首饰、发夹和其他金属物件应除去。  <br>⑷使用本品后，应仔细洗手。  <br>⑸药物不得直接接触眼睛。"
+  },
+  "pinyin": "erliuhuaxi",
+  "pinyin_initials": "elhx",
+  "dosage_form_pinyin": "xiji",
+  "dosage_form_initials": "xj",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2205",
+    "last_updated": "2026-03-22"
+  }
+}

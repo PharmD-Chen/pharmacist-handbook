@@ -1,0 +1,226 @@
+[
+  {
+    "name": "舒更葡糖钠",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "<strong>【过敏反应警告】</strong>本品可能引起<strong>严重过敏反应</strong>，包括<strong>过敏性休克</strong>。首次用药需缓慢给药，密切观察。",
+      "indications": "用于<strong>拮抗罗库溴铵或维库溴铵诱导的神经肌肉阻滞</strong>；用于<strong>成人患者手术结束时逆转深度和中度神经肌肉阻滞</strong>；为<strong>选择性肌松拮抗剂</strong>，可快速逆转甾体类肌松药的作用。",
+      "dosage": "静脉注射。<strong>逆转深度阻滞：一次16mg/kg</strong>；<strong>逆转中度阻滞：一次4mg/kg</strong>；<strong>在罗库溴铵给药后恢复至T2时给予</strong>；<strong>单次注射，注射时间约10秒</strong>。",
+      "contraindications": "对本品过敏者禁用；对环糊精过敏者禁用；严重肾功能不全患者禁用。",
+      "adverse_reactions": "常见<strong>味觉障碍（苦味或金属味）、恶心、呕吐</strong>；可见<strong>心动过缓、低血压、头痛</strong>；罕见<strong>过敏反应、过敏性休克、支气管痉挛</strong>；个别患者可能出现凝血时间延长。",
+      "interactions": "与甾体类肌松药合用产生拮抗作用；与抗凝药物合用可能增加出血风险；与激素类避孕药合用可能降低避孕效果；与托特罗定合用可能降低托特罗定疗效。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为改良γ-环糊精，可包裹甾体类肌松药形成复合物；静脉注射后迅速起效，2-5分钟恢复肌力；主要经肾脏排泄，原形药物半衰期约2小时。",
+      "precautions": "首次用药需缓慢给药，密切观察过敏反应；给药后需监测神经肌肉功能恢复情况；肾功能不全者需调整剂量；不宜与甾体类激素药物混合使用；2025版医保乙类，限注射剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "卡左双多巴",
+    "dosage_form": "缓释片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>帕金森病及帕金森综合征</strong>；用于<strong>改善帕金森病患者的运动症状</strong>，如<strong>震颤、肌强直、运动迟缓</strong>；为<strong>复方左旋多巴制剂</strong>，含卡比多巴和左旋多巴。",
+      "dosage": "口服。<strong>初始剂量：一次50mg/200mg（卡比多巴/左旋多巴），一日2-3次</strong>；<strong>根据疗效逐渐调整剂量，每次增加50mg/200mg</strong>；<strong>维持剂量：一日400-2000mg（左旋多巴）</strong>；<strong>分3-4次服用</strong>。",
+      "contraindications": "对本品过敏者禁用；对左旋多巴或卡比多巴过敏者禁用；窄角型青光眼患者禁用；恶性黑色素瘤患者禁用；正在使用非选择性MAO抑制剂者禁用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、食欲减退、体位性低血压</strong>；可见<strong>运动障碍（异动症）、精神症状（幻觉、妄想）</strong>；长期使用可能出现<strong>症状波动（剂末现象、开关现象）</strong>；罕见<strong>心律失常、消化道出血</strong>。",
+      "interactions": "与非选择性MAO抑制剂合用禁忌；与抗精神病药合用可能减弱药效；与抗高血压药合用可能增强降压作用；与铁剂合用可能降低左旋多巴吸收。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为复方制剂，卡比多巴为外周脱羧酶抑制剂，可抑制左旋多巴在外周转化为多巴胺；左旋多巴进入中枢后转化为多巴胺，补充多巴胺不足；口服后吸收良好；主要经肾脏排泄。",
+      "precautions": "用药期间定期监测肝功能、血常规和心血管功能；精神病患者慎用；突然停药可能引起恶性撤药综合征；与高蛋白饮食同服可能降低药效；2025版医保甲类，限缓释片。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用头孢呋辛钠",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>敏感菌引起的各种感染</strong>，如<strong>呼吸道感染（急性咽炎、扁桃体炎、急性支气管炎、慢性支气管炎急性发作、肺炎）</strong>；用于<strong>泌尿道感染、皮肤软组织感染、骨和关节感染</strong>；用于<strong>败血症、脑膜炎</strong>等严重感染。",
+      "dosage": "肌内注射或静脉滴注。<strong>成人常用量：一次0.75-1.5g，一日3次</strong>；<strong>严重感染：一次1.5g，一日4次</strong>；<strong>脑膜炎：一次3g，一日3次</strong>；<strong>儿童：一日30-100mg/kg，分3-4次</strong>。",
+      "contraindications": "对本品过敏者禁用；对头孢菌素类过敏者禁用；有青霉素过敏性休克史者禁用。",
+      "adverse_reactions": "常见<strong>皮疹、瘙痒、胃肠道反应（恶心、腹泻）</strong>；可见<strong>肝功能异常、白细胞减少</strong>；罕见<strong>过敏反应、间质性肾炎、伪膜性肠炎</strong>；长期使用可能引起二重感染。",
+      "interactions": "与氨基糖苷类合用可能增加肾毒性；与强效利尿剂合用可能增加肾毒性；与丙磺舒合用可延长半衰期；与抗凝药合用可能增加出血风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为第二代头孢菌素，对β-内酰胺酶稳定；肌内注射后吸收良好；广泛分布于体液和组织；主要经肾脏排泄，半衰期约1-2小时。",
+      "precautions": "用药前需询问过敏史，有青霉素过敏史者慎用；肾功能不全者需调整剂量；用药期间定期监测肾功能；长期使用需监测二重感染；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "托吡酯",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>成人及2-16岁儿童部分性癫痫发作的加用治疗</strong>；用于<strong>原发性全面性强直-阵挛发作</strong>；用于<strong>预防偏头痛</strong>；具有<strong>广谱抗癫痫作用</strong>。",
+      "dosage": "口服。<strong>癫痫治疗：起始剂量25-50mg/日，每周增加25-50mg，维持剂量200-400mg/日，分2次服用</strong>；<strong>偏头痛预防：起始剂量25mg/日，每周增加25mg，维持剂量100mg/日，分2次服用</strong>。",
+      "contraindications": "对本品过敏者禁用；对磺胺类药物过敏者慎用；代谢性酸中毒患者慎用；肾结石病史患者慎用。",
+      "adverse_reactions": "常见<strong>嗜睡、头晕、乏力、共济失调、注意力不集中</strong>；可见<strong>体重减轻、感觉异常、食欲减退</strong>；罕见<strong>肾结石、代谢性酸中毒、急性近视、闭角型青光眼</strong>；儿童可能出现少汗和体温升高。",
+      "interactions": "与苯妥英钠、卡马西平合用可能降低托吡酯血药浓度；与丙戊酸合用可能增加高氨血症风险；与口服避孕药合用可能降低避孕效果；与碳酸酐酶抑制剂合用增加肾结石风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为广谱抗癫痫药，具有多重作用机制；口服后吸收迅速，生物利用度约80%；主要经肾脏排泄，原形药物约70%；半衰期约21小时。",
+      "precautions": "停药需逐渐减量，避免突然停药；用药期间多饮水，预防肾结石；定期监测血气和电解质；儿童用药需监测体温和出汗情况；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "妥布霉素",
+    "dosage_form": "滴眼液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>敏感菌所致的外眼及附属器的局部感染</strong>，如<strong>结膜炎、角膜炎、睑缘炎、麦粒肿、泪囊炎</strong>；用于<strong>眼科手术后感染的预防</strong>；为<strong>氨基糖苷类抗生素</strong>。",
+      "dosage": "眼部给药。<strong>滴入结膜囊内，一次1-2滴，每4小时1次</strong>；<strong>严重感染：一次2滴，每小时1次，病情改善后逐渐减少用药次数</strong>；<strong>疗程一般为7-14天</strong>。",
+      "contraindications": "对本品过敏者禁用；对氨基糖苷类抗生素过敏者禁用。",
+      "adverse_reactions": "偶见<strong>眼部刺激、烧灼感、瘙痒、红肿</strong>；罕见<strong>过敏反应、皮疹</strong>；长期使用可能引起<strong>二重感染、真菌感染</strong>；全身吸收少，全身不良反应罕见。",
+      "interactions": "与其他氨基糖苷类药物合用需谨慎；与全身性氨基糖苷类药物合用可能增加耳肾毒性；与其他眼用药物合用需间隔5-10分钟。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为氨基糖苷类抗生素，抑制细菌蛋白质合成；眼用给药后主要在局部发挥作用；全身吸收极少；对革兰阴性菌作用较强。",
+      "precautions": "长期使用需监测二重感染；佩戴隐形眼镜者用药期间不宜戴镜；避免药瓶口接触眼睛；症状改善后需继续用药至疗程结束；2025版医保甲类，限滴眼液。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "利福昔明",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>对利福昔明敏感的病原菌引起的肠道感染</strong>，如<strong>急慢性肠道感染、腹泻综合征、夏季腹泻、旅行者腹泻、小肠结膜炎</strong>；用于<strong>肝性脑病的辅助治疗</strong>；为<strong>肠道难吸收的抗生素</strong>。",
+      "dosage": "口服。<strong>肠道感染：一次200mg，一日3-4次</strong>；<strong>肝性脑病：一次550mg，一日2次</strong>；<strong>空腹或餐后服用均可</strong>；<strong>疗程根据病情而定，一般为5-7天</strong>。",
+      "contraindications": "对本品过敏者禁用；对利福霉素类过敏者禁用；肠梗阻患者禁用；严重肝功能不全患者慎用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、腹胀、腹痛</strong>；可见<strong>头痛、头晕</strong>；罕见<strong>皮疹、瘙痒、过敏反应</strong>；长期使用可能引起<strong>艰难梭菌相关性腹泻</strong>；全身不良反应少见。",
+      "interactions": "与全身性抗生素合用需谨慎；与抗凝药物合用可能减弱抗凝效果；与口服避孕药合用可能降低避孕效果；与环孢素合用可能降低环孢素血药浓度。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为利福霉素衍生物，口服后几乎不吸收（<0.4%），在肠道内保持高浓度；对革兰阳性菌和革兰阴性菌均有作用；主要经粪便排泄。",
+      "precautions": "肝性脑病患者需监测肝功能；长期使用需监测艰难梭菌感染；与其他抗生素合用需谨慎；症状改善后需继续用药至疗程结束；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "利格列汀",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>改善2型糖尿病患者的血糖控制</strong>；可作为<strong>单药使用</strong>；可与<strong>二甲双胍、磺脲类、胰岛素等联合使用</strong>；为<strong>DPP-4抑制剂</strong>，具有葡萄糖依赖性降糖作用。",
+      "dosage": "口服。<strong>推荐剂量：一次5mg，一日1次</strong>；<strong>可与或不与食物同服</strong>；<strong>肾功能不全患者无需调整剂量</strong>；<strong>与二甲双胍联合使用时，维持各自剂量</strong>。",
+      "contraindications": "对本品过敏者禁用；对DPP-4抑制剂过敏者禁用；1型糖尿病患者禁用；糖尿病酮症酸中毒患者禁用。",
+      "adverse_reactions": "常见<strong>鼻咽炎、上呼吸道感染、头痛</strong>；可见<strong>低血糖（与磺脲类或胰岛素合用时）、过敏反应（皮疹、血管性水肿）</strong>；罕见<strong>急性胰腺炎、肝功能异常</strong>；耐受性良好。",
+      "interactions": "与CYP450酶代谢药物相互作用少；与磺脲类或胰岛素合用可能增加低血糖风险；与CYP3A4诱导剂合用可能降低药效；与P-糖蛋白底物合用需谨慎。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为DPP-4抑制剂，抑制DPP-4酶活性，增加内源性GLP-1水平；口服后吸收迅速，生物利用度约30%；主要经胆汁和粪便排泄，肾脏排泄少；半衰期约12小时。",
+      "precautions": "用药期间定期监测血糖和HbA1c；出现胰腺炎症状应停药并检查；不适用于1型糖尿病；肾功能不全患者无需调整剂量；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "氯氮平口腔崩解",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "<strong>【严重不良反应警告】</strong>本品可引起<strong>粒细胞缺乏症、癫痫发作、心肌炎、心肌病、代谢变化（糖尿病、高脂血症、体重增加）</strong>等严重不良反应。需定期监测血常规和代谢指标。",
+      "indications": "用于<strong>难治性精神分裂症</strong>；用于<strong>降低精神分裂症或情感障碍患者的自杀行为风险</strong>；为<strong>非典型抗精神病药物</strong>，对阳性和阴性症状均有效。",
+      "dosage": "口服。<strong>初始剂量：一次12.5mg，一日1-2次</strong>；<strong>逐渐增量，每次增加25-50mg</strong>；<strong>维持剂量：一日300-600mg，分2-3次服用</strong>；<strong>最大剂量不超过900mg/日</strong>；<strong>口腔崩解片可置于舌上自然崩解后吞咽</strong>。",
+      "contraindications": "对本品过敏者禁用；粒细胞减少或粒细胞缺乏症病史者禁用；严重中枢神经系统抑制或昏迷患者禁用；麻痹性肠梗阻患者禁用；骨髓增生障碍患者禁用。",
+      "adverse_reactions": "常见<strong>嗜睡、头晕、心动过速、便秘、流涎、体重增加</strong>；可见<strong>粒细胞减少、癫痫发作、体位性低血压、肝酶升高</strong>；严重不良反应包括<strong>粒细胞缺乏症、心肌炎、糖尿病酮症酸中毒、肠梗阻</strong>。",
+      "interactions": "与苯二氮䓬类合用可能增强呼吸抑制；与卡马西平合用可能增加骨髓抑制风险；与CYP1A2诱导剂合用可能降低氯氮平血药浓度；与CYP1A2抑制剂合用可能增加氯氮平血药浓度。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为非典型抗精神病药，作用于多巴胺D2、5-HT2A等多种受体；口服后吸收良好，首过效应明显；主要经肝脏CYP1A2、CYP3A4、CYP2D6代谢；半衰期约12小时。",
+      "precautions": "治疗前及治疗期间每周监测白细胞计数；监测血糖、血脂和体重；有癫痫病史者慎用；心脏病患者慎用；用药期间避免饮酒；2025版医保甲类，限口腔崩解片。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用曲妥珠单抗",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【心脏毒性和肺毒性警告】</strong>本品可引起<strong>心脏功能不全、充血性心力衰竭、肺毒性</strong>等严重不良反应。治疗前及治疗期间需评估心脏功能，出现心功能不全需停药。",
+      "indications": "用于<strong>HER2阳性的转移性乳腺癌</strong>；用于<strong>HER2阳性的早期乳腺癌的辅助治疗</strong>；用于<strong>HER2阳性的转移性胃癌</strong>；为<strong>抗HER2单克隆抗体</strong>，可靶向HER2阳性肿瘤细胞。",
+      "dosage": "静脉滴注。<strong>转移性乳腺癌：初始剂量4mg/kg，90分钟滴注；维持剂量2mg/kg，每周1次，30分钟滴注</strong>；<strong>或初始剂量8mg/kg，维持剂量6mg/kg，每3周1次</strong>；<strong>早期乳腺癌：初始剂量8mg/kg，维持剂量6mg/kg，每3周1次，共1年</strong>。",
+      "contraindications": "对本品过敏者禁用；严重心力衰竭患者禁用；妊娠期妇女禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>发热、寒战、恶心、呕吐、腹泻、头痛、乏力</strong>；可见<strong>心脏功能不全、输液反应、骨髓抑制</strong>；严重不良反应包括<strong>充血性心力衰竭、肺毒性、过敏性休克、肿瘤溶解综合征</strong>。",
+      "interactions": "与蒽环类化疗药物合用增加心脏毒性；与紫杉醇合用可能增加曲妥珠单抗血药浓度；与放疗合用增加心脏毒性；与其他化疗药物合用需谨慎。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为重组人源化抗HER2单克隆抗体，与HER2受体结合抑制肿瘤细胞生长；静脉给药后分布广泛；清除半衰期约6天（负荷剂量）和16天（维持剂量）。",
+      "precautions": "治疗前需确认HER2阳性状态；治疗前及治疗期间定期评估心脏功能（LVEF）；首次输注需密切观察输液反应；妊娠期禁用，育龄妇女用药期间需避孕；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "醋酸阿比特龙",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>与泼尼松或泼尼松龙联合治疗转移性去势抵抗性前列腺癌（mCRPC）</strong>；用于<strong>新诊断的高危转移性内分泌治疗敏感性前列腺癌（mHSPC）</strong>；为<strong>CYP17抑制剂</strong>，可抑制雄激素合成。",
+      "dosage": "口服。<strong>推荐剂量：一次1000mg，一日1次</strong>；<strong>与泼尼松或泼尼松龙5mg一日2次联合使用</strong>；<strong>空腹服用（饭前1小时或饭后2小时）</strong>；<strong>整片吞服，不要咀嚼或压碎</strong>。",
+      "contraindications": "对本品过敏者禁用；妊娠期及哺乳期妇女禁用；严重肝功能不全患者禁用；正在使用利福平的患者禁用。",
+      "adverse_reactions": "常见<strong>外周水肿、低钾血症、高血压、肝酶升高、疲劳</strong>；可见<strong>尿路感染、血尿、骨折、心脏疾病</strong>；罕见<strong>肾上腺皮质功能不全、过敏性反应</strong>；长期使用需监测肝功能。",
+      "interactions": "与CYP3A4诱导剂合用可能降低阿比特龙血药浓度；与CYP2D6底物合用可能增加底物血药浓度；与华法林合用可能增加出血风险；与螺内酯合用可能减弱药效。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为CYP17抑制剂，抑制睾丸、肾上腺和前列腺肿瘤组织中的雄激素合成；口服后吸收良好，食物可显著增加吸收；主要经肝脏CYP3A4代谢；半衰期约12小时。",
+      "precautions": "必须联合泼尼松或泼尼松龙使用；定期监测肝功能、血压、血钾和液体潴留；有心血管疾病史者慎用；育龄男性用药期间需采取避孕措施；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸伊立替康",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "<strong>【早发性和迟发性腹泻警告】</strong>本品可引起<strong>严重的早发性腹泻（胆碱能综合征）和迟发性腹泻</strong>。迟发性腹泻可能危及生命，需立即使用洛哌丁胺治疗并补液。",
+      "indications": "用于<strong>局部进展期或转移性结直肠癌</strong>；用于<strong>与5-氟尿嘧啶和亚叶酸联合治疗</strong>；用于<strong>胃癌的二线治疗</strong>；为<strong>拓扑异构酶I抑制剂</strong>，具有广谱抗肿瘤活性。",
+      "dosage": "静脉滴注。<strong>单药治疗：一次350mg/m²，每3周1次，30-90分钟滴注</strong>；<strong>联合治疗：一次180mg/m²，每2周1次，30-90分钟滴注</strong>；<strong>根据毒性调整剂量</strong>。",
+      "contraindications": "对本品过敏者禁用；严重骨髓抑制患者禁用；慢性炎性肠病患者禁用；肠梗阻患者禁用；胆红素超过正常上限1.5倍的患者禁用；妊娠期及哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>迟发性腹泻、恶心、呕吐、骨髓抑制（中性粒细胞减少）</strong>；可见<strong>早发性腹泻（胆碱能综合征）、脱发、乏力、肝酶升高</strong>；严重不良反应包括<strong>严重中性粒细胞减少、严重腹泻、感染性并发症</strong>。",
+      "interactions": "与CYP3A4诱导剂合用可能降低伊立替康血药浓度；与CYP3A4抑制剂合用可能增加伊立替康血药浓度；与5-氟尿嘧啶合用可能增加毒性；与神经肌肉阻滞剂合用可能增强阻滞作用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为喜树碱衍生物，抑制拓扑异构酶I，阻止DNA复制和转录；静脉给药后迅速分布；经肝脏CYP3A4代谢为活性代谢物SN-38；主要经胆汁排泄。",
+      "precautions": "用药前需检测UGT1A1基因型（*28/*28纯合子患者需减量）；出现腹泻立即使用洛哌丁胺治疗；定期监测血常规；出现严重中性粒细胞减少需减量或停药；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸多巴胺",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>心肌梗死、创伤、内毒素败血症、心脏手术、肾功能衰竭、充血性心力衰竭等引起的休克综合征</strong>；用于<strong>补充血容量效果不佳的休克</strong>，尤其是<strong>有少尿及周围血管阻力正常或较低的休克</strong>；为<strong>血管活性药物</strong>。",
+      "dosage": "静脉滴注。<strong>以20mg加入5%葡萄糖注射液200-500ml中稀释</strong>；<strong>起始剂量：2-5μg/kg/min</strong>；<strong>根据血压、尿量和组织灌注情况调整剂量</strong>；<strong>最大剂量不超过20μg/kg/min</strong>。",
+      "contraindications": "对本品过敏者禁用；嗜铬细胞瘤患者禁用；未纠正的快速性心律失常患者禁用；心室颤动患者禁用；环丙烷麻醉者禁用。",
+      "adverse_reactions": "常见<strong>心动过速、心律失常、血压升高、头痛</strong>；可见<strong>恶心、呕吐、胸痛、呼吸困难</strong>；大剂量可能出现<strong>外周血管收缩、组织缺血坏死</strong>；药液外渗可引起局部组织坏死。",
+      "interactions": "与α受体阻滞剂合用可能减弱升压作用；与β受体阻滞剂合用可能减弱正性肌力作用；与MAO抑制剂合用可能增强心血管作用；与利尿剂合用可能增强利尿作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为内源性儿茶酚胺，激动多巴胺受体、β1受体和α受体；小剂量激动多巴胺受体（扩张肾血管），中剂量激动β1受体（正性肌力），大剂量激动α受体（升压）；静脉给药后迅速分布；经MAO和COMT代谢。",
+      "precautions": "用药前需补足血容量；持续监测血压、心率和尿量；避免药液外渗；逐渐减量停药，避免血压骤降；使用5%葡萄糖注射液稀释，避免使用生理盐水；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸多巴酚丁胺",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>器质性心脏病时心肌收缩力下降而引起的心力衰竭</strong>；用于<strong>心脏直视手术所致的低排血量综合征</strong>；作为<strong>短期支持治疗</strong>；为<strong>β1受体激动剂</strong>，具有正性肌力作用。",
+      "dosage": "静脉滴注。<strong>以250mg加入5%葡萄糖注射液250-500ml中稀释</strong>；<strong>起始剂量：2.5-10μg/kg/min</strong>；<strong>根据血流动力学反应调整剂量</strong>；<strong>最大剂量不超过40μg/kg/min</strong>。",
+      "contraindications": "对本品过敏者禁用；肥厚型梗阻性心肌病患者禁用；特发性肥厚性主动脉瓣下狭窄患者禁用；心房颤动伴快速心室率患者慎用（需先控制心室率）。",
+      "adverse_reactions": "常见<strong>心动过速、心律失常（室性早搏）、血压升高</strong>；可见<strong>恶心、头痛、胸痛、心悸</strong>；罕见<strong>过敏反应、血小板减少</strong>；大剂量可能引起心肌缺血。",
+      "interactions": "与β受体阻滞剂合用可能减弱正性肌力作用；与硝普钠合用可能产生协同作用；与洋地黄合用可能增加心律失常风险；与全身麻醉药合用可能增加室性心律失常风险。",
+      "pregnancy_category": "慎用",
+      "pharmacopkinetics": "为β1受体激动剂，选择性激动心脏β1受体，增强心肌收缩力；对心率影响较小；静脉给药后1-2分钟起效，10分钟达峰；经肝脏和肾脏代谢，半衰期约2分钟。",
+      "precautions": "用药期间持续监测心电图、血压和心输出量；心房颤动患者需先控制心室率；逐渐减量停药；使用5%葡萄糖注射液稀释；不宜与碱性药物混合；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "炉甘石",
+    "dosage_form": "洗剂",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>急性瘙痒性皮肤病</strong>，如<strong>荨麻疹、痱子、湿疹、皮炎</strong>；用于<strong>轻度皮肤刺激和炎症</strong>；具有<strong>收敛、保护、止痒</strong>作用。",
+      "dosage": "外用。<strong>用时摇匀，取适量涂于患处，一日2-3次</strong>；<strong>涂抹后自然干燥</strong>；<strong>根据病情调整用药次数</strong>。",
+      "contraindications": "对本品成分过敏者禁用；皮肤破损处禁用；渗出性皮肤病禁用；避免接触眼睛和黏膜。",
+      "adverse_reactions": "偶见<strong>局部刺激、皮肤干燥</strong>；罕见<strong>过敏反应、皮疹</strong>；长期使用可能引起<strong>皮肤干燥、脱屑</strong>。",
+      "interactions": "与其他外用药物合用需谨慎；与含金属盐药物合用可能产生沉淀；与酸性药物合用可能产生反应。",
+      "pregnancy_category": "可用",
+      "pharmacokinetics": "含炉甘石（碳酸锌）、氧化锌、甘油等成分；具有收敛、保护、止痒作用；外用后不被吸收，仅在皮肤表面发挥作用。",
+      "precautions": "使用前需摇匀；避免用于皮肤破损处；避免接触眼睛和黏膜；症状持续不缓解应就医；儿童使用需在成人监护下；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  }
+]

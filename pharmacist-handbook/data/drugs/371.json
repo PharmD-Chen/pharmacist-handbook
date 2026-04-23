@@ -1,0 +1,66 @@
+{
+  "id": 371,
+  "name": "湿润烧伤膏",
+  "dosage_form": "其他",
+  "full_name": "(乙)湿润烧伤膏",
+  "chemical_name": "湿润烧伤膏",
+  "types": [
+    "乙类"
+  ],
+  "manufacturers": [
+    "汕头市美宝制药"
+  ],
+  "specifications": [
+    {
+      "specification": "60g/支",
+      "manufacturer": "汕头市美宝制药",
+      "full_manufacturer": "汕头市美宝制药有限公司",
+      "price": 109.0,
+      "unit": "支",
+      "code": "C00110",
+      "approval_number": "国药准字Z20000004",
+      "insurance_code": "ZB01BAS0537040100490",
+      "location": "L",
+      "outpatient_location": "V-4"
+    },
+    {
+      "specification": "40g/支",
+      "manufacturer": "汕头市美宝制药",
+      "full_manufacturer": "汕头市美宝制药有限公司",
+      "price": 74.88,
+      "unit": "盒",
+      "code": "C00101",
+      "approval_number": "国药准字Z20000004",
+      "insurance_code": "ZB01BAS0537030100490",
+      "location": "L-2"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "清热解毒，止痛，生肌。用于各种烧、烫、灼伤。",
+    "dosage": "外用。涂于烧、烫、灼伤等创面（厚度薄于1mm），每4～6小时更换新药。换药前，须将残留在创面上的药物及液化物拭去。暴露创面用药。",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生",
+    "pregnancy_category": null,
+    "pharmacokinetics": "黄连、黄柏、黄芩、地龙、罂粟壳。本品外用对豚鼠局部皮肤烫伤组织的治疗作用试验，具有促进创面愈合的作用。对20％醋酸灼伤大鼠肛门致溃疡的治疗试验，有促进溃疡愈合作用。对小鼠耳廓炎症和大鼠琼脂足肿，有抗炎作用，对小鼠热辐射致痛和家兔KCL电极刺痛有止痛作用。",
+    "precautions": "⑴芝麻过敏者慎用。 ⑵对于烧伤创面引起的全身性发病者须在烧伤湿性医疗技术医生指导下使用。 ⑶夏季高温或反复挤压、碰撞会使该膏剂变稀，但这种改变不影响疗效。如出现此种情况，可拧紧软管盖于开水中热浸数分钟，取出后倒置，自然冷却至室温，即可恢复原状。 ⑷运动员慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "清热解毒，止痛，生肌。用于各种烧、烫、灼伤。",
+    "full_dosage": "外用。涂于烧、烫、灼伤等创面（厚度薄于1mm），每4～6小时更换新药。换药前，须将残留在创面上的药物及液化物拭去。暴露创面用药。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "尚不明确。",
+    "full_interactions": "如与其他药物同时使用可能会发生",
+    "full_pharmacokinetics": "黄连、黄柏、黄芩、地龙、罂粟壳。本品外用对豚鼠局部皮肤烫伤组织的治疗作用试验，具有促进创面愈合的作用。对20％醋酸灼伤大鼠肛门致溃疡的治疗试验，有促进溃疡愈合作用。对小鼠耳廓炎症和大鼠琼脂足肿，有抗炎作用，对小鼠热辐射致痛和家兔KCL电极刺痛有止痛作用。",
+    "full_precautions": "⑴芝麻过敏者慎用。 ⑵对于烧伤创面引起的全身性发病者须在烧伤湿性医疗技术医生指导下使用。 ⑶夏季高温或反复挤压、碰撞会使该膏剂变稀，但这种改变不影响疗效。如出现此种情况，可拧紧软管盖于开水中热浸数分钟，取出后倒置，自然冷却至室温，即可恢复原状。 ⑷运动员慎用。",
+    "composition": "黄连、黄柏、黄芩、地龙、罂粟壳。本品外用对豚鼠局部皮肤烫伤组织的治疗作用试验，具有促进创面愈合的作用。对20％醋酸灼伤大鼠肛门致溃疡的治疗试验，有促进溃疡愈合作用。对小鼠耳廓炎症和大鼠琼脂足肿，有抗炎作用，对小鼠热辐射致痛和家兔KCL电极刺痛有止痛作用。"
+  },
+  "pinyin": "shirunshaoshanggao",
+  "pinyin_initials": "srssg",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=7668",
+    "last_updated": "2026-03-21"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 597,
+  "name": "可溶性止血纱布",
+  "dosage_form": "其他",
+  "full_name": "(自)可溶性止血纱布",
+  "chemical_name": "可溶性止血纱布",
+  "types": [],
+  "manufacturers": [
+    "河南大新药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.8g/袋",
+      "manufacturer": "河南大新药业",
+      "full_manufacturer": "河南大新药业有限公司",
+      "price": 420.0,
+      "unit": "盒",
+      "code": "X00750",
+      "approval_number": "国药准字H41025649",
+      "insurance_code": "XB02BCK064V003020203225",
+      "location": "G-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "kerongxingzhixueshabu",
+  "pinyin_initials": "krxzxsb",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1114"
+  }
+}

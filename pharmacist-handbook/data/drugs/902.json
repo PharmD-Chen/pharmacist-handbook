@@ -1,0 +1,54 @@
+{
+  "id": 902,
+  "name": "青霉素皮试剂",
+  "dosage_form": "其他",
+  "full_name": "(甲)青霉素皮试剂",
+  "chemical_name": "青霉素皮试剂",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "浙江浙北药业"
+  ],
+  "specifications": [
+    {
+      "specification": "2500单位/支",
+      "manufacturer": "浙江浙北药业",
+      "full_manufacturer": "浙江浙北药业有限公司(委托生产企业：浙江金华康恩贝生物制药有限公司)",
+      "price": 125.65,
+      "unit": "盒",
+      "code": "X00095",
+      "approval_number": "国药准字H20143377",
+      "insurance_code": "XJ01XXQ057B001010104656",
+      "location": "A-2"
+    },
+    {
+      "specification": "2500单位/支",
+      "manufacturer": "浙江浙北药业",
+      "full_manufacturer": "浙江浙北药业有限公司(委托生产企业：浙江金华康恩贝生物制药有限公司)",
+      "price": 19.8,
+      "unit": "支",
+      "code": "X00557",
+      "approval_number": "国药准字H20143377",
+      "insurance_code": "XJ01XXQ057B001010204656",
+      "location": "A-2",
+      "outpatient_location": "Q-2"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "qingmeisupishiji",
+  "pinyin_initials": "qmspsj",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt"
+}

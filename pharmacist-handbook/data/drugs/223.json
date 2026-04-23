@@ -1,0 +1,53 @@
+{
+  "id": 223,
+  "name": "贝前列素钠片",
+  "dosage_form": "片",
+  "full_name": "(乙10%)贝前列素钠片",
+  "chemical_name": "贝前列素钠片",
+  "types": [],
+  "manufacturers": [
+    "北京泰德制药"
+  ],
+  "specifications": [
+    {
+      "specification": "20ug/片",
+      "manufacturer": "北京泰德制药",
+      "full_manufacturer": "北京泰德制药股份有限公司",
+      "price": 31.49,
+      "unit": "盒",
+      "code": "X00487",
+      "approval_number": "国药准字",
+      "insurance_code": "XB01ACB040A017010100156",
+      "location": "F-4",
+      "outpatient_location": "F-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于改善慢性动脉闭塞性疾病引起的溃疡、间歇性跛行、疼痛和冷感等症状。 缓释片适应证：用于WHO功能分级I级-III级的肺动脉高压（PAH，WHO第1组）的患者，以改善患者的运动能力。",
+    "dosage": "口服：成人每日量为120μg，分3次，餐后服。缓释片成人的初始剂量为一次60μg，一日2次（早餐后和晚餐后）。根据症状（",
+    "contraindications": "症 对本品过敏者及有出血性疾病患者禁用。",
+    "adverse_reactions": "常见：恶心、腹泻、头痛、过敏等。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "下列患者慎用：正在使用抗凝血药、抗血小板药、血栓溶解剂的患者；妊娠期妇女及哺乳期妇女慎用；月经期妇女；有出血倾向及其因素的患者。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于改善慢性动脉闭塞性疾病引起的溃疡、间歇性跛行、疼痛和冷感等症状。 缓释片适应证：适用于治疗WHO功能分级I级-III级的肺动脉高压（PAH，WHO第1组）的患者，以改善患者的运动能力。",
+    "full_dosage": "口服：成人每日量为120μg，分3次，餐后服。缓释片成人的初始剂量为一次60μg，一日2次（早餐后和晚餐后）。根据症状（",
+    "full_contraindications": "症 对本品过敏者及有出血性疾病患者禁用。",
+    "full_adverse_reactions": "可有出血倾向（包括脑出血、消化道出血、眼底出血等）；偶有过敏反应、头痛、恶心、腹泻、食欲不振、肝功能异常、颜面潮红、心悸等不良反应。 缓释片主要不良反应包括：头痛、颜面潮红、潮热、恶心、疲倦感、腹泻、心悸和腹痛等。从上市前至上市后持续进行的临床试验、使用结果调查以及上市后临床试验的总病例数1002 例中，有170例（17.0%）发生不良反应（包括临床检查值异常），其中主要的不良反应包括：头痛、腹泻、AST升高、潮热、ALT升高、颜面潮红等。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "下列患者慎用：正在使用抗凝血药、抗血小板药、血栓溶解剂的患者；妊娠期妇女及哺乳期妇女慎用；月经期妇女；有出血倾向及其因素的患者。"
+  },
+  "pinyin": "beiqianliesuna",
+  "pinyin_initials": "bqlsn",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3009",
+    "last_updated": "2026-03-21"
+  }
+}

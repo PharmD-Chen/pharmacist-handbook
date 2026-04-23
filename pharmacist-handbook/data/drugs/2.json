@@ -1,0 +1,56 @@
+{
+  "id": 2,
+  "name": "复方α-酮酸片",
+  "dosage_form": "片",
+  "full_name": "(乙)复方α-酮酸片[市基]",
+  "chemical_name": "复方α-酮酸片",
+  "types": [
+    "乙类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "上海郅见生物医药技术"
+  ],
+  "specifications": [
+    {
+      "specification": "0.63g/片",
+      "manufacturer": "上海郅见生物医药技术",
+      "full_manufacturer": "上海郅见生物医药技术有限公司（委托生产企业：南京白敬宇制药有限责任公司）",
+      "price": 31.87,
+      "unit": "盒",
+      "code": "X00848",
+      "approval_number": "国药准字H20243395",
+      "insurance_code": "XV02DEF113A001010184440",
+      "location": "K-2",
+      "outpatient_location": "P-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于轻、中度慢性肾功能衰竭者。",
+    "dosage": "口服，如按体重70kg计算，一日3次，一次4～8片，用餐期间整片吞服。对于肾小球滤过率低于每分钟20ml的患者，本品配合一日不超过40g（成人）的低蛋白饮食，可长期服用。",
+    "contraindications": "症 无肾衰患者。高钙血症。",
+    "adverse_reactions": "个别病人服用后，有时出现上中腹饱满，明显不良反应尚未见报道。",
+    "interactions": "⑴不宜与四环素类药物同时服用。 ⑵氢氧化铝可加重或加速低磷血症。 ⑶其他含钙药物、抗酸药：可加重高钙血症。 给药说明 每片含消旋酮异亮氨酸钙67mg，酮亮氨酸钙101mg，酮苯丙氨酸钙68mg，酮缬氨酸钙86mg，消旋羟蛋氨酸钙59mg，L-赖氨酸醋酸盐105mg，L-苏氨酸53mg，L-色氨酸23mg，L-组氨酸38mg，L-酪氨酸30mg。每片总氮量36mg，总钙量50mg。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴要保证同时供足够的热量，确保本品可以在体内充分利用。必须供患者35～40kcal/(kg·d)的热量。 ⑵当病人用大量本品时，或同时用其他含钙的药物时，可能发生高钙血症，注意监测血钙水平，并且注意调整用量。 ⑶低于25℃保存，注意防潮。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于轻、中度慢性肾功能衰竭者。",
+    "full_dosage": "口服，如按体重70kg计算，一日3次，一次4～8片，用餐期间整片吞服。对于肾小球滤过率低于每分钟20ml的患者，本品配合一日不超过40g（成人）的低蛋白饮食，可长期服用。",
+    "full_contraindications": "症 无肾衰患者。高钙血症。",
+    "full_adverse_reactions": "个别病人服用后，有时出现上中腹饱满，明显不良反应尚未见报道。",
+    "full_interactions": "⑴不宜与四环素类药物同时服用。 ⑵氢氧化铝可加重或加速低磷血症。 ⑶其他含钙药物、抗酸药：可加重高钙血症。 给药说明 每片含消旋酮异亮氨酸钙67mg，酮亮氨酸钙101mg，酮苯丙氨酸钙68mg，酮缬氨酸钙86mg，消旋羟蛋氨酸钙59mg，L-赖氨酸醋酸盐105mg，L-苏氨酸53mg，L-色氨酸23mg，L-组氨酸38mg，L-酪氨酸30mg。每片总氮量36mg，总钙量50mg。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴要保证同时供应足够的热量，确保本品可以在体内充分利用。必须供应患者35～40kcal/(kg·d)的热量。 ⑵当病人应用大量本品时，或同时应用其他含钙的药物时，可能发生高钙血症，应注意监测血钙水平，并且注意调整用量。 ⑶低于25℃保存，注意防潮。"
+  },
+  "pinyin": "fufangα-tongsuan",
+  "pinyin_initials": "ffα-ts",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=176",
+    "last_updated": "2026-03-21"
+  }
+}

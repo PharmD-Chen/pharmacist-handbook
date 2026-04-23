@@ -1,0 +1,43 @@
+{
+  "id": 858,
+  "name": "注射用胶原酶",
+  "dosage_form": "注射用",
+  "full_name": "(自)注射用胶原酶",
+  "chemical_name": "注射用胶原酶",
+  "types": [],
+  "manufacturers": [
+    "远大生命科学"
+  ],
+  "specifications": [
+    {
+      "specification": "600U/瓶",
+      "manufacturer": "远大生命科学",
+      "full_manufacturer": "远大生命科学（鞍山）有限公司",
+      "price": 530.0,
+      "unit": "支",
+      "code": "X00720",
+      "approval_number": "国药准字H10960177",
+      "insurance_code": "XD03BAJ109B014010101242"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "zhusheyongjiaoyuanmei",
+  "pinyin_initials": "zsyjym",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3662",
+    "last_updated": "2026-03-22"
+  }
+}

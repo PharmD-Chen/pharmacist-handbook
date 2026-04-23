@@ -1,0 +1,52 @@
+{
+  "id": 417,
+  "name": "复方肝素钠尿囊素凝胶",
+  "dosage_form": "凝胶",
+  "full_name": "(自)复方肝素钠尿囊素凝胶",
+  "chemical_name": "复方肝素钠尿囊素凝胶",
+  "types": [],
+  "manufacturers": [
+    "Merz Pharmaceuticals GmbH"
+  ],
+  "specifications": [
+    {
+      "specification": "10g/支",
+      "manufacturer": "Merz Pharmaceuticals GmbH",
+      "full_manufacturer": "Merz Pharmaceuticals GmbH(Merz Pharma GmbH & Co.KGaA)",
+      "price": 40.7,
+      "unit": "盒",
+      "code": "X00658",
+      "approval_number": "国药准字HJ20150555",
+      "insurance_code": "XC05BAF693U001010278647",
+      "location": "G-2",
+      "outpatient_location": "S-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于增生性瘢痕、瘢痕疙瘩、运动限制性瘢痕、整形术及其手术后瘢痕、烧伤和其他损伤所造成的瘢痕、Dupuytren掌挛缩病、外伤性腱挛缩、瘢痕性狭窄。",
+    "dosage": "将本品涂于患处，每日数次，病轻柔直至药物完全吸收到皮肤或瘢痕组织中。对于坚硬、陈旧的瘢痕可以涂药后用敷料封包1夜，让药物充分发挥作用。根据瘢痕或挛缩的面积大小，治疗过程需数周。陈旧性瘢痕除日间使用外，还需继续在晚上涂药。",
+    "contraindications": "对于烷基-4-羟基苯甲酸酯过敏者禁用。",
+    "adverse_reactions": "本品的耐受性较好，局部皮肤的刺激反应不常见。少数患者可以出现轻微痒感， 一般不影响继续治疗。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品具有抗纤维母细胞增生、抗炎症和软化、瘢痕组织的作用。洋葱提取物通过 抑制炎症介质的释放有抗炎作用,同时也有抗过敏的作用。洋葱提取物可以抑制多种来源的纤 维母细胞,尤其是瘢痕来源的,除了抑制其有丝****,还能减少细胞外基质（如蛋白多糖）的合 成。 肝素有抗炎症、抗过敏、抗增生及促进组织水合的作用",
+    "precautions": "将药物储存在儿童不易接触到的地方。仔细阅读说明书并遵医嘱使用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗增生性瘢痕、瘢痕疙瘩、运动限制性瘢痕、整形术及其手术后瘢痕、烧伤和其他损伤所造成的瘢痕、Dupuytren掌挛缩病、外伤性腱挛缩、瘢痕性狭窄。",
+    "full_dosage": "将本品涂于患处，每日数次，病轻柔直至药物完全吸收到皮肤或瘢痕组织中。对于坚硬、陈旧的瘢痕可以涂药后用敷料封包1夜，让药物充分发挥作用。根据瘢痕或挛缩的面积大小，治疗过程需数周。陈旧性瘢痕除日间使用外，还需继续在晚上涂药。",
+    "full_contraindications": "对于烷基-4-羟基苯甲酸酯过敏者禁用。",
+    "full_adverse_reactions": "本品的耐受性较好，局部皮肤的刺激反应不常见。少数患者可以出现轻微痒感， 一般不影响继续治疗。",
+    "full_interactions": "尚不明确。",
+    "full_pharmacokinetics": "本品具有抗纤维母细胞增生、抗炎症和软化、瘢痕组织的作用。洋葱提取物通过 抑制炎症介质的释放有抗炎作用,同时也有抗过敏的作用。洋葱提取物可以抑制多种来源的纤 维母细胞,尤其是瘢痕来源的,除了抑制其有丝****,还能减少细胞外基质（如蛋白多糖）的合 成。 肝素有抗炎症、抗过敏、抗增生及促进组织水合的作用,并能使胶原结构变疏松。 尿囊素能促进伤口愈合,具有促进上皮形成、增加组织水合能力的作用。本品的三种活性成份 互相协同,能更好地抑制纤维母细胞增生,尤其是减少病理性的胶原过度增生。根据目前的资料 ,未发现致突变、致畸和致癌的作用。",
+    "full_precautions": "请将药物储存在儿童不易接触到的地方。请仔细阅读说明书并遵医嘱使用。"
+  },
+  "pinyin": "fufanggansunaniaonangsu",
+  "pinyin_initials": "ffgsnnns",
+  "dosage_form_pinyin": "ningjiao",
+  "dosage_form_initials": "nj",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2963",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 828,
+  "name": "溴吡斯的明片",
+  "dosage_form": "片",
+  "full_name": "(甲)溴吡斯的明片[国基、上增]",
+  "chemical_name": "溴吡斯的明片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "上海上药睿尔药品"
+  ],
+  "specifications": [
+    {
+      "specification": "60mg/片",
+      "manufacturer": "上海上药睿尔药品",
+      "full_manufacturer": "上海上药睿尔药品有限公司(委托生产企业：上海上药中西制药有限公司)",
+      "price": 73.02,
+      "unit": "瓶",
+      "code": "Y00000014566",
+      "approval_number": "国药准字H31020867",
+      "insurance_code": "XN07AAX164A001010100748",
+      "location": "E-5",
+      "outpatient_location": "H-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "主要用于重症肌无力（罕见病）或手术后腹胀或尿潴留；还用于膀胱逼尿肌收缩无力。",
+    "dosage": "成人：初量60～120mg",
+    "contraindications": "症 禁用于: ⑴对本品或溴化物过敏者； ⑵心绞痛患者； ⑶支气管哮喘发作； ⑷机械性肠梗阻、尿路梗阻者。",
+    "adverse_reactions": "不良反应同新斯的明，但发生率较低。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "C\n \n",
+    "pharmacokinetics": "t1/2约1.9小时，Tmax约2小时，肾脏排泄。",
+    "precautions": "⑶下列患者慎用：术后肺不张或肺炎；",
+    "source": "湖南药事服务网",
+    "full_indications": "主要用于重症肌无力（罕见病）或手术后腹胀或尿潴留；还用于膀胱逼尿肌收缩无力。",
+    "full_dosage": "⑴治疗重症肌无力：①片剂或糖浆剂口服，成人初量60～120mg，每日3～4小时1次，全天最大剂量不超过480mg。用量按需调整，维持量一般每日60mg。小儿每日按体重7mg/kg或按体表面积200mg/m²。②缓释片口服，治疗严重的重症肌无力，成人一次180～540mg，一日1～2次，间隔不得短于6小时，小儿一般不用；由于缓释片的用量大，毒性危象的发生也较多。③肌肉或静脉注射，成人一次2mg，每2～3小时1次，按需延长间隔时间，小儿肌注按体重一次0.05～0.15mg/kg，每4～6小时1次。 ⑵膀胱逼尿肌收缩无力者：口服，一次60mg，一日3次。 ⑶用于拮抗非去极化肌松药：静脉注射，成人10～20mg，需要重复给药的机会不多，常与阿托品0.5～1.0mg同用；小儿用量未定。",
+    "full_contraindications": "症 禁用于: ⑴对本品或溴化物过敏者； ⑵心绞痛患者； ⑶支气管哮喘发作； ⑷机械性肠梗阻、尿路梗阻者。",
+    "full_adverse_reactions": "不良反应同新斯的明，但发生率较低。",
+    "full_interactions": "",
+    "full_pregnancy_category": "C\n \n",
+    "full_pharmacokinetics": "半衰期为1.9小时 达峰时间1～2小时，作用持续时间长，可达6～12小时 经肾由尿排泄",
+    "full_precautions": "⑴若漏服后不可服用双倍剂量。 ⑵中毒剂量会出现胆碱能危象，使用阿托品或东莨菪碱予以解除。 ⑶下列患者慎用：术后肺不张或肺炎；心律失常（尤其是房室传导阻滞）；孕妇。 用药交代 《中国重症肌无力诊断和治疗指南（2020版）》：妊娠期使用是安全有效的。 给药说明 ⑴注射给药限用于非去极化肌松药的拮抗。 ⑵起效比新斯的明快，持续时间则比后者长。 ⑶心动过缓、唾液多和胃肠道不良反应比新斯的明轻。 ⑷口服用的糖浆或缓释片一般仅供重症肌无力治疗用。"
+  },
+  "pinyin": "xiubisideming",
+  "pinyin_initials": "xbsdm",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=998",
+    "last_updated": "2026-03-21"
+  }
+}

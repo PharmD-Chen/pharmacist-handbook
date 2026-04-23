@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>上海市养志康复医院药品手册（2026版）</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* 头部样式 */
+        .header {
+            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            color: white;
+            padding: 15px 20px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .header h1 {
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .search-box {
+            display: flex;
+            gap: 10px;
+        }
+
+        .search-box input {
+            flex: 1;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            outline: none;
+        }
+
+        .search-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        /* 主内容区 */
+        .main-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            min-height: calc(100vh - 200px);
+        }
+
+        .drug-list {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .drug-item {
+            padding: 15px 20px;
+            border-bottom: 1px solid #eee;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .drug-item:hover {
+            background: #f8f9fa;
+        }
+
+        .drug-item:last-child {
+            border-bottom: none;
+        }
+
+        .drug-name {
+            font-size: 16px;
+            font-weight: 600;
+            color: #0E7490;
+            margin-bottom: 5px;
+        }
+
+        .drug-info {
+            font-size: 13px;
+            color: #666;
+        }
+
+        .drug-tags {
+            display: flex;
+            gap: 5px;
+            margin-top: 8px;
+            flex-wrap: wrap;
+        }
+
+        .tag {
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+        }
+
+        .tag-insurance {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+
+        .tag-basic {
+            background: #dcfce7;
+            color: #166534;
+        }
+
+        .tag-form {
+            background: #f3f4f6;
+            color: #374151;
+        }
+
+        /* 药品详情模态框 */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 200;
+            overflow-y: auto;
+        }
+
+        .modal.active {
+            display: block;
+        }
+
+        .modal-content {
+            background: white;
+            max-width: 800px;
+            margin: 50px auto;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+        }
+
+        .modal-header {
+            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            color: white;
+            padding: 20px;
+            position: relative;
+        }
+
+        .modal-header h2 {
+            font-size: 20px;
+            margin-bottom: 5px;
+        }
+
+        .modal-header .subtitle {
+            opacity: 0.9;
+            font-size: 14px;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal-body {
+            padding: 20px;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .section-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #0E7490;
+            margin-bottom: 10px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #e5e7eb;
+        }
+
+        .section-content {
+            font-size: 14px;
+            line-height: 1.8;
+            color: #374151;
+        }
+
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .info-item {
+            background: #f9fafb;
+            padding: 12px;
+            border-radius: 8px;
+        }
+
+        .info-label {
+            font-size: 12px;
+            color: #6b7280;
+            margin-bottom: 4px;
+        }
+
+        .info-value {
+            font-size: 14px;
+            color: #111827;
+            font-weight: 500;
+        }
+
+        .loading, .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #6b7280;
+        }
+
+        /* 页脚 */
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: #9ca3af;
+            font-size: 12px;
+            border-top: 1px solid #e5e7eb;
+            margin-top: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .main-content {
+                padding: 10px;
+            }
+
+            .modal-content {
+                margin: 0;
+                border-radius: 0;
+                min-height: 100vh;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 头部 -->
+    <header class="header">
+        <div class="header-top">
+            <h1>上海市养志康复医院药品手册（2026版）</h1>
+        </div>
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="搜索药品名称、拼音首字母...">
+            <button class="search-btn" onclick="searchDrugs()">搜索</button>
+        </div>
+    </header>
+
+    <!-- 主内容 -->
+    <main class="main-content">
+        <div id="drugList" class="drug-list">
+            <div class="loading">正在加载药品数据...</div>
+        </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        数据更新于 2026年1月1日 | 上海市养志康复医院
+    </footer>
+
+    <!-- 药品详情模态框 -->
+    <div id="drugModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalDrugName"></h2>
+                <p id="modalDrugSubtitle" class="subtitle"></p>
+                <button class="close-btn" onclick="closeModal()">×</button>
+            </div>
+            <div class="modal-body" id="modalBody"></div>
+        </div>
+    </div>
+
+    <!-- 药品数据 -->
+    <script src="data/drugs/drugs.js"></script>
+    
+    <script>
+        // 初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            loadDrugs();
+        });
+
+        // 加载药品数据
+        function loadDrugs() {
+            if (typeof drugIndex !== 'undefined' && drugIndex.length > 0) {
+                displayDrugs(drugIndex);
+            } else {
+                document.getElementById('drugList').innerHTML = 
+                    '<div class="no-results">数据加载中，请稍候...</div>';
+                
+                setTimeout(() => {
+                    if (typeof drugIndex !== 'undefined' && drugIndex.length > 0) {
+                        displayDrugs(drugIndex);
+                    } else {
+                        document.getElementById('drugList').innerHTML = 
+                            '<div class="no-results">无法加载药品数据<br>请确保 data/drugs/drugs.js 文件存在</div>';
+                    }
+                }, 1000);
+            }
+        }
+
+        // 显示药品列表
+        function displayDrugs(drugs) {
+            const container = document.getElementById('drugList');
+            
+            if (!drugs || drugs.length === 0) {
+                container.innerHTML = '<div class="no-results">未找到相关药品</div>';
+                return;
+            }
+
+            const html = drugs.map(drug => {
+                const tags = [];
+                if (drug.types) {
+                    if (drug.types.includes('甲类') || drug.types.includes('乙类')) {
+                        tags.push('<span class="tag tag-insurance">医保</span>');
+                    }
+                    if (drug.types.includes('基药') || drug.types.includes('市基药')) {
+                        tags.push('<span class="tag tag-basic">基药</span>');
+                    }
+                }
+                if (drug.dosage_form) {
+                    tags.push(`<span class="tag tag-form">${drug.dosage_form}</span>`);
+                }
+
+                const spec = drug.specifications && drug.specifications[0] ? 
+                    `| ${drug.specifications[0].specification}` : '';
+
+                return `
+                    <div class="drug-item" onclick="showDrugDetail(${drug.id})">
+                        <div class="drug-name">${drug.name || '未知'}</div>
+                        <div class="drug-info">
+                            ${drug.full_name || ''} ${spec}
+                        </div>
+                        <div class="drug-tags">
+                            ${tags.join('')}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            container.innerHTML = html;
+        }
+
+        // 搜索药品
+        function searchDrugs() {
+            if (typeof drugIndex === 'undefined') {
+                alert('数据尚未加载完成，请稍候');
+                return;
+            }
+
+            const query = document.getElementById('searchInput').value.toLowerCase().trim();
+            
+            if (!query) {
+                displayDrugs(drugIndex);
+                return;
+            }
+
+            const filtered = drugIndex.filter(drug => {
+                const nameMatch = drug.name && drug.name.toLowerCase().includes(query);
+                const fullNameMatch = drug.full_name && drug.full_name.toLowerCase().includes(query);
+                const pinyinMatch = drug.pinyin && drug.pinyin.toLowerCase().includes(query);
+                const pinyinInitialsMatch = drug.pinyin_initials && drug.pinyin_initials.toLowerCase().includes(query);
+                
+                return nameMatch || fullNameMatch || pinyinMatch || pinyinInitialsMatch;
+            });
+
+            displayDrugs(filtered);
+        }
+
+        // 搜索框回车事件
+        document.getElementById('searchInput')?.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                searchDrugs();
+            }
+        });
+
+        // 显示药品详情
+        function showDrugDetail(drugId) {
+            if (typeof drugIndex === 'undefined') {
+                alert('数据尚未加载');
+                return;
+            }
+
+            const drug = drugIndex.find(d => d.id === drugId);
+            if (!drug) {
+                alert('未找到药品信息');
+                return;
+            }
+
+            document.getElementById('modalDrugName').textContent = drug.name || '未知';
+            document.getElementById('modalDrugSubtitle').textContent = 
+                `${drug.full_name || ''} ${drug.dosage_form ? '| ' + drug.dosage_form : ''}`;
+
+            const modalBody = document.getElementById('modalBody');
+            modalBody.innerHTML = generateDrugContent(drug);
+
+            document.getElementById('drugModal').classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        // 生成药品内容
+        function generateDrugContent(drug) {
+            const sections = [];
+            const manual = drug.manual || {};
+            const spec = drug.specifications && drug.specifications[0] ? drug.specifications[0] : {};
+
+            // 基本信息
+            sections.push(`
+                <div class="section">
+                    <div class="section-title">基本信息</div>
+                    <div class="info-grid">
+                        <div class="info-item">
+                            <div class="info-label">药品名称</div>
+                            <div class="info-value">${drug.name || '-'}</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="info-label">剂型</div>
+                            <div class="info-value">${drug.dosage_form || '-'}</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="info-label">规格</div>
+                            <div class="info-value">${spec.specification || '-'}</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="info-label">生产企业</div>
+                            <div class="info-value">${spec.full_manufacturer || (drug.manufacturers && drug.manufacturers[0]) || '-'}</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="info-label">批准文号</div>
+                            <div class="info-value">${spec.approval_number || '-'}</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="info-label">价格</div>
+                            <div class="info-value">${spec.price ? spec.price + ' 元/' + (spec.unit || '盒') : '-'}</div>
+                        </div>
+                    </div>
+                </div>
+            `);
+
+            // 适应症
+            if (manual.indications || manual.full_indications) {
+                sections.push(generateSection('适应症', manual.full_indications || manual.indications));
+            }
+
+            // 用法用量
+            if (manual.dosage || manual.full_dosage) {
+                sections.push(generateSection('用法用量', manual.full_dosage || manual.dosage));
+            }
+
+            // 禁忌症
+            if (manual.contraindications || manual.full_contraindications) {
+                sections.push(generateSection('禁忌症', manual.full_contraindications || manual.contraindications));
+            }
+
+            // 不良反应
+            if (manual.adverse_reactions || manual.full_adverse_reactions) {
+                sections.push(generateSection('不良反应', manual.full_adverse_reactions || manual.adverse_reactions));
+            }
+
+            // 注意事项
+            if (manual.precautions || manual.full_precautions) {
+                sections.push(generateSection('注意事项', manual.full_precautions || manual.precautions));
+            }
+
+            // 药物相互作用
+            if (manual.interactions || manual.full_interactions) {
+                sections.push(generateSection('药物相互作用', manual.full_interactions || manual.interactions));
+            }
+
+            // 药理作用（原药代动力学中错误归类的内容）
+            if (manual.pharmacodynamics || manual.full_pharmacodynamics) {
+                sections.push(generateSection('药理作用', manual.full_pharmacodynamics || manual.pharmacodynamics));
+            }
+
+            // 药代动力学（真正的PK参数）
+            if (manual.pharmacokinetics && !manual.pharmacokinetics.includes('暂无')) {
+                sections.push(generateSection('药代动力学', manual.pharmacokinetics));
+            }
+
+            return sections.join('');
+        }
+
+        // 生成章节HTML
+        function generateSection(title, content) {
+            if (!content) return '';
+            return `
+                <div class="section">
+                    <div class="section-title">${title}</div>
+                    <div class="section-content">${content}</div>
+                </div>
+            `;
+        }
+
+        // 关闭模态框
+        function closeModal() {
+            document.getElementById('drugModal').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        // 点击模态框外部关闭
+        document.getElementById('drugModal')?.addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
+
+        // ESC键关闭模态框
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,97 @@
+[
+  {
+    "name": "※▲琥珀酰明胶电解质醋酸钠",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>作为胶体血浆容量代用品，用于相对或绝对的低血容量及休克的治疗</strong>；<strong>与晶体溶液联合用药作为灌注液的成份参与体外循环的过程</strong>（如心肺机）。",
+      "dosage": "静脉给药。起始输注剂量平均为500-1000ml，严重失血患者可给予更高的剂量。<strong>初始的20ml液体应该缓慢输注</strong>。",
+      "contraindications": "对本品过敏者禁用。",
+      "adverse_reactions": "免疫系统、心脏器官、血管与淋巴管类、全身情况及给药部位各种反应等<strong>不良反应罕见或十分罕见</strong>；<strong>红细胞压积和血浆蛋白浓度降低十分常见</strong>。",
+      "interactions": "尚不明确。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "胶体血浆容量代用品，溶解在等渗电解质平衡型溶液中。",
+      "precautions": "2025版医保乙类，协议期谈判药品，<strong>限低血容量性休克或手术创伤、烧伤等引起的低血容量患者</strong>；协议期：2026.1.1-2027.12.31；医保支付标准：100.00元（500ml:20g/袋）。",
+      "solvent": "注射液直接使用，无需稀释",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "※注射用多种维生素",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>适用于接受肠外营养的成人和11岁及以上儿童维生素缺乏的预防</strong>。医生不必等到出现维生素缺乏症状之后才开始维生素治疗。",
+      "dosage": "单日剂量：<strong>将A瓶（5ml）与B瓶（5ml）直接加入至500ml至1000ml的葡萄糖注射液或氯化钠注射液中静脉滴注</strong>。多种维生素缺乏或对维生素需求量增加的患者，可能需要多个日剂量。",
+      "contraindications": "对本品过敏者禁用。",
+      "adverse_reactions": "皮肤：<strong>皮疹、红斑、瘙痒症</strong>；中枢神经系统：<strong>头痛、头晕、激越、焦虑</strong>；眼：<strong>复视</strong>。",
+      "interactions": "尚不明确。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "肠外营养维生素补充剂，含13种维生素。",
+      "precautions": "<strong>非医保</strong>；规格：A瓶:5ml;B瓶:5ml 或 A瓶:5ml;B瓶:1ml。",
+      "solvent": "用500-1000ml葡萄糖注射液或氯化钠注射液稀释后静脉滴注",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲ω-3甘油三酯中/长链脂肪乳/氨基酸/葡萄糖",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>当口服或肠内营养无法进行、不足或有禁忌时，为轻至中重度分解代谢的成人患者提供肠外营养治疗</strong>所需的能量、必需脂肪酸(包括ω-3和ω-6脂肪酸)、氨基酸、电解质和液体。",
+      "dosage": "静脉输注。适用于外周静脉或中心静脉输注。<strong>成人最大日输注剂量为40ml/kg体重</strong>；最大输注速度为2.5ml/kg体重/小时；<strong>新生儿、婴儿和2岁以下儿童禁用</strong>。",
+      "contraindications": "<strong>对蛋、大豆蛋白、花生蛋白或本品任一成份过敏者禁用</strong>；<strong>氨基酸代谢紊乱、严重高钾血症、高钠血症、严重凝血障碍、严重肝功能不全、酸中毒、肝内胆汁淤积者禁用</strong>。",
+      "adverse_reactions": "<strong>恶心、呕吐、食欲不振的发生率为1‰-1％</strong>，其他不良反应发生率均为罕见/非常罕见。",
+      "interactions": "<strong>胰岛素可能干扰脂肪酶系统</strong>；<strong>肝素可能导致脂蛋白酯酶短暂释放</strong>；<strong>大豆油含维生素K1，可能影响香豆素衍生物疗效</strong>；含钾溶液应慎用于使用保钾利尿剂、ACE抑制剂的患者。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "含ω-3甘油三酯(2%)、中/长链脂肪乳、氨基酸(16)、葡萄糖(36%)的全合一肠外营养液。",
+      "precautions": "<strong>血浆甘油三酯浓度超过3mmol/L时应减慢输注速度或停止输注</strong>；同一外周通路给药时治疗持续时间不应超过7天；2025版医保乙类，协议期谈判药品，限需经营养风险筛查、明确具有营养风险且不能经饮食或肠内营养补充足够营养的住院患者；协议期：2026.1.1-2027.12.31。",
+      "solvent": "注射液直接使用，无需稀释",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲维立西呱",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>适用于近期心力衰竭失代偿经静脉治疗后病情稳定的射血分数降低（射血分数<45%）的症状性慢性心力衰竭成人患者</strong>，以降低发生心力衰竭住院或需要急诊静脉利尿剂治疗的风险。",
+      "dosage": "口服。<strong>推荐起始剂量为一次2.5mg，一日1次，与食物一起服用</strong>。大约每2周将剂量加倍，以达到患者耐受的每天10mg的维持剂量。吞咽困难者可将片剂压碎与水混合服用。",
+      "contraindications": "<strong>同时使用其他可溶性鸟苷酸环化酶(sGC)刺激剂的患者禁用</strong>；<strong>孕妇禁用</strong>。",
+      "adverse_reactions": "最常见不良反应（≥5%）是<strong>低血压和贫血</strong>。",
+      "interactions": "<strong>禁用于同时使用其他sGC刺激剂</strong>（如利奥西呱、普拉西呱、奥拉西呱等）；<strong>不建议与PDE-5抑制剂同时使用</strong>。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "可溶性鸟苷酸环化酶（sGC）刺激剂，通过直接刺激sGC增加细胞内cGMP水平，导致平滑肌松弛和血管舒张。",
+      "precautions": "<strong>可能伤害胎儿，孕妇禁用</strong>；<strong>有生育能力的女性治疗期间和停药后1个月内必须使用有效避孕措施</strong>；<strong>哺乳期不推荐母乳喂养</strong>；2025版医保乙类，协议期谈判药品，限心力衰竭失代偿经静脉治疗后病情稳定的射血分数降低的症状性慢性心力衰竭成人患者；协议期：2025.1.1-2026.12.31。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲注射用艾普拉唑钠",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>预防重症患者应激性溃疡出血</strong>；<strong>消化性溃疡出血</strong>。",
+      "dosage": "静脉滴注。成人通常一日1次，每次10-20mg。",
+      "contraindications": "<strong>对艾普拉唑及其他苯并咪唑类化合物过敏者禁用</strong>；<strong>肝、肾功能不全者禁用</strong>。",
+      "adverse_reactions": "常见<strong>腹泻、头晕、头痛、ALT及AST升高</strong>；少见皮疹、荨麻疹、腰痛、腹胀、口干、口苦、胸闷、心悸、月经时间延长、肾功能异常、心电图异常、白细胞计数减少等。",
+      "interactions": "<strong>抑制胃酸分泌，可影响依赖胃内pH值吸收的药物</strong>（如酮康唑、伊曲康唑等）；<strong>CYP3A4弱抑制剂，可使咪达唑仑血浆浓度升高31%-41%</strong>。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "质子泵抑制剂（PPI），不可逆抑制H+、K+-ATP酶。口服后选择性地进入胃壁细胞，连续口服4天以上可达稳态。",
+      "precautions": "<strong>不能咀嚼或压碎，应整片吞服</strong>；<strong>不宜长期大剂量服用</strong>；<strong>使用前应排除胃与食管恶性病变</strong>；<strong>妊娠及哺乳期妇女不建议服用</strong>；老年患者应慎用；注意艰难梭菌相关性腹泻、骨折风险、低镁血症风险；2025版医保乙类，限口服常释剂型并限有十二指肠溃疡、反流性食管炎诊断患者的二线用药；注射剂为协议期谈判药品；协议期：2026.1.1-2027.12.31。",
+      "solvent": "用0.9%氯化钠注射液或5%葡萄糖注射液溶解后静脉滴注",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲注射用全氟丁烷微球",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>适用于肝脏肿块病变的超声显影</strong>。",
+      "dosage": "静脉注射。具体剂量遵医嘱，通常单次给药。",
+      "contraindications": "<strong>本品任何成分有过敏史的患者禁用</strong>。",
+      "adverse_reactions": "常见<strong>头痛、腹泻</strong>；不常见<strong>呕吐、腹痛、注射部位疼痛、味觉障碍、头晕、皮疹、瘙痒</strong>；罕见<strong>血小板计数降低、中性粒细胞减少症、血压升高、面部潮红、发热</strong>；有<strong>类过敏反应休克、过敏反应、超敏反应</strong>病例报告。",
+      "interactions": "体外研究显示<strong>对最常用的抗血栓药物无影响</strong>。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "超声造影剂，常温常压下为无色、无毒、不燃性气体。造影效果包括给药后即刻的血管相和给药后约10分钟的Kupffer相。",
+      "precautions": "<strong>应始终考虑发生超敏反应的可能性，准备好抢救设备</strong>；<strong>含鸡蛋来源表面活性剂，蛋类过敏者慎用</strong>；<strong>右向左分流型心脏病或肺内分流患者慎用</strong>；<strong>心脏状况不稳定或严重冠状动脉疾病患者应密切观察</strong>；<strong>使用当天应避免消化系统检查</strong>；<strong>给药后立即用少量等渗氯化钠溶液冲洗管路</strong>；2025版医保乙类，协议期谈判药品，限肝脏局灶性病变血管相和Kupffer相的超声成像；协议期：2026.1.1-2027.12.31。",
+      "solvent": "用注射用水复溶后立即使用",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

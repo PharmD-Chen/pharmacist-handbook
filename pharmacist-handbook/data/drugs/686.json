@@ -1,0 +1,57 @@
+{
+  "id": 686,
+  "name": "养血安神片",
+  "dosage_form": "片",
+  "full_name": "(甲)养血安神片[市基]",
+  "chemical_name": "养血安神片",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "洛阳伊龙药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.25g/片",
+      "manufacturer": "洛阳伊龙药业",
+      "full_manufacturer": "洛阳伊龙药业有限公司",
+      "price": 29.24,
+      "unit": "盒",
+      "code": "C00044",
+      "approval_number": "国药准字Z41020210",
+      "insurance_code": "ZA10BAY0113010303019",
+      "location": "K-4",
+      "outpatient_location": "K-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于阴虚血少所致的头眩心悸、失眠健忘、多梦易醒、面色少华、神疲乏力；神经衰弱、贫血见上述证候者。",
+    "full_indications": "用于阴虚血少所致的头眩心悸、失眠健忘、多梦易醒、面色少华、神疲乏力；神经衰弱、贫血见上述证候者。",
+    "dosage": "口服：一次5片，一日3次。宜饭前服用，疗程根据病情而定。",
+    "full_dosage": "口服：一次5片，一日3次。宜饭前服用，疗程根据病情而定。",
+    "contraindications": "对本品过敏者禁用；感冒发热病人不宜服用；痰火扰心、瘀血闭阻所致的失眠慎用。",
+    "full_contraindications": "对本品过敏者禁用；感冒发热病人不宜服用；痰火扰心、瘀血闭阻所致的失眠慎用。",
+    "adverse_reactions": "偶见胃肠道不适、恶心、腹胀、腹泻等轻微反应；偶见皮疹、瘙痒等过敏反应。",
+    "full_adverse_reactions": "偶见胃肠道不适、恶心、腹胀、腹泻等轻微反应；偶见皮疹、瘙痒等过敏反应。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。不宜与含藜芦的药物同用。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。不宜与含藜芦的药物同用。",
+    "pregnancy_category": "慎用",
+    "pharmacokinetics": "本品主要成分为仙鹤草、墨旱莲、鸡血藤、熟地黄、地黄、合欢皮、首乌藤等，具有滋阴养血、宁心安神的作用。",
+    "full_pharmacokinetics": "本品主要成分为仙鹤草、墨旱莲、鸡血藤、熟地黄、地黄、合欢皮、首乌藤等，具有滋阴养血、宁心安神的作用。",
+    "precautions": "忌烟、酒及辛辣、油腻食物；保持情绪乐观，切忌生气恼怒；有高血压、心脏病、肝病、糖尿病、肾病等慢性病严重者在医师指导下服用；服药7天症状无缓解，去医院就诊。",
+    "full_precautions": "忌烟、酒及辛辣、油腻食物；保持情绪乐观，切忌生气恼怒；有高血压、心脏病、肝病、糖尿病、肾病等慢性病严重者应在医师指导下服用；服药7天症状无缓解，应去医院就诊。",
+    "source": "湖南药事服务网",
+    "url_added": true,
+    "composition": "阿胶、党参、红参、山楂、熟地黄。"
+  },
+  "pinyin": "yangxueanshen",
+  "pinyin_initials": "yxas",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=6435",
+    "last_updated": "2026-03-20"
+  }
+}

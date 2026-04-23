@@ -1,0 +1,55 @@
+{
+  "id": 559,
+  "name": "盐酸哌甲酯缓释片",
+  "dosage_form": "缓释片",
+  "full_name": "(甲)盐酸哌甲酯缓释片",
+  "chemical_name": "盐酸哌甲酯缓释片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "Janssen Pharmaceuticals,Inc."
+  ],
+  "specifications": [
+    {
+      "specification": "18mg/片",
+      "manufacturer": "Janssen Pharmaceuticals,Inc.",
+      "full_manufacturer": "Janssen Pharmaceuticals,Inc.（Janssen-Cilag Manufacturing,LLC）(进口分包:西安杨森制药有限公司)",
+      "price": 284.32,
+      "unit": "盒",
+      "code": "Y00000014930",
+      "approval_number": "国药准字J20171049",
+      "insurance_code": "XN06BAP010A010020182023",
+      "location": "麻精",
+      "outpatient_location": "精麻"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "①治疗子宫内膜异位症；②子宫肌瘤；③前列腺癌；④治疗妇女不育症；⑤性早熟；⑥也可用于辅助生育技术。",
+    "dosage": "体外授精术（IVF）：每天一次皮下注射0.5mg，7至10天；然后每天一次皮下注射0.1mg。",
+    "contraindications": "症 妊娠。对本品及其他GnRH类似物过敏者。",
+    "adverse_reactions": "⑴用药初期会使原有的症状加重。 ⑵卵巢不应期主要出现雌激素低下症状，轰热、出汗、外阴阴道萎缩引起的阴道干燥、性欲减退和性交困难。 ⑶治疗超过6个月会造成骨量丢失。少数妇女出现头痛、虚弱、情绪变化等症状。 ⑷极个别出现发痒、皮疹、高热、过敏症。",
+    "interactions": "不能与升高泌乳素浓度的药物同时使用，因可降低垂体中的GnRH受体水平。 药物过量 如果发生药物过量，应给予对症治疗。 给药说明 本药有多种不同商品名的控释注射剂，其含量和控释材料、所用的注射稀释液成分和用量各不相同，可按说明书制备和应用。",
+    "pregnancy_category": "X\n \n",
+    "pharmacokinetics": null,
+    "precautions": "⑴如因雌激素低下引起的症状难以坚持治疗时，可补充少量雌激素（反向添加疗法）缓解症状。 ⑵孕期用药可引起流产，用药前应除外妊娠。 药物相互作用 不能与升高泌乳素浓度的药物同时使用，因可降低垂体中的GnRH受体水平。 药物过量 如果发生药物过量，应给予对症治疗。 给药说明 本药有多种不同商品名的控释注射剂，其含量和控释材料、所用的注射稀释液成分和用量各不相同，可",
+    "source": "湖南药事服务网",
+    "full_indications": "①治疗子宫内膜异位症；②子宫肌瘤；③前列腺癌；④治疗妇女不育症；⑤性早熟；⑥也可用于辅助生育技术。",
+    "full_pharmacokinetics": "",
+    "full_dosage": "肌内注射： ①治疗前列腺癌作为去势治疗，臀部肌肉注射，一次3.75mg，每4周1次； ②用于治疗子宫内膜异位症或子宫肌瘤，臀部肌肉注射，一次3.75mg，每28天注射一次，连续使用12～24周； ③用于促排卵，常用剂量为每天一次皮下注射0.5mg，连续七天；然后每天一次皮下注射0.1mg，作为维持剂量。体外授精术（IVF）：每天一次皮下注射0.5mg，7至10天；然后每天一次皮下注射0.1mg。",
+    "full_contraindications": "症 妊娠。对本品及其他GnRH类似物过敏者。",
+    "full_adverse_reactions": "⑴用药初期会使原有的症状加重。 ⑵卵巢不应期主要出现雌激素低下症状，轰热、出汗、外阴阴道萎缩引起的阴道干燥、性欲减退和性交困难。 ⑶治疗超过6个月会造成骨量丢失。少数妇女出现头痛、虚弱、情绪变化等症状。 ⑷极个别出现发痒、皮疹、高热、过敏症。",
+    "full_interactions": "不能与升高泌乳素浓度的药物同时使用，因可降低垂体中的GnRH受体水平。 药物过量 如果发生药物过量，应给予对症治疗。 给药说明 本药有多种不同商品名的控释注射剂，其含量和控释材料、所用的注射稀释液成分和用量各不相同，可按说明书制备和应用。",
+    "full_precautions": "⑴如因雌激素低下引起的症状难以坚持治疗时，可补充少量雌激素（反向添加疗法）缓解症状。 ⑵孕期用药可引起流产，用药前应除外妊娠。 药物相互作用 不能与升高泌乳素浓度的药物同时使用，因可降低垂体中的GnRH受体水平。 药物过量 如果发生药物过量，应给予对症治疗。 给药说明 本药有多种不同商品名的控释注射剂，其含量和控释材料、所用的注射稀释液成分和用量各不相同，可按说明书制备和应用。",
+    "full_pregnancy_category": "X\n \n"
+  },
+  "pinyin": "yansuanpaijiazhi",
+  "pinyin_initials": "yspjz",
+  "dosage_form_pinyin": "huanshipian",
+  "dosage_form_initials": "hsp",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1282",
+    "last_updated": "2026-03-21"
+  }
+}

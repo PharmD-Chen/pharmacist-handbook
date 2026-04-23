@@ -1,0 +1,57 @@
+{
+  "id": 667,
+  "name": "注射用奥美拉唑钠",
+  "dosage_form": "注射用",
+  "full_name": "(甲)注射用奥美拉唑钠[国基]",
+  "chemical_name": "注射用奥美拉唑钠",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "哈尔滨三联药业"
+  ],
+  "specifications": [
+    {
+      "specification": "40mg/瓶",
+      "manufacturer": "哈尔滨三联药业",
+      "full_manufacturer": "哈尔滨三联药业股份有限公司",
+      "price": 0.7,
+      "unit": "瓶",
+      "code": "X00739",
+      "approval_number": "国药准字H20057630",
+      "insurance_code": "XA02BCA211B001010203662",
+      "location": "B-4"
+    },
+    {
+      "specification": "40mg/瓶",
+      "manufacturer": "哈尔滨三联药业",
+      "full_manufacturer": "哈尔滨三联药业股份有限公司",
+      "price": 6.94,
+      "unit": "盒",
+      "code": "Y00000015026",
+      "approval_number": "国药准字H20057630",
+      "insurance_code": "XA02BCA211B001010103662",
+      "location": "B-4"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "zhusheyongaomeilazuona",
+  "pinyin_initials": "zsyamlzn",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=412"
+  }
+}

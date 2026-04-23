@@ -1,0 +1,51 @@
+{
+  "id": 12,
+  "name": "氢溴酸替格列汀片",
+  "dosage_form": "片",
+  "full_name": "(乙10%)氢溴酸替格列汀片",
+  "chemical_name": "氢溴酸替格列汀片",
+  "types": [],
+  "manufacturers": [
+    "四川科伦药业"
+  ],
+  "specifications": [
+    {
+      "specification": "20mg/片",
+      "manufacturer": "四川科伦药业",
+      "full_manufacturer": "四川科伦药业股份有限公司",
+      "price": 70.0,
+      "unit": "盒",
+      "code": "X00314",
+      "approval_number": "国药准字H20233578",
+      "insurance_code": "XA10BHT196A001010102180",
+      "location": "I-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于2型糖尿病患者。",
+    "dosage": "口服：成人推荐剂量一次20mg，一日1次，如果效果不佳，可提高剂量至一次40mg。",
+    "contraindications": "对本品过敏禁用。",
+    "adverse_reactions": "常见的不良反应为低血糖。偶见便秘、腹痛、恶心、皮肤瘙痒、湿疹、肠梗阻、肝功能受损、肾功能受损。",
+    "interactions": "与胰岛素或胰岛素促泌剂合用增加低血糖的发生率。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "蛋白结合率77.6%，肾脏排泄。",
+    "precautions": "⑴严重肝功能障碍的患者慎用。⑶哺乳期妇女应避免使用本品，不可避免时应停止哺乳。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于2型糖尿病患者。",
+    "full_dosage": "口服：成人推荐剂量一次20mg，一日1次，如果效果不佳，可提高剂量至一次40mg。",
+    "full_contraindications": "⑴对本品过敏者禁用。<br>⑵酮症酸中毒、高渗昏迷、严重感染、严重外伤、外科大手术患者禁用。",
+    "full_adverse_reactions": "常见的不良反应为低血糖。偶见便秘、腹痛、恶心、皮肤瘙痒、湿疹、肠梗阻、肝功能受损、肾功能受损。",
+    "full_interactions": "与胰岛素或胰岛素促泌剂合用增加低血糖的发生率。",
+    "full_pharmacokinetics": "⑴药效学：替格列汀是一种二肽基肽酶（DPP-4）抑制剂。通过抑制DPP-4，从而减少GLP-1的分解，通过增加活性GLP-1的血浆浓度，从而发挥控制血糖的作用。<br>⑵药动学：本品口服吸收良好。①吸收：健康成人口服本品20mg和40mg后，分别在1.8h和1.0h后可达Cmax，血药浓度呈现一个快速分布相和一个缓慢的消除相。口服20mg/d，达稳态后，AUC0-∞为2641.4（ng▪h）/ml，Cmax为220.14ng/ml，在治疗剂量，药动学与剂量呈正比，健康成人分别在空腹时、餐后单次口服本品20mg，餐后服药的Cmax与空腹时相比会下降20%，Tmax从1.1h延长至2.6h，AUC不受进食影响。②分布：蛋白结合率为77.6%-82.2%。③代谢：本品主要经CYP3A4，黄素单加氧酶（FMO1及FMO3）代谢，其代谢产物M1~M3在稳态下的AUC0-24h分别是原药的71.1%、14.7%、1.3%、1.3%、0.3%及1.1%，同时本品对CYP2D6、CYP3A4及FMO具有弱抑制作用。④消除：本品的消除t1/2为24.2h（20mg）和20.8（40mg），肾清除率为37（ml•kg）/h（20mg）和39（ml•kg）/h（40mg）。空腹单次口服20mg或40mg，72h后，尿液中原药的排泄率为21.0%-22.1%。",
+    "full_precautions": "⑴严重肝功能障碍的患者慎用。<br>⑵尚未确立怀孕期间使用本品的安全性，因此孕妇或有备孕的妇女权衡利弊才可应用。<br>⑶哺乳期妇女应避免使用本品，不可避免时应停止哺乳。<br>⑷尚无体重低下新生儿、新生儿、婴儿、幼儿或儿童用药的安全性数据可供参考。"
+  },
+  "pinyin": "qingxiusuantigelieting",
+  "pinyin_initials": "qxstglt",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13329",
+    "last_updated": "2026-03-22"
+  }
+}

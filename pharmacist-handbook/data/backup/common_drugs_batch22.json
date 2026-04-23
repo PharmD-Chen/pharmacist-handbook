@@ -1,0 +1,18 @@
+[
+  {
+    "name": "※▲妥布霉素吸入溶液",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "<strong>成人伴肺部铜绿假单胞菌感染的支气管扩张症</strong>，以控制感染及改善症状。",
+      "dosage": "吸入。300mg（5ml），每日2次，使用28天，然后停药28天，循环使用。",
+      "contraindications": "对妥布霉素或其他氨基糖苷类抗生素过敏者禁用；<strong>妊娠禁用</strong>。",
+      "adverse_reactions": "<strong>支气管痉挛</strong>、咳嗽、声嘶、味觉异常；<strong>耳毒性</strong>（听力下降）、<strong>肾毒性</strong>。",
+      "interactions": "与<strong>其他氨基糖苷类</strong>合用增加耳肾毒性；与<strong>利尿剂</strong>合用增加耳毒性；与<strong>头孢菌素</strong>合用增加肾毒性。",
+      "pregnancy_category": "D级",
+      "pharmacokinetics": "吸入给药肺组织浓度高，全身吸收少。半衰期1.9-2.2小时，主要经肾排泄。",
+      "precautions": "<strong>监测听力和肾功能</strong>；支气管痉挛患者慎用；使用前给予支气管扩张剂；<strong>妊娠禁用</strong>；哺乳期慎用；2025版医保乙类，限成人伴肺部铜绿假单胞菌感染的支气管扩张症。",
+      "solvent": "专用吸入装置，无需稀释",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

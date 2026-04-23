@@ -1,0 +1,242 @@
+[
+  {
+    "name": "注射用盐酸去甲万古霉素",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【耳毒性和肾毒性警告】</strong>本品可引起<strong>耳毒性和肾毒性</strong>，特别是<strong>长期或大剂量使用、与其他耳毒性或肾毒性药物合用、肾功能不全患者</strong>。需监测血药浓度、听力和肾功能。",
+      "indications": "用于<strong>葡萄球菌（包括甲氧西林耐药菌株）所致的心内膜炎、骨髓炎、肺炎、败血症或软组织感染</strong>；用于<strong>对青霉素过敏者的肠球菌心内膜炎</strong>；口服用于<strong>假膜性肠炎</strong>。",
+      "dosage": "静脉滴注。<strong>成人一日量0.8～1.6g，1次或分次给予</strong>；<strong>小儿一日量为16～24mg/kg，分2次给予</strong>；<strong>口服（假膜性肠炎）：成人一次0.4g，每6小时1次，每日量不超过4.0g</strong>；<strong>静脉滴注时间不少于60分钟</strong>。",
+      "contraindications": "对本品过敏者禁用；对万古霉素过敏者禁用；严重听力损害患者禁用；严重肾功能不全患者慎用。",
+      "adverse_reactions": "常见<strong>耳毒性（听力下降、耳鸣）、肾毒性（血肌酐升高、蛋白尿）</strong>；可见<strong>皮疹、瘙痒、红人综合征（面部、颈部、躯干上部潮红）</strong>；罕见<strong>过敏反应、血小板减少</strong>；静脉滴注过快可引起低血压、心动过速。",
+      "interactions": "与氨基糖苷类合用增加耳毒性和肾毒性；与利尿剂合用增加肾毒性；与神经肌肉阻滞剂合用可能增强阻滞作用；与华法林合用可能增强抗凝作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为糖肽类抗生素，抑制细菌细胞壁合成；静脉给药后分布广泛，可透过炎症脑膜；主要经肾脏排泄，半衰期约6-8小时；口服不吸收，仅在肠道发挥作用。",
+      "precautions": "用药前需做皮试；治疗期间监测血药浓度（谷浓度10-20μg/ml）；定期监测听力和肾功能；静脉滴注速度不宜过快；2025版医保乙类，限注射剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用盐酸瑞芬太尼",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【呼吸抑制和成瘾性警告】</strong>本品为<strong>麻醉药品</strong>，可引起<strong>严重呼吸抑制</strong>，必须在具备复苏设备和人员的条件下使用。长期使用可产生<strong>躯体依赖和精神依赖</strong>。",
+      "indications": "用于<strong>全麻诱导和全麻中维持镇痛</strong>；用于<strong>麻醉中的镇痛</strong>；起效快、作用时间短，适用于需要快速调整镇痛深度的手术。",
+      "dosage": "静脉注射或静脉滴注。<strong>诱导剂量：0.5-1μg/kg</strong>；<strong>维持剂量：0.05-2μg/kg/min持续输注</strong>；<strong>根据镇痛需要调整输注速度</strong>；<strong>手术结束前逐渐减量</strong>。",
+      "contraindications": "对本品过敏者禁用；对芬太尼类药物过敏者禁用；重症肌无力患者禁用；严重呼吸功能不全患者禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>呼吸抑制、恶心、呕吐、肌肉强直</strong>；可见<strong>心动过缓、低血压、胸壁强直</strong>；罕见<strong>过敏反应、惊厥</strong>；长期使用可产生耐受性和依赖性。",
+      "interactions": "与其他中枢抑制剂合用增强呼吸抑制作用；与肌松药合用可能增强肌松作用；与苯二氮䓬类合用增加呼吸抑制风险；与MAO抑制剂合用可能增强药效。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为μ受体激动药，是芬太尼族中的最新成员，效价与芬太尼相似；起效迅速，达峰时间约1分钟；作用持续时间短，约5-10分钟；经血液和组织中的非特异性酯酶代谢，不依赖肝肾功能。",
+      "precautions": "必须在具备复苏设备的条件下使用；用药期间持续监测呼吸和循环功能；停药后镇痛作用迅速消失，需及时给予替代镇痛药；本品为麻醉药品，需严格管理；2025版医保甲类，限注射剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "富马酸替诺福韦二吡呋酯",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "<strong>【乳酸性酸中毒和肝肿大警告】</strong>本品可引起<strong>乳酸性酸中毒和严重肝肿大伴脂肪变性</strong>，特别是<strong>长期使用的患者</strong>。出现相关症状应立即停药并就医。",
+      "indications": "用于<strong>成人和12岁及以上儿童慢性乙型肝炎的治疗</strong>；用于<strong>与其他抗逆转录病毒药物联合治疗HIV-1感染</strong>；具有<strong>强效抗病毒作用，耐药屏障高</strong>。",
+      "dosage": "口服。<strong>慢性乙型肝炎：一次300mg，一日1次</strong>；<strong>HIV-1感染：一次300mg，一日1次，与其他抗逆转录病毒药物联合使用</strong>；<strong>随餐或空腹服用均可</strong>。",
+      "contraindications": "对本品过敏者禁用；对替诺福韦过敏者禁用；严重肾功能不全患者禁用。",
+      "adverse_reactions": "常见<strong>恶心、腹泻、头痛、乏力</strong>；可见<strong>肾功能损害、骨密度降低、乳酸性酸中毒</strong>；罕见<strong>肝肿大伴脂肪变性、免疫重建炎症综合征</strong>；长期使用需监测肾功能和骨密度。",
+      "interactions": "与肾毒性药物合用增加肾毒性风险；与去羟肌苷合用可能增加不良反应；与洛匹那韦/利托那韦合用可能增加替诺福韦血药浓度；与阿扎那韦合用需间隔时间服用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为核苷酸类逆转录酶抑制剂，抑制HBV和HIV逆转录酶；口服后生物利用度约25%；经肾脏排泄，半衰期约17小时；不经肝脏CYP450代谢。",
+      "precautions": "治疗期间定期监测肾功能和血磷；HIV感染者不可单独使用；停药后可能出现肝炎急性加重；与HIV合并感染者需同时接受抗HIV治疗；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "纳武利尤单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "<strong>【免疫相关不良反应警告】</strong>本品可引起<strong>严重免疫相关不良反应</strong>，包括<strong>免疫性肺炎、结肠炎、肝炎、内分泌病、肾炎、脑炎</strong>等。出现相关症状需及时使用糖皮质激素治疗。",
+      "indications": "用于<strong>不可切除或转移性黑色素瘤</strong>；用于<strong>转移性非小细胞肺癌（二线治疗）</strong>；用于<strong>晚期肾细胞癌</strong>；用于<strong>复发或难治性经典霍奇金淋巴瘤</strong>；用于<strong>复发或转移性头颈部鳞状细胞癌</strong>；用于<strong>尿路上皮癌、肝细胞癌、食管癌、胃癌</strong>等多种肿瘤。",
+      "dosage": "静脉滴注。<strong>推荐剂量：一次240mg，每2周1次</strong>；或<strong>一次480mg，每4周1次</strong>；<strong>滴注时间不少于30分钟</strong>；<strong>直至疾病进展或出现不可耐受的毒性</strong>。",
+      "contraindications": "对本品过敏者禁用；活动性自身免疫病患者禁用；妊娠期妇女禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>疲劳、皮疹、瘙痒、腹泻、恶心</strong>；可见<strong>免疫性肺炎、结肠炎、肝炎、甲状腺功能异常、垂体炎</strong>；严重不良反应包括<strong>免疫性心肌炎、神经毒性、严重皮肤反应</strong>。",
+      "interactions": "与免疫抑制剂合用可能降低药效；与糖皮质激素合用可能影响疗效；与其他免疫治疗药物合用需谨慎；与化疗药物合用需遵医嘱。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为PD-1抑制剂，阻断PD-1与PD-L1/PD-L2的相互作用，恢复T细胞抗肿瘤活性；静脉给药后分布广泛；清除半衰期约25天；主要经网状内皮系统清除。",
+      "precautions": "治疗前需评估患者自身免疫状况；治疗期间密切监测免疫相关不良反应；出现2级以上免疫相关不良反应需暂停用药并使用糖皮质激素；治疗期间避免使用活疫苗；本品为自费药品。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "戊酸雌二醇",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "<strong>【心血管事件和肿瘤风险警告】</strong>雌激素单独使用或与孕激素合用可能增加<strong>卒中、深静脉血栓、肺栓塞、乳腺癌、子宫内膜癌</strong>风险。需权衡利弊使用。",
+      "indications": "用于<strong>补充雌激素不足</strong>，如<strong>女性性腺功能不足、双侧卵巢切除术后、萎缩性阴道炎、外阴干燥</strong>；用于<strong>更年期综合征</strong>，如潮热、出汗、精神神经症状；用于<strong>预防绝经后骨质疏松</strong>；用于<strong>闭经、月经紊乱</strong>等。",
+      "dosage": "口服。<strong>单独用药：一日1次，一次1～2mg</strong>；<strong>序贯疗法：在单独用药基础上，后10-14天加用孕激素</strong>；<strong>根据病情调整剂量</strong>；<strong>连续或周期性服用</strong>。",
+      "contraindications": "对本品过敏者禁用；已知或怀疑乳腺癌患者禁用；已知或怀疑雌激素依赖性肿瘤患者禁用；未确诊的异常阴道出血患者禁用；活动性血栓栓塞性疾病患者禁用；严重肝病患者禁用；妊娠期妇女禁用。",
+      "adverse_reactions": "常见<strong>恶心、乳房胀痛、头痛、体重变化</strong>；可见<strong>突破性出血、月经改变、情绪波动</strong>；长期使用可能增加<strong>血栓栓塞、乳腺癌、子宫内膜癌、胆囊疾病</strong>风险；罕见<strong>肝功能异常、皮疹</strong>。",
+      "interactions": "与肝酶诱导剂合用可能降低雌激素疗效；与华法林合用可能减弱抗凝效果；与糖皮质激素合用可能增强糖皮质激素作用；与甲状腺激素合用可能增加甲状腺激素需求。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为天然雌激素，药理作用与雌二醇相似；口服后吸收良好，经肝脏代谢；主要经肾脏排泄；可促进女性生殖器官发育和维持第二性征。",
+      "precautions": "有子宫妇女必须加用孕激素；治疗前需排除恶性肿瘤；定期监测乳腺和子宫内膜；有血栓病史者慎用；用药期间戒烟；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "硫酸阿托品眼用",
+    "dosage_form": "凝胶",
+    "manual": {
+      "black_box_warning": "<strong>【青光眼和全身吸收警告】</strong>本品可<strong>升高眼压</strong>，青光眼患者禁用；滴眼后需<strong>压迫泪囊2-3分钟</strong>，减少全身吸收，避免全身不良反应。",
+      "indications": "用于<strong>散瞳检查眼底</strong>；用于<strong>虹膜睫状体炎的散瞳、防止虹膜后粘连</strong>；用于<strong>验光配镜前的散瞳</strong>；用于<strong>治疗角膜炎、角膜溃疡时的散瞳</strong>；用于<strong>白内障手术前后</strong>。",
+      "dosage": "眼部给药。<strong>滴入结膜囊内，一次1滴，一日1-3次</strong>；<strong>散瞳检查：一次1滴，必要时5-10分钟后再用一次</strong>；<strong>滴药后压迫泪囊2-3分钟</strong>；<strong>根据病情调整用药次数</strong>。",
+      "contraindications": "对本品过敏者禁用；青光眼患者禁用；青光眼倾向患者禁用；前房角狭窄患者禁用。",
+      "adverse_reactions": "常见<strong>暂时性眼部烧灼感、刺痛、视力模糊</strong>；可见<strong>畏光、口干、面部潮红、心动过速</strong>（全身吸收）；罕见<strong>过敏反应、眼压升高</strong>；儿童可能出现<strong>中枢神经系统症状</strong>。",
+      "interactions": "与抗胆碱酯酶药合用可能相互拮抗；与抗组胺药合用可能增强抗胆碱作用；与三环类抗抑郁药合用可能增强抗胆碱作用；与β受体阻滞剂合用可能增加心动过缓风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为M胆碱受体阻断药，散瞳和睫状肌麻痹作用强而持久；眼用给药后约30-40分钟开始散瞳，1-3小时达最大散瞳效果，持续7-10天；可经鼻泪管全身吸收。",
+      "precautions": "滴眼后必须压迫泪囊2-3分钟；儿童用药需减量；老年人慎用；驾驶或操作机械者用药期间需注意；用药期间避免强光刺激；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "胰激肽原酶",
+    "dosage_form": "肠溶片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>微循环障碍性疾病</strong>，如<strong>糖尿病引起的肾病、视网膜病变、周围神经病、脑血管病</strong>；用于<strong>高血压病的辅助治疗</strong>；用于<strong>预防脑梗死复发</strong>；具有<strong>扩张血管、改善微循环、降低血液黏稠度</strong>的作用。",
+      "dosage": "口服。<strong>一次120-240单位，一日3次</strong>；<strong>空腹服用（饭前）</strong>；<strong>疗程一般为4-8周</strong>；<strong>根据病情调整剂量</strong>。",
+      "contraindications": "对本品过敏者禁用；脑出血及其他出血性疾病的急性期禁用；恶性肿瘤患者禁用；活动性消化性溃疡患者禁用；严重高血压未控制患者禁用。",
+      "adverse_reactions": "偶见<strong>头晕、乏力、胃部不适</strong>；罕见<strong>皮疹、瘙痒</strong>；个别患者可能出现<strong>面部潮红、心悸</strong>；长期服用需监测凝血功能。",
+      "interactions": "与抗凝药物合用可能增加出血风险；与抗血小板药物合用需谨慎；与降压药合用可能增强降压作用；与胰岛素合用可能增强降糖作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为蛋白水解酶，可激肽原转化为激肽，扩张血管、改善微循环；口服后在小肠吸收；经肝脏代谢；主要经肾脏排泄。",
+      "precautions": "用药期间定期监测血压和凝血功能；有出血倾向者慎用；手术前应停药；与抗凝药物合用需谨慎；2025版医保甲类，限肠溶片。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "三金",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>下焦湿热所致的热淋、小便短赤、淋沥涩痛</strong>；用于<strong>急慢性肾盂肾炎、膀胱炎、尿路感染</strong>见上述证候者；具有<strong>清热解毒、利湿通淋、益肾</strong>的作用。",
+      "dosage": "口服。<strong>一次3片，一日3-4次</strong>；<strong>饭后服用</strong>；<strong>疗程一般为2周</strong>；<strong>慢性患者可连服2-3个疗程</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇禁用；哺乳期妇女慎用；脾胃虚寒者慎用。",
+      "adverse_reactions": "偶见<strong>胃部不适、恶心、腹泻</strong>；罕见<strong>皮疹、瘙痒</strong>；个别患者可能出现<strong>头晕、乏力</strong>；长期服用需监测肝肾功能。",
+      "interactions": "不宜与滋补性中药同时服用；与抗生素合用可能增强抗菌效果；与利尿剂合用需注意电解质平衡；与含金属离子药物合用可能影响吸收。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "由金樱根、菝葜、羊开口、金沙藤、积雪草等中药组成；具有清热解毒、利湿通淋的作用；口服后在胃肠道吸收；主要经肾脏排泄。",
+      "precautions": "服药期间多饮水，促进排尿；忌食辛辣刺激性食物；孕妇禁用；用药期间定期复查尿常规；症状改善后需继续用药至疗程结束；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "阿兹夫定",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>治疗普通型新型冠状病毒肺炎（COVID-19）成年患者</strong>；用于<strong>与核苷逆转录酶抑制剂及非核苷逆转录酶抑制剂联用治疗高病毒载量的成年HIV-1感染患者</strong>。",
+      "dosage": "口服。<strong>新型冠状病毒肺炎：一次5mg，一日1次，疗程至多不超过14天</strong>；<strong>HIV-1感染：一次3mg，一日1次，与其他抗逆转录病毒药物联合使用</strong>；<strong>空腹服用</strong>。",
+      "contraindications": "对本品过敏者禁用；对核苷类似物过敏者禁用；妊娠期及哺乳期妇女禁用；中重度肝功能不全患者禁用；中重度肾功能不全患者禁用。",
+      "adverse_reactions": "常见<strong>头晕、恶心、呕吐、腹泻、肝功能异常</strong>；可见<strong>中性粒细胞计数降低、血小板计数降低、血糖升高</strong>；罕见<strong>过敏反应、头痛、失眠</strong>；长期使用需监测血常规和肝功能。",
+      "interactions": "与其他抗逆转录病毒药物合用需遵医嘱；与肾毒性药物合用需谨慎；与肝毒性药物合用需谨慎；与影响肝代谢的药物合用需注意。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为核苷类似物，抑制RNA病毒复制；口服后吸收良好；经肝脏代谢；主要经肾脏排泄；半衰期较长，可一日一次给药。",
+      "precautions": "治疗期间定期监测血常规、肝功能和肾功能；HIV感染者不可单独使用；出现肝功能异常需调整剂量或停药；本品为创新药，2023年上市；2025版医保乙类，协议期谈判药品。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用顺铂",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【肾毒性、耳毒性和骨髓抑制警告】</strong>本品可引起<strong>严重的肾毒性、耳毒性和骨髓抑制</strong>。使用前后需充分水化，监测肾功能、听力和血常规。累积剂量需严格控制。",
+      "indications": "用于<strong>多种实体瘤的治疗</strong>，如<strong>睾丸癌、卵巢癌、膀胱癌、头颈部鳞癌、肺癌、食管癌、胃癌</strong>；用于<strong>联合化疗方案</strong>；为<strong>广谱抗肿瘤药物</strong>。",
+      "dosage": "静脉滴注。<strong>单药治疗：一次20mg/m²，一日1次，连用5天，每3-4周重复</strong>；或<strong>一次50-120mg/m²，每3-4周1次</strong>；<strong>联合化疗：根据方案调整剂量</strong>；<strong>使用前需充分水化</strong>。",
+      "contraindications": "对本品过敏者禁用；严重肾功能不全患者禁用；严重骨髓抑制患者禁用；听力损害患者禁用；妊娠期及哺乳期妇女禁用；近期接种活疫苗者禁用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐（严重）、肾毒性、骨髓抑制（白细胞和血小板减少）</strong>；可见<strong>耳毒性（听力下降、耳鸣）、神经毒性（周围神经病变）</strong>；罕见<strong>过敏反应、低镁血症、低钙血症</strong>。",
+      "interactions": "与氨基糖苷类合用增加肾毒性和耳毒性；与利尿剂合用增加肾毒性；与骨髓抑制药物合用增加骨髓抑制；与苯妥英钠合用可能降低苯妥英钠血药浓度。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为铂类抗肿瘤药，与DNA结合形成交联，抑制DNA复制和转录；静脉给药后分布广泛；主要经肾脏排泄，半衰期长；可蓄积于组织。",
+      "precautions": "用药前后充分水化，保持尿量充足；定期监测肾功能、血常规和听力；累积剂量不超过800-1000mg/m²；避免与肾毒性药物合用；用药期间避免接种活疫苗；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用奥沙利铂",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【神经毒性警告】</strong>本品可引起<strong>剂量依赖性神经毒性</strong>，包括<strong>急性神经毒性和慢性累积性神经毒性</strong>。出现严重神经毒性需调整剂量或停药。",
+      "indications": "用于<strong>与5-氟尿嘧啶和亚叶酸联合治疗转移性结直肠癌</strong>；用于<strong>结肠癌的辅助治疗</strong>；用于<strong>胃癌、胰腺癌</strong>等消化道肿瘤的治疗；为<strong>第三代铂类抗肿瘤药物</strong>。",
+      "dosage": "静脉滴注。<strong>推荐剂量：一次85mg/m²，每2周1次</strong>；或<strong>一次130mg/m²，每3周1次</strong>；<strong>与5-氟尿嘧啶和亚叶酸联合使用</strong>；<strong>滴注时间2-6小时</strong>；<strong>根据神经毒性调整剂量</strong>。",
+      "contraindications": "对本品过敏者禁用；对铂类化合物过敏者禁用；严重骨髓抑制患者禁用；严重肾功能不全患者禁用；妊娠期及哺乳期妇女禁用；近期接种活疫苗者禁用。",
+      "adverse_reactions": "常见<strong>外周神经毒性（感觉异常、麻木）、恶心、呕吐、腹泻、骨髓抑制</strong>；可见<strong>肝酶升高、过敏反应、咽喉感觉异常</strong>；罕见<strong>肺纤维化、溶血性贫血</strong>；冷刺激可诱发或加重急性神经毒性。",
+      "interactions": "与骨髓抑制药物合用增加骨髓抑制；与肾毒性药物合用增加肾毒性；与抗凝药物合用增加出血风险；与5-氟尿嘧啶联合使用时需调整剂量。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为第三代铂类抗肿瘤药，作用机制与顺铂相似，但肾毒性和耳毒性较轻；静脉给药后迅速分布；主要经肾脏排泄；半衰期约40小时。",
+      "precautions": "用药期间避免冷刺激（冷饮、冷空气）；定期监测神经功能、血常规和肝功能；出现严重神经毒性需减量或停药；避免与肾毒性药物合用；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "枸橼酸舒芬太尼",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "<strong>【呼吸抑制和成瘾性警告】</strong>本品为<strong>麻醉药品</strong>，可引起<strong>严重呼吸抑制</strong>，必须在具备复苏设备和人员的条件下使用。长期使用可产生<strong>躯体依赖和精神依赖</strong>。",
+      "indications": "用于<strong>麻醉诱导和麻醉维持中的镇痛</strong>；用于<strong>手术过程中的镇痛</strong>；用于<strong>重症监护患者的镇痛</strong>；为<strong>强效镇痛药</strong>，镇痛效价约为芬太尼的5-10倍。",
+      "dosage": "静脉注射或静脉滴注。<strong>麻醉诱导：0.5-5μg/kg</strong>；<strong>麻醉维持：0.15-0.7μg/kg，根据需要追加</strong>；<strong>重症监护镇痛：0.5-2μg/kg/h持续输注</strong>；<strong>根据镇痛需要调整剂量</strong>。",
+      "contraindications": "对本品过敏者禁用；对芬太尼类药物过敏者禁用；重症肌无力患者禁用；严重呼吸功能不全患者禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>呼吸抑制、恶心、呕吐、肌肉强直、心动过缓</strong>；可见<strong>低血压、胸壁强直、嗜睡</strong>；罕见<strong>过敏反应、惊厥、支气管痉挛</strong>；长期使用可产生耐受性和依赖性。",
+      "interactions": "与其他中枢抑制剂合用增强呼吸抑制作用；与肌松药合用可能增强肌松作用；与苯二氮䓬类合用增加呼吸抑制风险；与MAO抑制剂合用可能增强药效。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为μ受体激动药，是芬太尼的衍生物，镇痛效价约为芬太尼的5-10倍；起效迅速，作用持续时间约30-60分钟；经肝脏代谢，主要经肾脏排泄。",
+      "precautions": "必须在具备复苏设备的条件下使用；用药期间持续监测呼吸和循环功能；缓慢静脉注射可减少胸壁强直发生率；停药后镇痛作用迅速消失；本品为麻醉药品，需严格管理；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用环磷酰胺",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【骨髓抑制和出血性膀胱炎警告】</strong>本品可引起<strong>严重的骨髓抑制和出血性膀胱炎</strong>。使用前后需充分水化，监测血常规和尿常规。",
+      "indications": "用于<strong>多种恶性肿瘤的治疗</strong>，如<strong>淋巴瘤、白血病、乳腺癌、卵巢癌、肺癌、神经母细胞瘤</strong>；用于<strong>自身免疫性疾病</strong>，如<strong>系统性红斑狼疮、肾病综合征、类风湿关节炎</strong>；为<strong>广谱烷化剂</strong>。",
+      "dosage": "静脉注射或静脉滴注。<strong>单药治疗：一次400-1000mg/m²，每3-4周1次</strong>；<strong>联合化疗：根据方案调整剂量</strong>；<strong>自身免疫性疾病：一次500-1000mg，每2-4周1次</strong>；<strong>使用前需充分水化</strong>。",
+      "contraindications": "对本品过敏者禁用；严重骨髓抑制患者禁用；严重肝肾功能不全患者禁用；妊娠期及哺乳期妇女禁用；近期接种活疫苗者禁用；活动性感染患者禁用。",
+      "adverse_reactions": "常见<strong>骨髓抑制（白细胞和血小板减少）、恶心、呕吐、脱发、出血性膀胱炎</strong>；可见<strong>肝功能损害、肺纤维化、心脏毒性</strong>；罕见<strong>过敏反应、继发性恶性肿瘤、不育</strong>。",
+      "interactions": "与骨髓抑制药物合用增加骨髓抑制；与别嘌醇合用可能增加骨髓抑制；与华法林合用可能增强或减弱抗凝作用；与苯妥英钠合用可能降低苯妥英钠血药浓度。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为烷化剂类抗肿瘤药，经肝脏代谢为活性产物，与DNA发生交叉联结；静脉给药后分布广泛；主要经肾脏排泄；半衰期约4-6小时。",
+      "precautions": "用药前后充分水化，必要时使用美司钠预防出血性膀胱炎；定期监测血常规、肝功能和尿常规；累积剂量需控制；用药期间避免接种活疫苗；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用帕瑞昔布钠",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【心血管事件和胃肠道风险警告】</strong>本品为COX-2选择性抑制剂，可能增加<strong>严重心血管血栓事件、心肌梗死、卒中</strong>风险，也可能引起<strong>严重胃肠道不良反应</strong>。",
+      "indications": "用于<strong>手术后疼痛的短期治疗</strong>；用于<strong>中度至重度急性疼痛的治疗</strong>；为<strong>注射用COX-2选择性抑制剂</strong>，可静脉或肌内注射。",
+      "dosage": "静脉注射或肌内注射。<strong>推荐剂量：一次40mg，随后一次20-40mg，每6-12小时1次</strong>；<strong>首日最大剂量80mg</strong>；<strong>随后每日最大剂量40mg</strong>；<strong>疗程不超过3天</strong>。",
+      "contraindications": "对本品过敏者禁用；对磺胺类药物过敏者禁用；活动性消化道溃疡或出血患者禁用；严重心力衰竭患者禁用；冠状动脉旁路移植术后疼痛患者禁用；妊娠期妇女禁用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、头痛、头晕</strong>；可见<strong>高血压、水肿、注射部位疼痛</strong>；罕见<strong>严重心血管事件、胃肠道出血、过敏反应、肝肾功能损害</strong>；长期使用可能增加心血管风险。",
+      "interactions": "与阿司匹林合用可能减弱心血管保护作用；与华法林合用可能增加出血风险；与ACE抑制剂合用可能减弱降压效果；与利尿剂合用可能减弱利尿效果。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为COX-2选择性抑制剂，是伐地昔布的前体药物；静脉或肌内注射后迅速转化为伐地昔布；主要经肝脏代谢；半衰期约8-11小时。",
+      "precautions": "有心血管疾病风险因素者慎用；有消化道溃疡病史者慎用；用药期间监测血压和心功能；避免与其他NSAIDs合用；疗程不超过3天；2025版医保乙类，限注射剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用白眉蛇毒血凝酶",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【过敏反应和血栓风险警告】</strong>本品为<strong>蛇毒制剂</strong>，可能引起<strong>严重过敏反应</strong>，包括<strong>过敏性休克</strong>。有血栓病史者慎用，DIC患者禁用。",
+      "indications": "用于<strong>需减少流血或止血的各种医疗情况</strong>，如<strong>外科、内科、妇产科、眼科、耳鼻喉科、口腔科手术的出血预防</strong>；用于<strong>减少手术部位出血和手术渗血</strong>；具有<strong>止血作用</strong>。",
+      "dosage": "静脉注射、肌内注射或皮下注射。<strong>术前预防：术前15-30分钟一次1-2单位</strong>；<strong>术后止血：一次1-2单位，一日1-2次，连用3天</strong>；<strong>紧急出血：立即静脉注射1-2单位，必要时重复</strong>。",
+      "contraindications": "对本品过敏者禁用；对蛇毒制剂过敏者禁用；弥散性血管内凝血（DIC）患者禁用；有血栓病史者禁用；妊娠期妇女禁用。",
+      "adverse_reactions": "偶见<strong>皮疹、瘙痒、发热</strong>；罕见<strong>过敏反应、过敏性休克</strong>；个别患者可能出现<strong>注射部位疼痛、红肿</strong>；过量使用可能增加血栓形成风险。",
+      "interactions": "与抗凝药物合用可能相互拮抗；与抗血小板药物合用可能减弱止血效果；与凝血因子合用需谨慎；与溶栓药物合用禁忌。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为蛇毒中提取的酶类止血药，具有类凝血酶和类凝血激酶作用；静脉注射后起效迅速；主要经肝脏代谢；作用持续时间约6-8小时。",
+      "precautions": "首次用药需密切观察过敏反应；有过敏史者慎用；用药期间监测凝血功能；避免过量使用；DIC患者禁用；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": 153,
+  "name": "复合磷酸氢钾注射液",
+  "dosage_form": "注射液",
+  "full_name": "(甲)复合磷酸氢钾注射液[国基]",
+  "chemical_name": "复合磷酸氢钾注射液",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "津药和平制药"
+  ],
+  "specifications": [
+    {
+      "specification": "2ml/支",
+      "manufacturer": "津药和平制药",
+      "full_manufacturer": "津药和平(天津)制药有限公司",
+      "price": 12.5,
+      "unit": "支",
+      "code": "X00780",
+      "approval_number": "国药准字H10980220",
+      "insurance_code": "XA12BAF601B002010200874",
+      "location": "B-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于肠外营养，作为磷的补充药，需禁食5天以上病人的磷补充剂，亦可用于某些疾病所致的低磷血症。",
+    "dosage": "疗程3日。",
+    "contraindications": "症 1.严重肝、肾功能不全者禁用。 2.本品处方中含有峰房，已知对峰房、峰毒及本品所含其他成份过敏者禁用。",
+    "adverse_reactions": "临床试验期间受试者用药后出现：肝生化指标轻度升高，血肌酐、尿素氮、尿蛋白及尿红细胞轻度升高、腹泻、腹胀、腹部不适、心电图异常、发热、乏力。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "虎杖、车前草、女贞子、蜂房。",
+    "precautions": "1.忌烟酒、高嘌呤食物。 2.有肝脏、肾脏基础疾病者慎用。 3.本品尚无孕妇、哺乳期妇女的安全性、有效性数据。 4.过敏体质者慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于肠外营养，作为磷的补充药，需禁食5天以上病人的磷补充剂，亦可用于某些疾病所致的低磷血症。",
+    "full_dosage": "口服：一次4粒，一日3次。疗程3日。",
+    "full_contraindications": "症 1.严重肝、肾功能不全者禁用。 2.本品处方中含有峰房，已知对峰房、峰毒及本品所含其他成份过敏者禁用。",
+    "full_adverse_reactions": "临床试验期间受试者用药后出现：肝生化指标轻度升高，血肌酐、尿素氮、尿蛋白及尿红细胞轻度升高、腹泻、腹胀、腹部不适、心电图异常、发热、乏力。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "虎杖、车前草、女贞子、蜂房。",
+    "full_precautions": "1.忌烟酒、高嘌呤食物。 2.有肝脏、肾脏基础疾病者慎用。 3.本品尚无孕妇、哺乳期妇女的安全性、有效性数据。 4.过敏体质者慎用。"
+  },
+  "pinyin": "fuhelinsuanqingjia",
+  "pinyin_initials": "fhlsqj",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3166",
+    "last_updated": "2026-03-22"
+  }
+}

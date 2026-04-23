@@ -1,0 +1,52 @@
+{
+  "id": 708,
+  "name": "美沙拉嗪肠溶片",
+  "dosage_form": "肠溶片",
+  "full_name": "(甲)美沙拉嗪肠溶片",
+  "chemical_name": "美沙拉嗪肠溶片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "葵花药业集团佳木斯鹿灵制药"
+  ],
+  "specifications": [
+    {
+      "specification": "250mg/片",
+      "manufacturer": "葵花药业集团佳木斯鹿灵制药",
+      "full_manufacturer": "葵花药业集团佳木斯鹿灵制药有限公司",
+      "price": 31.16,
+      "unit": "盒",
+      "code": "X00294",
+      "approval_number": "国药准字H19980148",
+      "insurance_code": "XA07ECM053A012010103810"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "补肾活血，强筋壮骨。用于肝肾不足所致的骨痿(骨质疏松症)引起的骨折、骨痛及预防更年期骨质疏松症。症见背痛，腰痛膝软，骨脆易折；骨性关节炎、骨质疏松症见上述证候者。",
+    "dosage": "口服：治疗骨折及骨关节炎，一次1袋，一日3次；预防骨质疏松，一次1袋，一日2次，30天为一疗程。",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "尚不明确。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情咨询药师或医师。",
+    "source": "湖南药事服务网",
+    "full_pharmacokinetics": "",
+    "full_dosage": "口服：治疗骨折及骨关节炎，一次1袋，一日3次；预防骨质疏松，一次1袋，一日2次，30天为一疗程。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "尚不明确。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "full_precautions": "尚不明确。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "full_indications": "补肾活血，强筋壮骨。用于肝肾不足所致的骨痿(骨质疏松症)引起的骨折、骨痛及预防更年期骨质疏松症。症见背痛，腰痛膝软，骨脆易折；骨性关节炎、骨质疏松症见上述证候者。"
+  },
+  "pinyin": "meishalaqin",
+  "pinyin_initials": "mslq",
+  "dosage_form_pinyin": "changrongpian",
+  "dosage_form_initials": "crp",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=6884",
+    "last_updated": "2026-03-21"
+  }
+}

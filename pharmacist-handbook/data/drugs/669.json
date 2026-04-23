@@ -1,0 +1,58 @@
+{
+  "id": 669,
+  "name": "独一味片",
+  "dosage_form": "片",
+  "full_name": "(甲)独一味片[国基]",
+  "chemical_name": "独一味片",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "康县独一味生物制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.28g/片",
+      "manufacturer": "康县独一味生物制药",
+      "full_manufacturer": "康县独一味生物制药有限公司",
+      "price": 19.99,
+      "unit": "盒",
+      "code": "C00006",
+      "approval_number": "国药准字Z20073084",
+      "insurance_code": "ZA11AAD0357010405854",
+      "location": "D-2",
+      "outpatient_location": "J-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "活血止痛，化瘀止血。用于多种外科手术后的刀口疼痛、出血，外伤骨折，筋骨扭伤，风湿痹痛以及崩漏、痛经、牙龈肿痛、出血等。",
+    "full_indications": "活血止痛，化瘀止血。用于多种外科手术后的刀口疼痛、出血，外伤骨折，筋骨扭伤，风湿痹痛以及崩漏、痛经、牙龈肿痛、出血等。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "口服：一次3片，一日3次。疗程7天；或遵医嘱。",
+    "full_dosage": "口服：一次3片，一日3次。疗程7天；或遵医嘱。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "偶见恶心、呕吐、腹痛、腹泻等胃肠道反应；偶见皮疹、瘙痒等过敏反应；个别患者可能出现头晕、头痛等。",
+    "full_adverse_reactions": "偶见恶心、呕吐、腹痛、腹泻等胃肠道反应；偶见皮疹、瘙痒等过敏反应；个别患者可能出现头晕、头痛等。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "1.孕妇慎用。2.服药期间忌生冷、油腻食物。3.严格按照用法用量服用，不宜长期服用。4.药品性状发生改变时禁止使用。5.将此药品放在儿童不能接触的地方。",
+    "full_precautions": "1.孕妇慎用。2.服药期间忌生冷、油腻食物。3.严格按照用法用量服用，不宜长期服用。4.药品性状发生改变时禁止使用。5.请将此药品放在儿童不能接触的地方。",
+    "source": "湖南药事服务网",
+    "url_added": true,
+    "composition": "独一味。"
+  },
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5698",
+    "last_updated": "2026-03-20"
+  },
+  "pinyin": "duyiwei",
+  "pinyin_initials": "dyw",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p"
+}

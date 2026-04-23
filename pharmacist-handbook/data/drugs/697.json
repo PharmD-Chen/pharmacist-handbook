@@ -1,0 +1,47 @@
+{
+  "id": 697,
+  "name": "碳酸钙D3颗粒(II)",
+  "dosage_form": "颗粒",
+  "full_name": "(乙)碳酸钙D3颗粒(II)[市基]",
+  "chemical_name": "碳酸钙D3颗粒(II)",
+  "types": [
+    "乙类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "上海诺成药业"
+  ],
+  "specifications": [
+    {
+      "specification": "3克/袋",
+      "manufacturer": "上海诺成药业",
+      "full_manufacturer": "上海诺成药业股份有限公司",
+      "price": 36.5,
+      "unit": "盒",
+      "code": "X00923",
+      "approval_number": "国药准字H20183324",
+      "insurance_code": "XA12AXT139N001010100644",
+      "location": "I-5",
+      "outpatient_location": "M-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "tansuangaid3",
+  "pinyin_initials": "tsgd3",
+  "dosage_form_pinyin": "keli",
+  "dosage_form_initials": "kl",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3205"
+  }
+}

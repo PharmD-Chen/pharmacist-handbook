@@ -1,0 +1,54 @@
+{
+  "id": 260,
+  "name": "戊酸雌二醇片",
+  "dosage_form": "片",
+  "full_name": "(甲)戊酸雌二醇片",
+  "chemical_name": "戊酸雌二醇片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "Jenapharm GmbH & Co.KG"
+  ],
+  "specifications": [
+    {
+      "specification": "1mg/片",
+      "manufacturer": "Jenapharm GmbH & Co.KG",
+      "full_manufacturer": "Jenapharm GmbH & Co.KG(DELPHARM Lille S.A.S.)(拜耳医药保健有限公司广州分公司)",
+      "price": 27.85,
+      "unit": "盒",
+      "code": "Y00000014567",
+      "approval_number": "国药准字J20171038",
+      "insurance_code": "XG03CAW089A001010107785",
+      "location": "H-3",
+      "outpatient_location": "O-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "⑴补充雌激素不足，如萎缩性阴道炎、女性性腺的功能不足、外阴干燥症、绝经期血管舒缩症状、卵巢切除、原发性卵巢衰竭等；\n⑵晚期前列腺癌（乳腺癌、卵巢癌患者禁用）；\n⑶与孕激素类药物合用，能抑制排卵，可作避孕药。",
+    "dosage": "⑴肌内注射：①补充雌激素不足，5mg，每4周1次。",
+    "contraindications": "妊娠期妇女禁用；哺乳期妇女禁用。",
+    "adverse_reactions": "参阅雌激素。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "⑴药效学：本品为长效雌二醇衍生物。参阅雌激素。  <br>⑵药动学：口服吸收完全，被胃肠道吸收后，在肝内代谢，分解成雌二醇和戊酸，口服戊酸雌二醇后约有3％雌二醇被生物利用。",
+    "precautions": "参阅雌激素。",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴补充雌激素不足，如萎缩性阴道炎、女性性腺的功能不足、外阴干燥症、绝经期血管舒缩症状、卵巢切除、原发性卵巢衰竭等；<br>⑵晚期前列腺癌（乳腺癌、卵巢癌患者禁用）；<br>⑶与孕激素类药物合用，能抑制排卵，可作避孕药。",
+    "full_dosage": "⑴肌内注射：①补充雌激素不足，5mg，每4周1次。②前列腺癌，一次30mg，每1～2周1次，按需调整剂量。    <br>　　⑵口服：一次1mg，一日1次，餐后服。按周期序贯疗法，每经过21日的治疗后，须停药至少1周。",
+    "full_contraindications": "妊娠期妇女禁用；哺乳期妇女禁用。",
+    "full_adverse_reactions": "参阅雌激素。",
+    "full_interactions": "参阅雌激素。",
+    "full_pharmacokinetics": "⑴药效学：本品为长效雌二醇衍生物。参阅雌激素。  <br>⑵药动学：口服吸收完全，被胃肠道吸收后，在肝内代谢，分解成雌二醇和戊酸，口服戊酸雌二醇后约有3％雌二醇被生物利用。",
+    "full_precautions": "参阅雌激素。"
+  },
+  "pinyin": "wusuancierchun",
+  "pinyin_initials": "wscec",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1398",
+    "last_updated": "2026-03-22"
+  }
+}

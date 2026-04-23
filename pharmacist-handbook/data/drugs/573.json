@@ -1,0 +1,47 @@
+{
+  "id": 573,
+  "name": "复方鲜竹沥液",
+  "dosage_form": "其他",
+  "full_name": "(甲)复方鲜竹沥液[市基]",
+  "chemical_name": "复方鲜竹沥液",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "江西康恩贝天施康药业"
+  ],
+  "specifications": [
+    {
+      "specification": "10ml/支",
+      "manufacturer": "江西康恩贝天施康药业",
+      "full_manufacturer": "江西康恩贝天施康药业有限公司",
+      "price": 68.87,
+      "unit": "盒",
+      "code": "C00084",
+      "approval_number": "国药准字Z36021505",
+      "insurance_code": "ZA06CAF0672010405363",
+      "outpatient_location": "1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": "",
+    "composition": "鲜竹沥、鱼腥草、生半夏、生姜、枇杷叶、桔梗、薄荷素油。"
+  },
+  "pinyin": "fufangxianzhuliye",
+  "pinyin_initials": "ffxzly",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5957"
+  }
+}

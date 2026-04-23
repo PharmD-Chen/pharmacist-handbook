@@ -1,0 +1,45 @@
+{
+  "id": 820,
+  "name": "盐酸美金刚口服溶液",
+  "dosage_form": "口服溶液",
+  "full_name": "(甲)盐酸美金刚口服溶液",
+  "chemical_name": "盐酸美金刚口服溶液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "珠海联邦制药股份有限公司中山分"
+  ],
+  "specifications": [
+    {
+      "specification": "120ml/瓶",
+      "manufacturer": "珠海联邦制药股份有限公司中山分",
+      "full_manufacturer": "珠海联邦制药股份有限公司中山分公司",
+      "price": 258.0,
+      "unit": "盒",
+      "code": "X00183",
+      "approval_number": "国药准字H20130085",
+      "insurance_code": "XN06DXM045X001010100600"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "yansuanmeijingang",
+  "pinyin_initials": "ysmjg",
+  "dosage_form_pinyin": "koufurongye",
+  "dosage_form_initials": "kfry",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=910",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 27,
+  "name": "葆宫止血颗粒",
+  "dosage_form": "颗粒",
+  "full_name": "(甲)葆宫止血颗粒[国基]",
+  "chemical_name": "葆宫止血颗粒",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "天津中盛海天制药"
+  ],
+  "specifications": [
+    {
+      "specification": "15g/袋",
+      "manufacturer": "天津中盛海天制药",
+      "full_manufacturer": "天津中盛海天制药有限公司",
+      "price": 48.1,
+      "unit": "盒",
+      "code": "Y00000014552",
+      "approval_number": "国药准字Z20103059",
+      "insurance_code": "ZD01CAB0277010479304",
+      "location": "H-4",
+      "outpatient_location": "O-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "固经止血，滋阴清热。用于冲任不固、阴虚血热所致月经过多、经期延长。",
+    "full_indications": "",
+    "_indications_source": "家庭医生在线",
+    "dosage": "开水冲服：一次1袋，一日2次。月经来后即开始服药，14天为一个疗程，连续服2个月经周期。",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "尚不明确。",
+    "source": "湖南药事服务网",
+    "full_dosage": "开水冲服：一次1袋，一日2次。月经来后即开始服药，14天为一个疗程，连续服2个月经周期。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "尚不明确。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_pharmacokinetics": "",
+    "full_precautions": "尚不明确。",
+    "composition": "煅牡蛎、白芍、侧柏炭、地黄、金樱子、醋柴胡、三七、仙鹤草、椿皮、大青叶。"
+  },
+  "pinyin": "baogongzhixue",
+  "pinyin_initials": "bgzx",
+  "dosage_form_pinyin": "keli",
+  "dosage_form_initials": "kl",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5852",
+    "last_updated": "2026-03-22"
+  }
+}

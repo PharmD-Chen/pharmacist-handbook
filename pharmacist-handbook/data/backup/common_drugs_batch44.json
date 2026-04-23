@@ -1,0 +1,80 @@
+[
+  {
+    "name": "重酒石酸间羟胺",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>用于各种休克及手术时低血压</strong>；<strong>用于防治椎管内阻滞麻醉时发生的急性低血压</strong>；<strong>用于心源性休克或败血症所致的低血压</strong>。",
+      "dosage": "肌内或皮下注射、静脉注射或静脉滴注。<strong>肌内或皮下注射：成人一次2-10mg</strong>，由于最大效应不是立即显现，重复用药前对初量效应至少要观察10分钟；<strong>静脉注射：初量0.5-5mg，继而静脉滴注</strong>；<strong>静脉滴注：将间羟胺15-100mg加入0.9%氯化钠注射液或5%葡萄糖注射液500ml中滴注</strong>，调节滴速以维持理想血压。",
+      "contraindications": "<strong>对本品过敏者禁用</strong>；<strong>高血压、冠心病、糖尿病、甲状腺功能亢进患者慎用</strong>；<strong>充血性心力衰竭患者慎用</strong>。",
+      "adverse_reactions": "常见<strong>心律失常</strong>；可能出现<strong>急性肺水肿、心跳骤停</strong>；长期使用可产生<strong>蓄积作用</strong>，停药后血压仍偏高；静脉注射部位可能发生<strong>局部组织坏死</strong>。",
+      "interactions": "<strong>与环丙烷、氟烷等卤素类麻醉药合用易致心律失常</strong>；<strong>与洋地黄类合用可致异位心律</strong>；<strong>不宜与碱性药物共同滴注</strong>；<strong>与单胺氧化酶抑制剂合用可增强升压作用</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "主要作用于α受体，对β1受体作用较弱。通过促进去甲肾上腺素释放而发挥间接作用，升压效果比去甲肾上腺素弱但较持久。肌内注射后约10分钟起效，皮下注射5-20分钟起效，作用持续约1小时。",
+      "precautions": "<strong>本品不能替代补充血容量，血容量不足时应先行纠正</strong>；<strong>配制后应于24小时内用完</strong>；<strong>静脉滴注应避免外溢，一旦发生可用酚妥拉明局部浸润注射</strong>；<strong>长期使用可产生蓄积作用，停药须逐渐减量</strong>；<strong>用药期间需监测血压、心率</strong>；2025版医保甲类，限注射剂。",
+      "solvent": "用0.9%氯化钠注射液或5%葡萄糖注射液稀释，静脉滴注",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用阿替普酶",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>用于急性ST段抬高心肌梗死(AMI)的溶栓治疗</strong>；<strong>用于伴有血流动力学不稳定的急性肺栓塞及大块肺栓塞的溶栓治疗</strong>；<strong>用于急性缺血性脑卒中的溶栓治疗(发病3小时内)</strong>；<strong>用于颅内静脉窦血栓形成</strong>。",
+      "dosage": "静脉注射或静脉滴注。<strong>急性心肌梗死：100mg方案，先静脉注射15mg，随后30分钟静脉滴注50mg，后60分钟滴注35mg</strong>；<strong>急性肺栓塞：100mg，2小时静脉滴注</strong>；<strong>急性缺血性脑卒中：0.9mg/kg(最大剂量90mg)，先静脉注射10%(1分钟)，其余剂量静脉滴注60分钟</strong>。",
+      "contraindications": "<strong>活动性内出血患者禁用</strong>；<strong>已知出血体质患者禁用</strong>；<strong>近期(10天内)大手术或严重创伤患者禁用</strong>；<strong>近期(10天内)严重胃肠道出血患者禁用</strong>；<strong>近期(10天内)不可压迫部位的穿刺患者禁用</strong>；<strong>严重高血压(收缩压>180mmHg或舒张压>110mmHg)患者禁用</strong>；<strong>怀疑主动脉夹层患者禁用</strong>；<strong>出血性脑卒中或近期(3个月内)缺血性脑卒中患者禁用</strong>。",
+      "adverse_reactions": "最常见<strong>出血</strong>，包括<strong>穿刺部位出血、牙龈出血、胃肠道出血、泌尿生殖道出血、脑出血</strong>；可能出现<strong>心律失常、低血压、发热、过敏反应</strong>；严重者可出现<strong>危及生命的大出血或脑出血</strong>。",
+      "interactions": "<strong>与抗凝药、抗血小板药合用增加出血风险</strong>；<strong>与肝素合用需严密监测凝血功能</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "组织型纤溶酶原激活剂(rt-PA)为内皮细胞合成的内源性纤溶酶原激活剂，由基因重组技术制造。与纤维蛋白结合后在血栓表面激活纤溶酶原，使之转化为纤溶酶，从而溶解血栓内的纤维蛋白。对循环中纤维蛋白原影响较小，为选择性溶栓剂。半衰期短(约5分钟)，需持续静脉输注。",
+      "precautions": "<strong>必须在发病时间窗内使用(心梗12小时内、脑梗3小时内、肺栓塞根据病情)</strong>；<strong>用药期间及停药后24小时内严密监测凝血功能和出血征象</strong>；<strong>近期(10天内)进行过心肺复苏患者慎用</strong>；<strong>严重肝肾功能不全患者慎用</strong>；<strong>用药后24小时内避免动脉穿刺、腰椎穿刺等侵入性操作</strong>；<strong>配制的溶液应在8小时内使用</strong>；2025版医保乙类，限急性心肌梗死发病12小时内、脑梗死发病3小时内的溶栓治疗。",
+      "solvent": "用注射用水或0.9%氯化钠注射液溶解后静脉注射或滴注",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲甲磺酸伏美替尼",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>用于EGFR外显子19缺失或外显子21(L858R)置换突变的局部晚期或转移性非小细胞肺癌(NSCLC)成人患者的一线治疗</strong>；<strong>用于既往经EGFR酪氨酸激酶抑制剂(TKI)治疗时或治疗后出现疾病进展，并且经检测确认存在EGFR T790M突变阳性的局部晚期或转移性非小细胞肺癌成人患者的治疗</strong>。",
+      "dosage": "口服。<strong>推荐剂量为每次80mg，每日1次</strong>，空腹或餐后服用均可。应整片吞服，不可压碎或咀嚼。",
+      "contraindications": "<strong>对本品活性成分或任何一种辅料过敏者禁用</strong>。",
+      "adverse_reactions": "常见<strong>腹泻、皮疹、肝功能异常(转氨酶升高)</strong>；可能出现<strong>心电图QT间期延长、间质性肺病、眼部症状(视力模糊、干眼)</strong>；需定期监测<strong>血常规、肝功能、心电图</strong>。",
+      "interactions": "<strong>与CYP3A4强抑制剂合用可能增加本品血药浓度</strong>；<strong>与CYP3A4强诱导剂合用可能降低本品疗效</strong>；<strong>避免与可延长QT间期的药物合用</strong>。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "第三代表皮生长因子受体-酪氨酸激酶抑制剂(EGFR-TKI)。具有三氟乙氧基吡啶结构，药物原型及主要代谢产物均可通过不饱和丙烯酰胺键与EGFR不可逆结合，强效抑制EGFR敏感突变和T790M耐药突变。口服后吸收良好，半衰期约8-11小时。",
+      "precautions": "<strong>治疗前需进行EGFR突变检测确认适应症</strong>；<strong>定期监测肝功能，出现严重肝损伤需减量或停药</strong>；<strong>定期监测心电图，警惕QT间期延长</strong>；<strong>出现间质性肺病症状(呼吸困难、咳嗽、发热)应立即停药</strong>；<strong>育龄期患者治疗期间及停药后3个月内需采取有效避孕措施</strong>；2025版医保乙类，协议期谈判药品。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "知柏地黄",
+    "dosage_form": "丸",
+    "manual": {
+      "indications": "<strong>滋阴降火</strong>。用于<strong>阴虚火旺，潮热盗汗</strong>；<strong>用于口干咽痛、耳鸣遗精</strong>；<strong>用于小便短赤</strong>。",
+      "dosage": "口服。<strong>一次8丸，一日3次</strong>。宜空腹或饭前用温开水或淡盐水送服。",
+      "contraindications": "<strong>虚寒性病证患者不宜应用</strong>(表现为怕冷、手足凉、喜热饮)。",
+      "adverse_reactions": "尚不明确。",
+      "interactions": "<strong>不宜与感冒药物同时服用</strong>；<strong>如与其他药物同时使用可能会发生药物相互作用</strong>，详情请咨询医师或药师。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "主要成分为知母、黄柏、熟地黄、山茱萸(制)、牡丹皮、山药、茯苓、泽泻。在六味地黄丸基础上加入知母、黄柏而成，具有滋阴降火功效。知母、黄柏清热泻火，熟地黄滋阴补肾，山茱萸、山药补肝脾，牡丹皮、茯苓、泽泻泻浊利湿。",
+      "precautions": "<strong>孕妇慎服</strong>；<strong>虚寒性病症患者禁用</strong>；<strong>不宜与感冒药物同时服用</strong>；<strong>宜空腹或饭前服用</strong>；<strong>服药一周症状无改善应去医院就诊</strong>；<strong>小儿应在医师指导下服用</strong>；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲托珠单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>用于治疗对改善病情的抗风湿药物(DMARDs)治疗应答不足的中到重度活动性类风湿关节炎的成年患者</strong>；<strong>用于既往经NSAIDs和糖皮质激素治疗应答不足的两岁及以上儿童的活动性全身型幼年特发性关节炎(sJIA)</strong>；<strong>用于巨细胞动脉炎(GCA)</strong>；<strong>用于细胞因子释放综合征(CRS)</strong>。",
+      "dosage": "静脉滴注。<strong>类风湿关节炎：推荐剂量为8mg/kg，每4周静脉滴注1次</strong>，可与甲氨蝶呤(MTX)或其他DMARDs药物联用；<strong>全身型幼年特发性关节炎：根据体重调整剂量</strong>。",
+      "contraindications": "<strong>对托珠单抗或任何辅料过敏者禁用</strong>；<strong>活动性感染患者禁用</strong>；<strong>严重肝功能不全患者禁用</strong>；<strong>中性粒细胞计数<2000个/mm³或血小板计数<100000个/mm³患者禁用</strong>。",
+      "adverse_reactions": "常见<strong>上呼吸道感染、鼻咽炎、头痛、高血压、转氨酶升高</strong>；可能出现<strong>严重感染(包括结核复发)、中性粒细胞减少、血小板减少、血脂异常、胃肠道穿孔、过敏反应</strong>；罕见<strong>严重肝损伤</strong>。",
+      "interactions": "<strong>与甲氨蝶呤合用疗效增强</strong>；<strong>与活疫苗合用可能降低疫苗效果</strong>；<strong>与CYP450底物药物合用可能影响其代谢</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "重组人源化抗人白细胞介素6(IL-6)受体单克隆抗体。通过特异性结合IL-6受体，阻断IL-6介导的信号转导，从而抑制炎症反应。静脉滴注后清除半衰期约13-22天。",
+      "precautions": "<strong>治疗前需筛查结核，活动性结核需先抗结核治疗</strong>；<strong>治疗期间定期监测血常规、肝功能、血脂</strong>；<strong>出现严重感染应暂停治疗</strong>；<strong>中性粒细胞<1000个/mm³或血小板<50000个/mm³时应停药</strong>；<strong>ALT或AST>5倍正常上限时应停药</strong>；<strong>不建议与活疫苗同时使用</strong>；2025版医保乙类10%。",
+      "solvent": "用0.9%氯化钠注射液稀释至100ml，静脉滴注1小时",
+      "source": "湖南药事服务网"
+    }
+  }
+]

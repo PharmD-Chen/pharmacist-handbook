@@ -1,0 +1,182 @@
+[
+  {
+    "name": "盐酸氨基葡萄糖",
+    "dosage_form": "胶囊",
+    "manual": {
+      "indications": "用于<strong>治疗和预防全身所有部位的骨关节炎</strong>，包括<strong>膝关节、肩关节、髋关节、手腕关节、颈及脊椎关节和踝关节</strong>等；可<strong>缓解和消除骨关节炎的疼痛、肿胀等症状，改善关节活动功能</strong>。",
+      "dosage": "口服。<strong>一次1粒，一日2次，吃饭时或饭后服用</strong>；<strong>6周为一个疗程或根据需要延长</strong>；<strong>每年可重复治疗2-3次</strong>。",
+      "contraindications": "对本品过敏者禁用；对甲壳类(虾、蟹等)过敏者禁用；孕妇和哺乳期妇女禁用；18岁以下儿童禁用。",
+      "adverse_reactions": "罕见轻度的胃肠不适，如<strong>恶心、便秘、腹胀和腹泻</strong>；有些病人可能出现<strong>过敏反应，包括皮疹、瘙痒和皮肤红斑</strong>；偶见血糖升高、哮喘加重。",
+      "interactions": "本品可增加四环素类药物在胃肠道的吸收；减少口服青霉素的吸收；与利尿剂合用时需谨慎。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为天然的氨基糖，可促进人体软骨细胞的代谢，帮助修复和保护关节软骨；促进软骨合成、抑制软骨分解酶的活性，减少炎症反应；口服后主要在肠道吸收。",
+      "precautions": "严重肝肾功能不全者慎用，如需使用建议定期监测肝肾功能；胃肠道消化性溃疡者慎用；糖尿病或心血管风险者应定期监测血糖血脂；2025版医保甲类，限口服常释剂型。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用A型肉毒毒素",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "用于<strong>眼睑痉挛、面肌痉挛及相关病灶肌张力障碍</strong>；用于<strong>成人脑卒中后上肢(腕部和手部)痉挛</strong>；用于<strong>原发性腋窝多汗症</strong>；用于<strong>暂时性改善眉间纹</strong>。",
+      "dosage": "肌内注射。<strong>必须由具有相应资格并有治疗经验的医师使用</strong>；<strong>每个注射位点的推荐剂量范围为0.05-0.1ml</strong>；<strong>眼睑痉挛：每点1.25-2.5U</strong>；<strong>成人上肢痉挛：注射总量≤400U</strong>；<strong>具体剂量应由医师根据患者情况个体化调整</strong>。",
+      "contraindications": "对本品过敏者禁用；注射部位存在感染灶者禁用；重症肌无力患者禁用；Lambert-Eaton综合征患者禁用；妊娠期及哺乳期妇女禁用。",
+      "adverse_reactions": "正常用法用量下可能出现<strong>感染、胃肠道异常、神经系统异常</strong>；可见<strong>注射部位疼痛、肿胀、瘀斑</strong>；可能出现<strong>眼睑下垂、视物模糊、面部表情不对称</strong>；罕见全身乏力、流感样症状。",
+      "interactions": "与氨基糖苷类抗生素、林可霉素、多粘菌素等合用可能增强神经肌肉阻滞作用；与抗胆碱酯酶药物合用时需谨慎。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为神经肌肉阻滞剂，通过抑制乙酰胆碱的释放，使肌肉松弛；局部注射后作用于神经肌肉接头处，产生可逆性肌肉松弛作用；作用持续时间约3-6个月。",
+      "precautions": "本品必须由具有相应资格并有治疗经验的医师使用；注射前需进行过敏试验；注射时应避开血管和神经；注射后需观察30分钟；药品调配过程应在消费者视线内进行；消费者应对产品进行拍照记录电子监管码；2025版医保乙类，限注射剂并限工伤保险。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用胸腺法新",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "用于<strong>慢性乙型肝炎的治疗</strong>；作为<strong>免疫损害患者的疫苗增强剂</strong>，增强患者对病毒性疫苗(如流感疫苗或乙肝疫苗)的免疫应答；用于<strong>免疫系统功能受到抑制者</strong>，包括接受慢性血液透析和老年病患者。",
+      "dosage": "皮下注射。<strong>慢性乙肝：1.6mg，一周2次，相隔3-4日，持续6个月</strong>；<strong>作为疫苗增强剂：疫苗接种后使用本品作为佐剂</strong>；<strong>用随带的1.0ml注射用水溶解后马上皮下注射</strong>。",
+      "contraindications": "对本品成份过敏者禁用；正在接受免疫抑制治疗的患者如器官移植者禁用。",
+      "adverse_reactions": "注射部位可能出现<strong>红肿、疼痛、瘙痒</strong>；可见<strong>一过性转氨酶升高</strong>；偶有<strong>乏力、发热、恶心</strong>；罕见过敏反应。",
+      "interactions": "本品可与α干扰素联合使用，可提高免疫应答；与其他免疫药物联合使用时应慎重；<strong>本品不得与任何药物混合注射</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为免疫调节剂，可增强T细胞功能，促进T细胞分化成熟；皮下注射后吸收良好，生物利用度高；主要经肾脏排泄。",
+      "precautions": "治疗慢性乙肝期间，肝功能试验(包括血清ALT、白蛋白和胆红素)应定期评估；治疗完毕后应检测乙肝e抗原(HBeAg)、表面抗原HBsAg、HBV-DNA和ALT酶；注射前或停药后再次注射时须作皮试；对18岁以下患者，本品的安全性和有效性尚未确定；老年患者不需减量；2025版医保乙类，限注射剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "0.9%氯化钠",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "用于<strong>各种原因所致的失水，包括低渗性、等渗性和高渗性失水</strong>；用于<strong>高渗性非酮症糖尿病昏迷</strong>；用于<strong>低氯性代谢性碱中毒</strong>；用作<strong>外用冲洗剂，如眼部、伤口等</strong>；用作<strong>其他药物的溶剂或稀释剂</strong>。",
+      "dosage": "静脉滴注或外用。<strong>用量视病情需要而定</strong>；<strong>外用冲洗：适量使用</strong>；<strong>药物稀释：根据药物说明书要求配制</strong>。",
+      "contraindications": "对本品过敏者禁用；心力衰竭患者慎用；肺水肿患者慎用；脑水肿患者慎用；高钠血症患者禁用。",
+      "adverse_reactions": "输注过多或过快可能导致<strong>水钠潴留、水肿、血压升高、心率加快、胸闷、呼吸困难</strong>；长期使用可能引起<strong>低钾血症</strong>。",
+      "interactions": "作为溶剂或稀释剂时，应注意与所配伍药物的相互作用。",
+      "pregnancy_category": "A",
+      "pharmacokinetics": "为等渗电解质补充液，与人体体液渗透压相等；静脉输注后可迅速补充血容量和电解质；主要经肾脏排泄。",
+      "precautions": "心功能不全者慎用；肾功能不全者慎用；用药期间应监测电解质平衡；大量输注时应监测心功能和肾功能；2025版医保甲类，限注射剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸左西替利嗪",
+    "dosage_form": "口服溶液",
+    "manual": {
+      "indications": "用于<strong>过敏性鼻炎、过敏性结膜炎</strong>；用于<strong>荨麻疹</strong>；用于<strong>各种过敏性瘙痒性皮肤病</strong>。",
+      "dosage": "口服。<strong>成人及12岁以上或体重30kg以上儿童：一次5mg，一日1次</strong>；<strong>6-12岁儿童：根据症状轻重可一次2.5mg或5mg，一日1次</strong>；<strong>肾功能损害患者需调整剂量</strong>。",
+      "contraindications": "对本品或西替利嗪、羟嗪过敏者禁用；严重肾功能损害患者禁用。",
+      "adverse_reactions": "常见<strong>嗜睡、头痛、口干、乏力</strong>；偶见<strong>头晕、恶心、腹痛、咽炎</strong>；罕见<strong>过敏反应、呼吸困难、血管性水肿、体重增加</strong>；个别患者可能出现肝功能异常。",
+      "interactions": "与镇静剂合用时可能增强中枢抑制作用；与茶碱合用可能降低本品清除率；与酒精合用可能增强镇静作用。",
+      "pregnancy_category": "B",
+      "pharmacokinetics": "为选择性H1受体拮抗剂，可选择性拮抗H1受体，抑制由组胺介导的过敏反应；不易通过血脑屏障，镇静作用较轻；口服后吸收迅速，作用持续时间长。",
+      "precautions": "肾功能不全者需调整剂量；驾驶或操作机械的患者慎用，服药期间不要操作机器、高空作业或驾驶；服药期间禁止饮酒；孕妇及哺乳期妇女应避免使用；老年患者需监测肾功能并根据肌酐清除率调整剂量；2025版医保乙类，限口服液体剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "恩扎卢胺软",
+    "dosage_form": "胶囊",
+    "manual": {
+      "indications": "用于<strong>去势抵抗性前列腺癌(CRPC)的治疗</strong>；用于<strong>转移性去势抵抗性前列腺癌</strong>；用于<strong>非转移性去势抵抗性前列腺癌</strong>。",
+      "dosage": "口服。<strong>推荐剂量为160mg，每日1次</strong>；<strong>整粒吞服，可与或不与食物同服</strong>。",
+      "contraindications": "对本品过敏者禁用；妊娠及哺乳期妇女禁用；儿童禁用。",
+      "adverse_reactions": "常见<strong>乏力、腹泻、恶心、便秘、食欲下降</strong>；可见<strong>潮热、头痛、眩晕、失眠</strong>；可能出现<strong>高血压、骨折、跌倒</strong>；罕见<strong>间质性肺疾病、癫痫发作</strong>。",
+      "interactions": "与强效CYP2C8抑制剂合用可能增加本品血药浓度；与CYP3A4诱导剂合用可能降低本品疗效；与华法林合用可能增加出血风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为雄激素受体抑制剂，可抑制雄激素与受体结合，抑制雄激素受体核转位及DNA结合；口服后吸收良好，食物不影响吸收；主要经肝脏代谢。",
+      "precautions": "用药期间应定期监测肝功能；有癫痫病史者慎用；心血管疾病患者慎用；用药期间应采取有效的避孕措施；2025版医保乙类10%，协议期谈判药品。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "锝亚甲基二膦酸盐",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "用于<strong>类风湿性关节炎等自身免疫性疾病</strong>的治疗；用于<strong>骨科疾病</strong>的治疗；具有<strong>抗炎、镇痛、免疫调节及破骨修复作用</strong>。",
+      "dosage": "静脉注射。<strong>一日1次，20日为一疗程</strong>；<strong>可根据病情需要适当增加剂量和延长疗程</strong>；<strong>临用前将A剂5ml注入B剂瓶中，充分振摇溶解，室温静置5分钟后使用</strong>。",
+      "contraindications": "过敏体质(特异质)者禁用；血压过低者禁用；严重肝、肾功能不良患者禁用；儿童禁用；妊娠及哺乳期妇女禁用；心功能不全者慎用。",
+      "adverse_reactions": "偶见<strong>皮疹、注射部位红肿</strong>；可见<strong>乏力、月经增多</strong>；罕见<strong>全身水肿</strong>，严重时需停药处理。",
+      "interactions": "与其他免疫调节药物合用时需谨慎；用药期间应避免同时使用其他含锝药物。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "对炎变的骨生成区有亲和性，2小时血药浓度为5%，3小时为3%，24小时后小于0.5%；血液中药物70%以上经尿液排泄；体内半排期因个体差异有所不同，但都大于1年。",
+      "precautions": "心功能不全者慎用；本品如发生变色或沉淀，应停止使用；需在具有《放射性药品使用许可证》的医疗单位使用；本品为自费药品。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "肠内营养混悬液",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "适用于<strong>有胃肠道功能或部分胃肠道功能而不能或不愿吃足够数量的常规食物以满足机体营养需求的肠内营养治疗</strong>；用于<strong>代谢性胃肠道功能障碍(胰腺炎、肠道炎性疾病、放射性肠炎、短肠综合征)</strong>；用于<strong>危重疾病(大面积烧伤、创伤、脓毒血症、大手术后恢复期)</strong>；用于<strong>营养不良病人的手术前喂养</strong>；<strong>可用于糖尿病病人</strong>。",
+      "dosage": "口服或管饲。<strong>一般病人：每天给予2000kcal(约1000ml×2)</strong>；<strong>高代谢病人：每天可用到4000kcal</strong>；<strong>初次胃肠道喂养：从每天1000kcal开始，2-3天内逐渐增加至需要量</strong>；<strong>正常滴速为每小时100-125ml(开始时滴速宜慢)</strong>。",
+      "contraindications": "完全性胃肠道功能衰竭者禁用；完全性胃肠道梗阻者禁用；果糖不耐受者禁用；对本品中任一成份过敏者禁用；严重腹腔内感染者禁用；顽固性腹泻等需要进行肠道休息处理者禁用。",
+      "adverse_reactions": "可能出现<strong>腹泻、腹痛、腹胀、恶心、呕吐</strong>等胃肠道不适；可能出现<strong>血糖升高</strong>；管饲过快可能引起<strong>胃潴留、误吸</strong>。",
+      "interactions": "与降糖药合用时需调整降糖药用量；与其他药物同时管饲时需注意配伍禁忌。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为整蛋白型肠内营养制剂，营养素全面，容易消化，吸收完全，生物利用度高；渗透压低可预防渗透性腹泻；蛋白在小肠分解吸收，其它成分通过小肠吸收。",
+      "precautions": "不适用于1岁以内的婴儿；不适用于1-5岁儿童的单一营养来源；不宜用于要求低渣膳食的病人；严禁经静脉输注；使用过程中须注意液体平衡；严重糖代谢异常的患者慎用；严重肝肾功能不全的患者慎用；2025版医保乙类10%，需经营养风险筛查，明确具有营养风险且不能经饮食补充足够营养的患者方予支付。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "肠内营养",
+    "dosage_form": "乳剂",
+    "manual": {
+      "indications": "适用于<strong>糖尿病患者</strong>；适用于<strong>糖耐量不正常合并有营养不良、有肠道功能而又不能正常进食的患者</strong>；用于<strong>糖尿病患者的肠内营养支持</strong>。",
+      "dosage": "口服或管饲。<strong>需要全量补充者：按体重一日30ml/kg，平均剂量为一日2000ml(1800kcal)</strong>；<strong>部分营养补充者：一日500ml(500kcal)</strong>；<strong>管饲给药时应逐渐增加给药速度，第一天约20ml/h，以后逐日增至125ml/h</strong>。",
+      "contraindications": "胃肠张力下降者禁用；急性胰腺炎者禁用；严重消化吸收障碍者禁用；肝肾功能不全者禁用；对本品所含成分有先天性代谢障碍者禁用。",
+      "adverse_reactions": "给药速度过快或过量时可能发生<strong>恶心、呕吐或腹泻</strong>；可能出现<strong>腹胀、腹痛</strong>等胃肠道不适。",
+      "interactions": "与降糖药合用时需适当调节降糖药用量；注意本品所含成分(如维生素A和K)的药物相互作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为糖尿病专用型肠内营养乳剂，碳水化合物来源于木薯淀粉和谷物淀粉，可改善糖耐量异常患者的血糖曲线下面积及胰岛素曲线下面积；所含膳食纤维有助于维持胃肠道功能。",
+      "precautions": "对糖尿病患者应适当调节降糖药用量；可将每天用量分成几小部分给予；给药速度过快或过量时可能发生不良反应；2025版医保乙类，需经营养风险筛查，明确具有营养风险且不能经饮食补充足够营养的患者方予支付。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "垂体后叶",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "用于<strong>产科催产及产后收缩子宫、止血</strong>；适用于<strong>肺、支气管出血(如咯血)</strong>；适用于<strong>消化道出血(呕血、便血)</strong>；对于<strong>腹腔手术后肠道麻痹</strong>等亦有功效；本品尚对<strong>尿崩症</strong>有减少排尿量的作用。",
+      "dosage": "肌内注射或静脉注射。<strong>产后止血：一次3-6单位</strong>；<strong>咯血或消化道出血：一次6-12单位</strong>；<strong>尿崩症：根据病情调整剂量</strong>；<strong>静脉滴注时加入5%葡萄糖注射液中稀释后使用</strong>。",
+      "contraindications": "对本品过敏者禁用；妊娠高血压综合征者禁用；冠状动脉疾病者禁用；心力衰竭者禁用；肺源性心脏病者禁用。",
+      "adverse_reactions": "常见<strong>面色苍白、出汗、心悸、胸闷、腹痛、便意</strong>；可见<strong>血压升高、心律失常</strong>；过量可能引起<strong>水中毒、低钠血症</strong>；长期使用可能引起<strong>冠状动脉收缩、心肌缺血</strong>。",
+      "interactions": "与麦角合用可增强子宫收缩作用；与硝酸酯类药物合用可改善用药安全性；与抗利尿药合用可能增加水潴留风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "含有催产素和加压素；小剂量催产素可增强子宫的节律性收缩，大剂量能引起强制性收缩；加压素有抗利尿和升压作用；肌内注射3-5分钟开始生效，维持20-30分钟。",
+      "precautions": "用药期间应密切监测血压、心率；冠状动脉疾病患者慎用；心力衰竭患者慎用；肾功能不全者慎用；持续使用最高剂量不应超过24小时；2025版医保甲类，限注射剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "雌二醇片/雌二醇地屈孕酮片复合包装",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "用于治疗<strong>自然或术后绝经所致的围绝经期综合征</strong>；用于<strong>缓解潮热、出汗等血管舒缩症状</strong>；用于<strong>改善外阴阴道萎缩、性交困难等生殖泌尿道营养性疾病</strong>；用于<strong>改善睡眠障碍、衰弱等精神症状</strong>。",
+      "dosage": "口服。<strong>按包装顺序每日服用1片</strong>；<strong>前14天服用白色雌二醇片(含雌二醇2mg)</strong>；<strong>后14天服用灰色雌二醇地屈孕酮片(含雌二醇2mg和地屈孕酮10mg)</strong>；<strong>28天为一疗程，疗程结束后继续下一疗程不间断</strong>。",
+      "contraindications": "对本品过敏者禁用；已知或怀疑乳腺癌者禁用；已知或怀疑雌激素依赖性恶性肿瘤者禁用；未确诊的阴道出血者禁用；严重肝病患者禁用；血栓栓塞性疾病患者禁用；妊娠期及哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>头痛、乳房胀痛、不规则阴道出血</strong>；可见<strong>恶心、腹胀、水肿、体重增加</strong>；偶见<strong>抑郁、性欲改变、皮疹</strong>；罕见<strong>血栓栓塞、肝功能异常</strong>。",
+      "interactions": "与肝酶诱导剂合用可能降低本品疗效；与华法林合用可能减弱抗凝效果；与糖皮质激素合用可能增强其作用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "雌二醇具有与人体内源性雌二醇相同的化学和生物特性，参与子宫和附件功能，引起子宫内膜增生及宫颈和阴道的周期性变化；对骨和脂肪代谢起重要作用；地屈孕酮为孕激素，可保护子宫内膜。",
+      "precautions": "治疗前应进行全面的体格检查；用药期间应定期监测乳腺和子宫内膜；有血栓栓塞病史者慎用；肝肾功能不全者慎用；用药期间如出现视力障碍应停药检查；2025版医保乙类，限口服常释剂型。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "仑卡奈单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "用于治疗<strong>由阿尔茨海默病引起的轻度认知障碍</strong>；用于治疗<strong>阿尔茨海默病轻度痴呆</strong>；<strong>针对淀粉样蛋白β的抗体治疗</strong>。",
+      "dosage": "静脉输注。<strong>推荐剂量为10mg/kg，每2周给药1次</strong>；<strong>使用前用250ml 0.9%氯化钠注射液稀释</strong>；<strong>输注前稀释液应放至室温</strong>；<strong>约在1小时内完成静脉输注</strong>。",
+      "contraindications": "对本品过敏者禁用；妊娠期及哺乳期妇女禁用；儿童禁用；严重脑水肿患者禁用。",
+      "adverse_reactions": "常见<strong>输液相关反应、头痛</strong>；可见<strong>淀粉样蛋白相关影像异常(ARIA-脑水肿)</strong>；可能出现<strong>呼吸困难、低血压、寒战、恶心、呕吐</strong>；可见<strong>肌肉骨骼疼痛、皮疹、瘙痒</strong>。",
+      "interactions": "与其他免疫调节药物合用时需谨慎；与抗凝药物合用可能增加出血风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为人源化单克隆抗体，可与淀粉样蛋白β结合，促进其清除；静脉输注后分布于全身；半衰期较长，每2周给药1次即可维持有效血药浓度。",
+      "precautions": "开始治疗前需确认淀粉样蛋白β病理的存在；开始治疗前获取近期(一年内)的脑部MRI；在第5、7和14次输液前获取MRI监测ARIA；若观察到ARIA需根据类型、严重程度和症状进行处理；输注过程中需密切监测患者反应；本品为自费药品。",
+      "source": "湖南药事服务网"
+    }
+  }
+]

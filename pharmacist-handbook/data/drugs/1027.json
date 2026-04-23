@@ -1,0 +1,53 @@
+{
+  "id": 1027,
+  "name": "盐酸二甲弗林注射液",
+  "dosage_form": "注射液",
+  "full_name": "(乙10%)盐酸二甲弗林注射液",
+  "chemical_name": "盐酸二甲弗林注射液",
+  "types": [],
+  "manufacturers": [
+    "上海上药第一生化药业"
+  ],
+  "specifications": [
+    {
+      "specification": "8mg/支",
+      "manufacturer": "上海上药第一生化药业",
+      "full_manufacturer": "上海上药第一生化药业有限公司",
+      "price": 498.0,
+      "unit": "支",
+      "code": "X00669",
+      "approval_number": "国药准字H31022092",
+      "insurance_code": "XR07ABE019B002010200651",
+      "location": "B-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于各种原因引起的中枢性呼吸衰竭、麻醉药、催眠药所致的呼吸抑制及外伤、手术等引起的虚脱和休克。",
+    "dosage": "⑴口服：一次8～16mg，一日2～3次。 ⑵肌内注射：一次8mg，粉针剂临用前用注射用水2ml溶解。 ⑶静脉注射：一次8～16mg，粉针剂临用前用5％葡萄糖注射液溶解并稀释，然后缓慢注射。 ⑷静脉滴注：用于重症患者，一次16～32mg，临用前以氯化钠注射液或5％葡萄糖注射液溶解并稀释，然后静脉滴注。",
+    "contraindications": "症 有惊厥病史、吗啡中毒、肝肾功能不全者及孕妇、哺乳期妇女禁用。",
+    "adverse_reactions": "可见恶心、呕吐、皮肤烧灼感等。剂量过大，可引起肌肉震颤、惊厥（应准备短效巴比妥类，如异戊巴比妥，作惊厥时急救用）。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "儿童、老年患者慎用。静脉注射速度必须缓慢，并应随时注意病情。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于各种原因引起的中枢性呼吸衰竭、麻醉药、催眠药所致的呼吸抑制及外伤、手术等引起的虚脱和休克。",
+    "full_dosage": "⑴口服：一次8～16mg，一日2～3次。 ⑵肌内注射：一次8mg，粉针剂临用前用注射用水2ml溶解。 ⑶静脉注射：一次8～16mg，粉针剂临用前用5％葡萄糖注射液溶解并稀释，然后缓慢注射。 ⑷静脉滴注：用于重症患者，一次16～32mg，临用前以氯化钠注射液或5％葡萄糖注射液溶解并稀释，然后静脉滴注。",
+    "full_contraindications": "症 有惊厥病史、吗啡中毒、肝肾功能不全者及孕妇、哺乳期妇女禁用。",
+    "full_adverse_reactions": "可见恶心、呕吐、皮肤烧灼感等。剂量过大，可引起肌肉震颤、惊厥（应准备短效巴比妥类，如异戊巴比妥，作惊厥时急救用）。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "本品安全范围较窄，剂量掌握不当易致抽搐或惊厥，应准备短效巴比妥类（如异戊巴比妥）作惊厥时急救用。静脉注射速度必须缓慢，并应随时注意病情。儿童、老年患者慎用。 输液调配 ⑴盐酸二弗林注射液：一次8～16mg用5%葡萄糖注射液适量稀释作静脉注射液；或一次16～32mg用0.9%氯化钠注射液或5%葡萄糖注射液适量稀释作静脉滴注液。 ⑵注射用盐酸二弗林：每瓶药物以5%葡萄糖注射液适量溶解并稀释作静脉注射液；或溶解液用0.9%氯化钠注射液或5%葡萄糖注射液适量稀释作静脉滴注液。 ⑶新鲜调配为无色的澄明液体。盐酸二弗林注射液pH为4.0～6.0。",
+    "solvent": "肌注：用注射用水溶解；静注：用葡萄糖注射液溶解；静滴：用0.9%氯化钠注射液稀释"
+  },
+  "pinyin": "yansuanerjiafulin",
+  "pinyin_initials": "ysejfl",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=943",
+    "last_updated": "2026-03-21"
+  }
+}

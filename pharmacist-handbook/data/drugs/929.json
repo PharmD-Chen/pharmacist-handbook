@@ -1,0 +1,50 @@
+{
+  "id": 929,
+  "name": "多奈单抗注射液",
+  "dosage_form": "注射液",
+  "full_name": "(自)多奈单抗注射液",
+  "chemical_name": "多奈单抗注射液",
+  "types": [],
+  "manufacturers": [
+    "Eli Lilly and Company"
+  ],
+  "specifications": [
+    {
+      "specification": "350mg/瓶",
+      "manufacturer": "Eli Lilly and Company",
+      "full_manufacturer": "Eli Lilly and Company(Lilly France)",
+      "price": 5500.0,
+      "unit": "盒",
+      "code": "X00943",
+      "approval_number": "国药准字SJ20240047",
+      "insurance_code": "XN06DXD374B002010178396"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于治疗由阿尔茨海默病引起的轻度认知障碍和阿尔茨海默病轻度痴呆。",
+    "dosage": "静脉输注：推荐剂量为一次700mg，前三剂每四周静脉输注约30分钟，然后每四周注射1400 mg。溶媒为0.9%氯化钠注射液。给药前，需要用0.9%氯化钠注射液稀释至终浓度为4mg/mL至10m...",
+    "contraindications": "已知对本品或任何赋形剂严重过敏的患者禁用。",
+    "adverse_reactions": "最常见的不良反应（与安慰剂相比，发生率至少为10%或更高）：ARIA-E、ARIA-H微出血、ARIA-Hsuperficial铁沉着症和头痛。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "多奈单抗是一种靶向于脑内β淀粉样蛋白（Aβ）的人源化免疫球蛋白IgG1单克隆抗体，与阿尔茨海默病患者大脑中沉积的β淀粉样蛋白结合，多奈单抗可减少Aβ斑块并延缓阿尔茨海默病相关症状进展。",
+    "precautions": "⑴使用本品前应进行淀粉样蛋白相关影像学检查，再根据患者出现的淀粉样蛋白相关影像学异常（ARIA）的症状进行临床评估后决定是否使用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗由阿尔茨海默病引起的轻度认知障碍和阿尔茨海默病轻度痴呆。",
+    "full_dosage": "静脉输注：推荐剂量为一次700mg，前三剂每四周静脉输注约30分钟，然后每四周注射1400 mg。溶媒为0.9%氯化钠注射液。给药前，需要用0.9%氯化钠注射液稀释至终浓度为4mg/mL至10mg/mL。",
+    "full_contraindications": "已知对本品或任何赋形剂严重过敏的患者禁用。",
+    "full_adverse_reactions": "最常见的不良反应（与安慰剂相比，发生率至少为10%或更高）：ARIA-E、ARIA-H微出血、ARIA-Hsuperficial铁沉着症和头痛。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "多奈单抗是一种靶向于脑内β淀粉样蛋白（Aβ）的人源化免疫球蛋白IgG1单克隆抗体，与阿尔茨海默病患者大脑中沉积的β淀粉样蛋白结合，多奈单抗可减少Aβ斑块并延缓阿尔茨海默病相关症状进展。",
+    "full_precautions": "⑴使用本品前应进行淀粉样蛋白相关影像学检查，再根据患者出现的淀粉样蛋白相关影像学异常（ARIA）的症状进行临床评估后决定是否使用。<br>⑵输注相关反应：输注速率可能会降低，或者可能会停止输注，并根据临床需要开始适当的治疗。在后续给药之前，考虑使用抗组胺药、对乙酰氨基酚或皮质类固醇进行预处理。"
+  },
+  "pinyin": "duonaidankang",
+  "pinyin_initials": "dndk",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13629",
+    "last_updated": "2026-03-22"
+  }
+}

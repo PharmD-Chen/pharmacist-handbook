@@ -1,0 +1,65 @@
+{
+  "id": 458,
+  "name": "盐酸洛贝林注射液",
+  "dosage_form": "注射液",
+  "full_name": "(甲)盐酸洛贝林注射液[国基]",
+  "chemical_name": "盐酸洛贝林注射液",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "上海禾丰制药",
+    "北京市永康药业"
+  ],
+  "specifications": [
+    {
+      "specification": "3mg/支",
+      "manufacturer": "上海禾丰制药",
+      "full_manufacturer": "上海禾丰制药有限公司",
+      "price": 18.25,
+      "unit": "支",
+      "code": "X00587",
+      "approval_number": "国药准字H31021342",
+      "insurance_code": "XR07ABL271B002010200673"
+    },
+    {
+      "specification": "3mg/支",
+      "manufacturer": "北京市永康药业",
+      "full_manufacturer": "北京市永康药业有限公司",
+      "price": 18.25,
+      "unit": "支",
+      "code": "X00695",
+      "approval_number": "国药准字H11020525",
+      "insurance_code": "XR07ABL271B002020100137",
+      "location": "N-5"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "主要用于各种原因引起的呼吸抑制。临床上常用于新生儿窒息，一氧化碳、阿片中毒。",
+    "dosage": "成人：，一次3mg",
+    "contraindications": "尚不明确。",
+    "adverse_reactions": "常见：恶心、呕吐、头痛等。",
+    "interactions": "洛贝林与碱性药物合用，产生山梗素沉淀；与尼古丁合用，可出现恶心、出　汗、心悸等症状。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "可刺激颈动脉窦和主动脉体化学感受器（均为N1受体），反射性地兴奋呼吸中枢而使呼吸加快，但对呼吸中枢并无直接兴奋作用。对迷走神经中枢和血管运动中枢也同时具有放射性的兴奋作用；对植物神经节先兴奋而后阻断。",
+    "precautions": "⑴本品可用于婴幼儿、新生儿。  \n⑵剂量较大时，能引起心动过速、传导阻滞、呼吸抑制甚至惊厥。",
+    "source": "湖南药事服务网",
+    "full_indications": "主要用于各种原因引起的呼吸抑制。临床上常用于新生儿窒息，一氧化碳、阿片中毒。",
+    "full_dosage": "⑴静脉注射：常用量：①成人，一次3mg；极量：一次6mg，一日20mg。②小儿，一次0.3～3mg，必要时每隔30分钟可重复使用；新生儿窒息可注入肚脐静脉3mg。  <br>　　⑵皮下或肌肉注射：常用量：①成人，一次10mg；极量：一次20mg，一日50mg。②小儿，一次1～3mg。",
+    "full_contraindications": "尚不明确。",
+    "full_adverse_reactions": "⑴可有恶心、呕吐、呛咳、头痛、心悸等。  <br>⑵剂量较大时能引起心动过速、传导阻滞、呼吸抑制甚至惊厥。",
+    "full_interactions": "洛贝林与碱性药物合用，产生山梗素沉淀；与尼古丁合用，可出现恶心、出　汗、心悸等症状。",
+    "full_pharmacokinetics": "可刺激颈动脉窦和主动脉体化学感受器（均为N1受体），反射性地兴奋呼吸中枢而使呼吸加快，但对呼吸中枢并无直接兴奋作用。对迷走神经中枢和血管运动中枢也同时具有放射性的兴奋作用；对植物神经节先兴奋而后阻断。",
+    "full_precautions": "⑴本品可用于婴幼儿、新生儿。  <br>⑵剂量较大时，能引起心动过速、传导阻滞、呼吸抑制甚至惊厥。"
+  },
+  "pinyin": "yansuanluobeilin",
+  "pinyin_initials": "yslbl",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=941",
+    "last_updated": "2026-03-22"
+  }
+}

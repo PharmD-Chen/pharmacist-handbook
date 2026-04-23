@@ -1,0 +1,53 @@
+{
+  "id": 172,
+  "name": "牛痘疫苗接种家兔炎症皮肤提取物注射液",
+  "dosage_form": "注射液",
+  "full_name": "(自)牛痘疫苗接种家兔炎症皮肤提取物注射液",
+  "chemical_name": "牛痘疫苗接种家兔炎症皮肤提取物",
+  "types": [],
+  "manufacturers": [
+    "Nippon Zoki Pharmaceutical Co.,Ltd."
+  ],
+  "specifications": [
+    {
+      "specification": "3.6单位:3ml/支",
+      "manufacturer": "Nippon Zoki Pharmaceutical Co.,Ltd.",
+      "full_manufacturer": "Nippon Zoki Pharmaceutical Co.,Ltd.（Nippon Zoki Pharmaceutical Co.,Ltd.,Ono Greenery Factory）",
+      "price": 25.49,
+      "unit": "支",
+      "code": "X00575",
+      "approval_number": "S20140085",
+      "insurance_code": "XN02BGN064B002010179092",
+      "location": "B-4",
+      "outpatient_location": "V-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "⑴补充雌激素不足，如萎缩性阴道炎、女性性腺的功能不足、外阴干燥症、绝经期血管舒缩症状、卵巢切除、原发性卵巢衰竭等； ⑵晚期前列腺癌（乳腺癌、卵巢癌患者禁用）； ⑶与孕激素类药物合用，能抑制排卵，可作避孕药。",
+    "dosage": "⑴肌内注射：①补充雌激素不足，5mg，每4周1次。②前列腺癌，一次30mg，每1～2周1次，按需调整剂量。 ⑵按周期序贯疗法，每经过21日的治疗后，须停药至少1周。",
+    "contraindications": "症 妊娠期妇女禁用；哺乳期妇女禁用。",
+    "adverse_reactions": "参阅雌激素。",
+    "interactions": "参阅雌激素。 用药交代 戊酸雌二醇经阴道给药不能脱戊酸，吸收极少，不推荐经阴道给药。 给药说明 ⑴应用最低有效量，时间尽可能缩短，以减少可能发生的不良反应。⑵男性以及女性子宫切除后的患者，通常采用周期性治疗，即用药3周后停药1周，相当于自然月经周期中雌激素的变化情况；有子宫的女性，为避免过度刺激，可在周期的最后10~14天加用孕激素，模拟自然周期中激素的节律性变化浓度。⑶长期或大量使用雌激素者，当停药或减量时应逐步减量。",
+    "pregnancy_category": "X\n \n",
+    "pharmacokinetics": "⑴药效学：本品为长效雌二醇衍生物。参阅雌激素。 ⑵药动学：口服吸收完全，被胃肠道吸收后，在肝内代谢，分解成雌二醇和戊酸，口服戊酸雌二醇后约有3％雌二醇被生物利用。",
+    "precautions": "有子宫的女性，为避免过度刺激，可在周期的最后10~14天加用孕激素，模拟自然周期中激素的节律性变化浓度。",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴补充雌激素不足，如萎缩性阴道炎、女性性腺的功能不足、外阴干燥症、绝经期血管舒缩症状、卵巢切除、原发性卵巢衰竭等； ⑵晚期前列腺癌（乳腺癌、卵巢癌患者禁用）； ⑶与孕激素类药物合用，能抑制排卵，可作避孕药。",
+    "full_dosage": "⑴肌内注射：①补充雌激素不足，5mg，每4周1次。②前列腺癌，一次30mg，每1～2周1次，按需调整剂量。 ⑵口服：一次1mg，一日1次，餐后服。按周期序贯疗法，每经过21日的治疗后，须停药至少1周。",
+    "full_contraindications": "症 妊娠期妇女禁用；哺乳期妇女禁用。",
+    "full_adverse_reactions": "参阅雌激素。",
+    "full_interactions": "参阅雌激素。 用药交代 戊酸雌二醇经阴道给药不能脱戊酸，吸收极少，不推荐经阴道给药。 给药说明 ⑴应用最低有效量，时间尽可能缩短，以减少可能发生的不良反应。⑵男性以及女性子宫切除后的患者，通常采用周期性治疗，即用药3周后停药1周，相当于自然月经周期中雌激素的变化情况；有子宫的女性，为避免过度刺激，可在周期的最后10~14天加用孕激素，模拟自然周期中激素的节律性变化浓度。⑶长期或大量使用雌激素者，当停药或减量时应逐步减量。",
+    "full_pharmacokinetics": "⑴药效学：本品为长效雌二醇衍生物。参阅雌激素。 ⑵药动学：口服吸收完全，被胃肠道吸收后，在肝内代谢，分解成雌二醇和戊酸，口服戊酸雌二醇后约有3％雌二醇被生物利用。",
+    "full_precautions": "参阅雌激素。 药物相互作用 参阅雌激素。 用药交代 戊酸雌二醇经阴道给药不能脱戊酸，吸收极少，不推荐经阴道给药。 给药说明 ⑴应用最低有效量，时间尽可能缩短，以减少可能发生的不良反应。⑵男性以及女性子宫切除后的患者，通常采用周期性治疗，即用药3周后停药1周，相当于自然月经周期中雌激素的变化情况；有子宫的女性，为避免过度刺激，可在周期的最后10~14天加用孕激素，模拟自然周期中激素的节律性变化浓度。⑶长期或大量使用雌激素者，当停药或减量时应逐步减量。",
+    "full_pregnancy_category": "X\n \n"
+  },
+  "pinyin": "niudouyimiaojiezhongjiatuyanzhengpifutiquwu",
+  "pinyin_initials": "ndymjzjtyzpftqw",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1398",
+    "last_updated": "2026-03-21"
+  }
+}

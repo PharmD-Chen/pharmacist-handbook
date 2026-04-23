@@ -1,0 +1,45 @@
+{
+  "id": 583,
+  "name": "盐酸地尔硫卓缓释胶囊(Ⅱ)",
+  "dosage_form": "胶囊",
+  "full_name": "(甲)盐酸地尔硫卓缓释胶囊(Ⅱ)",
+  "chemical_name": "盐酸地尔硫卓缓释胶囊（Ⅱ）",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "远大医药"
+  ],
+  "specifications": [
+    {
+      "specification": "90mg/粒",
+      "manufacturer": "远大医药",
+      "full_manufacturer": "远大医药（天津）有限公司",
+      "price": 15.48,
+      "unit": "盒",
+      "code": "X00403",
+      "approval_number": "国药准字H19990388",
+      "insurance_code": "XC08DBD250E003010100945",
+      "location": "F-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "yansuandierliuzhuohuanshi",
+  "pinyin_initials": "ysdelzhs",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=107"
+  }
+}

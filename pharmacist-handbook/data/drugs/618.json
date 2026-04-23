@@ -1,0 +1,53 @@
+{
+  "id": 618,
+  "name": "头孢克洛干混悬剂",
+  "dosage_form": "混悬剂",
+  "full_name": "(甲)头孢克洛干混悬剂",
+  "chemical_name": "头孢克洛干混悬剂",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "石家庄四药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.125g/袋",
+      "manufacturer": "石家庄四药",
+      "full_manufacturer": "石家庄四药有限公司",
+      "price": 11.8,
+      "unit": "盒",
+      "code": "X00018",
+      "approval_number": "国药准字H20084562",
+      "insurance_code": "XJ01DCT072X006020202763",
+      "location": "H-2",
+      "outpatient_location": "2H-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "放射检查病人的肠道准备，基于蓖麻油能将肠道中的气体和粪便彻底排空。这一强泻药不宜用于常见的便秘。",
+    "dosage": "口服，①成人：一次10～20ml，总量不超过60ml。②小儿：5～15ml；小于2岁的婴儿，1～5ml。",
+    "contraindications": "症 忌与脂溶性驱肠虫药同用。孕妇与经期妇女忌服。",
+    "adverse_reactions": "常见：为恶心、呕吐等",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "不宜长期服用。",
+    "source": "湖南药事服务网",
+    "full_indications": "放射检查病人的肠道准备，基于蓖麻油能将肠道中的气体和粪便彻底排空。这一强泻药不宜用于治疗常见的便秘。",
+    "full_pharmacokinetics": "",
+    "full_dosage": "口服，①成人：一次10～20ml，总量不超过60ml。②小儿：5～15ml；小于2岁的婴儿，1～5ml。",
+    "full_contraindications": "症 忌与脂溶性驱肠虫药同用。孕妇与经期妇女忌服。",
+    "full_adverse_reactions": "泻后可有短期便秘，常见不良反应为恶心、呕吐等。蓖麻油在小肠内可引起形态学改变，并改变黏膜的通透性。可发生腹痛、脱水的电解质失衡。",
+    "full_precautions": "不宜长期服用。"
+  },
+  "pinyin": "toubaokeluogan",
+  "pinyin_initials": "tbklg",
+  "dosage_form_pinyin": "hunxuanji",
+  "dosage_form_initials": "hxj",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=578",
+    "last_updated": "2026-03-21"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": 192,
+  "name": "仑卡奈单抗注射液",
+  "dosage_form": "注射液",
+  "full_name": "(自)仑卡奈单抗注射液",
+  "chemical_name": "仑卡奈单抗注射液",
+  "types": [],
+  "manufacturers": [
+    "Eisai Inc."
+  ],
+  "specifications": [
+    {
+      "specification": "200mg/瓶",
+      "manufacturer": "Eisai Inc.",
+      "full_manufacturer": "Eisai Inc.（Biogen US Corporation）",
+      "price": 2508.0,
+      "unit": "盒",
+      "code": "X00485",
+      "approval_number": "国药准字SJ20240001",
+      "insurance_code": "XN06DXL421B002010185293"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于轻度阿尔茨海默病（AD）和阿尔茨海默病（AD）引起的轻度认知障碍（MCI）疾病的改善治疗。",
+    "dosage": "成人：推荐剂量为10mg",
+    "contraindications": "禁忌用于对本品或其任何赋形剂有严重超敏反应的患者。",
+    "adverse_reactions": "最常见的不良反应（与安慰剂相比，发生率约为10%或更高）：输液相关反应、淀粉样蛋白相关成像正常微出血、淀粉样蛋白质相关成像异常水肿/积液和头痛。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "仑卡奈单抗是一款抗淀粉样蛋白（Aβ）原纤维抗体，可选择性地与可溶性Aβ聚合物（原纤维）结合，也可以与Aβ斑块的主要成分不溶性的Aβ聚合物（纤维）结合，从而清除大脑中的Aβ原纤维和Aβ斑块。",
+    "precautions": "⑴淀粉样蛋白相关成像异常（ARIA）：建议在LEQEMBI治疗的前14周加强ARIA的临床诊断。与杂合子和非携带者相比，载脂蛋白Eε4纯合子患ARIA（包括症状性ARIA）的风险增加。如果患者出现疑似ARIA的症状，应进行临床评估，包括必要的MRI扫描。\n⑵输液相关反应：可能会降低输液速率，或停止输液，并根据临床指示进行适当的治疗。考虑用药前和随后给药抗组胺",
+    "source": "湖南药事服务网",
+    "full_indications": "用于轻度阿尔茨海默病（AD）和阿尔茨海默病（AD）引起的轻度认知障碍（MCI）疾病的改善治疗。",
+    "full_dosage": "静脉输注：成人推荐剂量为10mg/kg，每两周1次。给药前需要用0.9%的氯化钠注射液250mL稀释。通过0.2微米的低蛋白结合过滤器，静脉输注约1小时。<br>在第5次、第7次和第14次输注前进行核磁共振检查。如果发生放射学观察到的淀粉样蛋白相关成像异常，则根据症状的类型、严重程度和存在情况提出治疗建议。",
+    "full_contraindications": "禁忌用于对本品或其任何赋形剂有严重超敏反应的患者。",
+    "full_adverse_reactions": "最常见的不良反应（与安慰剂相比，发生率约为10%或更高）：输液相关反应、淀粉样蛋白相关成像正常微出血、淀粉样蛋白质相关成像异常水肿/积液和头痛。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "仑卡奈单抗是一款抗淀粉样蛋白（Aβ）原纤维抗体，可选择性地与可溶性Aβ聚合物（原纤维）结合，也可以与Aβ斑块的主要成分不溶性的Aβ聚合物（纤维）结合，从而清除大脑中的Aβ原纤维和Aβ斑块。",
+    "full_precautions": "⑴淀粉样蛋白相关成像异常（ARIA）：建议在LEQEMBI治疗的前14周加强ARIA的临床诊断。与杂合子和非携带者相比，载脂蛋白Eε4纯合子患ARIA（包括症状性ARIA）的风险增加。如果患者出现疑似ARIA的症状，应进行临床评估，包括必要的MRI扫描。<br>⑵输液相关反应：可能会降低输液速率，或停止输液，并根据临床指示进行适当的治疗。考虑用药前和随后给药抗组胺药、非甾体抗炎药或皮质类固醇。(5.2)"
+  },
+  "pinyin": "lunkanaidankang",
+  "pinyin_initials": "lkndk",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13740",
+    "last_updated": "2026-03-22"
+  }
+}

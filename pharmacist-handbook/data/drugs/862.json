@@ -1,0 +1,50 @@
+{
+  "id": 862,
+  "name": "正骨紫金丸",
+  "dosage_form": "丸",
+  "full_name": "(乙10%)正骨紫金丸",
+  "chemical_name": "正骨紫金丸",
+  "types": [],
+  "manufacturers": [
+    "沈阳东新药业"
+  ],
+  "specifications": [
+    {
+      "specification": "4.5g/袋",
+      "manufacturer": "沈阳东新药业",
+      "full_manufacturer": "沈阳东新药业有限公司",
+      "price": 109.86,
+      "unit": "盒",
+      "code": "C00088",
+      "approval_number": "国药准字Z20093095",
+      "insurance_code": "ZG01AAZ0125010201283"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "活血散瘀，消肿止痛。主治骨伤痹痛。用于跌打损伤，经络不通，瘀血肿痛 软组织损伤、骨折、脱臼等。",
+    "dosage": "口服：一次1丸，一日2次。 剂型与规格 大蜜丸 9g ZG01A乙1160 5% 暂无",
+    "contraindications": "对本品过敏者禁用。 用法与用量 口服：一次1丸，一日2次。 剂型与规格 大蜜丸 9g ZG01A乙1160 5% 暂无",
+    "adverse_reactions": "尚不明确。 禁忌症 对本品过敏者禁用。 用法与用量 口服：一次1丸，一日2次。 剂型与规格 大蜜丸 9g ZG01A乙1160 5% 暂无",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": "丁香、莲子、熟大黄、儿茶、白芍（炒）、血竭、牡丹皮、当归、木香、茯苓、红花、甘草。",
+    "precautions": "",
+    "source": "",
+    "full_indications": "活血散瘀，消肿止痛。主治骨伤痹痛。用于跌打损伤，经络不通，瘀血肿痛；软组织损伤、骨折、脱臼等。",
+    "full_dosage": "口服：一次1丸，一日2次。 剂型与规格 大蜜丸 9g ZG01A乙1160 5% 暂无",
+    "full_contraindications": "对本品过敏者禁用。 用法与用量 口服：一次1丸，一日2次。 剂型与规格 大蜜丸 9g ZG01A乙1160 5% 暂无",
+    "full_adverse_reactions": "尚不明确。 禁忌症 对本品过敏者禁用。 用法与用量 口服：一次1丸，一日2次。 剂型与规格 大蜜丸 9g ZG01A乙1160 5% 暂无",
+    "full_precautions": "",
+    "full_pharmacokinetics": "丁香、莲子、熟大黄、儿茶、白芍（炒）、血竭、牡丹皮、当归、木香、茯苓、红花、甘草。",
+    "full_interactions": "",
+    "composition": "丁香、莲子、熟大黄、儿茶、白芍（炒）、血竭、牡丹皮、当归、木香、茯苓、红花、甘草。"
+  },
+  "pinyin": "zhengguzijin",
+  "pinyin_initials": "zgzj",
+  "dosage_form_pinyin": "wan",
+  "dosage_form_initials": "w",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5768"
+  }
+}

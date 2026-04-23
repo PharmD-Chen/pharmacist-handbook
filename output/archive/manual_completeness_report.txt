@@ -1,0 +1,213 @@
+================================================================================
+药品手册内容完整性检查报告
+================================================================================
+
+总药品数: 1032
+
+【内容完整性统计】
+✓ 内容完整 (≥6个字段): 855 (82.8%)
+△ 内容部分 (1-5个字段): 43 (4.2%)
+✗ 无内容: 134 (13.0%)
+
+【各字段覆盖情况】
+  indications              :  874 ( 84.7%)
+  dosage                   :  897 ( 86.9%)
+  contraindications        :  886 ( 85.9%)
+  adverse_reactions        :  889 ( 86.1%)
+  interactions             :  777 ( 75.3%)
+  precautions              :  879 ( 85.2%)
+  pharmacokinetics         :  795 ( 77.0%)
+  pregnancy_category       :  263 ( 25.5%)
+
+【数据来源统计】
+  湖南药事服务网                       :  895
+  药品说明书                         :    3
+
+【非湖南药事服务网来源的药品】(3个)
+--------------------------------------------------------------------------------
+ID    5: 氯化钾 - 来源: 药品说明书
+ID  372: 灭菌注射用水 - 来源: 药品说明书
+ID  444: 浓氯化钠 - 来源: 药品说明书
+
+【部分内容的药品列表】(43个)
+--------------------------------------------------------------------------------
+ID   68: 复方电解质醋酸钠葡萄糖 - 字段: indications, dosage, contraindications, adverse_reactions, precautions
+ID  102: 碘美普尔 - 字段: indications, dosage, contraindications, adverse_reactions, precautions
+ID  112: 5%葡萄糖氯化钠 - 字段: indications, dosage, contraindications, adverse_reactions, pharmacokinetics
+ID  225: 荧光素钠 - 字段: indications, dosage, contraindications, adverse_reactions, precautions
+ID  252: ※▲注射用血栓通 - 字段: indications, dosage, adverse_reactions, precautions, pharmacokinetics
+ID  270: 复合维生素B - 字段: indications, dosage, contraindications, adverse_reactions, precautions
+ID  364: 柑橘黄酮 - 字段: indications, dosage, contraindications, adverse_reactions, interactions
+ID  367: ※▲帕妥珠单抗 - 字段: indications, dosage, adverse_reactions, pharmacokinetics
+ID  368: 炉甘石 - 字段: indications, dosage, adverse_reactions, precautions, pharmacokinetics
+ID  371: 湿润烧伤膏 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  383: 康复新液 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  389: 天丹通络 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  390: 天舒 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  472: 六味地黄 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  484: 迈之灵 - 字段: dosage, contraindications, adverse_reactions, precautions
+ID  487: ※▲※▲清开灵 - 字段: dosage, contraindications, adverse_reactions, precautions
+ID  488: 脉络宁口服液 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  498: 德谷胰岛素 - 字段: indications, dosage, precautions, pharmacokinetics
+ID  502: 白脉 - 字段: dosage
+ID  524: ※▲连榆烧伤膏 - 字段: dosage, contraindications, adverse_reactions, precautions
+ID  526: ※▲香丹 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  582: 人纤维蛋白粘 - 字段: indications
+ID  592: ※▲帕妥珠曲妥珠单抗 - 字段: indications, dosage, contraindications, precautions, pharmacokinetics
+ID  606: 信迪利单抗 - 字段: indications, dosage, adverse_reactions, precautions, pharmacokinetics
+ID  626: 解郁除烦 - 字段: dosage, contraindications, adverse_reactions, precautions
+ID  627: 替普瑞酮 - 字段: indications, dosage, contraindications, adverse_reactions, pharmacokinetics
+ID  668: 牛痘疫苗接种家兔炎症皮肤提取物 - 字段: indications, dosage, adverse_reactions, pharmacokinetics
+ID  816: 注射用醋酸地加瑞克 - 字段: indications, dosage, contraindications, adverse_reactions, pharmacokinetics
+ID  874: 活血止痛膏 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  882: 西帕依固龈液 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  883: 复方阿胶浆 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  885: 牛黄清心 - 字段: dosage, precautions
+ID  893: 门冬胰岛素30 - 字段: indications, dosage, adverse_reactions, pharmacokinetics
+ID  918: 胆宁 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  927: ※▲儿茶上清 - 字段: dosage, contraindications, adverse_reactions, precautions
+ID  933: 华佗再造 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  968: 金匮肾气 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID  969: 精蛋白锌重组赖脯胰岛素混合 - 字段: indications, dosage, contraindications
+ID 1010: 祛风骨痛凝胶膏 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID 1011: 凝血酶 - 字段: indications, dosage, pharmacokinetics
+ID 1015: 筋骨伤 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID 1021: 大川芎口服液 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+ID 1032: 桂林西瓜霜 - 字段: dosage, contraindications, adverse_reactions, interactions, precautions
+
+【无内容的药品列表】(134个)
+--------------------------------------------------------------------------------
+ID  335: 妥布霉素 - 手册内容为空
+ID  376: ※▲盐酸右美托咪定鼻 - 手册内容为空
+ID  380: 盐酸丙卡特罗吸入溶液 - 手册内容为空
+ID  384: 糠酸莫米松 - 手册内容为空
+ID  456: 盐酸利多卡因胶浆 - 手册内容为空
+ID  471: 氯雷他定 - 手册内容为空
+ID  473: 硫酸镁 - 手册内容为空
+ID  476: 硫酸沙丁胺醇吸入 - 手册内容为空
+ID  478: 盐酸坦索罗辛缓释 - 手册内容为空
+ID  479: 盐酸特比萘芬 - 手册内容为空
+ID  499: ※▲盐酸安罗替尼 - 手册内容为空
+ID  500: 氨溴特罗 - 手册内容为空
+ID  503: ※▲百令 - 手册内容为空
+ID  506: 便通 - 手册内容为空
+ID  512: 丙戊酸钠 - 手册内容为空
+ID  513: 丙戊酸钠 - 手册内容为空
+ID  514: 布林佐胺 - 手册内容为空
+ID  515: 布洛芬缓释 - 手册内容为空
+ID  521: 苏黄止咳 - 手册内容为空
+ID  522: 注射用苯巴比妥钠 - 手册内容为空
+ID  530: 雷贝拉唑钠 - 手册内容为空
+ID  531: 阿奇霉素干 - 手册内容为空
+ID  532: 注射用阿昔洛韦 - 手册内容为空
+ID  539: ※▲注射用曲克芦丁 - 手册内容为空
+ID  542: 阿维A - 手册内容为空
+ID  543: 过氧苯甲酰 - 手册内容为空
+ID  545: 一清 - 手册内容为空
+ID  553: 格列吡嗪 - 手册内容为空
+ID  557: 氧氟沙星 - 手册内容为空
+ID  561: 盐酸羟考酮 - 手册内容为空
+ID  564: 盐酸文拉法辛缓释 - 手册内容为空
+ID  572: 注射用磷霉素钠 - 手册内容为空
+ID  573: 复方鲜竹沥液 - 手册内容为空
+ID  575: 金嗓开音 - 手册内容为空
+ID  577: 恒古骨伤愈 - 手册内容为空
+ID  583: 盐酸地尔硫卓缓释 - 手册内容为空
+ID  587: ※▲呋喹替尼 - 手册内容为空
+ID  588: ※盐酸二甲双胍 - 手册内容为空
+ID  590: 盐酸米诺环素 - 手册内容为空
+ID  591: 九味止咳口服液 - 手册内容为空
+ID  593: 利多卡因 - 手册内容为空
+ID  596: ※▲醋酸甲地孕酮 - 手册内容为空
+ID  597: 可溶性止血纱布 - 手册内容为空
+ID  600: ※▲二甲硅油 - 手册内容为空
+ID  605: 生理氯化钠溶液 - 手册内容为空
+ID  607: ※▲注射用紫杉醇 - 手册内容为空
+ID  621: 胰酶肠溶 - 手册内容为空
+ID  632: 蚓激酶肠溶 - 手册内容为空
+ID  643: 盐酸氮卓斯汀鼻 - 手册内容为空
+ID  644: 盐酸氮卓斯汀 - 手册内容为空
+ID  646: 羟苯磺酸钙 - 手册内容为空
+ID  649: 米拉贝隆 - 手册内容为空
+ID  652: 奥拉西坦 - 手册内容为空
+ID  653: 奥美拉唑肠溶 - 手册内容为空
+ID  654: 赛洛多辛 - 手册内容为空
+ID  666: 心可宁 - 手册内容为空
+ID  667: 注射用奥美拉唑钠 - 手册内容为空
+ID  670: 洛芬待因 - 手册内容为空
+ID  672: 骨痛灵酊 - 手册内容为空
+ID  673: 盐酸氟西汀 - 手册内容为空
+ID  679: 甘草酸二铵肠溶 - 手册内容为空
+ID  683: 复方利多卡因 - 手册内容为空
+ID  685: ※▲氟替美维吸入粉雾剂 - 手册内容为空
+ID  687: 注射用丙戊酸钠 - 手册内容为空
+ID  690: 他氟前列素 - 手册内容为空
+ID  692: 布地奈德鼻 - 手册内容为空
+ID  695: 复方托吡卡胺 - 手册内容为空
+ID  697: 碳酸钙D3 - 手册内容为空
+ID  698: 注射用青霉素钠 - 手册内容为空
+ID  699: 可乐定控释贴 - 手册内容为空
+ID  702: 丙酸氯倍他索 - 手册内容为空
+ID  704: 金蝉止痒 - 手册内容为空
+ID  718: 单硝酸异山梨酯缓释 - 手册内容为空
+ID  720: 复方甘草 - 手册内容为空
+ID  723: 芪黄通秘软 - 手册内容为空
+ID  727: 皮肤康洗液 - 手册内容为空
+ID  730: 胰酶 - 手册内容为空
+ID  732: ※▲布地格福吸入 - 手册内容为空
+ID  734: 注射用双羟萘酸曲普瑞林 - 手册内容为空
+ID  746: 骨化三醇胶 - 手册内容为空
+ID  750: 除湿止痒 - 手册内容为空
+ID  751: 他克莫司 - 手册内容为空
+ID  758: 盐酸金霉素 - 手册内容为空
+ID  759: 鲑降钙素鼻 - 手册内容为空
+ID  761: 阿昔洛韦 - 手册内容为空
+ID  769: 龙加通络 - 手册内容为空
+ID  770: ※▲克唑替尼 - 手册内容为空
+ID  783: 氟伐他汀钠 - 手册内容为空
+ID  792: ※▲酮洛芬凝胶 - 手册内容为空
+ID  798: 丙酸氟替卡松 - 手册内容为空
+ID  810: 复方甲氧那明 - 手册内容为空
+ID  812: 非诺贝特 - 手册内容为空
+ID  813: 芬太尼透皮 - 手册内容为空
+ID  819: 注射用盐酸多柔比星 - 手册内容为空
+ID  820: 盐酸美金刚 - 手册内容为空
+ID  822: 氧氟沙星 - 手册内容为空
+ID  825: 樟脑 - 手册内容为空
+ID  827: 噻托溴铵粉雾剂 - 手册内容为空
+ID  829: 逍遥 - 手册内容为空
+ID  836: 麝香痔疮栓 - 手册内容为空
+ID  840: 0.3%玻璃酸钠 - 手册内容为空
+ID  842: 缬沙坦 - 手册内容为空
+ID  845: 血塞通 - 手册内容为空
+ID  846: 血脂康 - 手册内容为空
+ID  858: 注射用胶原酶 - 手册内容为空
+ID  862: 正骨紫金 - 手册内容为空
+ID  865: 盐酸班布特罗 - 手册内容为空
+ID  878: 浓替硝唑含漱液 - 手册内容为空
+ID  881: ※▲乙磺酸尼达尼布软 - 手册内容为空
+ID  884: 碳酸锂 - 手册内容为空
+ID  895: 黄体酮软 - 手册内容为空
+ID  896: ※▲苯磺酸克利加巴林 - 手册内容为空
+ID  897: 丹参酮 - 手册内容为空
+ID  902: 青霉素皮试剂 - 手册内容为空
+ID  921: 酒石酸长春瑞滨软 - 手册内容为空
+ID  935: 多烯磷脂酰胆碱 - 手册内容为空
+ID  942: 抗凝血用枸橼酸钠溶液 - 手册内容为空
+ID  945: ※注射用糜蛋白酶 - 手册内容为空
+ID  947: 蒙脱石 - 手册内容为空
+ID  948: 孟鲁司特钠 - 手册内容为空
+ID  950: 麻仁软 - 手册内容为空
+ID  964: 坤泰 - 手册内容为空
+ID  965: 兰索拉唑肠溶 - 手册内容为空
+ID  973: 积雪苷霜 - 手册内容为空
+ID  975: 己酮可可碱 - 手册内容为空
+ID  981: 他克莫司 - 手册内容为空
+ID  989: ※▲乌帕替尼 - 手册内容为空
+ID  993: 胃复春 - 手册内容为空
+ID 1002: 盐酸丙美卡因 - 手册内容为空
+ID 1008: ※▲麦考酚钠 - 手册内容为空
+ID 1012: 硫酸钡干 - 手册内容为空
+ID 1022: 大活络 - 手册内容为空
+ID 1026: 甲磺酸二氢麦角碱 - 手册内容为空
+ID 1031: ※注射用头孢哌酮钠舒巴坦钠 - 手册内容为空

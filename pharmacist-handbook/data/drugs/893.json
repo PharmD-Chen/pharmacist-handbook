@@ -1,0 +1,66 @@
+{
+  "id": 893,
+  "name": "门冬胰岛素30注射液(笔芯)",
+  "dosage_form": "注射液",
+  "full_name": "(甲)门冬胰岛素30注射液(笔芯)",
+  "chemical_name": "门冬胰岛素30注射液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "诺和诺德制药"
+  ],
+  "specifications": [
+    {
+      "specification": "300单位/支",
+      "manufacturer": "诺和诺德制药",
+      "full_manufacturer": "诺和诺德(中国)制药有限公司",
+      "price": 35.55,
+      "unit": "盒",
+      "code": "Y00000014828",
+      "approval_number": "国药准字S20133006",
+      "insurance_code": "XA10ADM080B002010107103",
+      "location": "2B-6",
+      "outpatient_location": "2A-6"
+    },
+    {
+      "specification": "300单位/支",
+      "manufacturer": "诺和诺德制药",
+      "full_manufacturer": "诺和诺德（中国）制药有限公司",
+      "price": 38.55,
+      "unit": "盒",
+      "code": "X00224",
+      "approval_number": "国药准字S20217010",
+      "insurance_code": "XA10ADM080B002020107103",
+      "location": "2B-5",
+      "outpatient_location": "2A-2"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "用于治疗糖尿病。",
+    "dosage": "起始治疗：皮下注射，推荐剂量为早餐前6U，晚餐前6U。开始时也可每日一次给药，晚餐前12U。",
+    "contraindications": null,
+    "adverse_reactions": "参阅注射降血糖药(胰岛素)。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品皮下注射后，在10～20分钟内起效。作用最强时间在注射后1～4小时之间。作用持续时间可达24小时。",
+    "precautions": null,
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗糖尿病。",
+    "full_dosage": "起始治疗：皮下注射，推荐剂量为早餐前6U，晚餐前6U。开始时也可每日一次给药，晚餐前12U。    <br>　　强化治疗：可由每日一次强化治疗至每日2次治疗。本品每日一次使用剂量达到30U时，推荐转为每日2次给药，在早餐前和晚餐前给药。",
+    "full_contraindications": "",
+    "full_adverse_reactions": "参阅注射降血糖药(胰岛素)。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "⑴药效学：本品为30％可溶性门冬胰岛素（速效胰岛素类似物）和70％精蛋白门冬胰岛素（中效胰岛素类似物）组成的双时相混悬液。门冬胰岛素的降血糖作用是通过其分子与肌肉和脂肪细胞上的胰岛素受体结合，促进细胞对葡萄糖吸收利用，同时抑制肝脏葡萄糖的输出。其余参阅参阅注射降血糖药(胰岛素)。 <br>　　⑵药动学：本品皮下注射后，在10～20分钟内起效。作用最强时间在注射后1～4小时之间。作用持续时间可达24小时。",
+    "full_precautions": ""
+  },
+  "pinyin": "mendongyidaosu30",
+  "pinyin_initials": "mdyds30",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1313",
+    "last_updated": "2026-03-22"
+  }
+}

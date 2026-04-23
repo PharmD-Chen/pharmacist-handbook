@@ -1,0 +1,46 @@
+{
+  "id": 543,
+  "name": "过氧苯甲酰凝胶",
+  "dosage_form": "凝胶",
+  "full_name": "(甲)过氧苯甲酰凝胶",
+  "chemical_name": "过氧苯甲酰凝胶",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "GALDERMA INTERNATIONAL"
+  ],
+  "specifications": [
+    {
+      "specification": "15g/支",
+      "manufacturer": "GALDERMA INTERNATIONAL",
+      "full_manufacturer": "GALDERMA INTERNATIONAL（Laboratoires GALDERMA）",
+      "price": 22.46,
+      "unit": "盒",
+      "code": "X00516",
+      "approval_number": "国药准字号HJ20140076",
+      "insurance_code": "XD10AEG132U001010178442",
+      "location": "G-5",
+      "outpatient_location": "S-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "guoyangbenjiaxian",
+  "pinyin_initials": "gybjx",
+  "dosage_form_pinyin": "ningjiao",
+  "dosage_form_initials": "nj",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2416"
+  }
+}

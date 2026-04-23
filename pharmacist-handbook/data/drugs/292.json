@@ -1,0 +1,74 @@
+{
+  "id": 292,
+  "name": "琥珀酸美托洛尔缓释片",
+  "dosage_form": "缓释片",
+  "full_name": "(乙10%)琥珀酸美托洛尔缓释片",
+  "chemical_name": "琥珀酸美托洛尔缓释片",
+  "types": [],
+  "manufacturers": [
+    "Astrazeneca AB",
+    "合肥合源药业",
+    "宜昌人福药业"
+  ],
+  "specifications": [
+    {
+      "specification": "47.50mg/片",
+      "manufacturer": "Astrazeneca AB",
+      "full_manufacturer": "Astrazeneca AB（进口分包企业： 阿斯利康制药有限公司）",
+      "price": 13.47,
+      "unit": "盒",
+      "code": "X00817",
+      "approval_number": "国药准字HJ20140780",
+      "insurance_code": "XC07ABM062A010060300000"
+    },
+    {
+      "specification": "95mg/片",
+      "manufacturer": "宜昌人福药业",
+      "full_manufacturer": "宜昌人福药业有限责任公司",
+      "price": 104.5,
+      "unit": "瓶",
+      "code": "Y00000015014",
+      "approval_number": "国药准字H20223517",
+      "insurance_code": "XC07ABM062A010010102000",
+      "location": "F-5",
+      "outpatient_location": "E-4"
+    },
+    {
+      "specification": "47.5mg/片",
+      "manufacturer": "合肥合源药业",
+      "full_manufacturer": "合肥合源药业有限公司",
+      "price": 16.66,
+      "unit": "盒",
+      "code": "X00652",
+      "approval_number": "国药准字H20213593",
+      "insurance_code": "XC07ABM062A010020209541"
+    }
+  ],
+  "spec_count": 3,
+  "manual": {
+    "indications": "苗医：抬蒙蒙宋宫症。蒙嘎宫昂，来罗拉米。 中医：清热解毒，消肿止痛。用于肺胃蕴热所致的咽喉肿痛，口干口苦，牙龈肿痛以及口腔溃疡，复发性口疮见以上证候者。",
+    "dosage": "喷患处。一次1～2喷（适量），一日数次。",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "尚不明确。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情咨询药师或医师。",
+    "source": "湖南药事服务网",
+    "full_pharmacokinetics": "",
+    "full_dosage": "喷患处。一次1～2喷（适量），一日数次。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "尚不明确。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "full_precautions": "尚不明确。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "full_indications": "苗医：抬蒙蒙宋宫症。蒙嘎宫昂，来罗拉米。 中医：清热解毒，消肿止痛。用于肺胃蕴热所致的咽喉肿痛，口干口苦，牙龈肿痛以及口腔溃疡，复发性口疮见以上证候者。"
+  },
+  "pinyin": "huposuanmeituoluoer",
+  "pinyin_initials": "hpsmtle",
+  "dosage_form_pinyin": "huanshipian",
+  "dosage_form_initials": "hsp",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=4108",
+    "last_updated": "2026-03-21"
+  }
+}

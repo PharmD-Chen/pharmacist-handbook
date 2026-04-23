@@ -1,0 +1,65 @@
+{
+  "id": 830,
+  "name": "地特胰岛素注射液(笔芯)",
+  "dosage_form": "注射液",
+  "full_name": "(甲)地特胰岛素注射液(笔芯)",
+  "chemical_name": "地特胰岛素注射液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "诺和诺德制药"
+  ],
+  "specifications": [
+    {
+      "specification": "300单位/支",
+      "manufacturer": "诺和诺德制药",
+      "full_manufacturer": "诺和诺德(中国)制药有限公司",
+      "price": 73.07,
+      "unit": "盒",
+      "code": "Y00000014843",
+      "approval_number": "国药准字S20217003",
+      "insurance_code": "XA10AED087B002010107103",
+      "location": "2B-2"
+    },
+    {
+      "specification": "300单位/支",
+      "manufacturer": "诺和诺德制药",
+      "full_manufacturer": "诺和诺德(中国)制药有限公司",
+      "price": 76.07,
+      "unit": "盒",
+      "code": "Y00000014960",
+      "approval_number": "国药准字S20217014",
+      "insurance_code": "XA10AED087B002020107103",
+      "location": "2B-3"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "用于治疗糖尿病。",
+    "full_indications": "用于治疗糖尿病。",
+    "dosage": "皮下注射：剂量应个体化。通常每日一次或两次，于睡前或早餐前注射。",
+    "full_dosage": "皮下注射：剂量应个体化。通常每日一次或两次，于睡前或早餐前注射。根据患者血糖水平调整剂量。",
+    "contraindications": "对地特胰岛素过敏者禁用。",
+    "full_contraindications": "对地特胰岛素过敏者禁用。",
+    "adverse_reactions": "低血糖、注射部位反应、体重增加。",
+    "full_adverse_reactions": "低血糖、注射部位反应（疼痛、红斑、结节、瘙痒）、体重增加、水肿。",
+    "interactions": "与口服降糖药、ACE抑制剂、单胺氧化酶抑制剂等合用可能增加低血糖风险。",
+    "full_interactions": "与口服降糖药、ACE抑制剂、单胺氧化酶抑制剂等合用可能增加低血糖风险。",
+    "pregnancy_category": "C级",
+    "full_pregnancy_category": "C级。",
+    "pharmacokinetics": "地特胰岛素是一种长效胰岛素类似物，皮下注射后缓慢释放，作用可持续24小时。",
+    "full_pharmacokinetics": "地特胰岛素是一种长效胰岛素类似物，皮下注射后缓慢释放，作用可持续24小时。",
+    "precautions": "1.低血糖是常见不良反应；2.注射部位应轮换；3.运动员慎用。",
+    "full_precautions": "1.低血糖是常见不良反应，患者应学会识别低血糖症状并随身携带糖类食品。<br>2.注射部位应轮换，以避免脂肪营养不良。<br>3.运动员慎用。",
+    "source": "湖南药事服务网"
+  },
+  "pinyin": "diteyidaosu",
+  "pinyin_initials": "dtyds",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=830",
+    "last_updated": "2026-03-21"
+  }
+}

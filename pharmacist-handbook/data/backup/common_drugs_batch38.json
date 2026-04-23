@@ -1,0 +1,82 @@
+[
+  {
+    "name": "康柏西普眼用",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>用于治疗湿性年龄相关性黄斑变性(AMD)</strong>；<strong>用于治疗继发于视网膜静脉阻塞(RVO)的黄斑水肿引起的视力损伤</strong>；<strong>用于治疗糖尿病性黄斑水肿(DME)</strong>；<strong>用于治疗病理性近视引起的脉络膜新生血管(pmCNV)导致的视力损伤</strong>。",
+      "dosage": "玻璃体腔内注射。<strong>推荐剂量为每次0.5mg(0.05ml)，每月1次</strong>。连续3次注射后，根据视力和/或解剖学结果延长治疗间隔。",
+      "contraindications": "<strong>对康柏西普或其任何成分过敏者禁用</strong>；<strong>眼部或眼周感染的患者禁用</strong>；<strong>活动性眼内炎症患者禁用</strong>。",
+      "adverse_reactions": "较常见<strong>注射相关的一过性反应，如结膜下出血、眼压升高、眼部疼痛或异物感</strong>；部分患者可能出现<strong>眼内炎症反应，如葡萄膜炎或眼内炎</strong>；其他潜在风险包括<strong>视网膜撕裂或脱离、白内障进展加速</strong>；注射后可短暂引起<strong>视觉障碍</strong>；全身性不良反应较为罕见。",
+      "interactions": "<strong>与其他抗VEGF药物合用可能增加不良反应风险</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "抗人血管内皮生长因子(VEGF)融合蛋白，通过抑制VEGF活性，减少血管渗漏和新生血管形成。玻璃体腔内注射后局部发挥作用。",
+      "precautions": "<strong>患有不受控制的青光眼、或眼部存在其他可能增加注射风险的状况时，需谨慎评估</strong>；<strong>治疗前，患者应告知医生完整的病史，特别是是否有中风、血栓病史或血压控制不佳的情况</strong>；<strong>孕妇及哺乳期妇女使用的安全性数据有限，需由医生权衡利弊</strong>；<strong>注射后出现的视力骤降、眼痛加剧、眼红加重或畏光等症状，都应及时向医生报告</strong>；<strong>注射后症状消失前，不建议操作机器或驾车</strong>；<strong>治疗期间应保持良好的用眼卫生，避免揉搓或按压注射眼</strong>；<strong>按照医嘱定期复查至关重要</strong>；2025版医保甲类，国家基本药物。",
+      "solvent": "玻璃体腔内注射，无需稀释",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "注射用拉氧头孢钠",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>用于敏感菌所致的各种感染</strong>，如<strong>败血症、心内膜炎、呼吸道、胆道、泌尿道、腹膜、妇科等感染</strong>。",
+      "dosage": "静脉注射或静脉滴注（滴注时间至少30分钟以上）。<strong>成人：一日1-2g，分2次（每12小时）给药</strong>；难治性或重症感染可增至<strong>一日4g，分2-4次给药</strong>。<strong>儿童：一日60-80mg/kg，分3-4次给药</strong>；可增至一日150mg/kg。<strong>早产儿、新生儿：一次20mg/kg</strong>；出生后3日内一日分2-3次，4日以后一日分3-4次给药。",
+      "contraindications": "<strong>对本品及头孢菌素类有过敏反应史者禁用</strong>。",
+      "adverse_reactions": "常见<strong>皮疹、荨麻疹、瘙痒、恶心、呕吐、腹泻、腹痛</strong>等；偶有<strong>转氨酶(SGPT/SGOT)升高</strong>；罕见但严重者包括<strong>过敏性休克、急性肾损害、严重过敏反应、血液系统异常、伪膜性肠炎</strong>等。",
+      "interactions": "<strong>与氨基糖苷类抗生素合用可能增加肾毒性</strong>；<strong>与强效利尿剂合用可能增加肾毒性</strong>；<strong>与抗凝药合用可能增加出血风险</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "氧头孢烯类抗生素，属于β-内酰胺类，通过干扰细菌细胞壁的合成发挥杀菌作用。对革兰阳性菌和革兰阴性菌均有良好抗菌活性。静脉给药后广泛分布于体液和组织，经肾脏排泄。",
+      "precautions": "<strong>用药前需详细询问患者的过敏史，包括是否对头孢菌素类、青霉素类等药物过敏，存在交叉过敏的可能</strong>；<strong>对青霉素过敏者、肾功能损害者应慎用</strong>；<strong>长期用药应定期检查肝肾功能及血象</strong>；<strong>出现腹泻应警惕伪膜性肠炎</strong>；2025版医保乙类。",
+      "solvent": "用注射用水和5%葡萄糖注射液或0.9%氯化钠注射液溶解后静脉滴注",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "10%葡萄糖",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>补充能量和体液</strong>。用于<strong>各种原因引起的进食不足或大量体液丢失</strong>；<strong>全静脉营养疗法</strong>；<strong>低血糖症</strong>；<strong>高钾血症</strong>。",
+      "dosage": "静脉滴注。<strong>用量根据患者热能需要和体液丢失情况计算</strong>。一般成人每日500-1000ml。",
+      "contraindications": "<strong>糖尿病酮症酸中毒未控制者禁用</strong>；<strong>高血糖非酮症性高渗状态患者禁用</strong>。",
+      "adverse_reactions": "<strong>静脉炎</strong>（发生于高渗葡萄糖注射液滴注时，如用大静脉滴注，静脉炎发生率下降）；<strong>高浓度葡萄糖注射液外渗可致局部肿痛</strong>；<strong>反应性低血糖</strong>（合并使用胰岛素过量、原有低血糖倾向及全静脉营养疗法突然停止时易发生）。",
+      "interactions": "<strong>与胰岛素合用应注意低血糖风险</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "高渗葡萄糖溶液，可补充能量和体液。静脉输注后葡萄糖被机体氧化供能或转化为糖原储存。",
+      "precautions": "<strong>心肾功能不全患者应控制输液速度和剂量</strong>；<strong>输注期间需观察有无口渴、多尿等高血糖症状</strong>；<strong>老年患者及心功能不全者需控制输液速度</strong>；<strong>储存时需避光保存，出现浑浊或沉淀应禁止使用</strong>；2025版医保甲类，国家基本药物。",
+      "solvent": "注射液直接使用，无需稀释",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "5%葡萄糖氯化钠",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>补充体液和能量</strong>。用于<strong>各种原因引起的进食不足或大量体液丢失</strong>，如<strong>呕吐、腹泻等</strong>；<strong>全静脉内营养</strong>；<strong>作为药物的稀释剂</strong>。",
+      "dosage": "静脉滴注。<strong>用量根据患者体液丢失情况和热能需要计算</strong>。一般成人每日500-1000ml。",
+      "contraindications": "<strong>肺水肿患者禁用</strong>；<strong>心功能不全患者慎用</strong>；<strong>脑水肿患者慎用</strong>；<strong>急性肾衰竭少尿期患者慎用</strong>。",
+      "adverse_reactions": "<strong>输注过多、过快时，可能引起水钠潴留</strong>，导致<strong>水肿、血压升高</strong>等情况；少数患者可能出现<strong>皮疹、瘙痒</strong>等过敏症状；长期或大量使用可能导致<strong>体内电解质失衡，如低钾血症或高钠血症</strong>。",
+      "interactions": "<strong>与利尿剂合用可能增加电解质紊乱风险</strong>；<strong>与强心苷类药物合用应注意低钾血症风险</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "等渗溶液，含5%葡萄糖和0.9%氯化钠。可补充体液、能量和电解质。静脉输注后葡萄糖被氧化供能，钠和氯离子补充电解质。",
+      "precautions": "<strong>心肾功能不全的患者更需要严格控制输注速度和剂量</strong>；<strong>长期或大量使用时应监测电解质</strong>；<strong>储存时需避光保存，出现浑浊或沉淀应禁止使用</strong>；2025版医保甲类，国家基本药物。",
+      "solvent": "注射液直接使用，无需稀释",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "5%葡萄糖",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>补充体液和能量</strong>。用于<strong>各种原因引起的进食不足或大量体液丢失</strong>，如<strong>呕吐、腹泻等</strong>；<strong>全静脉内营养</strong>；<strong>低血糖症</strong>；<strong>高钾血症</strong>；<strong>作为药物的稀释剂</strong>。",
+      "dosage": "静脉滴注。<strong>用量根据患者热能需要和体液丢失情况计算</strong>。一般成人每日500-1000ml。",
+      "contraindications": "<strong>糖尿病酮症酸中毒未控制者禁用</strong>；<strong>高血糖非酮症性高渗状态患者禁用</strong>。",
+      "adverse_reactions": "<strong>输注过快或过量可能引起高血糖</strong>；<strong>长期单纯输注可能导致电解质紊乱</strong>；<strong>静脉炎</strong>（较少见）；<strong>外渗可致局部肿痛</strong>。",
+      "interactions": "<strong>与胰岛素合用应注意低血糖风险</strong>；<strong>与某些药物（如青霉素类、头孢类）合用可能降低药物活性</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "等渗葡萄糖溶液，可补充体液和能量。静脉输注后葡萄糖被机体氧化供能或转化为糖原储存。",
+      "precautions": "<strong>心肾功能不全患者应控制输液速度和剂量</strong>；<strong>输注期间需观察有无口渴、多尿等高血糖症状</strong>；<strong>老年患者及心功能不全者需控制输液速度</strong>；<strong>储存时需避光保存，出现浑浊或沉淀应禁止使用</strong>；2025版医保甲类，国家基本药物。",
+      "solvent": "注射液直接使用，无需稀释",
+      "source": "手动录入-综合网络来源"
+    }
+  }
+]

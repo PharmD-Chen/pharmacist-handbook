@@ -1,0 +1,904 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>上海市养志康复医院药品手册（单机版v2）</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* 登录页面样式 */
+        .login-page {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            padding: 20px;
+        }
+
+        .login-box {
+            background: white;
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            width: 100%;
+            max-width: 400px;
+        }
+
+        .login-box h1 {
+            text-align: center;
+            color: #0E7490;
+            margin-bottom: 10px;
+            font-size: 24px;
+        }
+
+        .login-box .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+
+        .role-selector {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .role-btn {
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            background: white;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-align: center;
+        }
+
+        .role-btn:hover {
+            border-color: #0E7490;
+            background: #f0f9fa;
+        }
+
+        .role-btn.active {
+            border-color: #0E7490;
+            background: #0E7490;
+            color: white;
+        }
+
+        .role-btn .icon {
+            font-size: 24px;
+            margin-bottom: 5px;
+        }
+
+        .role-btn .label {
+            font-size: 14px;
+        }
+
+        .login-btn {
+            width: 100%;
+            padding: 15px;
+            background: #0E7490;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .login-btn:hover {
+            background: #155E75;
+        }
+
+        .login-btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+
+        /* 主应用样式 */
+        .app-container {
+            display: none;
+            min-height: 100vh;
+        }
+
+        .app-container.active {
+            display: block;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            color: white;
+            padding: 15px 20px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .header h1 {
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .user-info {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 14px;
+        }
+
+        .user-badge {
+            background: rgba(255,255,255,0.2);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+        }
+
+        .logout-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+
+        .logout-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+
+        .search-box {
+            display: flex;
+            gap: 10px;
+        }
+
+        .search-box input {
+            flex: 1;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            outline: none;
+        }
+
+        .search-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .main-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .view-selector {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            background: white;
+            padding: 5px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .view-btn {
+            flex: 1;
+            padding: 12px;
+            border: none;
+            background: transparent;
+            cursor: pointer;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+
+        .view-btn.active {
+            background: #0E7490;
+            color: white;
+        }
+
+        .drug-list {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .drug-item {
+            padding: 15px 20px;
+            border-bottom: 1px solid #eee;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .drug-item:hover {
+            background: #f8f9fa;
+        }
+
+        .drug-item:last-child {
+            border-bottom: none;
+        }
+
+        .drug-name {
+            font-size: 16px;
+            font-weight: 600;
+            color: #0E7490;
+            margin-bottom: 5px;
+        }
+
+        .drug-info {
+            font-size: 13px;
+            color: #666;
+        }
+
+        .drug-tags {
+            display: flex;
+            gap: 5px;
+            margin-top: 8px;
+            flex-wrap: wrap;
+        }
+
+        .tag {
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+        }
+
+        .tag-insurance {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+
+        .tag-basic {
+            background: #dcfce7;
+            color: #166534;
+        }
+
+        .tag-form {
+            background: #f3f4f6;
+            color: #374151;
+        }
+
+        /* 药品详情模态框 */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 200;
+            overflow-y: auto;
+        }
+
+        .modal.active {
+            display: block;
+        }
+
+        .modal-content {
+            background: white;
+            max-width: 800px;
+            margin: 50px auto;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+        }
+
+        .modal-header {
+            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            color: white;
+            padding: 20px;
+            position: relative;
+        }
+
+        .modal-header h2 {
+            font-size: 20px;
+            margin-bottom: 5px;
+        }
+
+        .modal-header .subtitle {
+            opacity: 0.9;
+            font-size: 14px;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal-body {
+            padding: 20px;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .section-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #0E7490;
+            margin-bottom: 10px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #e5e7eb;
+        }
+
+        .section-content {
+            font-size: 14px;
+            line-height: 1.8;
+            color: #374151;
+        }
+
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .info-item {
+            background: #f9fafb;
+            padding: 12px;
+            border-radius: 8px;
+        }
+
+        .info-label {
+            font-size: 12px;
+            color: #6b7280;
+            margin-bottom: 4px;
+        }
+
+        .info-value {
+            font-size: 14px;
+            color: #111827;
+            font-weight: 500;
+        }
+
+        .permission-notice {
+            background: #fef3c7;
+            border: 1px solid #f59e0b;
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 20px;
+            font-size: 13px;
+            color: #92400e;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #6b7280;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #6b7280;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        @media (max-width: 768px) {
+            .login-box {
+                padding: 30px 20px;
+            }
+
+            .main-content {
+                padding: 10px;
+            }
+
+            .view-selector {
+                flex-wrap: wrap;
+            }
+
+            .view-btn {
+                font-size: 12px;
+                padding: 10px;
+            }
+
+            .modal-content {
+                margin: 0;
+                border-radius: 0;
+                min-height: 100vh;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 登录页面 -->
+    <div id="loginPage" class="login-page">
+        <div class="login-box">
+            <h1>🏥 药品手册</h1>
+            <p class="subtitle">上海市养志康复医院（单机版）</p>
+            
+            <div class="role-selector">
+                <button class="role-btn" data-role="doctor">
+                    <div class="icon">👨‍⚕️</div>
+                    <div class="label">医师</div>
+                </button>
+                <button class="role-btn" data-role="nurse">
+                    <div class="icon">👩‍⚕️</div>
+                    <div class="label">护士</div>
+                </button>
+                <button class="role-btn" data-role="pharmacist">
+                    <div class="icon">💊</div>
+                    <div class="label">药师</div>
+                </button>
+                <button class="role-btn" data-role="visitor">
+                    <div class="icon">👤</div>
+                    <div class="label">访客</div>
+                </button>
+            </div>
+            
+            <button id="loginBtn" class="login-btn" disabled>请选择身份</button>
+        </div>
+    </div>
+
+    <!-- 主应用 -->
+    <div id="appContainer" class="app-container">
+        <header class="header">
+            <div class="header-top">
+                <h1>🏥 药品手册（单机版）</h1>
+                <div class="user-info">
+                    <span id="userRole" class="user-badge"></span>
+                    <button class="logout-btn" onclick="logout()">退出</button>
+                </div>
+            </div>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜索药品名称、适应症、药理作用...">
+                <button class="search-btn" onclick="searchDrugs()">搜索</button>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <div class="permission-notice" id="permissionNotice"></div>
+            
+            <div class="view-selector" id="viewSelector">
+                <button class="view-btn active" data-view="simplified">精简版</button>
+                <button class="view-btn" data-view="detailed">详细版</button>
+            </div>
+
+            <div id="drugList" class="drug-list">
+                <div class="loading">正在加载药品数据...</div>
+            </div>
+        </main>
+    </div>
+
+    <!-- 药品详情模态框 -->
+    <div id="drugModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalDrugName"></h2>
+                <p id="modalDrugSubtitle" class="subtitle"></p>
+                <button class="close-btn" onclick="closeModal()">×</button>
+            </div>
+            <div class="modal-body" id="modalBody">
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 权限配置
+        const PERMISSIONS = {
+            visitor: {
+                name: '访客',
+                canView: ['basic_info'],
+                sections: ['基本信息'],
+                description: '仅可查看药品基本信息'
+            },
+            nurse: {
+                name: '护士',
+                canView: ['basic_info', 'dosage_info'],
+                sections: ['基本信息', '用法用量', '注意事项'],
+                description: '可查看用法用量和注意事项'
+            },
+            doctor: {
+                name: '医师',
+                canView: ['basic_info', 'dosage_info', 'full_manual'],
+                sections: ['基本信息', '适应症', '用法用量', '禁忌症', '不良反应', '药物相互作用', '注意事项', '药代动力学'],
+                description: '可查看完整药品手册（除岗位手册外）'
+            },
+            pharmacist: {
+                name: '药师',
+                canView: ['all'],
+                sections: ['基本信息', '适应症', '用法用量', '禁忌症', '不良反应', '药物相互作用', '注意事项', '药代动力学', '岗位手册'],
+                description: '可查看所有内容，包括岗位手册'
+            }
+        };
+
+        let currentUser = null;
+        let currentView = 'simplified';
+        let drugIndex = [];
+        let drugCache = {};
+
+        // 初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            initLoginPage();
+        });
+
+        // 初始化登录页面
+        function initLoginPage() {
+            const roleBtns = document.querySelectorAll('.role-btn');
+            const loginBtn = document.getElementById('loginBtn');
+            let selectedRole = null;
+
+            roleBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    roleBtns.forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    selectedRole = this.dataset.role;
+                    loginBtn.disabled = false;
+                    loginBtn.textContent = '进入系统';
+                });
+            });
+
+            loginBtn.addEventListener('click', function() {
+                if (selectedRole) {
+                    login(selectedRole);
+                }
+            });
+        }
+
+        // 登录
+        async function login(role) {
+            currentUser = {
+                role: role,
+                permissions: PERMISSIONS[role],
+                loginTime: new Date().toISOString()
+            };
+
+            document.getElementById('loginPage').style.display = 'none';
+            document.getElementById('appContainer').classList.add('active');
+            document.getElementById('userRole').textContent = currentUser.permissions.name;
+
+            // 更新权限提示
+            updatePermissionNotice();
+
+            // 根据权限调整视图
+            adjustViewByPermission();
+
+            // 加载药品数据
+            await loadDrugs();
+        }
+
+        // 退出登录
+        function logout() {
+            currentUser = null;
+            drugIndex = [];
+            drugCache = {};
+            document.getElementById('appContainer').classList.remove('active');
+            document.getElementById('loginPage').style.display = 'flex';
+            document.getElementById('searchInput').value = '';
+
+            // 重置角色选择
+            document.querySelectorAll('.role-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            document.getElementById('loginBtn').disabled = true;
+            document.getElementById('loginBtn').textContent = '请选择身份';
+        }
+
+        // 更新权限提示
+        function updatePermissionNotice() {
+            const notice = document.getElementById('permissionNotice');
+            if (currentUser && currentUser.permissions) {
+                notice.textContent = `当前身份：${currentUser.permissions.name} - ${currentUser.permissions.description}`;
+                notice.style.display = 'block';
+            } else {
+                notice.style.display = 'none';
+            }
+        }
+
+        // 根据权限调整视图
+        function adjustViewByPermission() {
+            const viewSelector = document.getElementById('viewSelector');
+            
+            // 访客和护士只能看精简版
+            if (currentUser.role === 'visitor' || currentUser.role === 'nurse') {
+                viewSelector.style.display = 'none';
+                currentView = 'simplified';
+            } else {
+                viewSelector.style.display = 'flex';
+                
+                // 视图切换按钮事件
+                document.querySelectorAll('.view-btn').forEach(btn => {
+                    btn.addEventListener('click', function() {
+                        document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+                        this.classList.add('active');
+                        currentView = this.dataset.view;
+                        searchDrugs();
+                    });
+                });
+            }
+        }
+
+        // 加载药品索引
+        async function loadDrugs() {
+            try {
+                const response = await fetch('data/offline/drug-index.json');
+                drugIndex = await response.json();
+                displayDrugs(drugIndex);
+            } catch (error) {
+                console.error('加载药品索引失败:', error);
+                document.getElementById('drugList').innerHTML = 
+                    '<div class="no-results">无法加载药品数据，请检查数据文件</div>';
+            }
+        }
+
+        // 加载药品详情
+        async function loadDrugDetail(drugId) {
+            // 先查找索引获取首字母
+            const drugInfo = drugIndex.find(d => d.id === drugId);
+            if (!drugInfo) return null;
+
+            const initial = (drugInfo.pinyin_initials || 'other')[0].toUpperCase();
+            
+            // 检查缓存
+            if (!drugCache[initial]) {
+                try {
+                    const response = await fetch(`data/offline/drugs-${initial}.json`);
+                    drugCache[initial] = await response.json();
+                } catch (error) {
+                    console.error(`加载分组 ${initial} 失败:`, error);
+                    return null;
+                }
+            }
+
+            return drugCache[initial].find(d => d.id === drugId);
+        }
+
+        // 显示药品列表
+        function displayDrugs(drugs) {
+            const container = document.getElementById('drugList');
+            
+            if (drugs.length === 0) {
+                container.innerHTML = '<div class="no-results">未找到相关药品</div>';
+                return;
+            }
+
+            const html = drugs.map(drug => {
+                const tags = [];
+                if (drug.types && drug.types.includes('insurance')) {
+                    tags.push('<span class="tag tag-insurance">医保</span>');
+                }
+                if (drug.types && drug.types.includes('basic')) {
+                    tags.push('<span class="tag tag-basic">基药</span>');
+                }
+                if (drug.dosage_form) {
+                    tags.push(`<span class="tag tag-form">${drug.dosage_form}</span>`);
+                }
+
+                return `
+                    <div class="drug-item" onclick="showDrugDetail(${drug.id})">
+                        <div class="drug-name">${drug.name}</div>
+                        <div class="drug-info">
+                            ${drug.full_name || ''} ${drug.specifications && drug.specifications[0] ? '| ' + drug.specifications[0].specification : ''}
+                        </div>
+                        <div class="drug-tags">
+                            ${tags.join('')}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            container.innerHTML = html;
+        }
+
+        // 搜索药品
+        function searchDrugs() {
+            const query = document.getElementById('searchInput').value.toLowerCase().trim();
+            
+            if (!query) {
+                displayDrugs(drugIndex);
+                return;
+            }
+
+            const filtered = drugIndex.filter(drug => {
+                return (drug.name && drug.name.toLowerCase().includes(query)) ||
+                       (drug.full_name && drug.full_name.toLowerCase().includes(query)) ||
+                       (drug.pinyin && drug.pinyin.toLowerCase().includes(query));
+            });
+
+            displayDrugs(filtered);
+        }
+
+        // 搜索框回车事件
+        document.getElementById('searchInput')?.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                searchDrugs();
+            }
+        });
+
+        // 显示药品详情
+        async function showDrugDetail(drugId) {
+            const drug = await loadDrugDetail(drugId);
+            if (!drug) {
+                alert('无法加载药品详情');
+                return;
+            }
+
+            document.getElementById('modalDrugName').textContent = drug.name;
+            document.getElementById('modalDrugSubtitle').textContent = 
+                `${drug.full_name || ''} ${drug.dosage_form ? '| ' + drug.dosage_form : ''}`;
+
+            const modalBody = document.getElementById('modalBody');
+            modalBody.innerHTML = generateDrugContent(drug);
+
+            document.getElementById('drugModal').classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        // 生成药品内容（根据权限）
+        function generateDrugContent(drug) {
+            const sections = [];
+            const manual = drug.manual || {};
+
+            // 基本信息（所有角色可见）
+            sections.push(`
+                <div class="section">
+                    <div class="section-title">基本信息</div>
+                    <div class="info-grid">
+                        <div class="info-item">
+                            <div class="info-label">药品名称</div>
+                            <div class="info-value">${drug.name || '-'}</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="info-label">剂型</div>
+                            <div class="info-value">${drug.dosage_form || '-'}</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="info-label">规格</div>
+                            <div class="info-value">${drug.specifications && drug.specifications[0] ? drug.specifications[0].specification : '-'}</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="info-label">生产企业</div>
+                            <div class="info-value">${drug.manufacturers && drug.manufacturers[0] ? drug.manufacturers[0] : '-'}</div>
+                        </div>
+                    </div>
+                </div>
+            `);
+
+            // 根据权限显示不同内容
+            const role = currentUser.role;
+
+            // 适应症（医师、药师可见）
+            if ((role === 'doctor' || role === 'pharmacist') && manual.indications) {
+                sections.push(generateSection('适应症', 
+                    currentView === 'detailed' && manual.full_indications ? manual.full_indications : manual.indications));
+            }
+
+            // 用法用量（护士、医师、药师可见）
+            if ((role === 'nurse' || role === 'doctor' || role === 'pharmacist') && manual.dosage) {
+                sections.push(generateSection('用法用量', 
+                    currentView === 'detailed' && manual.full_dosage ? manual.full_dosage : manual.dosage));
+            }
+
+            // 禁忌症（医师、药师可见）
+            if ((role === 'doctor' || role === 'pharmacist') && manual.contraindications) {
+                sections.push(generateSection('禁忌症', 
+                    currentView === 'detailed' && manual.full_contraindications ? manual.full_contraindications : manual.contraindications));
+            }
+
+            // 不良反应（医师、药师可见）
+            if ((role === 'doctor' || role === 'pharmacist') && manual.adverse_reactions) {
+                sections.push(generateSection('不良反应', 
+                    currentView === 'detailed' && manual.full_adverse_reactions ? manual.full_adverse_reactions : manual.adverse_reactions));
+            }
+
+            // 药物相互作用（医师、药师可见）
+            if ((role === 'doctor' || role === 'pharmacist') && manual.interactions) {
+                sections.push(generateSection('药物相互作用', 
+                    currentView === 'detailed' && manual.full_interactions ? manual.full_interactions : manual.interactions));
+            }
+
+            // 注意事项（护士、医师、药师可见）
+            if ((role === 'nurse' || role === 'doctor' || role === 'pharmacist') && manual.precautions) {
+                sections.push(generateSection('注意事项', 
+                    currentView === 'detailed' && manual.full_precautions ? manual.full_precautions : manual.precautions));
+            }
+
+            // 药代动力学（医师、药师可见）
+            if ((role === 'doctor' || role === 'pharmacist') && manual.pharmacokinetics) {
+                sections.push(generateSection('药代动力学', 
+                    currentView === 'detailed' && manual.full_pharmacokinetics ? manual.full_pharmacokinetics : manual.pharmacokinetics));
+            }
+
+            // 岗位手册（仅药师可见）
+            if (role === 'pharmacist') {
+                sections.push(`
+                    <div class="section">
+                        <div class="section-title">岗位手册</div>
+                        <div class="section-content">
+                            <p>💊 <strong>药师专用内容</strong></p>
+                            <p>本部分包含药师岗位相关的详细信息，如：</p>
+                            <ul style="margin-left: 20px; margin-top: 10px;">
+                                <li>药品储存条件</li>
+                                <li>配伍禁忌</li>
+                                <li>特殊人群用药指导</li>
+                                <li>药物监测要点</li>
+                            </ul>
+                            <p style="margin-top: 10px; color: #666;">详细内容请参考医院内部药师手册。</p>
+                        </div>
+                    </div>
+                `);
+            }
+
+            return sections.join('');
+        }
+
+        // 生成章节HTML
+        function generateSection(title, content) {
+            if (!content) return '';
+            return `
+                <div class="section">
+                    <div class="section-title">${title}</div>
+                    <div class="section-content">${content}</div>
+                </div>
+            `;
+        }
+
+        // 关闭模态框
+        function closeModal() {
+            document.getElementById('drugModal').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        // 点击模态框外部关闭
+        document.getElementById('drugModal')?.addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
+
+        // ESC键关闭模态框
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
+    </script>
+</body>
+</html>

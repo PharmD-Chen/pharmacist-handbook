@@ -1,0 +1,45 @@
+{
+  "id": 723,
+  "name": "芪黄通秘软胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)芪黄通秘软胶囊",
+  "chemical_name": "芪黄通秘软胶囊",
+  "types": [],
+  "manufacturers": [
+    "神威药业集团"
+  ],
+  "specifications": [
+    {
+      "specification": "0.5g/粒",
+      "manufacturer": "神威药业集团",
+      "full_manufacturer": "神威药业集团有限公司",
+      "price": 43.92,
+      "unit": "盒",
+      "code": "Y00000014983",
+      "approval_number": "国药准字Z20090050",
+      "insurance_code": "ZA03BAQ0076010102729",
+      "location": "D-5",
+      "outpatient_location": "J-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": "",
+    "composition": "黄芪、何首乌、当归、肉苁蓉、黑芝麻、核桃仁、熟大黄、决明子、枳实、炒苦杏仁、桃仁。"
+  },
+  "pinyin": "qihuangtongmiruan",
+  "pinyin_initials": "qhtmr",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13068"
+  }
+}

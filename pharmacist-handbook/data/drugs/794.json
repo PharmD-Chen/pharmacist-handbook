@@ -1,0 +1,51 @@
+{
+  "id": 794,
+  "name": "丁甘交联玻璃酸钠注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)丁甘交联玻璃酸钠注射液",
+  "chemical_name": "丁甘交联玻璃酸钠注射液",
+  "types": [],
+  "manufacturers": [
+    "LG Chem, Ltd."
+  ],
+  "specifications": [
+    {
+      "specification": "60mg:3ml/支",
+      "manufacturer": "LG Chem, Ltd.",
+      "full_manufacturer": "LG Chem, Ltd.",
+      "price": 980.0,
+      "unit": "盒",
+      "code": "X00331",
+      "approval_number": "国药准字HJ20233147",
+      "insurance_code": "XM09AXD370B002010181788",
+      "outpatient_location": "Q-4",
+      "inpatient_location": "Q-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于对非药物保守治疗及单纯止痛药物治疗(如对乙酰氨基酚)疼痛缓解效果欠佳的膝骨关节炎(OA)成人患者。",
+    "full_indications": "本品适用于对非药物保守治疗及单纯止痛药物治疗(如对乙酰氨基酚)疼痛缓解效果欠佳的膝骨关节炎(OA)成人患者。",
+    "dosage": "膝关节腔内注射。1次1支，将1支药品注射至膝关节腔内。可根据症状调节注射间隔（6个月以上），适量注射。",
+    "full_dosage": "用法：膝关节腔内注射。用量：1次1支，将1支药品注射至膝关节腔内。也可以根据症状调节注射间隔（6个月以上），适量注射。",
+    "contraindications": "⑴对此类药品或此药品成份有过敏史的患者禁用；⑵膝关节感染或关节腔重度炎症者禁用；⑶注射部位有皮肤疾病或感染者禁用。",
+    "full_contraindications": "禁忌症：⑴对此类药品或此药品成份有过敏史的患者禁用；⑵膝关节感染或关节腔重度炎症者禁用；⑶注射部位有皮肤疾病或感染者禁用。",
+    "adverse_reactions": "可能会导致休克症状（发生频率不明），应充分观察，出现异常情况时停止用药并采取相应措施。 禁忌症 ⑴对此类药品或此药品成份有过敏史的患者禁用；⑵膝关节感染或关节腔重度炎症者禁用；⑶注射部位有皮肤疾病或感染者禁用。",
+    "full_adverse_reactions": "可能会导致休克症状（发生频率不明），应充分观察，出现异常情况时停止用药并采取相应措施。 禁忌症 ⑴对此类药品或此药品成份有过敏史的患者禁用；⑵膝关节感染或关节腔重度炎症者禁用；⑶注射部位有皮肤疾病或感染者禁用。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "full_interactions": "药物相互作用：暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "注射前应确认患者无禁忌症；注射后应观察患者是否有过敏反应；注射部位应消毒，避免感染。",
+    "full_precautions": "注意事项：注射前应确认患者无禁忌症；注射后应观察患者是否有过敏反应；注射部位应消毒，避免感染。",
+    "source": "湖南药事服务网"
+  },
+  "pinyin": "※▲dingganjiaolianbolisuanna",
+  "pinyin_initials": "※▲dgjlblsn",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=794",
+    "last_updated": "2026-03-21"
+  }
+}

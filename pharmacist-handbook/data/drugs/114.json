@@ -1,0 +1,54 @@
+{
+  "id": 114,
+  "name": "50%葡萄糖注射液",
+  "dosage_form": "注射液",
+  "full_name": "(甲)50%葡萄糖注射液[国基]",
+  "chemical_name": "50%葡萄糖注射液",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "上海信谊金朱药业"
+  ],
+  "specifications": [
+    {
+      "specification": "20ml/支",
+      "manufacturer": "上海信谊金朱药业",
+      "full_manufacturer": "上海信谊金朱药业有限公司",
+      "price": 0.89,
+      "unit": "支",
+      "code": "Y00000012138",
+      "approval_number": "国药准字H31021728",
+      "insurance_code": "XB05BBP072B002010200801",
+      "outpatient_location": "N-4",
+      "inpatient_location": "N-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "1.补充能量和体液；2.用于各种原因引起的进食不足或大量体液丢失（如呕吐、腹泻等）；3.低血糖症；4.高钾血症；5.高渗溶液用作组织脱水剂；6.配制腹膜透析液。",
+    "full_indications": "1.补充能量和体液；2.用于各种原因引起的进食不足或大量体液丢失（如呕吐、腹泻等）；3.低血糖症；4.高钾血症；5.高渗溶液用作组织脱水剂；6.配制腹膜透析液。",
+    "dosage": "静脉注射。一次10-20g（20-40ml）。",
+    "full_dosage": "静脉注射。一次10-20g（20-40ml）。",
+    "contraindications": "1.糖尿病酮症酸中毒未控制者；2.高血糖非酮症性高渗状态。",
+    "full_contraindications": "1.糖尿病酮症酸中毒未控制者；2.高血糖非酮症性高渗状态。",
+    "adverse_reactions": "1.静脉炎，发生于高渗葡萄糖注射液滴注时；2.高浓度葡萄糖注射液外渗可致局部肿痛；3.反应性低血糖；4.高血糖非酮症昏迷；5.电解质紊乱：长期单纯补给葡萄糖时易出现低钾、低钠及低磷血症。",
+    "full_adverse_reactions": "1.静脉炎，发生于高渗葡萄糖注射液滴注时；2.高浓度葡萄糖注射液外渗可致局部肿痛；3.反应性低血糖；4.高血糖非酮症昏迷；5.电解质紊乱：长期单纯补给葡萄糖时易出现低钾、低钠及低磷血症。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "full_interactions": "尚不明确。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "1.下列情况慎用：①周期性麻痹、低钾血症患者；②激状态或用糖皮质激素时容易诱发高血糖；③水肿及严重心、肾功能不全、肝硬化腹水者，易致水潴留，控制输液量。",
+    "full_precautions": "1.下列情况慎用：①周期性麻痹、低钾血症患者；②应激状态或应用糖皮质激素时容易诱发高血糖；③水肿及严重心、肾功能不全、肝硬化腹水者，易致水潴留，应控制输液量。",
+    "source": "湖南药事服务网"
+  },
+  "pinyin": "50%putaotang",
+  "pinyin_initials": "50%ptt",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=114",
+    "last_updated": "2026-03-21"
+  }
+}

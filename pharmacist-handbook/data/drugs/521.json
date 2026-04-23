@@ -1,0 +1,55 @@
+{
+  "id": 521,
+  "name": "苏黄止咳胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(甲)苏黄止咳胶囊[国基]",
+  "chemical_name": "苏黄止咳胶囊",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "扬子江药业集团北京海燕药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.45g/粒",
+      "manufacturer": "扬子江药业集团北京海燕药业",
+      "full_manufacturer": "扬子江药业集团北京海燕药业有限公司（委托生产企业：扬子江药业集团江苏龙凤堂中药有限公司）",
+      "price": 55.84,
+      "unit": "盒",
+      "code": "Y00000014670",
+      "approval_number": "国药准字Z20103075",
+      "insurance_code": "ZA06BCS0976010200237",
+      "location": "J-3",
+      "outpatient_location": "B-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "疏风宣肺，止咳利咽。用于风邪犯肺，肺气失宣所致的咳嗽、咽痒咳嗽，或呛咳阵性发作，气急，遇冷空气、异味等突发或加重，或夜卧晨起咳剧，多呈反复发作，干咳无痰或少痰，舌苔薄白等。感冒后咳嗽及咳嗽变异性（型）哮喘见上述证候者。",
+    "dosage": "口服：一次3粒，一日2次。疗程7～14天。 剂型与规格 胶囊剂 0.45g基药 ZA06BC乙0245 5% 哪儿有",
+    "contraindications": "对本品过敏者禁用；孕妇忌用。",
+    "adverse_reactions": "偶见恶心、呕吐、胃不适、便秘、咽干。 禁忌症 对本品过敏者禁用；孕妇忌用。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": "麻黄、紫苏叶、地龙、枇杷叶（蜜炙）、炒紫苏子、蝉蜕、前胡、炒牛蒡子、五味子。",
+    "precautions": "忌食辛辣刺激性食物。运动员慎用。高血压、心脏病患者慎用。 用法与用量 口服：一次3粒，一日2次。疗程7～14天。 剂型与规格 胶囊剂 0.45g基药 ZA06BC乙0245 5% 哪儿有",
+    "source": "",
+    "full_indications": "疏风宣肺，止咳利咽。用于风邪犯肺，肺气失宣所致的咳嗽、咽痒咳嗽，或呛咳阵性发作，气急，遇冷空气、异味等突发或加重，或夜卧晨起咳剧，多呈反复发作，干咳无痰或少痰，舌苔薄白等。感冒后咳嗽及咳嗽变异性（型）哮喘见上述证候者。",
+    "full_dosage": "口服：一次3粒，一日2次。疗程7～14天。 剂型与规格 胶囊剂 0.45g基药 ZA06BC乙0245 5% 哪儿有",
+    "full_contraindications": "对本品过敏者禁用；孕妇忌用。",
+    "full_adverse_reactions": "偶见恶心、呕吐、胃不适、便秘、咽干。 禁忌症 对本品过敏者禁用；孕妇忌用。",
+    "full_precautions": "忌食辛辣刺激性食物。运动员慎用。高血压、心脏病患者慎用。 用法与用量 口服：一次3粒，一日2次。疗程7～14天。 剂型与规格 胶囊剂 0.45g基药 ZA06BC乙0245 5% 哪儿有",
+    "full_pharmacokinetics": "麻黄、紫苏叶、地龙、枇杷叶（蜜炙）、炒紫苏子、蝉蜕、前胡、炒牛蒡子、五味子。",
+    "full_interactions": "",
+    "composition": "麻黄、紫苏叶、地龙、枇杷叶（蜜炙）、炒紫苏子、蝉蜕、前胡、炒牛蒡子、五味子。"
+  },
+  "pinyin": "suhuangzhike",
+  "pinyin_initials": "shzk",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=6194"
+  }
+}

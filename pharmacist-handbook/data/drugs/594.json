@@ -1,0 +1,54 @@
+{
+  "id": 594,
+  "name": "降脂灵颗粒",
+  "dosage_form": "颗粒",
+  "full_name": "(甲)降脂灵颗粒",
+  "chemical_name": "降脂灵颗粒",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "沈阳君元药业"
+  ],
+  "specifications": [
+    {
+      "specification": "3g/袋",
+      "manufacturer": "沈阳君元药业",
+      "full_manufacturer": "沈阳君元药业有限公司",
+      "price": 89.7,
+      "unit": "盒",
+      "code": "C00091",
+      "approval_number": "国药准字Z10930030",
+      "insurance_code": "ZA17AAJ0221010201277",
+      "location": "L-7"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "补肝益肾，养血，明目，降脂。用于肝肾阴虚，头晕，目昏，须发早白，高脂血症。",
+    "full_indications": "补肝益肾，养血，明目，降脂。用于肝肾阴虚，头晕，目昏，须发早白，高脂血症。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "开水冲服：一次3-5g，一日3次。",
+    "full_dosage": "开水冲服：一次3-5g，一日3次。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "full_adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "孕妇慎用；服药期间忌辛辣、油腻食物。",
+    "full_precautions": "1.孕妇慎用。2.服药期间忌辛辣、油腻食物。3.糖尿病患者应在医师指导下服用。4.药品性状发生改变时禁止使用。",
+    "source": "湖南药事服务网"
+  },
+  "pinyin": "jiangzhiling",
+  "pinyin_initials": "jzl",
+  "dosage_form_pinyin": "keli",
+  "dosage_form_initials": "kl",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=663",
+    "last_updated": "2026-03-22"
+  }
+}

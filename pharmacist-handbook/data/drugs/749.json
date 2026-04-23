@@ -1,0 +1,51 @@
+{
+  "id": 749,
+  "name": "度普利尤单抗注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)度普利尤单抗注射液",
+  "chemical_name": "度普利尤单抗注射液",
+  "types": [],
+  "manufacturers": [
+    "Sanofi Winthrop Industrie"
+  ],
+  "specifications": [
+    {
+      "specification": "300mg/支",
+      "manufacturer": "Sanofi Winthrop Industrie",
+      "full_manufacturer": "Sanofi Winthrop Industrie(SANOFI WINTHROP INDUSTRIE)",
+      "price": 1508.0,
+      "unit": "盒",
+      "code": "X00826",
+      "approval_number": "S20200017",
+      "insurance_code": "XD11AHD344B002010282507"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于6-11岁儿童中重度哮喘；药物非常有限；治疗6-11岁儿童中重度哮喘。",
+    "dosage": "皮下注射：建议剂量为初始剂量一次600mg（两次300mg注射在不同的注射部位），然后每两周1次，每次300mg。",
+    "contraindications": "或不耐受的中重度特应性皮炎患者，需按说明书用药。协议期：2025年1月1日至2026年12月31日 处方或非处方药 处方药 贮存条件 储藏在2℃~8℃环境下的冰箱中，从冰箱中取出，如果是未开封的原包装可在25℃下避光储存14天。若超过14天不用或温度超过25℃，则丢弃。 适应证 ⑴用于治疗外用处方药",
+    "adverse_reactions": "最常见的不良反应（发生率≥1％）是注射部位反应，结膜炎，睑缘炎，口腔疱疹，角膜炎，眼瘙痒，其他单纯疱疹病毒感染和干眼症。",
+    "interactions": "避免与本品一起使用活疫苗。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "本品可通过结合IL-4Rα，同时阻断 IL-4 和 IL-13 信号通路。",
+    "precautions": "",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴用于治疗外用处方药控制不佳或不建议使用外用处方药的、6岁及以上且小于12岁的儿童和成人中重度特应性皮炎。本品可与或不与外用皮质类固醇联合使用。 ⑵用于治疗6-11岁儿童中重度哮喘。【美国FDA批准】。 ●特应性皮炎是一种常见的复发性、慢性炎性皮肤疾病，患者通常表现为以炎症和瘙痒为特点的慢性皮疹。中重度特应性皮炎患者通常全身绝大部位皮肤长满红疹，引发强烈持续的瘙痒、皮肤干燥、结痂、渗液，治疗药物非常有限。",
+    "full_dosage": "皮下注射：建议剂量为初始剂量一次600mg（两次300mg注射在不同的注射部位），然后每两周1次，每次300mg。 小儿患者：15至30kg以下一次600mg（两次300mg注射），然后每4周1次，一次300mg； 30kg至60kg以下一次400mg（两次200mg注射），然后每2周1次，一次200mg； 60kg或以上一次600mg（两次300mg注射），然后300mgQ2W –每隔一周一次；Q4W –每4周一次。",
+    "full_contraindications": "或不耐受的中重度特应性皮炎患者，需按说明书用药。协议期：2025年1月1日至2026年12月31日 处方或非处方药 处方药 贮存条件 储藏在2℃~8℃环境下的冰箱中，从冰箱中取出，如果是未开封的原包装可在25℃下避光储存14天。若超过14天不用或温度超过25℃，则丢弃。 适应证 ⑴用于治疗外用处方药控制不佳或不建议使用外用处方药的、6岁及以上且小于12岁的儿童和成人中重度特应性皮炎。本品可与或不与外用皮质类固醇联合使用。 ⑵用于治疗6-11岁儿童中重度哮喘。【美国FDA批准】。 ●特应性皮炎是一种常见的复发性、慢性炎性皮肤疾病，患者通常表现为以炎症和瘙痒为特点的慢性皮疹。中重度特应性皮炎患者通常全身绝大部位皮肤长满红疹，引发强烈持续的瘙痒、皮肤干燥、结痂、渗液，治疗药物非常有限。 药理作用 本品可通过结合IL-4Rα，同时阻断 IL-4 和 IL-13 信号通路。",
+    "full_adverse_reactions": "最常见的不良反应（发生率≥1％）是注射部位反应，结膜炎，睑缘炎，口腔疱疹，角膜炎，眼瘙痒，其他单纯疱疹病毒感染和干眼症。",
+    "full_interactions": "避免与本品一起使用活疫苗。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "本品可通过结合IL-4Rα，同时阻断 IL-4 和 IL-13 信号通路。",
+    "full_precautions": ""
+  },
+  "pinyin": "※▲dupuliyoudankang",
+  "pinyin_initials": "※▲dplydk",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13078",
+    "last_updated": "2026-03-21"
+  }
+}

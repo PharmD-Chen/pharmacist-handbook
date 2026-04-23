@@ -1,0 +1,51 @@
+{
+  "id": 582,
+  "name": "人纤维蛋白粘合剂",
+  "dosage_form": "合剂",
+  "full_name": "(自)人纤维蛋白粘合剂",
+  "chemical_name": "人纤维蛋白粘合剂",
+  "types": [],
+  "manufacturers": [
+    "上海莱士血液制品"
+  ],
+  "specifications": [
+    {
+      "specification": "2ml/套",
+      "manufacturer": "上海莱士血液制品",
+      "full_manufacturer": "上海莱士血液制品股份有限公司",
+      "price": 729.0,
+      "unit": "盒",
+      "code": "X00402",
+      "approval_number": "国药准字S20030070",
+      "insurance_code": "XB02BCR080P009010100714",
+      "location": "2E-6"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "",
+    "source": "湖南药事服务网",
+    "full_indications": "局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。",
+    "full_dosage": "",
+    "full_contraindications": "",
+    "full_adverse_reactions": "",
+    "full_interactions": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": ""
+  },
+  "pinyin": "renxianweidanbaizhan",
+  "pinyin_initials": "rxwdbz",
+  "dosage_form_pinyin": "heji",
+  "dosage_form_initials": "hj",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3518",
+    "last_updated": "2026-03-22"
+  }
+}

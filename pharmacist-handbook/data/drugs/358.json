@@ -1,0 +1,52 @@
+{
+  "id": 358,
+  "name": "草乌甲素软胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)草乌甲素软胶囊",
+  "chemical_name": "草乌甲素软胶囊",
+  "types": [],
+  "manufacturers": [
+    "昆药集团"
+  ],
+  "specifications": [
+    {
+      "specification": "0.4mg/粒",
+      "manufacturer": "昆药集团",
+      "full_manufacturer": "昆药集团股份有限公司",
+      "price": 35.37,
+      "unit": "盒",
+      "code": "C00060",
+      "approval_number": "国药准字H20031060",
+      "insurance_code": "XM01AXC009E002010105614",
+      "location": "K-2",
+      "outpatient_location": "I-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "适用于放射性关节炎、类风湿关节炎、腰肌劳损、肩周炎、四肢扭伤及挫伤等。尚用于牙痛、带状疱疹及术后镇痛等。",
+    "dosage": "口服：一次0.4mg，一日2次。严格掌握用量，每日不得超过2次。",
+    "contraindications": "妊娠期及哺乳期妇女和心脏病患者禁用。",
+    "adverse_reactions": "少数病例出现轻度头晕、恶心、心悸及唇舌发麻等，个别有口干、荨麻疹及注射部位红肿等。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品为植物Aconitum bulleyanum Diels 中提取精制而得到的一种镇痛药，其镇痛起效时间比吗啡慢，但作用持续时间比吗啡长。纳洛酮对本品无拮抗作用。本品尚有抗炎和解热作用，对血沉或抗“Ｏ”升高、发热及类风湿因子阳性均有一定疗效。本品对红细胞、白细胞及血小板计数机肝肾功能均无明显影响。",
+    "precautions": "⑴两次用药时间相隔不宜少于6小时。",
+    "source": "湖南药事服务网",
+    "full_indications": "适用于放射性关节炎、类风湿关节炎、腰肌劳损、肩周炎、四肢扭伤及挫伤等。尚用于牙痛、带状疱疹及术后镇痛等。",
+    "full_dosage": "肌内注射：一次0.3mg，一日1～2次。口服：一次0.4mg，一日2次。严格掌握用量，每日不得超过2次。",
+    "full_contraindications": "妊娠期及哺乳期妇女和心脏病患者禁用。",
+    "full_adverse_reactions": "少数病例出现轻度头晕、恶心、心悸及唇舌发麻等，个别有口干、荨麻疹及注射部位红肿等。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品为植物Aconitum bulleyanum Diels 中提取精制而得到的一种镇痛药，其镇痛起效时间比吗啡慢，但作用持续时间比吗啡长。纳洛酮对本品无拮抗作用。本品尚有抗炎和解热作用，对血沉或抗“Ｏ”升高、发热及类风湿因子阳性均有一定疗效。本品对红细胞、白细胞及血小板计数机肝肾功能均无明显影响。",
+    "full_precautions": "⑴两次用药时间相隔不宜少于6小时。<br>⑵出现不良反应时，可静脉注射高渗葡萄糖加维生素C，也可注射阿托品，并应减量或停用，反应极重者，可按乌头中毒处理，并停药。<br>⑶当药品性状发生改变时禁止使用。"
+  },
+  "pinyin": "caowujiasuruan",
+  "pinyin_initials": "cwjsr",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1034",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>住院药房扫码发药工作指导</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+            position: relative;
+        }
+
+        .back-to-home {
+            position: absolute;
+            left: 15px;
+            bottom: 15px;
+            color: white;
+            font-size: 0.85em;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            opacity: 0.7;
+        }
+
+        .back-to-home:hover {
+            opacity: 1;
+        }
+
+        .header h1 {
+            font-size: 2em;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+
+        .content {
+            display: flex;
+            min-height: 600px;
+        }
+
+        .sidebar {
+            width: 320px;
+            background: #f8f9fa;
+            padding: 30px;
+            border-right: 1px solid #e9ecef;
+        }
+
+        .progress-section {
+            margin-bottom: 30px;
+        }
+
+        .progress-title {
+            font-size: 1.1em;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 15px;
+        }
+
+        .progress-bar {
+            background: #e9ecef;
+            height: 8px;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-bottom: 10px;
+        }
+
+        .progress-fill {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            height: 100%;
+            border-radius: 4px;
+            transition: width 0.3s ease;
+        }
+
+        .progress-text {
+            font-size: 0.9em;
+            color: #666;
+            text-align: center;
+        }
+
+        .step-list {
+            list-style: none;
+        }
+
+        .step-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            padding: 15px;
+            margin-bottom: 8px;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .step-item:hover {
+            background: white;
+            border-color: #667eea;
+        }
+
+        .step-item.active {
+            background: white;
+            border-color: #667eea;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.2);
+        }
+
+        .step-item.completed {
+            background: #e8f5e9;
+            border-color: #4caf50;
+        }
+
+        .step-number {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            background: #e9ecef;
+            color: #666;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 600;
+            font-size: 0.9em;
+            flex-shrink: 0;
+        }
+
+        .step-item.active .step-number {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .step-item.completed .step-number {
+            background: #4caf50;
+            color: white;
+        }
+
+        .step-content {
+            flex: 1;
+        }
+
+        .step-title {
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 4px;
+            font-size: 0.95em;
+        }
+
+        .step-status {
+            font-size: 0.8em;
+            color: #888;
+        }
+
+        .main-panel {
+            flex: 1;
+            padding: 40px;
+            overflow-y: auto;
+            max-height: 800px;
+        }
+
+        .step-detail {
+            display: none;
+        }
+
+        .step-detail.active {
+            display: block;
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .step-detail h2 {
+            color: #333;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #667eea;
+        }
+
+        .step-description {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+            border-left: 4px solid #667eea;
+        }
+
+        .step-description p {
+            color: #555;
+            line-height: 1.8;
+            font-size: 1.05em;
+        }
+
+        .action-steps {
+            margin-bottom: 30px;
+        }
+
+        .action-steps h3 {
+            color: #333;
+            font-size: 1.3em;
+            margin-bottom: 20px;
+        }
+
+        .action-item {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            border: 1px solid #e9ecef;
+            transition: all 0.3s ease;
+        }
+
+        .action-item:hover {
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            border-color: #667eea;
+        }
+
+        .action-number {
+            width: 36px;
+            height: 36px;
+            border-radius: 8px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 600;
+            flex-shrink: 0;
+        }
+
+        .action-content h4 {
+            color: #333;
+            font-size: 1.1em;
+            margin-bottom: 8px;
+        }
+
+        .action-content p {
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
+        .tips-box {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 8px;
+            padding: 15px;
+            margin-top: 10px;
+        }
+
+        .tips-box strong {
+            color: #856404;
+        }
+
+        .tips-box p {
+            color: #856404;
+            margin: 0;
+            font-size: 0.95em;
+        }
+
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 1px solid #e9ecef;
+        }
+
+        .nav-btn {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .nav-btn.prev {
+            background: #e9ecef;
+            color: #666;
+        }
+
+        .nav-btn.prev:hover {
+            background: #dee2e6;
+        }
+
+        .nav-btn.next {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .nav-btn.next:hover {
+            transform: translateX(3px);
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .nav-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        @media (max-width: 768px) {
+            .content {
+                flex-direction: column;
+            }
+
+            .sidebar {
+                width: 100%;
+                border-right: none;
+                border-bottom: 1px solid #e9ecef;
+                max-height: 300px;
+                overflow-y: auto;
+            }
+
+            .main-panel {
+                max-height: none;
+            }
+
+            .header h1 {
+                font-size: 1.5em;
+            }
+
+            .step-detail h2 {
+                font-size: 1.4em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <a href="../workflow-guide.html" class="back-to-home">← 返回岗位手册</a>
+            <h1>住院药房扫码发药工作指导</h1>
+            <p>标准化扫码发药操作流程，确保用药安全</p>
+        </div>
+
+        <div class="content">
+            <div class="sidebar">
+                <div class="progress-section">
+                    <div class="progress-title">总体进度</div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+                    </div>
+                    <div class="progress-text" id="progressText">0 / 7 步骤已完成</div>
+                </div>
+
+                <ul class="step-list">
+                    <li class="step-item active" data-step="1">
+                        <div class="step-number">1</div>
+                        <div class="step-content">
+                            <div class="step-title">接受并确认打印医嘱单</div>
+                            <div class="step-status">进行中</div>
+                        </div>
+                    </li>
+                    <li class="step-item" data-step="2">
+                        <div class="step-number">2</div>
+                        <div class="step-content">
+                            <div class="step-title">按医嘱单进行配药</div>
+                            <div class="step-status">待开始</div>
+                        </div>
+                    </li>
+                    <li class="step-item" data-step="3">
+                        <div class="step-number">3</div>
+                        <div class="step-content">
+                            <div class="step-title">扫码录入追溯码</div>
+                            <div class="step-status">待开始</div>
+                        </div>
+                    </li>
+                    <li class="step-item" data-step="4">
+                        <div class="step-number">4</div>
+                        <div class="step-content">
+                            <div class="step-title">核对药品名称规格数量</div>
+                            <div class="step-status">待开始</div>
+                        </div>
+                    </li>
+                    <li class="step-item" data-step="5">
+                        <div class="step-number">5</div>
+                        <div class="step-content">
+                            <div class="step-title">有无发药错误处理</div>
+                            <div class="step-status">待开始</div>
+                        </div>
+                    </li>
+                    <li class="step-item" data-step="6">
+                        <div class="step-number">6</div>
+                        <div class="step-content">
+                            <div class="step-title">追溯码补录（发药后）</div>
+                            <div class="step-status">待开始</div>
+                        </div>
+                    </li>
+                    <li class="step-item" data-step="7">
+                        <div class="step-number">7</div>
+                        <div class="step-content">
+                            <div class="step-title">发药完成确认</div>
+                            <div class="step-status">待开始</div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="main-panel">
+                <!-- 步骤1 -->
+                <div class="step-detail active" data-step="1">
+                    <h2>接受并确认打印医嘱单</h2>
+                    <div class="step-description">
+                        <p>接收病区发送的医嘱信息，核对并打印医嘱单，作为配药依据。</p>
+                    </div>
+
+                    <div class="action-steps">
+                        <h3>操作步骤</h3>
+                        
+                        <div class="action-item">
+                            <div class="action-number">1</div>
+                            <div class="action-content">
+                                <h4>接收医嘱</h4>
+                                <p>在系统中查看待处理的医嘱列表，确认医嘱状态为「待配药」。</p>
+                                <div class="tips-box">
+                                    <strong>提示：</strong>
+                                    <p>优先处理紧急医嘱（红色标记）</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">2</div>
+                            <div class="action-content">
+                                <h4>核对医嘱信息</h4>
+                                <p>核对患者姓名、床号、药品名称、规格、数量、用法等信息是否完整准确。</p>
+                                <div class="tips-box">
+                                    <strong>提示：</strong>
+                                    <p>发现医嘱信息有误时，立即联系开方医生确认</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">3</div>
+                            <div class="action-content">
+                                <h4>打印医嘱单</h4>
+                                <p>确认无误后，打印医嘱单作为配药凭证，并在系统中标记为「已接收」。</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="navigation">
+                        <button class="nav-btn prev" disabled>← 上一步</button>
+                        <button class="nav-btn next" onclick="goToStep(2)">下一步 →</button>
+                    </div>
+                </div>
+
+                <!-- 步骤2 -->
+                <div class="step-detail" data-step="2">
+                    <h2>按医嘱单进行配药</h2>
+                    <div class="step-description">
+                        <p>根据医嘱单信息，从药架取药并进行初步核对。</p>
+                    </div>
+
+                    <div class="action-steps">
+                        <h3>操作步骤</h3>
+                        
+                        <div class="action-item">
+                            <div class="action-number">1</div>
+                            <div class="action-content">
+                                <h4>按单取药</h4>
+                                <p>根据医嘱单上的药品名称、规格、数量，从相应药架位置取药。</p>
+                                <div class="tips-box">
+                                    <strong>提示：</strong>
+                                    <p>取药时注意查看药品有效期，近效期药品优先使用</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">2</div>
+                            <div class="action-content">
+                                <h4>初步核对</h4>
+                                <p>核对药品名称、规格、数量是否与医嘱单一致，检查药品外观是否正常。</p>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">3</div>
+                            <div class="action-content">
+                                <h4>摆放整齐</h4>
+                                <p>将配好的药品按患者分类摆放，准备进行扫码录入。</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="navigation">
+                        <button class="nav-btn prev" onclick="goToStep(1)">← 上一步</button>
+                        <button class="nav-btn next" onclick="goToStep(3)">下一步 →</button>
+                    </div>
+                </div>
+
+                <!-- 步骤3 -->
+                <div class="step-detail" data-step="3">
+                    <h2>扫码录入追溯码</h2>
+                    <div class="step-description">
+                        <p>使用扫码设备录入药品追溯码，建立药品与患者的关联。</p>
+                    </div>
+
+                    <div class="action-steps">
+                        <h3>操作步骤</h3>
+                        
+                        <div class="action-item">
+                            <div class="action-number">1</div>
+                            <div class="action-content">
+                                <h4>打开扫码界面</h4>
+                                <p>在发药系统中打开扫码录入界面，选择对应患者和医嘱。</p>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">2</div>
+                            <div class="action-content">
+                                <h4>扫描追溯码</h4>
+                                <p>使用扫码枪扫描药品包装上的追溯码，系统自动识别药品信息。</p>
+                                <div class="tips-box">
+                                    <strong>提示：</strong>
+                                    <p>确保扫描的是追溯码（20位数字），而非商品条码</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">3</div>
+                            <div class="action-content">
+                                <h4>确认录入</h4>
+                                <p>核对系统显示的药品信息与实际药品是否一致，确认无误后保存。</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="navigation">
+                        <button class="nav-btn prev" onclick="goToStep(2)">← 上一步</button>
+                        <button class="nav-btn next" onclick="goToStep(4)">下一步 →</button>
+                    </div>
+                </div>
+
+                <!-- 步骤4 -->
+                <div class="step-detail" data-step="4">
+                    <h2>核对药品名称规格数量</h2>
+                    <div class="step-description">
+                        <p>进行最终核对，确保发放的药品与医嘱完全一致。</p>
+                    </div>
+
+                    <div class="action-steps">
+                        <h3>操作步骤</h3>
+                        
+                        <div class="action-item">
+                            <div class="action-number">1</div>
+                            <div class="action-content">
+                                <h4>三查七对</h4>
+                                <p>执行三查七对制度：查处方、查药品、查配伍禁忌；对床号、姓名、药名、剂量、浓度、时间、用法。</p>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">2</div>
+                            <div class="action-content">
+                                <h4>双人核对</h4>
+                                <p>由两名药师共同核对，确认无误后签字确认。</p>
+                                <div class="tips-box">
+                                    <strong>提示：</strong>
+                                    <p>高风险药品（如麻醉药品、精神药品）必须双人核对</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">3</div>
+                            <div class="action-content">
+                                <h4>系统确认</h4>
+                                <p>在系统中标记核对完成，准备发药。</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="navigation">
+                        <button class="nav-btn prev" onclick="goToStep(3)">← 上一步</button>
+                        <button class="nav-btn next" onclick="goToStep(5)">下一步 →</button>
+                    </div>
+                </div>
+
+                <!-- 步骤5 -->
+                <div class="step-detail" data-step="5">
+                    <h2>有无发药错误处理</h2>
+                    <div class="step-description">
+                        <p>如发现发药错误，立即停止发药并按规范流程处理。</p>
+                    </div>
+
+                    <div class="action-steps">
+                        <h3>错误处理流程</h3>
+                        
+                        <div class="action-item">
+                            <div class="action-number">1</div>
+                            <div class="action-content">
+                                <h4>立即停止</h4>
+                                <p>发现错误后立即停止发药，将错误药品隔离存放，标记「错误药品，禁止使用」。</p>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">2</div>
+                            <div class="action-content">
+                                <h4>报告上级</h4>
+                                <p>立即报告药房组长或值班药师，说明错误情况。</p>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">3</div>
+                            <div class="action-content">
+                                <h4>重新配药</h4>
+                                <p>按照正确医嘱重新配药，并加强核对。</p>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">4</div>
+                            <div class="action-content">
+                                <h4>记录备案</h4>
+                                <p>在《发药差错登记本》上记录错误详情，分析原因，提出改进措施。</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="navigation">
+                        <button class="nav-btn prev" onclick="goToStep(4)">← 上一步</button>
+                        <button class="nav-btn next" onclick="goToStep(6)">下一步 →</button>
+                    </div>
+                </div>
+
+                <!-- 步骤6 -->
+                <div class="step-detail" data-step="6">
+                    <h2>追溯码补录（发药后）</h2>
+                    <div class="step-description">
+                        <p>对于特殊情况未能扫码的药品，在发药后进行追溯码补录。</p>
+                    </div>
+
+                    <div class="action-steps">
+                        <h3>补录流程</h3>
+                        
+                        <div class="action-item">
+                            <div class="action-number">1</div>
+                            <div class="action-content">
+                                <h4>确认补录需求</h4>
+                                <p>确认哪些药品因包装破损、追溯码模糊等原因未能正常扫码。</p>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">2</div>
+                            <div class="action-content">
+                                <h4>手工录入</h4>
+                                <p>在系统中选择「追溯码补录」功能，手工输入20位追溯码。</p>
+                                <div class="tips-box">
+                                    <strong>提示：</strong>
+                                    <p>手工录入需双人核对，确保追溯码准确无误</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">3</div>
+                            <div class="action-content">
+                                <h4>保存确认</h4>
+                                <p>核对录入的追溯码与药品包装一致后保存，完成补录。</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="navigation">
+                        <button class="nav-btn prev" onclick="goToStep(5)">← 上一步</button>
+                        <button class="nav-btn next" onclick="goToStep(7)">下一步 →</button>
+                    </div>
+                </div>
+
+                <!-- 步骤7 -->
+                <div class="step-detail" data-step="7">
+                    <h2>发药完成确认</h2>
+                    <div class="step-description">
+                        <p>完成发药操作，确认所有流程已正确执行。</p>
+                    </div>
+
+                    <div class="action-steps">
+                        <h3>完成步骤</h3>
+                        
+                        <div class="action-item">
+                            <div class="action-number">1</div>
+                            <div class="action-content">
+                                <h4>系统确认</h4>
+                                <p>在系统中点击「发药完成」，更新医嘱状态为「已发药」。</p>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">2</div>
+                            <div class="action-content">
+                                <h4>药品交接</h4>
+                                <p>将药品交给病区护士，双方核对并签字确认。</p>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">3</div>
+                            <div class="action-content">
+                                <h4>整理现场</h4>
+                                <p>清理工作台，将剩余药品归位，保持药房整洁。</p>
+                            </div>
+                        </div>
+
+                        <div class="action-item">
+                            <div class="action-number">4</div>
+                            <div class="action-content">
+                                <h4>完成</h4>
+                                <p>恭喜！您已完成扫码发药的全部流程。</p>
+                                <div class="tips-box">
+                                    <strong>提示：</strong>
+                                    <p>请定期参加药学培训，持续提高业务水平</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="navigation">
+                        <button class="nav-btn prev" onclick="goToStep(6)">← 上一步</button>
+                        <button class="nav-btn next" disabled>已完成</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentStep = 1;
+        const totalSteps = 7;
+
+        function goToStep(step) {
+            if (step < 1 || step > totalSteps) return;
+
+            // 更新当前步骤
+            currentStep = step;
+
+            // 更新侧边栏状态
+            document.querySelectorAll('.step-item').forEach((item, index) => {
+                const itemStep = index + 1;
+                item.classList.remove('active', 'completed');
+                
+                if (itemStep === currentStep) {
+                    item.classList.add('active');
+                    item.querySelector('.step-status').textContent = '进行中';
+                } else if (itemStep < currentStep) {
+                    item.classList.add('completed');
+                    item.querySelector('.step-status').textContent = '已完成';
+                } else {
+                    item.querySelector('.step-status').textContent = '待开始';
+                }
+            });
+
+            // 更新主面板显示
+            document.querySelectorAll('.step-detail').forEach(detail => {
+                detail.classList.remove('active');
+            });
+            document.querySelector(`.step-detail[data-step="${step}"]`).classList.add('active');
+
+            // 更新进度条
+            const progress = ((currentStep - 1) / totalSteps) * 100;
+            document.getElementById('progressFill').style.width = progress + '%';
+            document.getElementById('progressText').textContent = `${currentStep - 1} / ${totalSteps} 步骤已完成`;
+        }
+
+        // 点击侧边栏步骤跳转
+        document.querySelectorAll('.step-item').forEach(item => {
+            item.addEventListener('click', () => {
+                const step = parseInt(item.dataset.step);
+                if (step <= currentStep || step === currentStep + 1) {
+                    goToStep(step);
+                }
+            });
+        });
+
+        // 初始化
+        goToStep(1);
+    </script>
+</body>
+</html>

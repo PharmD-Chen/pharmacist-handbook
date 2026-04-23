@@ -1,0 +1,52 @@
+{
+  "id": 768,
+  "name": "德谷胰岛素利拉鲁肽注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)德谷胰岛素利拉鲁肽注射液",
+  "chemical_name": "德谷胰岛素利拉鲁肽注射液",
+  "types": [],
+  "manufacturers": [
+    "Novo Nordisk A/S制药有限公司)制药有限公司）"
+  ],
+  "specifications": [
+    {
+      "specification": "3ml:300单位/支",
+      "manufacturer": "Novo Nordisk A/S制药有限公司)制药有限公司）",
+      "full_manufacturer": "Novo Nordisk A/S(Novo Nordisk A/S,诺和诺德（中国）制药有限公司)（进口分包企业：诺和诺德(中国)制药有限公司）",
+      "price": 217.6,
+      "unit": "盒",
+      "code": "X00418",
+      "approval_number": "国药准字SJ20210026",
+      "insurance_code": "XA10AED356B002010178997",
+      "location": "2B-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于治疗成人2型糖尿病。",
+    "full_indications": "用于治疗成人2型糖尿病。",
+    "dosage": "皮下注射：剂量应个体化。通常每日一次，于主餐前注射。",
+    "full_dosage": "皮下注射：剂量应个体化。通常每日一次，于主餐前注射。根据患者血糖水平调整剂量。",
+    "contraindications": "对德谷胰岛素、利拉鲁肽或本品中任何辅料过敏者禁用。",
+    "full_contraindications": "对德谷胰岛素、利拉鲁肽或本品中任何辅料过敏者禁用。",
+    "adverse_reactions": "低血糖、消化系统不适、皮肤反应、恶心、呕吐、腹泻。",
+    "full_adverse_reactions": "1.低血糖：最常见的不良反应。<br>2.消化系统不适：恶心、呕吐、腹泻。<br>3.皮肤反应。<br>4.罕见的胰腺炎。",
+    "interactions": "与口服降糖药、ACE抑制剂、单胺氧化酶抑制剂等合用可能增加低血糖风险。",
+    "full_interactions": "与口服降糖药、ACE抑制剂、单胺氧化酶抑制剂等合用可能增加低血糖风险。",
+    "pregnancy_category": "C级",
+    "full_pregnancy_category": "C级。",
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": "",
+    "precautions": "1.低血糖是常见",
+    "full_precautions": "1.低血糖是常见",
+    "source": "湖南药事服务网"
+  },
+  "pinyin": "※▲deguyidaosulilalutai",
+  "pinyin_initials": "※▲dgydslllt",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=768",
+    "last_updated": "2026-03-21"
+  }
+}

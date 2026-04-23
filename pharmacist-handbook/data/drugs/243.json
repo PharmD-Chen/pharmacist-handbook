@@ -1,0 +1,54 @@
+{
+  "id": 243,
+  "name": "联苯苄唑溶液",
+  "dosage_form": "其他",
+  "full_name": "(甲)联苯苄唑溶液",
+  "chemical_name": "联苯苄唑溶液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "江西普丽尔药业"
+  ],
+  "specifications": [
+    {
+      "specification": "60ml/瓶",
+      "manufacturer": "江西普丽尔药业",
+      "full_manufacturer": "江西普丽尔药业有限公司",
+      "price": 44.67,
+      "unit": "盒",
+      "code": "X00688",
+      "approval_number": "国药准字H20083313",
+      "insurance_code": "XD01ACL079S004010104370",
+      "location": "G-5",
+      "outpatient_location": "2E-6"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "外用于由皮肤癣菌如红色毛癣菌、须癣毛癣菌。絮状表皮癣菌和犬小孢子菌等所致的浅表皮肤真菌感染，如手癣、足癣（尤其是角化增厚型）、体癣、股癣；外用于由念珠菌如白色念珠菌等所致的皮肤念珠菌感染和念珠菌性外阴阴道炎。外用于由马拉色菌属所致的花斑癣。",
+    "dosage": "涂于患处，一日1次，2～4周为一疗程。",
+    "contraindications": "对咪唑类药物过敏或对本品过敏者禁用。",
+    "adverse_reactions": "少数病人有局部红斑、烧灼感或刺痛感等刺激症状，偶可发生接触性皮炎。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品属咪唑类广谱抗真菌药物，具有抗皮肤癣菌、酵母菌、丝状菌和双相真菌的功效，并具有较强的抗真菌活性，对马拉色菌属和革兰阳性球菌亦有效，而且在皮肤存留时间长，每日用药一次即可。仅供外用，吸收很少。和其他咪唑类药物一样，此药对于Ｃ14-去甲基作用有抑制作用，使之不能形成麦角甾醇。还可以减少甲羟戊酸的产生",
+    "precautions": "用药过程中一旦局部皮肤过敏，皮疹加重、瘙痒，立即停用。",
+    "source": "湖南药事服务网",
+    "full_indications": "外用于治疗由皮肤癣菌如红色毛癣菌、须癣毛癣菌。絮状表皮癣菌和犬小孢子菌等所致的浅表皮肤真菌感染，如手癣、足癣（尤其是角化增厚型）、体癣、股癣；外用于由念珠菌如白色念珠菌等所致的皮肤念珠菌感染和念珠菌性外阴阴道炎。外用于由马拉色菌属所致的花斑癣。",
+    "full_dosage": "涂于患处，一日1次，2～4周为一疗程。",
+    "full_contraindications": "对咪唑类药物过敏或对本品过敏者禁用。",
+    "full_adverse_reactions": "少数病人有局部红斑、烧灼感或刺痛感等刺激症状，偶可发生接触性皮炎。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品属咪唑类广谱抗真菌药物，具有抗皮肤癣菌、酵母菌、丝状菌和双相真菌的功效，并具有较强的抗真菌活性，对马拉色菌属和革兰阳性球菌亦有效，而且在皮肤存留时间长，每日用药一次即可。仅供外用，吸收很少。和其他咪唑类药物一样，此药对于Ｃ14-去甲基作用有抑制作用，使之不能形成麦角甾醇。还可以减少甲羟戊酸的产生使之不能形成角鲨烯，而影响麦角甾醇的合成。",
+    "full_precautions": "用药过程中一旦局部皮肤过敏，皮疹加重、瘙痒，应立即停用。"
+  },
+  "pinyin": "lianbenbianzuorongye",
+  "pinyin_initials": "lbbzry",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2183",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>上海市养志康复医院药品手册 - 药师版</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+
+        /* 头部 */
+        .header {
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            color: white;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .header h1 {
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .user-info {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 14px;
+        }
+
+        .user-badge {
+            background: rgba(255,255,255,0.2);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+        }
+
+        .logout-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 6px 14px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 12px;
+            transition: background 0.3s;
+        }
+
+        .logout-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+
+        /* 主内容区 */
+        .main-content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        /* 欢迎区域 */
+        .welcome {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+
+        .welcome h2 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .welcome p {
+            opacity: 0.9;
+            font-size: 16px;
+        }
+
+        /* 功能入口 */
+        .menu-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 30px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .menu-item {
+            background: white;
+            border-radius: 20px;
+            padding: 40px 30px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            text-decoration: none;
+            color: #333;
+        }
+
+        .menu-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 50px rgba(0,0,0,0.3);
+        }
+
+        .menu-icon {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 20px;
+            font-size: 36px;
+        }
+
+        .menu-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: #0E7490;
+            margin-bottom: 8px;
+        }
+
+        .menu-desc {
+            font-size: 14px;
+            color: #666;
+        }
+
+        /* 页脚 */
+        .footer {
+            text-align: center;
+            padding: 30px;
+            color: rgba(255,255,255,0.7);
+            font-size: 12px;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+
+        @media (max-width: 600px) {
+            .menu-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .menu-item {
+                padding: 30px 20px;
+            }
+
+            .welcome h2 {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 头部 -->
+    <header class="header">
+        <h1>上海市养志康复医院药品手册（药师版）</h1>
+        <div class="user-info">
+            <span id="userName" class="user-badge"></span>
+            <button class="logout-btn" onclick="logout()">退出登录</button>
+        </div>
+    </header>
+
+    <!-- 主内容 -->
+    <main class="main-content">
+        <!-- 欢迎区域 -->
+        <div class="welcome">
+            <h2>欢迎使用药品手册系统</h2>
+            <p>请选择您要访问的模块</p>
+        </div>
+
+        <!-- 功能入口 -->
+        <div class="menu-grid">
+            <a href="index_simple.html" class="menu-item">
+                <div class="menu-icon">📖</div>
+                <div class="menu-title">药品手册</div>
+                <div class="menu-desc">查询药品详细信息、用法用量、禁忌症等</div>
+            </a>
+
+            <a href="workflow-guide.html" class="menu-item">
+                <div class="menu-icon">📋</div>
+                <div class="menu-title">岗位手册</div>
+                <div class="menu-desc">查看药师岗位操作流程、工作规范等</div>
+            </a>
+        </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        数据更新于 2026年1月1日 | 上海市养志康复医院药学部
+    </footer>
+
+    <script>
+        // 检查登录状态
+        function checkAuth() {
+            const userInfo = localStorage.getItem('userInfo');
+            if (!userInfo) {
+                window.location.href = 'pharmacist-login.html';
+                return false;
+            }
+            
+            const user = JSON.parse(userInfo);
+            if (user.type !== 'pharmacist') {
+                alert('无权访问，仅限药师使用');
+                window.location.href = 'pharmacist-login.html';
+                return false;
+            }
+            
+            document.getElementById('userName').textContent = user.name || '药师';
+            return true;
+        }
+
+        // 退出登录
+        function logout() {
+            localStorage.removeItem('userInfo');
+            window.location.href = 'pharmacist-login.html';
+        }
+
+        // 初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            if (!checkAuth()) return;
+        });
+    </script>
+</body>
+</html>

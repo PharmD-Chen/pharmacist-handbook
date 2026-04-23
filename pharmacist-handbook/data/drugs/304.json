@@ -1,0 +1,65 @@
+{
+  "id": 304,
+  "name": "消痛贴膏",
+  "dosage_form": "贴膏",
+  "full_name": "(甲)消痛贴膏[国基、上增]",
+  "chemical_name": "消痛贴膏",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "西藏奇正藏药"
+  ],
+  "specifications": [
+    {
+      "specification": "1g/贴",
+      "manufacturer": "西藏奇正藏药",
+      "full_manufacturer": "西藏奇正藏药股份有限公司(甘肃奇正藏药有限公司受委托生产)",
+      "price": 31.65,
+      "unit": "盒",
+      "code": "C00014",
+      "approval_number": "国药准字Z54020113",
+      "insurance_code": "ZI01AAX0279030305742",
+      "location": "D-5",
+      "outpatient_location": "I-5"
+    },
+    {
+      "specification": "1g/贴",
+      "manufacturer": "西藏奇正藏药",
+      "full_manufacturer": "西藏奇正藏药股份有限公司(甘肃奇正藏药有限公司受委托生产)",
+      "price": 31.65,
+      "unit": "盒",
+      "code": "Y00000014398",
+      "approval_number": "国药准字Z54020113",
+      "insurance_code": "ZI01AAX0279030305742"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "用于既往未接受过全身系统性治疗的不可手术切除或转移性肝细胞癌患者。",
+    "dosage": "口服：推荐剂量为一次0.2g，一日2次，空腹口服，以温开水吞服。每日同一时段服药。如果漏服药物，无需补服，应按常规用药时间进行下一次服药。持续服用直至不能获得临床受益或出现不可耐受的毒性反应。",
+    "contraindications": "症 ⑴对本品任何成分过敏者禁用。 ⑵对于有活动性出血、活动性消化道溃疡、药物不可控制的高血压和重度肝功能不全患者禁用。 ⑶哺乳期妇女禁用。",
+    "adverse_reactions": "最常见（发生率大于或等于20%）的不良反应有：手足皮肤反应、腹泻、血小板计数降低、高血压、天门冬氨酸氨基转移酶升高、脱发、皮疹和蛋白尿。发生率大于或等于5%的大于或等于3级不良反应包括：高血压和手足皮肤反应。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "⑴手足皮肤反是多纳非尼最常见的",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗既往未接受过全身系统性治疗的不可手术切除或转移性肝细胞癌患者。",
+    "full_dosage": "口服：推荐剂量为一次0.2g，一日2次，空腹口服，以温开水吞服。建议每日同一时段服药。如果漏服药物，无需补服，应按常规用药时间进行下一次服药。持续服用直至不能获得临床受益或出现不可耐受的毒性反应。",
+    "full_contraindications": "症 ⑴对本品任何成分过敏者禁用。 ⑵对于有活动性出血、活动性消化道溃疡、药物不可控制的高血压和重度肝功能不全患者禁用。 ⑶哺乳期妇女禁用。",
+    "full_adverse_reactions": "最常见（发生率大于或等于20%）的不良反应有：手足皮肤反应、腹泻、血小板计数降低、高血压、天门冬氨酸氨基转移酶升高、脱发、皮疹和蛋白尿。发生率大于或等于5%的大于或等于3级不良反应包括：高血压和手足皮肤反应。",
+    "full_interactions": "暂无相关研究。",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴手足皮肤反应是多纳非尼最常见的",
+    "composition": "独一味、棘豆、姜黄、花椒、水牛角、水柏枝。"
+  },
+  "pinyin": "xiaotong",
+  "pinyin_initials": "xt",
+  "dosage_form_pinyin": "tiegao",
+  "dosage_form_initials": "tg",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5204",
+    "last_updated": "2026-03-22"
+  }
+}

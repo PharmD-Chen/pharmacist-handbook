@@ -1,0 +1,54 @@
+{
+  "id": 552,
+  "name": "格列齐特缓释片",
+  "dosage_form": "缓释片",
+  "full_name": "(甲)格列齐特缓释片[市基]",
+  "chemical_name": "格列齐特缓释片",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "上海延安药业"
+  ],
+  "specifications": [
+    {
+      "specification": "30mg/片",
+      "manufacturer": "上海延安药业",
+      "full_manufacturer": "上海延安药业有限公司",
+      "price": 36.56,
+      "unit": "盒",
+      "code": "Y00000014633",
+      "approval_number": "国药准字H20056883",
+      "insurance_code": "XA10BBG070A010010400889"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "预防或治疗因细胞毒化疗或放疗导致的恶心和呕吐；预防和治疗手术后恶心和呕吐。",
+    "dosage": "成人：用量3mg；儿童：剂量为一次20μg",
+    "contraindications": "症 对本品或有关化合物过敏者、孕妇、胃肠道梗阻者禁用。",
+    "adverse_reactions": "常见的不良反应为头痛、倦怠、发热、便秘及胃肠道功能紊乱，偶有短暂性肝转氨酶增高。上述反应轻微，无需特殊处理。",
+    "interactions": "⑴格拉司琼与利福平或其他肝药酶诱导剂同时使用，本品的血药浓度减低，应适当增加剂量。 ⑵与地塞米松合用，可提高本品的疗效，降低",
+    "pregnancy_category": "B\n \n",
+    "pharmacokinetics": "t1/2约5.9小时。",
+    "precautions": "⑴哺乳期妇女慎用。 ⑵儿童用药：儿童的安全性尚未确定。 ⑶本品不宜与其他药物混合使用。",
+    "source": "湖南药事服务网",
+    "full_indications": "预防或治疗因细胞毒化疗或放疗导致的恶心和呕吐；预防和治疗手术后恶心和呕吐。",
+    "full_pharmacokinetics": "半衰期约3.1～5.9小时",
+    "full_dosage": "⑴静脉滴注，成人用量3mg，于治疗前30分钟给药。大多数病人只需给药1次，对恶性和呕吐的预防作用便可超过24小时。必要时可增加给药次数1～2次，但一日最高剂量不应超过9mg。老年人和肝肾功能不全者无需调整剂量。 ⑵口服给药：与静脉、肌肉注射给药配合使用，①成人：剂量一般为一次1mg，一日2次。②儿童：剂量为一次20μg／kg，一天2次。一般于化疗前1小时服用，第二次为12小时后服用。 ⑶贴剂外用：粘贴于清洁、干燥、完整健康的上臂外侧皮肤。成人在化疗前24小时，将单片贴片粘贴在上臂外侧。最长可在化疗前48小时敷贴。在化疗完成后至少24小时后揭去贴片。根据化疗方案的疗程不同，贴片可使用多达7天。",
+    "full_contraindications": "症 对本品或有关化合物过敏者、孕妇、胃肠道梗阻者禁用。",
+    "full_adverse_reactions": "常见的不良反应为头痛、倦怠、发热、便秘及胃肠道功能紊乱，偶有短暂性肝转氨酶增高。上述反应轻微，无需特殊处理。",
+    "full_interactions": "⑴格拉司琼与利福平或其他肝药酶诱导剂同时使用，本品的血药浓度减低，应适当增加剂量。 ⑵与地塞米松合用，可提高本品的疗效，降低",
+    "full_precautions": "⑴哺乳期妇女慎用。 ⑵儿童用药：儿童的安全性尚未确定。 ⑶本品不宜与其他药物混合使用。",
+    "full_pregnancy_category": "B\n \n"
+  },
+  "pinyin": "gelieqite",
+  "pinyin_initials": "glqt",
+  "dosage_form_pinyin": "huanshipian",
+  "dosage_form_initials": "hsp",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=552",
+    "last_updated": "2026-03-21"
+  }
+}

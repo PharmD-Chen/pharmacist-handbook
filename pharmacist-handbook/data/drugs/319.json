@@ -1,0 +1,51 @@
+{
+  "id": 319,
+  "name": "二甲双胍维格列汀片(II)",
+  "dosage_form": "片",
+  "full_name": "(乙10%)二甲双胍维格列汀片(II)",
+  "chemical_name": "二甲双胍维格列汀片(II)",
+  "types": [],
+  "manufacturers": [
+    "扬子江药业集团"
+  ],
+  "specifications": [
+    {
+      "specification": "1单位/片",
+      "manufacturer": "扬子江药业集团",
+      "full_manufacturer": "扬子江药业集团有限公司",
+      "price": 62.5,
+      "unit": "盒",
+      "code": "X00537",
+      "approval_number": "国药准字H20213447",
+      "insurance_code": "XA10BDE074A001010101749",
+      "location": "L-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "配合饮食和运动治疗，用于二甲双胍单药治疗达最大耐受剂量血糖仍控制不住或正在接受维格列汀与二甲双胍联合治疗的成人2型糖尿病患者。",
+    "dosage": "口服：成人，用于降糖治疗时，剂量应根据患者目前的治疗方案疗效和对药物的耐受程度个性化定制。",
+    "contraindications": "已知对维格列汀、二甲双胍或本品中任一成份过敏者禁用。",
+    "adverse_reactions": "参阅二甲双胍和维格列汀。",
+    "interactions": "参阅二甲双胍和维格列汀。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "参阅二甲双胍和维格列汀。",
+    "precautions": "参阅二甲双胍和维格列汀。",
+    "source": "湖南药事服务网",
+    "full_indications": "配合饮食和运动治疗，用于二甲双胍单药治疗达最大耐受剂量血糖仍控制不住或正在接受维格列汀与二甲双胍联合治疗的成人2型糖尿病患者。",
+    "full_dosage": "口服：成人，用于降糖治疗时，剂量应根据患者目前的治疗方案疗效和对药物的耐受程度个性化定制。但维格列汀最大日剂量不得超过推荐的100mg。通常的给药方案是，早晚各一片，一日2次。用餐时或饭后服用本品可减轻二甲双胍胃肠道症状。<br>对于二甲双胍单药治疗达最大耐受剂量血糖仍控制不佳患者本昌的起始剂量相当于维格列汀50mg每日两次（日总剂量100mg），再加上正在服用的二甲双胍的剂量。<br>对于正同时接受维格列汀与二甲双肌联合治疗需要更换本品的患者，本品的起始剂量应根据正在服用的维格列汀和二甲双胍的剂量选择。<br>特殊人群：<br>肾功能不全患者：肌酐清除率＜60ml/分钟的患者不能使用本品。<br>肝功能不全患者：用药前，丙氨酸氨基转移酶（ALT）或天冬氨酸氨基转移酶（AST）＞正常上限（ULN）3倍的肝功能不全患者不能使用本品。",
+    "full_contraindications": "已知对维格列汀、二甲双胍或本品中任一成份过敏者禁用。",
+    "full_adverse_reactions": "参阅二甲双胍和维格列汀。",
+    "full_interactions": "参阅二甲双胍和维格列汀。",
+    "full_pharmacokinetics": "参阅二甲双胍和维格列汀。",
+    "full_precautions": "参阅二甲双胍和维格列汀。"
+  },
+  "pinyin": "erjiashuangguaweigelieting",
+  "pinyin_initials": "ejsgwglt",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1360",
+    "last_updated": "2026-03-22"
+  }
+}

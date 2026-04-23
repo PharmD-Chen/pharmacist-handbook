@@ -1,0 +1,53 @@
+{
+  "id": 1021,
+  "name": "大川芎口服液",
+  "dosage_form": "其他",
+  "full_name": "(乙10%)大川芎口服液",
+  "chemical_name": "大川芎口服液",
+  "types": [],
+  "manufacturers": [
+    "辽宁东方人药业"
+  ],
+  "specifications": [
+    {
+      "specification": "10ml/支",
+      "manufacturer": "辽宁东方人药业",
+      "full_manufacturer": "辽宁东方人药业有限公司",
+      "price": 85.63,
+      "unit": "盒",
+      "code": "Y00000014539",
+      "approval_number": "国药准字Z10920043",
+      "insurance_code": "ZA12HAD0011010101204",
+      "location": "X-8",
+      "outpatient_location": "J-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "活血化瘀，平肝息风。用于瘀血阻络、肝阳化风所致的头痛，眩晕，颈项紧张不舒，上下肢或偏身麻木，舌部瘀斑。",
+    "dosage": "口服：一次10ml，一日3次，连服半个月为一疗程，或遵医嘱。",
+    "contraindications": "对本品过敏者禁用；外感头痛、孕妇、出血性脑血管病急性期患者忌服。",
+    "adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生",
+    "pregnancy_category": null,
+    "pharmacokinetics": "川芎、天麻。",
+    "precautions": "重症患者请遵医嘱服用。",
+    "source": "湖南药事服务网",
+    "full_indications": "活血化瘀，平肝息风。用于瘀血阻络、肝阳化风所致的头痛，眩晕，颈项紧张不舒，上下肢或偏身麻木，舌部瘀斑。",
+    "full_dosage": "口服：一次10ml，一日3次，连服半个月为一疗程，或遵医嘱。",
+    "full_contraindications": "对本品过敏者禁用；外感头痛、孕妇、出血性脑血管病急性期患者忌服。",
+    "full_adverse_reactions": "尚不明确。",
+    "full_interactions": "如与其他药物同时使用可能会发生",
+    "full_pharmacokinetics": "川芎、天麻。",
+    "full_precautions": "重症患者请遵医嘱服用。",
+    "composition": "川芎、天麻。"
+  },
+  "pinyin": "dachuanqiongkoufuye",
+  "pinyin_initials": "dcqkfy",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=7244",
+    "last_updated": "2026-03-21"
+  }
+}

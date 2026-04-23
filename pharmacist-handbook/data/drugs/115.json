@@ -1,0 +1,52 @@
+{
+  "id": 115,
+  "name": "阿柏西普眼内注射溶液",
+  "dosage_form": "其他",
+  "full_name": "(乙10%)阿柏西普眼内注射溶液",
+  "chemical_name": "阿柏西普眼内注射溶液",
+  "types": [],
+  "manufacturers": [
+    "Bayer AG"
+  ],
+  "specifications": [
+    {
+      "specification": "40mg/瓶",
+      "manufacturer": "Bayer AG",
+      "full_manufacturer": "Bayer AG(Vetter Pharma-Fertigung GmbH & Co.KG)",
+      "price": 2935.3,
+      "unit": "盒",
+      "code": "X00127",
+      "approval_number": "国药准字SJ20180010",
+      "insurance_code": "XS01LAA308G003010178269",
+      "location": "2E-1",
+      "outpatient_location": "2C-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于有新生血管(湿)年龄相关黄斑变性(AMD)和糖尿病黄斑水肿（DME）患者。",
+    "dosage": "玻璃体内注射：推荐剂量为一次2mg，每4周1次（每月1次），连续12周；通过为一次2mg，每8周1次（每2个月1次）。尽管本品可给药频繁如一次2mg，每4周1次(每月)，临床证实当每4周与每8周给药比较未见增加疗效。",
+    "contraindications": "已知对本品或本品任何赋形剂超敏性患者禁用；眼或眼周感染患者禁用；有活动性眼内炎症患者禁用。",
+    "adverse_reactions": "常见：(≥5%)是结膜出血，眼疼痛，白内障，玻璃体脱落，玻璃体飞蚊症和眼内压增加",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "⑴药效学：本品作用如同可溶性诱饵受体[decoy receptor]与VEGF-A和PlGF结合，并因此抑制这些同源[cognate]VEGF受体结合和激活。血管内皮生长因子-A(VEGF-A)和胎盘生长因子(PlGF)是血管生成因子VEGF家族的成员that可作用如同tas对内皮细胞有丝分裂，趋化",
+    "precautions": "⑴应在控制无菌条件下进行玻璃体内注射步骤，包括外科手消毒和使用无菌手套，无菌披戴，和无菌眼睑窥器(或等同物)。适当麻醉和注射前应给予局部用广谱杀微生物剂。\n⑵玻璃体内注射后立即，应监视患者眼内压的升高。适当监视可能由核查视神经头灌注或眼内压组成。如需要，应得到无菌穿刺针。\n⑶玻璃体内注射后，应指导患者无延缓地报告任何眼内炎或视网膜脱落提示性症状(如，眼疼痛，",
+    "source": "湖南药事服务网",
+    "full_indications": "适用于治疗有新生血管(湿)年龄相关黄斑变性(AMD)和糖尿病黄斑水肿（DME）患者。",
+    "full_dosage": "玻璃体内注射：推荐剂量为一次2mg，每4周1次（每月1次），连续12周；通过为一次2mg，每8周1次（每2个月1次）。尽管本品可给药频繁如一次2mg，每4周1次(每月)，临床证实当每4周与每8周给药比较未见增加疗效。",
+    "full_contraindications": "已知对本品或本品任何赋形剂超敏性患者禁用；眼或眼周感染患者禁用；有活动性眼内炎症患者禁用。",
+    "full_adverse_reactions": "最常见不良反应(≥5%)是结膜出血，眼疼痛，白内障，玻璃体脱落，玻璃体飞蚊症和眼内压增加。不常见的不良反应有眼内炎和视网膜脱落、眼内压增加和血栓栓塞事件。",
+    "full_interactions": "尚不明确。",
+    "full_pharmacokinetics": "⑴药效学：本品作用如同可溶性诱饵受体[decoy receptor]与VEGF-A和PlGF结合，并因此抑制这些同源[cognate]VEGF受体结合和激活。血管内皮生长因子-A(VEGF-A)和胎盘生长因子(PlGF)是血管生成因子VEGF家族的成员that可作用如同tas对内皮细胞有丝分裂，趋化性，和血管通透性因子。VEGF作用通过两个受体酪氨酸激酶，VEGFR-1和VEGFR-2，存在与内皮细胞表面。PlGF只与VEGFR-1结合，也在白细胞表面存在。通过VEGF-A对这些受体的激活可能导致新生血管形成和血管通透性。<br>　　⑵药动学：本品被玻璃体内给予在眼内发挥局部效应。在湿性AMD患者中，玻璃体内给予后，预期给予剂量的一个分数结合至眼中与内源性VEGF形成无活性aflibercept：VEGF复合物。一旦吸收至全身循环，以游离aflibercept存在血浆中(未结合至VEGF)和更主要稳定无活性形式与循环内源性VEGF(即，aflibercept: VEGF复合物)。<br>吸收/分布：玻璃体内给予2mg，每眼至湿性AMD患者后，血浆中游离aflibercept平均Cmax为0.02μg/mL(范围：0至0.054μg/mL)和达到1至3天。在所有患者中给药后2周游离aflibercept血浆浓度是不可检测的。当每4周玻璃体内重复给药时Aflibercept在血浆中不积蓄。估计玻璃体内给予2mg至患者后，血浆游离aflibercept平均最大浓度是低于-最大结合全身VEGF半数所需aflibercept浓度大于100倍。曾测定静脉(I.V.)给予aflibercept后游离aflibercept分布容积约为6L。<br>代谢/消除：Aflibercept是一种治疗性蛋白和未曾进行药物代谢研究。Aflibercept预期通过目标介导处置通过与游离内源性VEGF结合和通过蛋白水解二方面代谢。静脉给予剂量2至4mg/kg的aflibercept，血浆中游离aflibercept末端消除半衰期(ｔ1/2)是约5至6天。",
+    "full_precautions": "⑴应在控制无菌条件下进行玻璃体内注射步骤，包括外科手消毒和使用无菌手套，无菌披戴，和无菌眼睑窥器(或等同物)。适当麻醉和注射前应给予局部用广谱杀微生物剂。<br>⑵玻璃体内注射后立即，应监视患者眼内压的升高。适当监视可能由核查视神经头灌注或眼内压组成。如需要，应得到无菌穿刺针。<br>⑶玻璃体内注射后，应指导患者无延缓地报告任何眼内炎或视网膜脱落提示性症状(如，眼疼痛，眼发红，畏光，视力模糊)。<br>⑷每个小瓶只应为治疗单眼使用。如对侧眼需要治疗，应使用一个新小瓶和消毒液，注射器，手套，消毒单， 眼睑窥器，滤器，和注射针给予另一只眼前变换。<br>⑸注射后，应遗弃任何未使用产品。<br>⑹对于任何曾研究人群不需要调整剂量(如，性别，老年人)。<br>⑺在妊娠妇女中无适当和对照良好研究。妊娠期间只有如潜在获益超过对胎儿潜在风险时才应使用。<br>⑻尚不明确本品是否排泄至人乳汁。因为许多药物排泄至人乳汁，不能排除对哺乳儿童的风险。不建议在哺乳期间使用。<br>⑼尚未确定Eylea在儿童患者中的安全性和有效性。<br>⑽在临床研究中，约89%(1616/1817例)随机化治疗患者是≥65岁和约63%(1139/1817例)是≥75岁。在这些研究中随年龄增加疗效或安全性无明显差别。<br>⑾肾受损的患者无需根据肾受损状态调整剂量。"
+  },
+  "pinyin": "abaixipuyanneizhusherongye",
+  "pinyin_initials": "abxpynzsry",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=11959",
+    "last_updated": "2026-03-22"
+  }
+}

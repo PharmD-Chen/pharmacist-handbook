@@ -1,0 +1,52 @@
+{
+  "id": 1005,
+  "name": "氢溴酸依他佐辛注射液",
+  "dosage_form": "注射液",
+  "full_name": "(自)氢溴酸依他佐辛注射液",
+  "chemical_name": "氢溴酸依他佐辛注射液",
+  "types": [],
+  "manufacturers": [
+    "深圳万乐药业"
+  ],
+  "specifications": [
+    {
+      "specification": "15mg/瓶",
+      "manufacturer": "深圳万乐药业",
+      "full_manufacturer": "深圳万乐药业有限公司",
+      "price": 164.95,
+      "unit": "瓶",
+      "code": "X00596",
+      "approval_number": "国药准字H20065171",
+      "insurance_code": "XN02ADY086B002010200549",
+      "location": "O-4",
+      "outpatient_location": "Z"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于各种癌症和手术后的镇痛。",
+    "dosage": "皮下或肌内注射，一次15mg，依症状酌情适当增减剂量。",
+    "contraindications": "⑴禁用于处于严重呼吸抑制的患者、头部损伤及脑部病变有神志不清危险的患者、颅内压增高的患者。\n⑵禁用于对本品所含成份过敏者。",
+    "adverse_reactions": "有恶心、呕吐、头晕。出汗、步履蹒跚等症状，偶见口干、轻度呼吸抑制、心悸、颜面潮红等。大剂量连续使用时可能产生药物依赖性。突然停药可出现戒断症状。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "皮下注射30分钟血药浓度达高峰，ｔ1/2为100分钟。在肝中与葡糖醛酸结合，经过肾脏排泄。给药后24小时有82.5％随尿排出。",
+    "precautions": "⑴对有药物依赖史的患者、有胆道疾患的患者应慎用。儿童、妊娠期及哺乳期妇女不宜使用。\n⑵用药期间不应从事危险的机械操作。\n⑶避免与巴比妥类药物用同一个注射器，以防产生沉淀。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于各种癌症和手术后的镇痛。",
+    "full_dosage": "皮下或肌内注射，一次15mg，依症状酌情适当增减剂量。",
+    "full_contraindications": "⑴禁用于处于严重呼吸抑制的患者、头部损伤及脑部病变有神志不清危险的患者、颅内压增高的患者。<br>⑵禁用于对本品所含成份过敏者。",
+    "full_adverse_reactions": "有恶心、呕吐、头晕。出汗、步履蹒跚等症状，偶见口干、轻度呼吸抑制、心悸、颜面潮红等。大剂量连续使用时可能产生药物依赖性。突然停药可出现戒断症状。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "⑴药效学：本品激动κ受体，拮抗μ受体。动物实验表明其镇痛效应为喷他佐辛的1～2倍，耐受性形成速度较慢，比吗啡、喷他佐辛轻。有轻度心理依赖作用。<br>⑵药动学：皮下注射30分钟血药浓度达高峰，ｔ1/2为100分钟。在肝中与葡糖醛酸结合，经过肾脏排泄。给药后24小时有82.5％随尿排出。",
+    "full_precautions": "⑴对有药物依赖史的患者、有胆道疾患的患者应慎用。儿童、妊娠期及哺乳期妇女不宜使用。<br>⑵用药期间不应从事危险的机械操作。<br>⑶避免与巴比妥类药物用同一个注射器，以防产生沉淀。"
+  },
+  "pinyin": "qingxiusuanyitazuoxin",
+  "pinyin_initials": "qxsytzx",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1020",
+    "last_updated": "2026-03-22"
+  }
+}

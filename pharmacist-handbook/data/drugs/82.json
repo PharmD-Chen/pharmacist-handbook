@@ -1,0 +1,50 @@
+{
+  "id": 82,
+  "name": "巴瑞替尼片",
+  "dosage_form": "片",
+  "full_name": "※▲(乙10%)巴瑞替尼片",
+  "chemical_name": "巴瑞替尼片",
+  "types": [],
+  "manufacturers": [
+    "Eli Lilly Nederland B.V."
+  ],
+  "specifications": [
+    {
+      "specification": "2mg/片",
+      "manufacturer": "Eli Lilly Nederland B.V.",
+      "full_manufacturer": "Eli Lilly Nederland B.V.(Lilly del Caribe, Inc.)",
+      "price": 1064.0,
+      "unit": "盒",
+      "code": "X00921",
+      "approval_number": "国药准字HJ20190039",
+      "insurance_code": "XL04AAB233A001010178403"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于成人中重度活动性类风湿关节炎；严重斑秃成人患者；治疗成人中重度活动性类风湿关节炎；治疗严重斑秃成人患者。",
+    "dosage": "口服：推荐剂量为一次2mg或4mg，一日1次。餐时或空腹时均可，可以在一日中的任何时候给药。",
+    "contraindications": "过敏禁用。",
+    "adverse_reactions": "常见：恶心等。",
+    "interactions": "与有机阴离子转运蛋白3（OAT3）抑制剂（例如丙磺舒）合用，建议剂量减半使用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "巴瑞替尼是一种酪氨酸蛋白激酶（JAK）1/2抑制剂，可与一种或多种 TNF 抑制剂联用。当前已知存在四种酶 JAK，JAK1，JAK2，JAK3 和 TYK2 。JAK 依赖性细胞因子与许多炎性疾病和自身免疫疾病有关， 巴瑞替尼对JAK1 ， JAK2 ， JAK3 和 Tyk2具有强大的抑制效力，",
+    "precautions": "⑴严重肝功能不全患者不建议使用。 ⑵避免与活疫苗一起使用。 ⑶尚未确定巴瑞替尼在小于18岁的儿童和青少年中的安全性和疗效。 ⑷在年龄≥75岁的患者中的临床经验非常有限，年龄为≥65岁或≥75岁未对巴瑞替尼暴露量造成影响(Cmax和AUC)。 ⑸育龄期女性在接受治疗期间以及治疗结束后至少1周必须使用有效的避孕手段。",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴用于治疗成人中重度活动性类风湿关节炎。<br>⑵用于对一种或多种改善病情抗风湿药（DMARDs）疗效不佳或不耐受的中重度活动性类风湿关节炎成年患者，可以与甲氨蝶呤或其他非生物改善病情抗风湿药联合使用。<br>⑶用于治疗新型冠状病毒（COVID-19）感染的重症患者（世卫组织强烈推荐）。<br>⑷用于治疗严重斑秃成人患者。",
+    "full_dosage": "口服：推荐剂量为一次2mg或4mg，一日1次。餐时或空腹时均可，可以在一日中的任何时候给药。",
+    "full_contraindications": "⑴对活性物质或任何辅料有过敏反应者禁用。<br>⑵妊娠期妇女禁用。",
+    "full_adverse_reactions": "不良反应（≥1％）包括：上呼吸道感染，恶心，单纯疱疹和带状疱疹。<br>美国FDA基于一项已完成的大型随机安全性临床试验得出结论称，托法替布的临床使用可致严重心脏相关事件（例如心脏病发作或中风）、癌症、血栓和死亡风险增加。而巴瑞替尼与托法替布的作用机制相同，可能具有如托法替布安全性试验所示的相似风险。",
+    "full_interactions": "与有机阴离子转运蛋白3（OAT3）抑制剂（例如丙磺舒）合用，建议剂量减半使用。",
+    "full_pharmacokinetics": "巴瑞替尼是一种酪氨酸蛋白激酶（JAK）1/2抑制剂，可与一种或多种 TNF 抑制剂联用。当前已知存在四种酶 JAK，JAK1，JAK2，JAK3 和 TYK2 。JAK 依赖性细胞因子与许多炎性疾病和自身免疫疾病有关， 巴瑞替尼对JAK1 ， JAK2 ， JAK3 和 Tyk2具有强大的抑制效力，其中主要作用于JAK1 和JAK2 。",
+    "full_precautions": "⑴严重肝功能不全患者不建议使用。<br>⑵避免与活疫苗一起使用。<br>⑶尚未确定巴瑞替尼在小于18岁的儿童和青少年中的安全性和疗效。<br>⑷在年龄≥75岁的患者中的临床经验非常有限，年龄为≥65岁或≥75岁未对巴瑞替尼暴露量造成影响(Cmax和AUC)。<br>⑸育龄期女性在接受治疗期间以及治疗结束后至少1周必须使用有效的避孕手段。<br>⑹目前无法排除对新生儿/婴儿造成的风险，不应该在哺乳期使用巴瑞替尼。在决定是否停止哺乳或暂停巴瑞替尼治疗时，应该考虑到母乳喂养能够给儿童带来的获益以及治疗可能给母亲带来的获益。"
+  },
+  "pinyin": "※▲baruitini",
+  "pinyin_initials": "※▲brtn",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=12978",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 341,
+  "name": "利可君片",
+  "dosage_form": "片",
+  "full_name": "(甲)利可君片[市基]",
+  "chemical_name": "利可君片",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "江苏吉贝尔药业"
+  ],
+  "specifications": [
+    {
+      "specification": "20mg/片",
+      "manufacturer": "江苏吉贝尔药业",
+      "full_manufacturer": "江苏吉贝尔药业股份有限公司",
+      "price": 47.99,
+      "unit": "盒",
+      "code": "Y00000012362",
+      "approval_number": "国药准字H32025444",
+      "insurance_code": "XL03AXL066A001020201452",
+      "location": "I-1",
+      "outpatient_location": "M-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于防治各种原因引起的白细胞减少症，再生障碍性贫血及血小板减少症。",
+    "dosage": "口服，一次20mg，一日3次，或遵医嘱。疗程为1个月。",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "本品尚无不良反应报道。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品是半胱氨酸的衍生物，口服后在十二指肠碱性条件下与蛋白结合形成可溶性物质迅速被肠吸收，有促进骨髓造血功能的作用。口服吸收好。",
+    "precautions": "使用本品要适当，过高或过低均可能影响疗效。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于防治各种原因引起的白细胞减少症，再生障碍性贫血及血小板减少症。",
+    "full_dosage": "口服，一次20mg，一日3次，或遵医嘱。疗程为1个月。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "本品尚无不良反应报道。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品是半胱氨酸的衍生物，口服后在十二指肠碱性条件下与蛋白结合形成可溶性物质迅速被肠吸收，有促进骨髓造血功能的作用。口服吸收好。",
+    "full_precautions": "使用本品要适当，过高或过低均可能影响疗效。"
+  },
+  "pinyin": "likejun",
+  "pinyin_initials": "lkj",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1202",
+    "last_updated": "2026-03-22"
+  }
+}

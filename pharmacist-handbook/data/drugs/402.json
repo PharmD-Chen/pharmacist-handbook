@@ -1,0 +1,51 @@
+{
+  "id": 402,
+  "name": "聚乙二醇化重组人粒细胞刺激因子注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)聚乙二醇化重组人粒细胞刺激因子注射液",
+  "chemical_name": "聚乙二醇化重组人粒细胞刺激因子注射液",
+  "types": [],
+  "manufacturers": [
+    "石药集团百克生物制药"
+  ],
+  "specifications": [
+    {
+      "specification": "3mg:1ml/支",
+      "manufacturer": "石药集团百克生物制药",
+      "full_manufacturer": "石药集团百克(山东)生物制药股份有限公司",
+      "price": 1196.0,
+      "unit": "盒",
+      "code": "X00437",
+      "approval_number": "国药准字S20110014",
+      "insurance_code": "XL03AAJ213B002010104089",
+      "location": "2D-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于时；造血干细胞移植的外周血祖细胞的动员。",
+    "dosage": "⑴皮下注射：本品应在药师或医生指导下使用。",
+    "contraindications": "过敏禁用。",
+    "adverse_reactions": "参阅重组人粒细胞刺激因子。",
+    "interactions": "参阅重组人粒细胞刺激因子。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "参阅重组人粒细胞刺激因子。",
+    "precautions": "目前尚不清楚新瑞白是否从母乳分泌，哺乳期妇女慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴非髓性恶性肿瘤患者在接受会发生有临床意义发热性中性粒细胞减少的抑制骨髓的抗肿瘤药治疗时，使用本品可降低发热性中性粒细胞减少引起的感染发生率。<br>⑵本品不用于造血干细胞移植的外周血祖细胞的动员。",
+    "full_dosage": "⑴皮下注射：本品应在药师或医生指导下使用。推荐使用剂量为一次注射固定剂量6mg。也可按体重100μg/kg进行个体化治疗。<br>⑵注意：注射6mg或100μg/kg剂量不推荐用于婴儿、儿童和体重低于45kg的发育期少年。",
+    "full_contraindications": "⑴对聚乙二醇化重组人粒细胞刺激因子、重组人粒细胞刺激因子及对大肠杆菌表达的其它制剂过敏者禁用。<br>⑵严重肝、肾、心、肺功能障碍者禁用。",
+    "full_adverse_reactions": "参阅重组人粒细胞刺激因子。",
+    "full_interactions": "参阅重组人粒细胞刺激因子。",
+    "full_pharmacokinetics": "参阅重组人粒细胞刺激因子。",
+    "full_precautions": "⑴本品在妊娠妇女中尚无充分和良好对照的研究，孕期使用的安全性尚未建立。目前尚不清楚新瑞白是否从母乳分泌，哺乳期妇女慎用。<br>⑵本品在儿童中的安全性和有效性尚未确定。<br>⑶本品国外在同类药物临床研究中未观察到老年患者与年轻患者在安全性与有效性方面具有不同之处。单受临床试验者例数限制，不排除在临床使用过程出现差别。<br>⑷其余参阅重组人粒细胞刺激因子。"
+  },
+  "pinyin": "※▲juyierchunhuachongzurenlixibaocijiyinzi",
+  "pinyin_initials": "※▲jyechczrlxbcjyz",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=7938",
+    "last_updated": "2026-03-22"
+  }
+}

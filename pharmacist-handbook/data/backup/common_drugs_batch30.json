@@ -1,0 +1,93 @@
+[
+  {
+    "name": "通天口服液",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "<strong>偏头痛</strong>。症见头部胀痛或刺痛，痛有定处，反复发作，头晕目眩，或恶心呕吐，恶风。",
+      "dosage": "口服。第一日：即刻、1小时后、2小时后、4小时后各服10ml，以后每6小时服10ml。第二日、三日：一次10ml，一日3次。3天为一疗程。",
+      "contraindications": "<strong>出血性脑血管病患者禁用</strong>；<strong>阴虚阳亢患者禁用</strong>；<strong>孕妇禁服</strong>；对本品过敏者禁用。",
+      "adverse_reactions": "尚不明确。",
+      "interactions": "如与其他药物同时使用可能发生药物相互作用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "活血化瘀，祛风止痛。用于瘀血阻滞、风邪上扰所致的偏头痛。成份：川芎、赤芍、天麻、羌活、白芷、细辛、菊花、薄荷、防风、茶叶、甘草。",
+      "precautions": "<strong>忌烟、酒及辛辣食物</strong>；<strong>高血压头痛及不明原因头痛应就医</strong>；心脏病、肝病、糖尿病、肾病等慢性病严重者应在医师指导下服用；不宜长期服用；<strong>服药3天症状无缓解应就医</strong>；2025版医保乙类；基药（10ml）。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸利多卡因",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>表面麻醉</strong>（口咽、气管内、眼科）；<strong>神经阻滞</strong>（硬膜外、臂丛、颈丛）；<strong>室性心律失常</strong>（急性心梗、洋地黄中毒、心脏导管所致室早、室速、室颤）。",
+      "dosage": "表面麻醉：2-4%溶液。神经阻滞：1-2%溶液。室性心律失常：静注1-1.5mg/kg，必要时5-10分钟后重复，总量不超过3mg/kg。",
+      "contraindications": "<strong>严重心传导阻滞（Ⅱ或Ⅲ度房室传导阻滞、双束支阻滞）禁用</strong>；<strong>严重窦房结功能障碍禁用</strong>；<strong>对本品过敏者禁用</strong>。",
+      "adverse_reactions": "<strong>神经症状</strong>（头昏、眩晕、恶心、呕吐、倦怠、感觉异常、肌肉震颤、惊厥、神志不清、呼吸抑制）；<strong>心血管反应</strong>（窦性心动过缓、心脏停搏、房室传导阻滞、心肌收缩力减弱、血压下降）；<strong>过敏反应</strong>（红斑皮疹、血管神经性水肿、呼吸停止）。",
+      "interactions": "<strong>与布比卡因合用增加心脏毒性风险</strong>；<strong>与普鲁卡因胺合用可产生一过性谵妄及幻觉</strong>；<strong>与琥珀胆碱合用增强神经肌肉阻滞作用</strong>；<strong>西咪替丁、β受体阻滞剂可降低本品清除率</strong>；<strong>异丙肾上腺素可增加本品清除率</strong>。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "中效酰胺类局麻药和Ⅰb类抗心律失常药。局麻作用较普鲁卡因强，维持时间长1倍。肌注后5-15分钟起效，静注后立即起效（45-90秒）。90%经肝脏代谢，10%以原形经肾排泄。",
+      "precautions": "<strong>交叉过敏反应</strong>（对其他胺类局麻药过敏者可能过敏）；<strong>老年人、心衰、肝病患者、持续静滴24-36小时以上者清除减慢</strong>；<strong>治疗血药浓度1.5-5μg/ml，中毒浓度>5μg/ml</strong>；2025版医保甲类（注射剂），乙类（其他剂型）。",
+      "solvent": "注射液直接使用或稀释后使用",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲重组人凝血酶",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "<strong>手术创面渗血或毛细血管和小静脉出血的止血</strong>（经标准外科止血技术控制出血无效或不可行时）。",
+      "dosage": "外用。直接涂抹于出血创面。",
+      "contraindications": "对本品过敏者禁用。",
+      "adverse_reactions": "尚不明确。",
+      "interactions": "与其他药物相互作用尚不明确。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "高度特异性人丝氨酸蛋白酶，可活化血小板、催化纤维蛋白原转化为纤维蛋白，通过活化XIII因子维持凝块稳定性。",
+      "precautions": "外用制剂，严禁注射；2025版医保乙类，协议期谈判药品（2025.1.1-2026.12.31）。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲多磺酸粘多糖",
+    "dosage_form": "乳膏",
+    "manual": {
+      "indications": "<strong>血管栓塞</strong>、<strong>静脉曲张</strong>、<strong>血栓性静脉炎</strong>、<strong>淋巴腺炎</strong>、<strong>乳腺炎</strong>、<strong>疖</strong>、<strong>挫伤</strong>和<strong>瘢痕</strong>。",
+      "dosage": "外用。涂搽患处，轻轻按摩，一日1-2次。",
+      "contraindications": "对本品过敏者禁用。",
+      "adverse_reactions": "偶见局部皮肤反应。",
+      "interactions": "与其他药物相互作用尚不明确。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "可使软组织局部产生消炎、止痛作用，改善循环，吸收渗液，促进结缔组织复原。",
+      "precautions": "<strong>不宜用于黏膜、眼睛及破损处</strong>；2025版医保乙类，限由静脉输液或注射引起的血栓性静脉炎。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "益母草",
+    "dosage_form": "颗粒",
+    "manual": {
+      "indications": "<strong>血瘀所致的月经不调、产后恶露不绝</strong>，症见月经量少、淋漓不净，产后出血时间过长。",
+      "dosage": "开水冲服。一次1袋，一日2次。",
+      "contraindications": "对本品过敏者禁用。",
+      "adverse_reactions": "尚不明确。",
+      "interactions": "如与其他药物同时使用可能发生药物相互作用。",
+      "pregnancy_category": "尚不明确",
+      "pharmacokinetics": "活血调经。用于血瘀所致的月经不调、产后恶露不绝。",
+      "precautions": "<strong>忌食生冷食物</strong>；<strong>气血两虚引起的月经量少不宜选用</strong>；高血压、心脏病、肾病、糖尿病或正在接受其他治疗的患者应在医师指导下服用；<strong>平素月经量正常，突然出现经量少须就医</strong>；青春期少女及更年期妇女应在医师指导下服药；各种流产后腹痛伴有阴道出血，服药一周无效者应就医；2025版医保甲类；基药。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "蒲地蓝消炎口服液",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "<strong>疖肿</strong>、<strong>腮腺炎</strong>、<strong>咽炎</strong>、<strong>扁桃体炎</strong>。",
+      "dosage": "口服。一次10ml，一日3次。小儿酌减：6个月-2周岁按体重1.0ml·kg⁻¹·d⁻¹，每日3次；2-6周岁每次5ml，每日3次；6-12周岁每次10ml，每日2次；12周岁以上每次10ml，每日3次。",
+      "contraindications": "<strong>肝功能不全者禁用</strong>；<strong>对本品及所含成份过敏者禁用</strong>。",
+      "adverse_reactions": "<strong>恶心、呕吐、口干、腹泻、腹痛、腹胀、食欲不振</strong>；<strong>皮疹、瘙痒、荨麻疹、红斑、斑丘疹</strong>；头晕、头痛、乏力、胸部不适、心悸、<strong>肝功能异常</strong>、过敏反应等。",
+      "interactions": "如与其他药物同时使用可能发生药物相互作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "清热解毒，抗炎消肿。成份：蒲公英、苦地丁、板蓝根、黄芩。",
+      "precautions": "<strong>忌食辛辣刺激性食物</strong>；<strong>脾胃虚寒者（腹痛、喜暖、泄泻）慎用</strong>；<strong>孕妇慎用</strong>；<strong>有基础肝病者（病毒性肝炎、酒精性肝病、脂肪肝、自身免疫性肝病）慎用</strong>；<strong>不长期或超量服用，避免与有肝毒性的药物联合使用</strong>；<strong>服药期间如出现乏力、食欲不振、厌油、恶心、上腹胀痛、尿黄、目黄、皮肤黄染应立即停药就医</strong>；<strong>服药3天症状无缓解或加重应就医</strong>；非医保。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": 531,
+  "name": "阿奇霉素干混悬剂",
+  "dosage_form": "混悬剂",
+  "full_name": "(甲)阿奇霉素干混悬剂",
+  "chemical_name": "阿奇霉素干混悬剂",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "海南普利制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.1g/袋",
+      "manufacturer": "海南普利制药",
+      "full_manufacturer": "海南普利制药股份有限公司(委托生产企业：浙江普利药业有限公司)",
+      "price": 11.58,
+      "unit": "盒",
+      "code": "X00380",
+      "approval_number": "国药准字H20057604",
+      "insurance_code": "XJ01FAA051X006010705801",
+      "location": "H-2",
+      "outpatient_location": "A-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "aqimeisugan",
+  "pinyin_initials": "aqmsg",
+  "dosage_form_pinyin": "hunxuanji",
+  "dosage_form_initials": "hxj",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2016"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 662,
+  "name": "利格列汀二甲双胍片（II）",
+  "dosage_form": "片",
+  "full_name": "(乙10%)利格列汀二甲双胍片（II）",
+  "chemical_name": "利格列汀二甲双胍片（II）",
+  "types": [],
+  "manufacturers": [
+    "Boehringer Ingelheim International GmbH"
+  ],
+  "specifications": [
+    {
+      "specification": "1片/片",
+      "manufacturer": "Boehringer Ingelheim International GmbH",
+      "full_manufacturer": "Boehringer Ingelheim International GmbH（Dragenopharm Apotheker Püschl GmbH）（进口分包企业：上海勃林格殷格翰药业有限公司）",
+      "price": 79.77,
+      "unit": "盒",
+      "code": "X00394",
+      "approval_number": "国药准字HJ20170333",
+      "insurance_code": "XA10BDL358A001010481737",
+      "location": "L"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于成年患者2型糖尿病：利格列汀二甲双胍片，配合饮食和运动，用于经二甲双胍单药治疗血糖仍控制不佳或正在接受二者联合治疗患者。利格列汀二甲双胍片与磺脲类药物联合治疗，配合饮食和运动，治疗成年患者二甲双胍和磺脲类药物联合治疗不佳。利格列汀二甲双胍片与胰岛素联合治疗，配合饮食和运动，治疗成年患者二甲双胍和胰岛素联合治疗不佳。",
+    "dosage": "用本品进行降糖治疗时，应根据患者目前的治疗方案、治疗的有效程度、对药物的耐受程度给予个体化的剂量，但不能超过利格列汀6mg和二甲双胍2000mg的每日最大推荐剂量。具体的用法和用量咨询药师。",
+    "contraindications": "参阅利格列汀和二甲双胍。",
+    "adverse_reactions": "参阅利格列汀和二甲双胍。",
+    "interactions": "参阅利格列汀和二甲双胍。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "参阅利格列汀和二甲双胍。",
+    "precautions": "参阅利格列汀和二甲双胍。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗成年患者2型糖尿病：利格列汀二甲双胍片，配合饮食和运动，用于经二甲双胍单药治疗血糖仍控制不佳或正在接受二者联合治疗患者。利格列汀二甲双胍片与磺脲类药物联合治疗，配合饮食和运动，治疗成年患者二甲双胍和磺脲类药物联合治疗不佳。利格列汀二甲双胍片与胰岛素联合治疗，配合饮食和运动，治疗成年患者二甲双胍和胰岛素联合治疗不佳。",
+    "full_dosage": "用本品进行降糖治疗时，应根据患者目前的治疗方案、治疗的有效程度、对药物的耐受程度给予个体化的剂量，但不能超过利格列汀6mg和二甲双胍2000mg的每日最大推荐剂量。具体的用法和用量请咨询药师。",
+    "full_contraindications": "参阅利格列汀和二甲双胍。",
+    "full_adverse_reactions": "参阅利格列汀和二甲双胍。",
+    "full_interactions": "参阅利格列汀和二甲双胍。",
+    "full_pharmacokinetics": "参阅利格列汀和二甲双胍。",
+    "full_precautions": "参阅利格列汀和二甲双胍。"
+  },
+  "pinyin": "ligelietingerjiashuanggua",
+  "pinyin_initials": "lgltejsg",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=9015",
+    "last_updated": "2026-03-22"
+  }
+}

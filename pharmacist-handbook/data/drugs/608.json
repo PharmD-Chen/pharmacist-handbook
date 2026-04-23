@@ -1,0 +1,53 @@
+{
+  "id": 608,
+  "name": "重组人血小板生成素注射液",
+  "dosage_form": "注射液",
+  "full_name": "(乙10%)重组人血小板生成素注射液",
+  "chemical_name": "重组人血小板生成素注射液",
+  "types": [],
+  "manufacturers": [
+    "沈阳三生制药"
+  ],
+  "specifications": [
+    {
+      "specification": "7500U/瓶",
+      "manufacturer": "沈阳三生制药",
+      "full_manufacturer": "沈阳三生制药有限责任公司",
+      "price": 464.12,
+      "unit": "瓶",
+      "code": "Y00000015055",
+      "approval_number": "药准字S20050049",
+      "insurance_code": "XB02BXC117B002020101313",
+      "location": "2F-3",
+      "outpatient_location": "2D-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于实体肿瘤化疗后所致的血小板减少症，使用对象为血小板低于50×109/L且医生认为有必要升高血小板数目。",
+    "dosage": "恶性实体肿瘤化疗时，预计药物剂量可能引起血小板减少及诱发出血且需要升高血小板时，可于给药结束后6～24小时皮下注射本品，剂量为一日300U/kg，一日1次，连续应用14天；",
+    "contraindications": "症 禁用：：①对本品成分过敏者。②严重心、脑血管疾病者。③患有其他血液高凝状态疾病者，近期发生血栓病者。④合并严重感染者，宜控制感染后再使用本品。",
+    "adverse_reactions": "较少发生不良反应，偶有发热、寒战、肌肉酸痛、膝关节痛、头晕、头痛、血压升高等，一般不需处理，多可自行恢复。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑷使用本品过程中应定期检查血常规，一般应隔日1次，密切注意外周血小板计数的变化，血小板计数达到所需指标时，应及时停药。⑸对妊娠期妇女及哺乳期妇女的用药安全性尚未确立，故原则上不宜应用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗实体肿瘤化疗后所致的血小板减少症，使用对象为血小板低于50×109/L且医生认为有必要升高血小板数目。",
+    "full_dosage": "恶性实体肿瘤化疗时，预计药物剂量可能引起血小板减少及诱发出血且需要升高血小板时，可于给药结束后6～24小时皮下注射本品，剂量为一日300U/kg，一日1次，连续应用14天；用药过程中待血小板计数恢复至100×109/L以上，或血小板计数绝对值升高≥50×109/L时即应停用。当化疗中伴发白细胞严重减少或出现贫血时，本品可分别与重组人粒细胞集落刺激因子（rhG-CSF）或重组人红细胞生成素（rhEPO）合并使用。",
+    "full_contraindications": "症 禁用于：①对本品成分过敏者。②严重心、脑血管疾病者。③患有其他血液高凝状态疾病者，近期发生血栓病者。④合并严重感染者，宜控制感染后再使用本品。",
+    "full_adverse_reactions": "较少发生不良反应，偶有发热、寒战、肌肉酸痛、膝关节痛、头晕、头痛、血压升高等，一般不需处理，多可自行恢复。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴本品过量饮用或常规应用于特异体质者可造成血小板过度升高，必须在医院并在有经验的临床医师指导下使用。 ⑵本品适用对象为血小板低于50×109/L且医生认为有必要升高血小板治疗的患者。 ⑶本品应在化疗结束后6～24小时开始使用。 ⑷使用本品过程中应定期检查血常规，一般应隔日1次，密切注意外周血小板计数的变化，血小板计数达到所需指标时，应及时停药。 ⑸对妊娠期妇女及哺乳期妇女的用药安全性尚未确立，故原则上不宜应用。"
+  },
+  "pinyin": "chongzurenxuexiaobanshengchengsu",
+  "pinyin_initials": "czrxxbscs",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3544",
+    "last_updated": "2026-03-21"
+  }
+}

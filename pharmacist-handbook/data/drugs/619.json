@@ -1,0 +1,53 @@
+{
+  "id": 619,
+  "name": "肌氨肽苷注射液",
+  "dosage_form": "注射液",
+  "full_name": "(自)肌氨肽苷注射液",
+  "chemical_name": "肌氨肽苷注射液",
+  "types": [],
+  "manufacturers": [
+    "北京赛升药业"
+  ],
+  "specifications": [
+    {
+      "specification": "2ml/支",
+      "manufacturer": "北京赛升药业",
+      "full_manufacturer": "北京赛升药业股份有限公司",
+      "price": 990.0,
+      "unit": "盒",
+      "code": "X00084",
+      "approval_number": "国药准字H20003575",
+      "insurance_code": "XN06BXJ001B002020100112",
+      "location": "M"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于脑功能紊乱、脑卒中、脑部血液不足所致的脑功能减退，肌肉萎缩，神经性水肿，脑血管意外性瘫痪，神经性衰弱综合征等。",
+    "dosage": "肌内注射：一次2～4ml，一日1次。静脉滴注：一次4～10ml，加入300ml氯化钠注射液中或5％葡萄糖注射液中缓慢滴注（2ml/min），一日1次，2周为一疗程。",
+    "contraindications": "症 对本品过敏者禁用。",
+    "adverse_reactions": "常见为面部潮红、头晕。个别患者静滴3～4小时后出现发冷、发烧、体温略有升高、头晕、烦躁，调慢滴速或停药后症状可消失。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴有过敏体质者慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于脑功能紊乱、脑卒中、脑部血液不足所致的脑功能减退，肌肉萎缩，神经性水肿，脑血管意外性瘫痪，神经性衰弱综合征等。",
+    "full_dosage": "肌内注射：一次2～4ml，一日1次。静脉滴注：一次4～10ml，加入300ml氯化钠注射液中或5％葡萄糖注射液中缓慢滴注（2ml/min），一日1次，2周为一疗程。",
+    "full_contraindications": "症 对本品过敏者禁用。",
+    "full_adverse_reactions": "常见为面部潮红、头晕。个别患者静滴3～4小时后出现发冷、发烧、体温略有升高、头晕、烦躁，调慢滴速或停药后症状可消失。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴有过敏体质者慎用。⑵本品对儿童、妊娠期妇女、哺乳期妇女的安全性资料尚不明确、不推荐使用。 输液调配 ⑴肌氨肽苷注射液：一次7-17.5mg(以多肽计)，稀释于0.9%氯化钠注射液、5%或10%葡萄糖注射液500ml中。 ⑵注射用肌氨肽苷：一次7～17.5mg(以多肽计)，加入适量无菌注射用水或相容性输液溶解，溶解液稀释于0.9%氯化钠注射液、5%或10%葡萄糖注射液500ml中。 ⑶新鲜调配为微黄色的澄明液体。肌氨肽苷注射液pH为6.0～8.0。",
+    "solvent": "静滴：用0.9%氯化钠注射液稀释"
+  },
+  "pinyin": "jiantaigan",
+  "pinyin_initials": "jatg",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1951",
+    "last_updated": "2026-03-21"
+  }
+}

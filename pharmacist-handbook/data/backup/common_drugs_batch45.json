@@ -1,0 +1,81 @@
+[
+  {
+    "name": "※▲刺五加",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>益气健脾，补肾安神</strong>。用于<strong>脾肾阳虚，体虚乏力</strong>；<strong>用于食欲不振、腰膝酸痛</strong>；<strong>用于失眠多梦</strong>。",
+      "dosage": "静脉滴注。<strong>一次10-20ml，用5%葡萄糖注射液250-500ml稀释后缓慢滴注，一日1次</strong>；或肌内注射，一次2-4ml，一日1-2次。<strong>10-14天为一疗程</strong>。",
+      "contraindications": "<strong>对本品或刺五加及其制剂过敏或有严重不良反应病史者禁用</strong>；<strong>孕妇禁用</strong>；<strong>儿童禁用</strong>；<strong>发热患者禁用</strong>。",
+      "adverse_reactions": "常见<strong>过敏反应</strong>：皮肤潮红、皮疹、瘙痒、心悸等；严重过敏反应可见<strong>呼吸困难、紫绀、血压下降、喉水肿、急性肺水肿、过敏性休克甚至死亡</strong>；全身性反应：畏寒、寒战、发热、疼痛、乏力、面色苍白、颤抖、胸闷、多汗；呼吸系统：喷嚏、鼻塞、流涕、咽喉部不适、呼吸急促、咳嗽、哮喘；心血管系统：心悸、胸闷、胸痛、紫绀、心律失常、血压升高或降低；消化系统：口干、口唇麻木或肿胀、恶心、呕吐、腹胀、腹痛、腹泻；神经精神系统：头晕、头胀、头痛、麻木、震颤、抽搐、舌麻痹、刺痛、感觉异常、烦躁不安、意识障碍甚至昏迷。",
+      "interactions": "<strong>严禁与其他药品混合配伍使用</strong>；<strong>如确需联合使用其他药品时，应谨慎考虑与本品的间隔时间以及药物相互作用等问题</strong>。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "由五加科植物刺五加提取制成的灭菌水溶液。含多种糖苷，是其主要有效成分。具有调节免疫、改善心脑血管、镇静安神、抗疲劳等作用。",
+      "precautions": "<strong>本品不良反应包括过敏性休克，应在有抢救条件的医疗机构使用</strong>；<strong>使用者应接受过过敏性休克抢救培训</strong>；<strong>严格按照药品说明书规定的功能主治使用，禁止超功能主治用药</strong>；<strong>严格掌握用法用量，不过快滴注和长期连续用药</strong>；<strong>用药前和配制后及使用过程中应认真检查本品及滴注液，发现药液出现浑浊、沉淀、变色、结晶等药物性状改变时禁止使用</strong>；<strong>用药过程中应密切观察用药反应，特别是开始30分钟</strong>；2025版医保乙类10%。",
+      "solvent": "用5%葡萄糖注射液250-500ml稀释后静脉滴注",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "汉防己甲素",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>用于风湿痛、关节痛、神经痛</strong>；<strong>与小剂量放射合并用于肺癌</strong>；<strong>用于单纯硅肺I、II、III期及各期煤硅肺(尘肺病)</strong>。",
+      "dosage": "静脉注射或静脉滴注。<strong>具体用量遵医嘱</strong>。口服：抗风湿及镇痛一次20-40mg，一日3次；抗肺癌一次40-60mg，一日3次；抗硅肺一次60-100mg，一日3次，服用6天，停药1天，疗程3个月。",
+      "contraindications": "<strong>肝、肾等脏器发生器质性病变患者禁用</strong>；<strong>妊娠期妇女禁用</strong>；<strong>对本品过敏者禁用</strong>。",
+      "adverse_reactions": "不良反应较轻、较少。少数患者服药后出现<strong>轻度嗜睡、乏力、恶心、腹部不适</strong>，个别患者服后大便次数增加；<strong>静脉注射部位可能发生疼痛或静脉炎</strong>。",
+      "interactions": "<strong>可使口服环孢素A后的最高血药浓度(Cmax)增高</strong>；<strong>能减轻化疗药物引起的消化道反应与肢体麻木症状</strong>；<strong>对化疗引起的血红蛋白与白细胞的损害有保护作用</strong>。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "对心脏有负性肌力作用、负性频率作用及负性传导作用，并降低心肌耗氧量。可延长心肌的不应期和房室传导，增加心肌血流量。可降低总外周血管阻力，使血压下降，降压时无反射性心率增加。",
+      "precautions": "<strong>服药期间每3个月复查肝功能、心电图</strong>；<strong>静脉注射部位注意防止疼痛或静脉炎</strong>；2025版医保乙类，限口服常释剂型和注射剂。",
+      "solvent": "静脉注射或静脉滴注，遵医嘱稀释",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲注射用黄芪多糖",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>益气补虚</strong>。用于<strong>免疫功能低下</strong>；<strong>用于肿瘤患者放化疗后的辅助治疗</strong>。",
+      "dosage": "静脉滴注。<strong>用注射器抽取生理盐水10ml加入到注射用黄芪多糖西林瓶中，立即持续振摇，直至药品完全溶解</strong>；<strong>用注射器将西林瓶中的全部药液加入到500ml生理盐水或5%-10%葡萄糖注射液中摇匀</strong>；<strong>滴注时间不少于2.5小时，每天滴注一次</strong>。<strong>免疫功能低下患者：每天50mg，用药21天</strong>；<strong>其他症状患者：每天250mg，用药7天</strong>。",
+      "contraindications": "<strong>对本品过敏者禁用</strong>。",
+      "adverse_reactions": "偶见<strong>发热、皮疹、瘙痒</strong>等过敏反应；可能出现<strong>注射部位疼痛、静脉炎</strong>。",
+      "interactions": "<strong>如与其他药物同时使用可能会发生药物相互作用</strong>，详情请咨询医师或药师。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "黄芪多糖是中药黄芪的主要活性成分之一，具有增强机体免疫功能、促进抗体生成、增强巨噬细胞吞噬功能等作用。",
+      "precautions": "<strong>本品为中药注射剂，应在有抢救条件的医疗机构使用</strong>；<strong>用药前应仔细询问过敏史，对过敏体质者应慎用</strong>；<strong>用药过程中应密切观察用药反应</strong>；<strong>发现药液出现浑浊、沉淀、变色等药物性状改变时禁止使用</strong>；<strong>严禁与其他药品混合配伍使用</strong>；2025版医保乙类10%。",
+      "solvent": "先用生理盐水10ml溶解，再加入500ml生理盐水或5%-10%葡萄糖注射液中静脉滴注",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲瑞维鲁胺",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>用于高瘤负荷的转移性激素敏感性前列腺癌(mHSPC)成人患者的治疗</strong>。",
+      "dosage": "口服。<strong>推荐剂量为240mg(3片)，每日一次</strong>，进餐或空腹均可。<strong>须整片吞服</strong>，并联合雄激素剥夺治疗(GnRHa或双侧睾丸切除术)。",
+      "contraindications": "<strong>对本品活性成分或任何一种辅料过敏者禁用</strong>；<strong>孕妇及哺乳期妇女禁用</strong>；<strong>乳糖不耐受者禁用</strong>。",
+      "adverse_reactions": "常见<strong>疲乏、高血压、骨骼肌肉疼痛、肝酶升高、便秘、皮疹</strong>；可能出现<strong>QT间期延长、贫血、感染、惊厥发作</strong>；需定期监测<strong>肝功能、血压、心电图</strong>。",
+      "interactions": "<strong>本品为多种CYP酶诱导剂，可能降低与其合用药物的血药浓度</strong>，如华法林、瑞格列奈、奥美拉唑等；<strong>与CYP2C8和CYP2B6底物药物合用需谨慎</strong>。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "新型雄激素受体(AR)抑制剂。通过竞争性阻断雄激素与AR结合，抑制AR介导的基因转录，进而减缓肿瘤进展。口服后吸收良好。",
+      "precautions": "<strong>应定期监测肝功能和血压</strong>；<strong>对于肝肾功能中重度损害者不推荐使用</strong>；<strong>育龄期患者治疗期间及停药后应采取双重高效避孕措施</strong>；<strong>老年患者无需特殊剂量调整，但应加强不良反应监测</strong>；2025版医保乙类10%。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用曲普瑞林",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>用于激素依赖型前列腺癌</strong>；<strong>用于儿童中枢性性早熟</strong>；<strong>用于子宫内膜异位症</strong>；<strong>用于子宫肌瘤术前治疗</strong>；<strong>用于女性不孕症的辅助治疗(体外受精术IVF)</strong>。",
+      "dosage": "肌内注射或皮下注射。<strong>前列腺癌：一次3.75mg，每4周注射一次</strong>；<strong>性早熟：按体重一次50μg/kg，每4周注射一次</strong>；<strong>子宫内膜异位症：一次3.75mg，每4周注射一次，应在月经周期的1-5天开始治疗</strong>；<strong>女性不孕症：根据临床方案调整剂量</strong>。",
+      "contraindications": "<strong>对本品成分过敏者禁用</strong>；<strong>妊娠期妇女禁用</strong>；<strong>哺乳期妇女禁用</strong>。",
+      "adverse_reactions": "男性可能出现<strong>热潮红、阳痿、性欲减退</strong>；女性可能出现<strong>热潮红、阴道干燥、性欲减退、情绪波动</strong>；可能出现<strong>注射部位局部反应、轻微过敏症状(发烧、发痒、出疹)</strong>；长期使用可能导致<strong>骨质疏松</strong>。",
+      "interactions": "<strong>与性激素类药物合用可能影响疗效</strong>；<strong>与抗凝药合用需谨慎</strong>。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "促性腺激素释放激素(GnRH)类似物。通过持续刺激垂体，抑制促性腺激素(促黄体生成素LH和促卵泡激素FSH)的分泌，从而降低性激素水平。缓释剂型可维持较长时间药效。",
+      "precautions": "<strong>治疗期间应定期监测性激素水平</strong>；<strong>长期使用应注意补充钙剂预防骨质疏松</strong>；<strong>女性患者应注意雌激素水平变化</strong>；<strong>儿童应定期复查生长发育情况</strong>；<strong>停药后生育能力可恢复，但需时间</strong>；2025版医保乙类10%。",
+      "solvent": "肌内注射或皮下注射，用配套溶剂溶解后使用",
+      "source": "湖南药事服务网"
+    }
+  }
+]

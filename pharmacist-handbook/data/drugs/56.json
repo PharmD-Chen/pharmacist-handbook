@@ -1,0 +1,54 @@
+{
+  "id": 56,
+  "name": "注射用甲泼尼龙琥珀酸钠",
+  "dosage_form": "注射用",
+  "full_name": "(甲)注射用甲泼尼龙琥珀酸钠[国基][市基]",
+  "chemical_name": "注射用甲泼尼龙琥珀酸钠",
+  "types": [
+    "甲类",
+    "国家基药",
+    "市基药"
+  ],
+  "manufacturers": [
+    "辽宁海思科制药"
+  ],
+  "specifications": [
+    {
+      "specification": "40mg/瓶",
+      "manufacturer": "辽宁海思科制药",
+      "full_manufacturer": "辽宁海思科制药有限公司",
+      "price": 5.54,
+      "unit": "瓶",
+      "code": "X00740",
+      "approval_number": "国药准字H20133234",
+      "insurance_code": "XH02ABJ061B001020106155",
+      "location": "B-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于各种原因引起的干咳，对小儿疗效优于成人（一般用于5岁以上儿童）。",
+    "dosage": "1.成人常用量： 2.小儿常用量：",
+    "contraindications": "症 青光眼、心力衰竭患者禁用。",
+    "adverse_reactions": "偶有便秘，或轻度头痛、头晕、口干、恶心和腹泻等不良反应，是由其阿托品样作用所致。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴青光眼和心功能不全伴有肺淤血的患者慎用。 ⑵痰量多者宜与祛痰药并用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于各种原因引起的干咳，对小儿疗效优于成人（一般用于5岁以上儿童）。",
+    "full_pharmacokinetics": "",
+    "full_dosage": "1.成人常用量：口服，一次25mg，一日3～4次。 2.小儿常用量：口服，5岁以上一次0.5～1.0mg/kg，一日2～3次。",
+    "full_contraindications": "症 青光眼、心力衰竭患者禁用。",
+    "full_adverse_reactions": "偶有便秘，或轻度头痛、头晕、口干、恶心和腹泻等不良反应，是由其阿托品样作用所致。",
+    "full_precautions": "⑴青光眼和心功能不全伴有肺淤血的患者慎用。 ⑵痰量多者宜与祛痰药并用。"
+  },
+  "pinyin": "zhusheyongjiaponilonghuposuanna",
+  "pinyin_initials": "zsyjpnlhpsn",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3301",
+    "last_updated": "2026-03-21"
+  }
+}

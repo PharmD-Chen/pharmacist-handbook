@@ -1,0 +1,17 @@
+[
+  {
+    "name": "※▲安奈拉唑钠",
+    "dosage_form": "肠溶片",
+    "manual": {
+      "indications": "<strong>十二指肠溃疡</strong>。",
+      "dosage": "口服。20mg，每日1次，<strong>早餐前30-60分钟</strong>整片吞服，不可咀嚼或压碎。疗程4周。",
+      "contraindications": "对安奈拉唑过敏者禁用；<strong>严重肝肾功能障碍禁用</strong>。",
+      "adverse_reactions": "转氨酶升高（2.6%）；腹泻、腹痛、呃逆、腹胀、口干、瘙痒、困倦（<1%）。",
+      "interactions": "抑制胃酸分泌可能影响某些药物吸收；<strong>CYP3A4代谢贡献率约25%，CYP2C19仅3.5%</strong>，药物相互作用风险小。",
+      "pregnancy_category": "未明确",
+      "pharmacokinetics": "去除吡啶环甲基，CYP2C19代谢仅3.5%，受基因多态性影响小；R4位二氢呋喃环增加CYP3A4代谢，<strong>肠肾均衡排泄</strong>（粪39.86%，尿53.34%）；pKa值更高，起效更快。",
+      "precautions": "<strong>监测肝功能</strong>（转氨酶升高）；不适用于儿童；2023年创新药，医保乙类限十二指肠溃疡。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": 659,
+  "name": "先诺特韦片/利托那韦片组合包装",
+  "dosage_form": "片",
+  "full_name": "※▲(乙10%)先诺特韦片/利托那韦片组合包装",
+  "chemical_name": "先诺特韦片/利托那韦片",
+  "types": [],
+  "manufacturers": [
+    "海南先声药业"
+  ],
+  "specifications": [
+    {
+      "specification": "1片/片",
+      "manufacturer": "海南先声药业",
+      "full_manufacturer": "海南先声药业有限公司",
+      "price": 479.0,
+      "unit": "盒",
+      "code": "X00330",
+      "approval_number": "国药准字H20230001",
+      "insurance_code": "XJ05AXX253A001010105849"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于轻、中型新型冠状病毒感染（COVID-19）的成年患者。应在出现症状3天或以内尽快使用。",
+    "dosage": "口服：推荐剂量为先诺特韦750mg(375mg×2片)联用利托那韦100mg(100mg×1片)，每12小时1次（bid），连续服用5天（共给药10次）。",
+    "contraindications": "过敏禁用。",
+    "adverse_reactions": "",
+    "interactions": "不得与高度依赖CYP3A进行清除且其血浆浓度升高会导致严重和/或危及生命的不良反应的药物联用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品是一种SARS-CoV-2-3CL蛋白酶抑制剂，而3CL蛋白酶是病毒特有的，也是冠状病毒生成功能蛋白的关键，通过抑制3CL蛋白酶的活性，阻断病毒的复制过程。本品与低剂量抗病毒药利托那韦的复方制剂，利托那韦有助于减缓本品的代谢或分解，使其在体内有效浓度维持较长时间，以持续表达其抗病毒活性。<br>",
+    "precautions": "⑵既往有肝脏疾病、肝酶异常或肝炎病史的患者应慎用；",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗轻、中型新型冠状病毒感染（COVID-19）的成年患者。应在出现症状3天或以内尽快使用。",
+    "full_dosage": "口服：推荐剂量为先诺特韦750mg(375mg×2片)联用利托那韦100mg(100mg×1片)，每12小时1次（bid），连续服用5天（共给药10次）。",
+    "full_contraindications": "⑴对本品中的活性成分或任何辅料过敏的患者禁用。<br>⑵患有半乳糖不耐受、总乳糖酶缺乏或葡萄糖-半乳糖吸收不良等罕见遗传性疾病患者禁用。<br>⑶妊娠期间禁用。",
+    "full_adverse_reactions": "",
+    "full_interactions": "不得与高度依赖CYP3A进行清除且其血浆浓度升高会导致严重和/或危及生命的不良反应的药物联用。",
+    "full_pharmacokinetics": "本品是一种SARS-CoV-2-3CL蛋白酶抑制剂，而3CL蛋白酶是病毒特有的，也是冠状病毒生成功能蛋白的关键，通过抑制3CL蛋白酶的活性，阻断病毒的复制过程。本品与低剂量抗病毒药利托那韦的复方制剂，利托那韦有助于减缓本品的代谢或分解，使其在体内有效浓度维持较长时间，以持续表达其抗病毒活性。<br>3CL蛋白酶是冠状病毒主蛋白酶，在病毒复制过程不可或缺，且位点高度保守，不易受病毒突变影响，具有广谱抗冠状病毒活性。因为人体宿主内没有3CL同源蛋白，所以选择性、特异性较高，副作用风险较小。",
+    "full_precautions": "⑴伴有重度肝功能不全的患者不应使用；<br>⑵既往有肝脏疾病、肝酶异常或肝炎病史的患者应慎用；<br>⑶哺乳期妇女应用本品治疗期间及治疗结束后7天内应停止哺乳。"
+  },
+  "pinyin": "※▲xiannuoteweipian/lituonaweipianzuhebaozhuang",
+  "pinyin_initials": "※▲xntwp/ltnwpzhbz",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13601",
+    "last_updated": "2026-03-22"
+  }
+}

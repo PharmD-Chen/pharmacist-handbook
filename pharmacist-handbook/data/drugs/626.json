@@ -1,0 +1,53 @@
+{
+  "id": 626,
+  "name": "解郁除烦胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)解郁除烦胶囊",
+  "chemical_name": "解郁除烦胶囊",
+  "types": [],
+  "manufacturers": [
+    "石家庄以岭药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.4g/粒",
+      "manufacturer": "石家庄以岭药业",
+      "full_manufacturer": "石家庄以岭药业股份有限公司",
+      "price": 66.6,
+      "unit": "盒",
+      "code": "C00032",
+      "approval_number": "国药准字Z20210008",
+      "insurance_code": "ZA13AAJ0749010202767",
+      "location": "D-3",
+      "outpatient_location": "J-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "解热化痰，清热除烦，用于轻、中度抑郁症中医辨证属气郁痰阻、郁火内扰证，症见情绪低落、心绪不宁、咽中如有异物、胸脘痞闷、食欲不振、易叹气、失眠多梦、头晕耳鸣、口苦咽干、大便秘结，舌红苔腻、脉弦滑等。",
+    "dosage": "口服：一次4粒，一日3次。疗程6周。",
+    "contraindications": "对本品及所含成份过敏者禁用。",
+    "adverse_reactions": "临床试验期间受试者用药后出现：恶心、头痛、胸部不适、尿白细胞增加、血白细胞计数降低等。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "栀子、连翘、姜半夏、枳壳、茯苓、紫苏根、厚朴、甘草。",
+    "precautions": "⑴忌辛辣刺激、生冷、油腻食物。 ⑵过敏体质者慎用。 ⑶本品不宜用于抑郁症虚症、寒症者。 ⑷本品尚无孕妇、哺乳期妇女、儿童用药的安全性及有效性临床数据。",
+    "source": "湖南药事服务网",
+    "full_indications": "解热化痰，清热除烦，用于轻、中度抑郁症中医辨证属气郁痰阻、郁火内扰证，症见情绪低落、心绪不宁、咽中如有异物、胸脘痞闷、食欲不振、易叹气、失眠多梦、头晕耳鸣、口苦咽干、大便秘结，舌红苔腻、脉弦滑等。",
+    "full_dosage": "口服：一次4粒，一日3次。疗程6周。",
+    "full_contraindications": "对本品及所含成份过敏者禁用。",
+    "full_adverse_reactions": "临床试验期间受试者用药后出现：恶心、头痛、胸部不适、尿白细胞增加、血白细胞计数降低等。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "栀子、连翘、姜半夏、枳壳、茯苓、紫苏根、厚朴、甘草。",
+    "full_precautions": "⑴忌辛辣刺激、生冷、油腻食物。 ⑵过敏体质者慎用。 ⑶本品不宜用于抑郁症虚症、寒症者。 ⑷本品尚无孕妇、哺乳期妇女、儿童用药的安全性及有效性临床数据。",
+    "composition": "栀子、连翘、姜半夏、枳壳、茯苓、紫苏根、厚朴、甘草。"
+  },
+  "pinyin": "jieyuchufan",
+  "pinyin_initials": "jycf",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13383",
+    "last_updated": "2026-03-21"
+  }
+}

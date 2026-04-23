@@ -1,0 +1,67 @@
+{
+  "id": 166,
+  "name": "双氯芬酸二乙胺乳胶剂",
+  "dosage_form": "其他",
+  "full_name": "(甲)双氯芬酸二乙胺乳胶剂[市基]",
+  "chemical_name": "双氯芬酸二乙胺乳胶剂",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "Haleon Schweiz AG",
+    "北京诺华制药有限公司制药有限公司)"
+  ],
+  "specifications": [
+    {
+      "specification": "20g/盒",
+      "manufacturer": "Haleon Schweiz AG",
+      "full_manufacturer": "Haleon Schweiz AG（Haleon CH SARL）",
+      "price": 17.17,
+      "unit": "盒",
+      "code": "X00056",
+      "approval_number": "国药准字HJ20181225",
+      "insurance_code": "XM02AAS197U002010181325",
+      "location": "D-3",
+      "outpatient_location": "I-6"
+    },
+    {
+      "specification": "20g/盒",
+      "manufacturer": "北京诺华制药有限公司制药有限公司)",
+      "full_manufacturer": "北京诺华制药有限公司(委托:山德士(中国)制药有限公司)",
+      "price": 17.17,
+      "unit": "盒",
+      "code": "Y00000013123",
+      "approval_number": "国药准字HJ20181225",
+      "insurance_code": "XM02AAS197U002010181325",
+      "location": "D-3"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "用于缓解肌肉、软组织和关节的轻至中度疼痛。如：缓解肌肉、软组织的扭伤、拉伤、挫伤、劳损、腰背部损伤引起的疼痛继以关节疼痛等。也可用于骨关节炎的对症治疗。",
+    "dosage": "外用：涂擦患处，一日3次。每次用时依据病变范围及不同产品的浓度。",
+    "contraindications": "过敏禁用。",
+    "adverse_reactions": "常见：皮疹、瘙痒、过敏等。",
+    "interactions": "外用未见与其他药物相互作用报告。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "参阅双氯芬酸。",
+    "precautions": "参阅双氯芬酸。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于缓解肌肉、软组织和关节的轻至中度疼痛。如：缓解肌肉、软组织的扭伤、拉伤、挫伤、劳损、腰背部损伤引起的疼痛继以关节疼痛等。也可用于骨关节炎的对症治疗。",
+    "full_dosage": "外用：涂擦患处，一日3次。每次用时依据病变范围及不同产品的浓度。",
+    "full_contraindications": "⑴妊娠三个月内或妊娠期末三个月禁用。  <br>⑵对双氯芬酸或对其他非甾体抗炎药过敏者。  <br>⑶对异丙醇或丙二醇及其他辅料过敏者禁用。",
+    "full_adverse_reactions": "⑴偶可出现局部不良反应：过敏性或非过敏性皮炎如丘疹、皮肤发红、水肿、瘙痒、小水泡、大水泡或鳞屑等。  <br>⑵局部使用本品而导致全身不良反应的情况少见，若将其用于较大范围皮肤长期使用，则可能出现：一般性皮疹、过敏性反应（如哮喘发作、血管神经性水肿、过敏反应等）。",
+    "full_interactions": "外用未见与其他药物相互作用报告。",
+    "full_pharmacokinetics": "参阅双氯芬酸。",
+    "full_precautions": "参阅双氯芬酸。"
+  },
+  "pinyin": "shuanglvfensuaneryianrujiaoji",
+  "pinyin_initials": "slfseyarjj",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2699",
+    "last_updated": "2026-03-22"
+  }
+}

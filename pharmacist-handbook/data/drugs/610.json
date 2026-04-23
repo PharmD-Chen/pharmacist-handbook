@@ -1,0 +1,67 @@
+{
+  "id": 610,
+  "name": "赖脯胰岛素注射液(笔芯)",
+  "dosage_form": "注射液",
+  "full_name": "(甲)赖脯胰岛素注射液(笔芯)",
+  "chemical_name": "赖脯胰岛素注射液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "Eli Lilly Nederland B.V.",
+    "礼来苏州制药"
+  ],
+  "specifications": [
+    {
+      "specification": "300单位:3ml/支",
+      "manufacturer": "礼来苏州制药",
+      "full_manufacturer": "礼来苏州制药有限公司",
+      "price": 38.42,
+      "unit": "盒",
+      "code": "X00258",
+      "approval_number": "国药准字S20217009",
+      "insurance_code": "XA10ABL029B002010101540",
+      "location": "2B-3",
+      "outpatient_location": "2A-4"
+    },
+    {
+      "specification": "300单位:3ml/支",
+      "manufacturer": "Eli Lilly Nederland B.V.",
+      "full_manufacturer": "Eli Lilly Nederland B.V.（Lilly France）",
+      "price": 41.42,
+      "unit": "盒",
+      "code": "X00259",
+      "approval_number": "S20191014",
+      "insurance_code": "XA10ABL029B002050178403",
+      "location": "2B-2"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "用于需要胰岛素维持正常血糖稳态的糖尿病患者。",
+    "full_indications": "适用于治疗需要胰岛素维持正常血糖稳态的糖尿病患者。",
+    "dosage": "皮下注射：餐前15分钟内注射，剂量应个体化。根据患者血糖水平调整剂量。",
+    "full_dosage": "皮下注射：餐前15分钟内注射，剂量应个体化。根据患者血糖水平调整剂量。",
+    "contraindications": "过敏禁用。",
+    "full_contraindications": "1.低血糖发作时禁用。<br>2.对赖脯胰岛素过敏者禁用。",
+    "adverse_reactions": "常见：皮疹、瘙痒、过敏、疼痛等。",
+    "full_adverse_reactions": "1.低血糖：最常见的不良反应。<br>2.脂肪代谢障碍：注射部位脂肪萎缩或增生。<br>3.皮疹、上呼吸道感染。<br>4.注射部位反应（疼痛、出血、红斑、结节、瘙痒）。<br>5.体重增加。<br>6.过敏反应。",
+    "interactions": "与口服降糖药、ACE抑制剂、单胺氧化酶抑制剂等合用可能增加低血糖风险。",
+    "full_interactions": "与口服降糖药、ACE抑制剂、单胺氧化酶抑制剂等合用可能增加低血糖风险。",
+    "pregnancy_category": "B级",
+    "full_pregnancy_category": "B级。",
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": "",
+    "precautions": "1.低血糖是常见",
+    "full_precautions": "1.低血糖是常见",
+    "source": "湖南药事服务网"
+  },
+  "pinyin": "laipuyidaosu",
+  "pinyin_initials": "lpyds",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=610",
+    "last_updated": "2026-03-21"
+  }
+}

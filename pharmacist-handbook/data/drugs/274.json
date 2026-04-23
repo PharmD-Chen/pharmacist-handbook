@@ -1,0 +1,66 @@
+{
+  "id": 274,
+  "name": "乳酸钠林格注射液(塑)",
+  "dosage_form": "注射液",
+  "full_name": "(甲)乳酸钠林格注射液(塑)[国基]",
+  "chemical_name": "乳酸钠林格注射液(塑)",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "济民健康管理",
+    "湖南科伦制药"
+  ],
+  "specifications": [
+    {
+      "specification": "500ml/瓶",
+      "manufacturer": "湖南科伦制药",
+      "full_manufacturer": "湖南科伦制药有限公司",
+      "price": 1.94,
+      "unit": "瓶",
+      "code": "X00834",
+      "approval_number": "国药准字H20067464",
+      "insurance_code": "XB05BBR057B002010604948",
+      "location": "1",
+      "outpatient_location": "1"
+    },
+    {
+      "specification": "500ml",
+      "manufacturer": "济民健康管理",
+      "full_manufacturer": "济民健康管理股份有限公司",
+      "price": 4.62,
+      "unit": "瓶",
+      "code": "Y00000012410",
+      "approval_number": "国药准字H20003210",
+      "insurance_code": "XB05BBR057B002010604653"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "用于风湿痛、关节痛、神经痛。与小剂量放射合并用于肺癌；亦用于单纯硅肺I、II、III期及各期煤硅肺（尘肺病）。",
+    "dosage": "抗风湿及镇痛：一次20mg～40mg，一日3次。抗肺癌：一次40mg～60mg，一日3次。抗硅肺：一次60mg～100mg，一日3次，服用6天，停药1天，疗程3个月。",
+    "contraindications": "症 1.肝、肾等脏器发生器质性病患者禁用。 2.妊娠期妇女禁用。 3.对本品过敏者禁用。",
+    "adverse_reactions": "⑴不良反应较轻、较少。少数患者服药后出现轻度嗜睡、乏力、恶心、腹部不适，个别患者服后大便次数增加。停药后症状可缓解。 ⑵静脉注射部位可能发生疼痛或静脉炎。",
+    "interactions": "１.本品使口服环孢素A后的最高血药浓度(Cmax)增高。 ２.能减轻化疗药物引起的消化道反应与肢体麻木症状，并对化疗引起的血红蛋白与白细胞的损害有保护作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "服药期间每3个月复查肝功能，心电图等。 药物相互作用 １.本品使口服环孢素A后的最高血药浓度(Cmax)增高。 ２.能减轻化疗药物引起的消化道反与肢体麻木症状，并对化疗引起的血红蛋白与白细胞的损害有保护作用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于风湿痛、关节痛、神经痛。与小剂量放射合并用于肺癌；亦用于单纯硅肺I、II、III期及各期煤硅肺（尘肺病）。",
+    "full_dosage": "口服。抗风湿及镇痛：一次20mg～40mg，一日3次。抗肺癌：一次40mg～60mg，一日3次。抗硅肺：一次60mg～100mg，一日3次，服用6天，停药1天，疗程3个月。",
+    "full_contraindications": "症 1.肝、肾等脏器发生器质性病患者禁用。 2.妊娠期妇女禁用。 3.对本品过敏者禁用。",
+    "full_adverse_reactions": "⑴不良反应较轻、较少。少数患者服药后出现轻度嗜睡、乏力、恶心、腹部不适，个别患者服后大便次数增加。停药后症状可缓解。 ⑵静脉注射部位可能发生疼痛或静脉炎。",
+    "full_interactions": "１.本品使口服环孢素A后的最高血药浓度(Cmax)增高。 ２.能减轻化疗药物引起的消化道反应与肢体麻木症状，并对化疗引起的血红蛋白与白细胞的损害有保护作用。",
+    "full_pharmacokinetics": "",
+    "full_precautions": "服药期间每3个月复查肝功能，心电图等。 药物相互作用 １.本品使口服环孢素A后的最高血药浓度(Cmax)增高。 ２.能减轻化疗药物引起的消化道反应与肢体麻木症状，并对化疗引起的血红蛋白与白细胞的损害有保护作用。"
+  },
+  "pinyin": "rusuannalinge",
+  "pinyin_initials": "rsnlg",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3240",
+    "last_updated": "2026-03-22"
+  }
+}

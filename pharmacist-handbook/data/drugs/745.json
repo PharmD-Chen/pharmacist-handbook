@@ -1,0 +1,51 @@
+{
+  "id": 745,
+  "name": "伊奈利珠单抗注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)伊奈利珠单抗注射液",
+  "chemical_name": "伊奈利珠单抗注射液",
+  "types": [],
+  "manufacturers": [
+    "Horizon Therapeutics Ireland DAC"
+  ],
+  "specifications": [
+    {
+      "specification": "100mg/瓶",
+      "manufacturer": "Horizon Therapeutics Ireland DAC",
+      "full_manufacturer": "Horizon Therapeutics Ireland DAC (AstraZeneca Ni jmegen B.V.)（进口分包企业：常州恒邦药业有限公司）",
+      "price": 21137.5,
+      "unit": "瓶",
+      "code": "X00835",
+      "approval_number": "国药准字SJ20220007",
+      "insurance_code": "XL04AAY335B002010184095"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于治疗抗水通道蛋白4（AQP4）抗体阳性的成年患者的视神经脊髓炎谱系障碍（NMOSD）患者。",
+    "dosage": "静脉输注：用250mL的0.9%氯化钠注射液中稀释，推荐首剂的初始剂量为一次300mg，首次给药两周后开始第二次给药300mg。后续剂量（从第一次输注起6个月开始）：每6个月单次给药300mg。每次输注时间约90分钟，在输注期间和输注完成后至少1小时密切监测患者。",
+    "contraindications": "症 ⑴对本品过敏者禁用。 ⑵活动性型肝炎感染患者禁用。 ⑶活动性或未经治疗的潜伏性结核病患者禁用。",
+    "adverse_reactions": "最常见的不良反应（至少10%）是尿路感染和关节痛。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑵免疫球蛋白水平：在开始、期间和停止使用本品治疗直至B细胞补充时监测免疫球蛋白水平。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗抗水通道蛋白4（AQP4）抗体阳性的成年患者的视神经脊髓炎谱系障碍（NMOSD）患者。",
+    "full_dosage": "静脉输注：用250mL的0.9%氯化钠注射液中稀释，推荐首剂的初始剂量为一次300mg，首次给药两周后开始第二次给药300mg。后续剂量（从第一次输注起6个月开始）：每6个月单次给药300mg。每次输注时间约90分钟，在输注期间和输注完成后至少1小时密切监测患者。",
+    "full_contraindications": "症 ⑴对本品过敏者禁用。 ⑵活动性型肝炎感染患者禁用。 ⑶活动性或未经治疗的潜伏性结核病患者禁用。",
+    "full_adverse_reactions": "最常见的不良反应（至少10%）是尿路感染和关节痛。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴建议有活动性感染的患者延迟给药，直到感染得到解决。不建议在治疗期间和停药后接种减毒活疫苗或活疫苗。 ⑵免疫球蛋白水平：在开始、期间和停止使用本品治疗直至B细胞补充时监测免疫球蛋白水平。如果患者出现严重的机会性感染或复发性感染，如果免疫球蛋白水平表明免疫受损，请考虑停用。 ⑶胎儿风险：根据动物数据可能会造成胎儿伤害。忠告有生殖潜力的女性对胎儿的潜在风险，并在治疗期间和停止本品治疗6个月内使用有效的避孕方法。 给药说明 ⑴首剂用药前需进行肝病毒、血清免疫球蛋白定量、结核病筛查。 ⑵每次输液前必需确定是否存在活动性感染。 ⑶使用皮质类固醇、抗组胺药和解热药进行前驱用药。"
+  },
+  "pinyin": "※▲yinailizhudankang",
+  "pinyin_initials": "※▲ynlzdk",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13524",
+    "last_updated": "2026-03-21"
+  }
+}

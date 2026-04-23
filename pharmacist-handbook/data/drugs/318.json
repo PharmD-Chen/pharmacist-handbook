@@ -1,0 +1,53 @@
+{
+  "id": 318,
+  "name": "吗替麦考酚酯胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(甲)吗替麦考酚酯胶囊[国基]",
+  "chemical_name": "吗替麦考酚酯胶囊",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "浙江长典药物技术开发"
+  ],
+  "specifications": [
+    {
+      "specification": "0.25g/粒",
+      "manufacturer": "浙江长典药物技术开发",
+      "full_manufacturer": "浙江长典药物技术开发有限公司(委托生产企业：浙江海正药业股份有限公司)",
+      "price": 45.22,
+      "unit": "盒",
+      "code": "X00536",
+      "approval_number": "国药准字H20070081",
+      "insurance_code": "XL04AAM026E001010104641",
+      "location": "L-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "外用于由皮肤癣菌如红色毛癣菌、须癣毛癣菌。絮状表皮癣菌和犬小孢子菌等所致的浅表皮肤真菌感染，如手癣、足癣（尤其是角化增厚型）、体癣、股癣；外用于由念珠菌如白色念珠菌等所致的皮肤念珠菌感染和念珠菌性外阴阴道炎。外用于由马拉色菌属所致的花斑癣。",
+    "dosage": "涂于患处，一日1次，2～4周为一疗程。",
+    "contraindications": "症 对咪唑类药物过敏或对本品过敏者禁用。",
+    "adverse_reactions": "少数病人有局部红斑、烧灼感或刺痛感等刺激症状，偶可发生接触性皮炎。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "用药过程中一旦局部皮肤过敏，皮疹加重、瘙痒，立即停用。 给药说明 ⑴避免接触眼睛。 ⑵治疗念珠菌病，需避免封包，否则可促使酵母菌生长。 ⑶对念珠菌病感染、股癣和体癣治疗2周，手癣、足癣治疗4周，以免复发。",
+    "source": "湖南药事服务网",
+    "full_indications": "外用于治疗由皮肤癣菌如红色毛癣菌、须癣毛癣菌。絮状表皮癣菌和犬小孢子菌等所致的浅表皮肤真菌感染，如手癣、足癣（尤其是角化增厚型）、体癣、股癣；外用于由念珠菌如白色念珠菌等所致的皮肤念珠菌感染和念珠菌性外阴阴道炎。外用于由马拉色菌属所致的花斑癣。",
+    "full_pharmacokinetics": "",
+    "full_dosage": "涂于患处，一日1次，2～4周为一疗程。",
+    "full_contraindications": "症 对咪唑类药物过敏或对本品过敏者禁用。",
+    "full_adverse_reactions": "少数病人有局部红斑、烧灼感或刺痛感等刺激症状，偶可发生接触性皮炎。",
+    "full_precautions": "用药过程中一旦局部皮肤过敏，皮疹加重、瘙痒，应立即停用。 给药说明 ⑴避免接触眼睛。 ⑵治疗念珠菌病，需避免封包，否则可促使酵母菌生长。 ⑶对念珠菌病感染、股癣和体癣治疗2周，手癣、足癣治疗4周，以免复发。"
+  },
+  "pinyin": "matimaikaofenzhi",
+  "pinyin_initials": "mtmkfz",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2183",
+    "last_updated": "2026-03-21"
+  }
+}

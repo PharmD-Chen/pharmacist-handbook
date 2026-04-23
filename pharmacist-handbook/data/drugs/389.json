@@ -1,0 +1,53 @@
+{
+  "id": 389,
+  "name": "天丹通络片",
+  "dosage_form": "片",
+  "full_name": "(乙10%)天丹通络片",
+  "chemical_name": "天丹通络片",
+  "types": [],
+  "manufacturers": [
+    "山东凤凰制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.415g/片",
+      "manufacturer": "山东凤凰制药",
+      "full_manufacturer": "山东凤凰制药股份有限公司",
+      "price": 53.82,
+      "unit": "盒",
+      "code": "Y00000014659",
+      "approval_number": "国药准字Z20090152",
+      "insurance_code": "ZA12HAT0058010204085",
+      "location": "D-4",
+      "outpatient_location": "K-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "活血通络，熄风化痰。用于中风中经络，风痰淤血痹阻脉络证，症见半身不遂、偏身麻木、口眼歪斜、语言蹇塞；脑梗死急性期、恢复早期见上述证候者。",
+    "dosage": "口服：一次5片，一日3次。",
+    "contraindications": "对本品过敏者禁用；脑出血者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生",
+    "pregnancy_category": null,
+    "pharmacokinetics": "川芎、豨莶草、丹参、水蛭、天麻、槐花、石菖蒲、人工牛黄、黄芪、牛膝。",
+    "precautions": "忌食生冷，辛辣油腻食物。",
+    "source": "湖南药事服务网",
+    "full_indications": "活血通络，熄风化痰。用于中风中经络，风痰淤血痹阻脉络证，症见半身不遂、偏身麻木、口眼歪斜、语言蹇塞；脑梗死急性期、恢复早期见上述证候者。",
+    "full_dosage": "口服：一次5片，一日3次。",
+    "full_contraindications": "对本品过敏者禁用；脑出血者禁用。",
+    "full_adverse_reactions": "尚不明确。",
+    "full_interactions": "如与其他药物同时使用可能会发生",
+    "full_pharmacokinetics": "川芎、豨莶草、丹参、水蛭、天麻、槐花、石菖蒲、人工牛黄、黄芪、牛膝。",
+    "full_precautions": "忌食生冷，辛辣油腻食物。",
+    "composition": "川芎、豨莶草、丹参、水蛭、天麻、槐花、石菖蒲、人工牛黄、黄芪、牛膝。"
+  },
+  "pinyin": "tiandantongluo",
+  "pinyin_initials": "tdtl",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5263",
+    "last_updated": "2026-03-21"
+  }
+}

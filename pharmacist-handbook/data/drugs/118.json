@@ -1,0 +1,53 @@
+{
+  "id": 118,
+  "name": "妥布霉素地塞米松眼膏",
+  "dosage_form": "眼膏",
+  "full_name": "(甲)妥布霉素地塞米松眼膏",
+  "chemical_name": "妥布霉素地塞米松眼膏",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "Novartis pharma NV"
+  ],
+  "specifications": [
+    {
+      "specification": "3.5g/支",
+      "manufacturer": "Novartis pharma NV",
+      "full_manufacturer": "Novartis pharma NV（SIEGFRIED EL MASNOU s.a.）",
+      "price": 28.18,
+      "unit": "盒",
+      "code": "X00175",
+      "approval_number": "国药准字HJ20181126",
+      "insurance_code": "XS01CAT126G004020182356",
+      "location": "G-4",
+      "outpatient_location": "D-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "本品用于耐药性葡萄球菌、绿脓杆菌及其他敏感细菌所致的外眼感染，如急性结膜炎、角膜炎、泪囊炎。也可用于预防化学烧伤后的感染。",
+    "dosage": "⑴滴眼液：滴入结膜囊，每4～6小时1次，一次1滴。",
+    "contraindications": "以下情况禁用：树枝状角膜炎；牛痘、水痘及其他病毒引起的结膜炎、结膜炎；眼部分枝杆菌感染；眼部真菌感染；对本品任何成分过敏者及角膜上异物未完全去除者。",
+    "adverse_reactions": "偶有发痒、红肿、结膜充血现象发生，也可导致眼压升高，发生角膜真菌感染。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "参阅妥布霉素和地塞米松。",
+    "precautions": "⑷孕妇慎用本品。",
+    "source": "湖南药事服务网",
+    "full_indications": "本品适用于治疗耐药性葡萄球菌、绿脓杆菌及其他敏感细菌所致的外眼感染，如急性结膜炎、角膜炎、泪囊炎。也可用于预防化学烧伤后的感染。",
+    "full_dosage": "⑴滴眼液：滴入结膜囊，每4～6小时1次，一次1滴。在用药的最初1～2日可增加至每2小时1次。根据临床症状的改善状况逐渐减少用药的频度，注意不要过早停止治疗。    <br>　　⑵眼膏剂：涂于结膜囊内，一次适量（长1～1.5cm），一日3～5次。",
+    "full_contraindications": "以下情况禁用：树枝状角膜炎；牛痘、水痘及其他病毒引起的结膜炎、结膜炎；眼部分枝杆菌感染；眼部真菌感染；对本品任何成分过敏者及角膜上异物未完全去除者。",
+    "full_adverse_reactions": "偶有发痒、红肿、结膜充血现象发生，也可导致眼压升高，发生角膜真菌感染。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "参阅妥布霉素和地塞米松。",
+    "full_precautions": "⑴长期使用眼用糖皮质激素可能会发生以下现象：眼压升高、视神经受损、再度感染与角膜穿孔。  <br>⑵长期使用可能导致角膜真菌感染或产生耐药菌株，如果发生二重感染，应给予适当治疗。<br>  ⑶与其他氨基糖苷类可能会发生交叉过敏。如发生过敏反应应中断使用并进行适当治疗。<br>  ⑷孕妇慎用本品。建议哺乳期妇女在使用本品时暂停哺乳。"
+  },
+  "pinyin": "tuobumeisudisaimisong",
+  "pinyin_initials": "tbmsdsms",
+  "dosage_form_pinyin": "yangao",
+  "dosage_form_initials": "yg",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2671"
+  }
+}

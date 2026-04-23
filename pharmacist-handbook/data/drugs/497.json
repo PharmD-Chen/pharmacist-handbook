@@ -1,0 +1,52 @@
+{
+  "id": 497,
+  "name": "卡泊三醇软膏",
+  "dosage_form": "软膏",
+  "full_name": "(乙10%)卡泊三醇软膏",
+  "chemical_name": "卡泊三醇软膏",
+  "types": [],
+  "manufacturers": [
+    "LEO Pharma A/S"
+  ],
+  "specifications": [
+    {
+      "specification": "15g/支",
+      "manufacturer": "LEO Pharma A/S",
+      "full_manufacturer": "LEO Pharma A/S(LEO laboratories Limited)",
+      "price": 58.85,
+      "unit": "支",
+      "code": "X00530",
+      "approval_number": "国药准字HJ20160070",
+      "insurance_code": "XD05AXK013F001020179051",
+      "location": "G-2",
+      "outpatient_location": "S-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "外用于寻常性银屑病（俗称牛皮癣）。",
+    "dosage": "⑴软膏外用，将软膏涂于患处皮肤，轻轻揉搽，一日1～2次。",
+    "contraindications": "⑴对本品或其基质过敏者禁用。  ⑵患有钙代谢疾病禁用。",
+    "adverse_reactions": "常见皮肤刺激症状，如红斑、烧灼感和瘙痒。",
+    "interactions": "本品不能与水杨酸制剂合用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "⑴药效学：本品是合成的、在侧链上带有双键和环结构的1,24-二羟维生素Ｄ3类似物，能抑制皮肤角质形成细胞的过度增生和诱导其分化，从而使银屑病表皮细胞的增生及分化异常得以纠正。外用于银屑病患者的皮损后，约6％被全身吸收，吸收后24小时内在体内转变成无活性的代谢物。钙泊三醇较1,25-二羟维生素Ｄ3类安",
+    "precautions": "⑴动物实验未发现本品有任何致畸作用，但孕妇及哺乳期妇女应慎用。儿童慎用。⑵不宜全身大面积、长期使用。",
+    "source": "湖南药事服务网",
+    "full_indications": "外用于寻常性银屑病（俗称牛皮癣）。",
+    "full_dosage": "⑴软膏外用，将软膏涂于患处皮肤，轻轻揉搽，一日1～2次。有效后可减为一日1次。一周用量不应超过100g。    <br>　　⑵搽剂治疗头部银屑病，将少量搽剂涂于头部患处皮肤，早晚各一次，一周用量不超过60ml，儿童不建议使用。",
+    "full_contraindications": "⑴对本品或其基质过敏者禁用。  ⑵患有钙代谢疾病禁用。",
+    "full_adverse_reactions": "常见皮肤刺激症状，如红斑、烧灼感和瘙痒。",
+    "full_interactions": "本品不能与水杨酸制剂合用。",
+    "full_pharmacokinetics": "⑴药效学：本品是合成的、在侧链上带有双键和环结构的1,24-二羟维生素Ｄ3类似物，能抑制皮肤角质形成细胞的过度增生和诱导其分化，从而使银屑病表皮细胞的增生及分化异常得以纠正。外用于银屑病患者的皮损后，约6％被全身吸收，吸收后24小时内在体内转变成无活性的代谢物。钙泊三醇较1,25-二羟维生素Ｄ3类安全有效，它在引起高尿钙症和高血钙症的作用较1,25-二羟维生素Ｄ3弱200倍，而对维生素Ｄ受体的亲和力与1,25-二羟维生素Ｄ3相当。<br>　　⑵药动学：动物药代动力学研究表明口服给药经肝脏代谢，半衰期很短。人肝脏匀浆体外试验显示人的代谢途径与鼠、豚鼠、兔相似，主要代谢物无药理活性，钙泊三醇经皮肤吸收为给药剂量的1％～5％。",
+    "full_precautions": "⑴动物实验未发现本品有任何致畸作用，但孕妇及哺乳期妇女应慎用。儿童慎用。  <br>⑵不宜全身大面积、长期使用。  <br>⑶不宜用于面部，在檫伤部位使用也应谨慎。  <br>⑷勿用于眼及其他黏膜部位。  <br>⑸用药后应洗手。  <br>⑹在用药期间，有发生一过性、可逆性血钙升高的报告。如果血钙高于正常水平，则应暂停用药直至恢复正常。"
+  },
+  "pinyin": "kaposanchun",
+  "pinyin_initials": "kpsc",
+  "dosage_form_pinyin": "ruangao",
+  "dosage_form_initials": "rg",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2945",
+    "last_updated": "2026-03-22"
+  }
+}

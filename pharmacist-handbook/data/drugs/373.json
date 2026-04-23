@@ -1,0 +1,52 @@
+{
+  "id": 373,
+  "name": "法瑞西单抗注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)法瑞西单抗注射液",
+  "chemical_name": "法瑞西单抗注射液",
+  "types": [],
+  "manufacturers": [
+    "Roche PharmaAG\r\nRoche PharmaAG"
+  ],
+  "specifications": [
+    {
+      "specification": "0.05ml/瓶",
+      "manufacturer": "Roche PharmaAG\r\nRoche PharmaAG",
+      "full_manufacturer": "Roche Pharma（Schweiz）AG（F.Hoffmann-La Roche AG）\r\nRoche Pharma（Schweiz）AG（F.Hoffmann-La Roche AG）",
+      "price": 3608.0,
+      "unit": "盒",
+      "code": "X00965",
+      "approval_number": "国药准字SJ20230018",
+      "insurance_code": "XS01LAF740G003010181735",
+      "location": "2E-1",
+      "outpatient_location": "2B-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于以下患者：新血管（湿性）年龄相关性黄斑变性（nAMD）；糖尿病性黄斑水肿（DME）；视网膜静脉闭塞（RVO）后黄斑水肿。",
+    "dosage": "玻璃体内注射：\n⑴新血管（湿性）年龄相关黄斑变性（nAMD）。",
+    "contraindications": "以下患者禁用：眼部或眼周感染；活动性眼内炎症；超敏反应。",
+    "adverse_reactions": "最常见的不良反应（≥5%）是白内障（15%）和结膜出血（8%）。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "法瑞西单抗是一种血管内皮生长因子（VEGF）和血管生成素-2（Ang-2）抑制剂。",
+    "precautions": "⑴玻璃体内注射后可能发生眼内炎和视网膜脱离。应指示患者立即报告任何暗示的眼内炎或视网膜脱离症状，以便及时处理。\n⑵玻璃体内注射后60分钟内眼压升高。\n⑶存在与VEGF抑制相关的动脉血栓栓塞事件（ATE）的潜在风险。",
+    "source": "湖南药事服务网",
+    "full_indications": "适用于治疗以下患者：新血管（湿性）年龄相关性黄斑变性（nAMD）；糖尿病性黄斑水肿（DME）；视网膜静脉闭塞（RVO）后黄斑水肿。",
+    "full_dosage": "玻璃体内注射：<br>⑴新血管（湿性）年龄相关黄斑变性（nAMD）。推荐剂量为6mg（0.05mL 120mg/mL溶液），前4次玻璃体内注射每4周一次（大约每28±7天，每月1次），随后在8周和12周后进行光学相干断层扫描和视力评估，以告知是否按照以下三种方案之一通过玻璃体内注射给予6mg剂量：①第28周和第44周；②第24、36和48周；③第20、28、36和44周。尽管与每8周给药相比，每4周给药一次VABYSMO并没有在大多数患者中显示出额外的疗效，但一些患者可能需要在前4次给药后每4周（每月）给药。应定期对患者进行评估。<br>⑵糖尿病性黄斑水肿（DME）。建议通过以下两种给药方案之一给药：①每4周（约每28天±7天，每月）玻璃体内注射6 mg（0.05mL的120 mg/mL溶液），至少4次。如果在至少4次给药后，通过光学相干断层扫描测量的基于黄斑中心亚场厚度（CST）的水肿消退，则可以根据CST和视力评估，通过延长至多4周的给药间隔增量或减少至多8周的给剂间隔增量来修改给药间隔；②6mg剂量，可以每4周给药一次，持续前6次，然后每8周（2个月）通过玻璃体内注射给药6mg剂量。尽管与每8周给药相比，每4周给药一次并没有在大多数患者中显示出额外的疗效，但一些患者可能需要在前4次给药后每4周（每月）给药。应定期对患者进行检查。<br>⑶视网膜静脉阻塞（RVO）后的黄斑水肿。推荐剂量为6mg（120mg/mL中的0.05mL），每4周（大约每28±7天，每月）玻璃体内注射一次，持续6个月。",
+    "full_contraindications": "以下患者禁用：眼部或眼周感染；活动性眼内炎症；超敏反应。",
+    "full_adverse_reactions": "最常见的不良反应（≥5%）是白内障（15%）和结膜出血（8%）。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "法瑞西单抗是一种血管内皮生长因子（VEGF）和血管生成素-2（Ang-2）抑制剂。",
+    "full_precautions": "⑴玻璃体内注射后可能发生眼内炎和视网膜脱离。应指示患者立即报告任何暗示的眼内炎或视网膜脱离症状，以便及时处理。<br>⑵玻璃体内注射后60分钟内眼压升高。<br>⑶存在与VEGF抑制相关的动脉血栓栓塞事件（ATE）的潜在风险。"
+  },
+  "pinyin": "※▲faruixidankang",
+  "pinyin_initials": "※▲frxdk",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13732",
+    "last_updated": "2026-03-22"
+  }
+}

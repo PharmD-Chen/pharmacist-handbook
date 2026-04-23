@@ -1,0 +1,56 @@
+{
+  "id": 680,
+  "name": "甘桔冰梅片",
+  "dosage_form": "片",
+  "full_name": "(甲)甘桔冰梅片",
+  "chemical_name": "甘桔冰梅片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "重庆华森制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.2g/片",
+      "manufacturer": "重庆华森制药",
+      "full_manufacturer": "重庆华森制药股份有限公司",
+      "price": 26.03,
+      "unit": "盒",
+      "code": "Y00000012511",
+      "approval_number": "国药准字Z20026258",
+      "insurance_code": "ZF03AAG0012010201007",
+      "location": "C-1",
+      "outpatient_location": "C-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "清热开音。用于风热犯肺引起的失音声哑；风热犯肺引起的急性咽炎出现的咽痛、咽干灼热、咽黏膜充血等。",
+    "full_indications": "清热开音。用于风热犯肺引起的失音声哑；风热犯肺引起的急性咽炎出现的咽痛、咽干灼热、咽黏膜充血等。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "口服：一次2片，一日3-4次。",
+    "full_dosage": "口服：一次2片，一日3-4次。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "full_adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "忌烟酒、辛辣、鱼腥食物；不宜在服药期间同时服用温补性中药；孕妇慎用。",
+    "full_precautions": "1.忌烟酒、辛辣、鱼腥食物。2.不宜在服药期间同时服用温补性中药。3.孕妇慎用。4.凡声嘶、咽痛初起，伴恶寒发热、鼻流清涕等外感风寒者慎用。5.声哑、咽喉痛同时伴有其他症状，如心悸、胸闷、咳嗽气喘、痰中带血等，应及时去医院就诊。",
+    "source": "湖南药事服务网",
+    "composition": "桔梗、薄荷、射干、蝉蜕、乌梅（去核）、冰片、甘草、青果。"
+  },
+  "pinyin": "ganjubingmei",
+  "pinyin_initials": "gjbm",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=7345",
+    "last_updated": "2026-03-22"
+  }
+}

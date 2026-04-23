@@ -1,0 +1,55 @@
+{
+  "id": 910,
+  "name": "谷维素片",
+  "dosage_form": "片",
+  "full_name": "(甲)谷维素片[市基]",
+  "chemical_name": "谷维素片",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "上海青平药业"
+  ],
+  "specifications": [
+    {
+      "specification": "10mg/片",
+      "manufacturer": "上海青平药业",
+      "full_manufacturer": "上海青平药业有限公司",
+      "price": 20.0,
+      "unit": "瓶",
+      "code": "Y00000014811",
+      "approval_number": "国药准字H31020659",
+      "insurance_code": "XN07XXG107A001010100736",
+      "location": "I-1",
+      "outpatient_location": "M-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于自主神经功能失调（包括胃肠、心血管神经症）、周期性精神病、脑震荡后遗症、精神分裂症周期型、经期前紧张综合征、更年期综合征的镇静助眠。",
+    "dosage": "口服：一次10mg，一日3次。有时可用至每日60mg。疗程一般3个月左右。",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "偶有胃部不适、恶心、呕吐、口干、乳房肿胀、皮疹、油脂分泌过多、脱发、体重增加等，停药或减量后可减轻或消失。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品存在于米糠油中，系以三萜（烯）醇为主体的阿魏酸酯的混合物。主要作用于间脑的自主神经系统与内分泌中枢，能调整自主神经功能，减少内分泌平衡障碍，改善精神神经失调症状。",
+    "precautions": "胃及十二指肠溃疡患者、过敏体质者慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于自主神经功能失调（包括胃肠、心血管神经症）、周期性精神病、脑震荡后遗症、精神分裂症周期型、经期前紧张综合征、更年期综合征的镇静助眠。",
+    "full_dosage": "口服：一次10mg，一日3次。有时可用至每日60mg。疗程一般3个月左右。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "偶有胃部不适、恶心、呕吐、口干、乳房肿胀、皮疹、油脂分泌过多、脱发、体重增加等，停药或减量后可减轻或消失。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品存在于米糠油中，系以三萜（烯）醇为主体的阿魏酸酯的混合物。主要作用于间脑的自主神经系统与内分泌中枢，能调整自主神经功能，减少内分泌平衡障碍，改善精神神经失调症状。",
+    "full_precautions": "胃及十二指肠溃疡患者、过敏体质者慎用。"
+  },
+  "pinyin": "guweisu",
+  "pinyin_initials": "gws",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=839",
+    "last_updated": "2026-03-22"
+  }
+}

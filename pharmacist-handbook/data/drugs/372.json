@@ -1,0 +1,79 @@
+{
+  "id": 372,
+  "name": "灭菌注射用水",
+  "dosage_form": "注射用",
+  "full_name": "(乙)灭菌注射用水[市基]",
+  "chemical_name": "灭菌注射用水",
+  "types": [
+    "乙类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "上海信谊金朱药业",
+    "上海长征富民金山制药",
+    "石家庄四药"
+  ],
+  "specifications": [
+    {
+      "specification": "500ml/玻瓶",
+      "manufacturer": "石家庄四药",
+      "full_manufacturer": "石家庄四药有限公司",
+      "price": 2.2,
+      "unit": "玻瓶",
+      "code": "X00964",
+      "approval_number": "国药准字H20046572",
+      "insurance_code": "XB05BBM115B001050602763",
+      "location": "1"
+    },
+    {
+      "specification": "5ml/支",
+      "manufacturer": "上海信谊金朱药业",
+      "full_manufacturer": "上海信谊金朱药业有限公司",
+      "price": 0.14,
+      "unit": "支",
+      "code": "X00581",
+      "approval_number": "国药准字H31022048",
+      "insurance_code": "XB05BBM115B001010200801",
+      "location": "B-3",
+      "outpatient_location": "Q-5"
+    },
+    {
+      "specification": "500ml/玻瓶",
+      "manufacturer": "上海长征富民金山制药",
+      "full_manufacturer": "上海长征富民金山制药有限公司(委托生产企业：安徽双鹤药业有限责任公司,河南双鹤华利药业有限公司)",
+      "price": 4.97,
+      "unit": "瓶",
+      "code": "X00158",
+      "approval_number": "国药准字H31022229",
+      "insurance_code": "XB05BBM115B001010100687",
+      "location": "1",
+      "outpatient_location": "1"
+    }
+  ],
+  "spec_count": 3,
+  "manual": {
+    "indications": "注射用灭菌粉末的溶剂或注射液的稀释剂。",
+    "full_indications": "注射用灭菌粉末的溶剂或注射液的稀释剂。也可用于各科内腔镜冲洗剂。",
+    "dosage": "临用前，在避菌操作条件下，按需要量用无菌注射器吸取加入或量取加入或直接冲洗。",
+    "full_dosage": "临用前，在避菌操作条件下，按需要量用无菌注射器吸取加入或量取加入或直接冲洗。<br>1.作为注射用灭菌粉末的溶剂：根据药物说明书要求，用无菌注射器吸取适量本品，注入装有注射用灭菌粉末的瓶中，振摇使药物溶解后使用。<br>2.作为注射液的稀释剂：用无菌注射器吸取适量本品，与需要稀释的注射液混合后使用。<br>3.作为内腔镜冲洗剂：直接用于内腔镜的冲洗。",
+    "contraindications": "不能作为脂溶性药物的溶剂。",
+    "full_contraindications": "不能作为脂溶性药物的溶剂。",
+    "adverse_reactions": "尚不明确。",
+    "full_adverse_reactions": "尚不明确。",
+    "interactions": "尚不明确。",
+    "full_interactions": "尚不明确。",
+    "pregnancy_category": "尚不明确。",
+    "pharmacokinetics": "本品为无色的澄明液体；无臭，无味。",
+    "full_pharmacokinetics": "本品为无色的澄明液体；无臭，无味。本品系从饮用水经蒸馏法、离子交换法、反渗透法或其他适宜的方法制得的制药用水，不含任何添加剂。",
+    "precautions": "1.本品不能直接静脉注射；2.使用前请仔细检查，如发现瓶身有裂纹、漏气、溶液浑浊或有异物，请勿使用；3.开启后应立即使用，避免污染。",
+    "full_precautions": "1.本品不能直接静脉注射。<br>2.使用前请仔细检查，如发现瓶身有裂纹、漏气、溶液浑浊或有异物，请勿使用。<br>3.开启后应立即使用，避免污染。<br>4.本品仅供一次性使用，剩余溶液应丢弃。<br>5.如发生包装破损、渗漏，请勿使用。<br>6.本品不得用于注射用粉末的溶剂或注射液的稀释以外的用途。",
+    "source": "药品说明书"
+  },
+  "pinyin": "miejunzhusheyongshui",
+  "pinyin_initials": "mjzsys",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=7949"
+  }
+}

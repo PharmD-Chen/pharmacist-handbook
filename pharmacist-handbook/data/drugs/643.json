@@ -1,0 +1,55 @@
+{
+  "id": 643,
+  "name": "盐酸氮卓斯汀鼻喷雾剂",
+  "dosage_form": "喷雾剂",
+  "full_name": "(乙10%)盐酸氮卓斯汀鼻喷雾剂",
+  "chemical_name": "盐酸氮卓斯汀鼻喷雾剂",
+  "types": [],
+  "manufacturers": [
+    "MEDA PHARMA GMBH&CO. KG",
+    "Viatris Healthcare GmbH"
+  ],
+  "specifications": [
+    {
+      "specification": "60喷/瓶",
+      "manufacturer": "Viatris Healthcare GmbH",
+      "full_manufacturer": "Viatris Healthcare GmbH（Madaus GmbH）",
+      "price": 44.22,
+      "unit": "盒",
+      "code": "X00180",
+      "approval_number": "国药准字HJ20150201",
+      "insurance_code": "XR01ACD041L025010278626",
+      "location": "C-5",
+      "outpatient_location": "C-2"
+    },
+    {
+      "specification": "60喷/瓶",
+      "manufacturer": "MEDA PHARMA GMBH&CO. KG",
+      "full_manufacturer": "MEDA PHARMA GMBH&CO. KG（MADAUS GMBH）",
+      "price": 44.22,
+      "unit": "盒",
+      "code": "Y00000014674",
+      "approval_number": "国药准字HJ20150201",
+      "insurance_code": "XR01ACD041L025010278626"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "yansuandanzhuositingbi",
+  "pinyin_initials": "ysdzstb",
+  "dosage_form_pinyin": "penwuji",
+  "dosage_form_initials": "pwj",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2653"
+  }
+}

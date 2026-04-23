@@ -1,0 +1,55 @@
+{
+  "id": 1016,
+  "name": "金水宝片",
+  "dosage_form": "片",
+  "full_name": "※▲(甲)金水宝片[国基]",
+  "chemical_name": "金水宝片",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "江西济民可信药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.42g/片",
+      "manufacturer": "江西济民可信药业",
+      "full_manufacturer": "江西济民可信药业有限公司",
+      "price": 34.3,
+      "unit": "盒",
+      "code": "Y00000014867",
+      "approval_number": "国药准字Z20163112",
+      "insurance_code": "ZA09FAJ0473010105300"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于肺肾两虚，精气不足，久咳虚喘，神疲乏力，不寐健忘，腰膝酸软，月经不调，阳痿早泄等。",
+    "full_indications": "用于肺肾两虚，精气不足，久咳虚喘，神疲乏力，不寐健忘，腰膝酸软，月经不调，阳痿早泄等；慢性支气管炎、慢性肾功能不全、高脂血症、肝硬化见上述证候者。",
+    "dosage": "口服：一次2片，一日3次；用于慢性肾功能不全者，一次4片，一日3次。",
+    "full_dosage": "口服：一次2片，一日3次；用于慢性肾功能不全者，一次4片，一日3次。疗程根据病情而定。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。感冒发热病人不宜服用。",
+    "adverse_reactions": "偶见胃肠道不适。",
+    "full_adverse_reactions": "偶见胃肠道不适、恶心、呕吐等轻微反应，一般不影响继续用药。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": "慎用",
+    "pharmacokinetics": "",
+    "full_pharmacokinetics": "本品主要成分为发酵虫草菌粉（Cs-4），含腺苷、虫草酸、虫草多糖等有效成分。",
+    "precautions": "忌辛辣、生冷、油腻食物；感冒发热病人不宜服用。",
+    "full_precautions": "忌辛辣、生冷、油腻食物；感冒发热病人不宜服用；宜饭前服用；高血压、心脏病、肝病、糖尿病、肾病等慢性病患者应在医师指导下服用；服药2周症状无缓解，应去医院就诊。",
+    "source": "湖南药事服务网",
+    "url_added": true,
+    "composition": "发酵虫草菌粉。"
+  },
+  "pinyin": "※▲jinshuibao",
+  "pinyin_initials": "※▲jsb",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=6851",
+    "last_updated": "2026-03-20"
+  }
+}

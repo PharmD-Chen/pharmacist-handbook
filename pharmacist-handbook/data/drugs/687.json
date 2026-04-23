@@ -1,0 +1,45 @@
+{
+  "id": 687,
+  "name": "注射用丙戊酸钠",
+  "dosage_form": "注射用",
+  "full_name": "(甲10%)注射用丙戊酸钠[国基]",
+  "chemical_name": "注射用丙戊酸钠",
+  "types": [
+    "国家基药"
+  ],
+  "manufacturers": [
+    "Sanofi Aventis Deutschland GmbH制药有限公司)"
+  ],
+  "specifications": [
+    {
+      "specification": "400mg/支",
+      "manufacturer": "Sanofi Aventis Deutschland GmbH制药有限公司)",
+      "full_manufacturer": "Sanofi Aventis Deutschland GmbH（SANOFI S.p.A）(进口分包企业：赛诺菲(杭州)制药有限公司)",
+      "price": 81.77,
+      "unit": "支",
+      "code": "X00426",
+      "approval_number": "国药准字HJ20150084",
+      "insurance_code": "XN03AGB140B001020278820",
+      "location": "M-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "zhusheyongbingwusuanna",
+  "pinyin_initials": "zsybwsn",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=857"
+  }
+}

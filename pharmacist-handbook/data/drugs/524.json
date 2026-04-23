@@ -1,0 +1,51 @@
+{
+  "id": 524,
+  "name": "连榆烧伤膏",
+  "dosage_form": "其他",
+  "full_name": "※▲(乙10%)连榆烧伤膏",
+  "chemical_name": "连榆烧伤膏",
+  "types": [],
+  "manufacturers": [
+    "扬子江药业集团江苏制药"
+  ],
+  "specifications": [
+    {
+      "specification": "25g/支",
+      "manufacturer": "扬子江药业集团江苏制药",
+      "full_manufacturer": "扬子江药业集团江苏制药股份有限公司",
+      "price": 100.0,
+      "unit": "盒",
+      "code": "C00030",
+      "approval_number": "国药准字Z20194130",
+      "insurance_code": "ZB01BAL0467010101749"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "清热解毒，生肌止痛。用于浅Ⅱ°、深Ⅱ°烧烫伤创面的治疗，用药面积不宜超出体表面积的 1%。",
+    "dosage": "外用，首先，用生理盐水清洁创面。然后，将药膏直接涂布创面，厚度以2mm左右为宜；亦可将药膏涂抹于消毒敷料上，再覆盖于创面。创面用药后可根据病情需要，用纱布适度包扎。换药时间为1～2天换药一次。",
+    "contraindications": "对本品及所含成份过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "黄连、地榆、昆脂油、当归、蜂蜡、冰片。辅料为麻油。",
+    "precautions": "1.本品为外用药，不可内服。2.孕妇慎用。3.每次换药均需清洁创面。 给药说明 每1g相当于饮片0.73g",
+    "source": "湖南药事服务网",
+    "full_indications": "清热解毒，生肌止痛。用于浅Ⅱ°、深Ⅱ°烧烫伤创面的治疗，用药面积不宜超出体表面积的 1%。",
+    "full_dosage": "外用，首先，用生理盐水清洁创面。然后，将药膏直接涂布创面，厚度以2mm左右为宜；亦可将药膏涂抹于消毒敷料上，再覆盖于创面。创面用药后可根据病情需要，用纱布适度包扎。换药时间为1～2天换药一次。",
+    "full_contraindications": "对本品及所含成份过敏者禁用。",
+    "full_adverse_reactions": "尚不明确。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "黄连、地榆、昆脂油、当归、蜂蜡、冰片。辅料为麻油。",
+    "full_precautions": "1.本品为外用药，不可内服。2.孕妇慎用。3.每次换药均需清洁创面。 给药说明 每1g相当于饮片0.73g",
+    "composition": "黄连、地榆、昆脂油、当归、蜂蜡、冰片。辅料为麻油。"
+  },
+  "pinyin": "※▲lianyushaoshanggao",
+  "pinyin_initials": "※▲lyssg",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13325",
+    "last_updated": "2026-03-21"
+  }
+}

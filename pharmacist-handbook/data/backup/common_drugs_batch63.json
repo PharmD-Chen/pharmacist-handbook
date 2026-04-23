@@ -1,0 +1,962 @@
+[
+  {
+    "name": "牛痘疫苗接种家兔炎症皮肤提取物",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>腰痛、颈肩腕综合征、肩周炎、变形性关节炎</strong>；为<strong>神经妥乐平</strong>，具有镇痛、抗炎、修复神经损伤的作用。",
+      "dosage": "口服。<strong>一次4片，一日3次，饭后服用</strong>；<strong>疗程根据病情而定</strong>。",
+      "contraindications": "对本品过敏者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "偶见<strong>恶心、胃部不适、皮疹</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与其他镇痛药合用可能有协同作用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为牛痘疫苗接种家兔炎症皮肤提取物，含多种生物活性物质；具有镇痛、抗炎、修复神经的作用。",
+      "precautions": "孕妇禁用；2025版医保自费。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "独一味",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>多种外科手术后的刀口疼痛、出血，外伤骨折，筋骨扭伤，风湿痹痛以及崩漏、痛经、牙龈肿痛、出血</strong>；为<strong>活血止痛、化瘀止血类中成药</strong>。",
+      "dosage": "口服。<strong>一次3片，一日3次</strong>；<strong>疗程7天</strong>；或遵医嘱。",
+      "contraindications": "对本品成分过敏者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "偶见<strong>胃肠道不适、皮疹</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与抗凝药合用可能增加出血风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为中药单方制剂，含独一味；具有活血止痛、化瘀止血的作用。",
+      "precautions": "孕妇禁用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "洛芬待因",
+    "dosage_form": "缓释片",
+    "manual": {
+      "black_box_warning": "<strong>【成瘾性和呼吸抑制警告】</strong>本品含<strong>磷酸可待因</strong>，为<strong>阿片类药物</strong>，具有<strong>成瘾性</strong>，长期使用可产生<strong>身体依赖和精神依赖</strong>。过量使用可导致<strong>呼吸抑制甚至死亡</strong>。",
+      "indications": "用于<strong>中等强度疼痛的止痛</strong>，如<strong>术后疼痛、癌症疼痛、关节痛、神经痛</strong>；为<strong>复方镇痛药（布洛芬+可待因）</strong>。",
+      "dosage": "口服。<strong>一次2片，一日2次</strong>；<strong>整片吞服，不可嚼碎或掰开</strong>。",
+      "contraindications": "对本品过敏者禁用；对阿片类药物过敏者禁用；呼吸抑制患者禁用；支气管哮喘患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、便秘、头晕、嗜睡</strong>；可见<strong>胃肠道出血、肝功能异常、依赖性</strong>；严重不良反应包括<strong>呼吸抑制、成瘾</strong>。",
+      "interactions": "与中枢抑制剂合用可能增强镇静作用；与抗凝药合用可能增加出血风险；与MAOI合用可能引起严重不良反应。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "含布洛芬（NSAIDs）和磷酸可待因（阿片类镇痛药）；布洛芬抑制前列腺素合成，可待因作用于中枢阿片受体；口服后吸收良好；经肝脏代谢。",
+      "precautions": "有成瘾性，不宜长期使用；呼吸抑制风险；孕妇禁用；2025版医保甲类，市基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "罗红霉素",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>敏感菌引起的呼吸道感染、耳鼻喉感染、泌尿生殖系统感染、皮肤软组织感染</strong>；为<strong>大环内酯类抗生素</strong>。",
+      "dosage": "口服。<strong>成人：一次150mg，一日2次；或一次300mg，一日1次</strong>；<strong>餐前服用</strong>；<strong>疗程5-10天</strong>。",
+      "contraindications": "对本品过敏者禁用；对大环内酯类过敏者禁用；严重肝功能不全患者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>胃肠道反应（腹痛、恶心、呕吐、腹泻）</strong>；可见<strong>皮疹、肝功能异常</strong>；罕见<strong>过敏反应、伪膜性肠炎</strong>。",
+      "interactions": "与茶碱合用可能增加茶碱血药浓度；与华法林合用可能增强抗凝效果；与麦角胺合用可能引起麦角中毒。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为大环内酯类抗生素，抑制细菌蛋白质合成；口服后吸收良好；经肝脏代谢；半衰期约8-15小时。",
+      "precautions": "肝功能不全者慎用；孕妇慎用；2025版医保甲类，市基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "骨痛灵酊",
+    "dosage_form": "其他",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>腰、颈椎骨质增生，骨性关节炎，肩周炎，风湿性关节炎</strong>；为<strong>温经散寒、祛风活血、通络止痛类中成药</strong>。",
+      "dosage": "外用。<strong>一次10ml，一日1-2次，涂于患处，热敷20-30分钟</strong>；<strong>疗程15天</strong>。",
+      "contraindications": "对本品成分过敏者禁用；皮肤破损处禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "偶见<strong>皮肤过敏、瘙痒、皮疹</strong>。",
+      "interactions": "与其他外用药物合用需间隔使用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为中药外用制剂，含雪上一枝蒿、干姜、龙血竭、乳香、没药、冰片等；具有温经散寒、祛风活血、通络止痛的作用。",
+      "precautions": "孕妇禁用；皮肤破损处禁用；避免接触眼睛和黏膜；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸氟西汀",
+    "dosage_form": "胶囊",
+    "manual": {
+      "black_box_warning": "<strong>【自杀风险警告】</strong>抗抑郁药可能增加<strong>24岁以下患者自杀意念和行为</strong>的风险。需密切监测患者情绪变化，尤其是治疗初期和剂量调整期。",
+      "indications": "用于<strong>抑郁症、强迫症、神经性贪食症</strong>；为<strong>选择性5-羟色胺再摄取抑制剂（SSRI）</strong>。",
+      "dosage": "口服。<strong>抑郁症：一次20mg，一日1次，早晨服用</strong>；<strong>最大剂量60mg/日</strong>；<strong>强迫症和贪食症剂量可能更高</strong>。",
+      "contraindications": "对本品过敏者禁用；正在使用MAOI或停用MAOI不满14天者禁用；正在使用匹莫齐特或硫利达嗪者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>恶心、头痛、失眠、嗜睡、焦虑、性功能障碍</strong>；可见<strong>体重减轻、出汗、震颤</strong>；罕见<strong>5-羟色胺综合征、低钠血症、出血倾向</strong>。",
+      "interactions": "与MAOI合用可能引起5-羟色胺综合征；与曲马多、曲唑酮等合用可能增加5-羟色胺综合征风险；与华法林合用可能增加出血风险；与CYP2D6抑制剂合用可能增加血药浓度。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为SSRI类抗抑郁药，选择性抑制5-羟色胺再摄取；口服后吸收良好；经肝脏CYP2D6代谢；半衰期约1-3天（活性代谢物去甲氟西汀半衰期4-16天）。",
+      "precautions": "有自杀风险，需密切监测；停药需逐渐减量；孕妇禁用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "阿普唑仑",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "<strong>【成瘾性和呼吸抑制警告】</strong>本品为<strong>苯二氮䓬类药物</strong>，具有<strong>成瘾性</strong>，长期使用可产生<strong>身体依赖和精神依赖</strong>。突然停药可引起<strong>戒断症状</strong>。与阿片类药物合用可导致<strong>深度镇静、呼吸抑制、昏迷和死亡</strong>。",
+      "indications": "用于<strong>焦虑、紧张、激动，也可用于催眠或焦虑伴有抑郁</strong>；为<strong>苯二氮䓬类抗焦虑药</strong>。",
+      "dosage": "口服。<strong>抗焦虑：一次0.4mg，一日3次，可酌情增减</strong>；<strong>催眠：一次0.4-0.8mg，睡前服用</strong>；<strong>最大剂量4mg/日</strong>。",
+      "contraindications": "对本品过敏者禁用；对苯二氮䓬类过敏者禁用；重症肌无力患者禁用；严重呼吸功能不全患者禁用；睡眠呼吸暂停综合征患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>嗜睡、头晕、乏力、共济失调</strong>；可见<strong>记忆力减退、精神错乱、抑郁</strong>；罕见<strong>过敏反应、肝功能异常、依赖性</strong>。",
+      "interactions": "与阿片类药物合用可能增加呼吸抑制和镇静作用；与酒精合用可能增强中枢抑制作用；与CYP3A4抑制剂合用可能增加血药浓度。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为苯二氮䓬类药物，作用于GABA-A受体，增强GABA抑制作用；口服后吸收良好；经肝脏代谢；半衰期约11-15小时。",
+      "precautions": "有成瘾性，不宜长期使用；突然停药可致戒断反应；呼吸抑制风险；孕妇禁用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "氨酚羟考酮",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "<strong>【成瘾性和呼吸抑制警告】</strong>本品含<strong>盐酸羟考酮</strong>，为<strong>阿片类药物</strong>，具有<strong>成瘾性</strong>，长期使用可产生<strong>身体依赖和精神依赖</strong>。过量使用可导致<strong>呼吸抑制甚至死亡</strong>。与酒精合用风险更高。",
+      "indications": "用于<strong>各种原因引起的中、重度急、慢性疼痛</strong>；为<strong>复方镇痛药（对乙酰氨基酚+羟考酮）</strong>。",
+      "dosage": "口服。<strong>一次1-2片，一日3次</strong>；<strong>根据疼痛程度调整剂量</strong>；<strong>最大剂量不超过4g对乙酰氨基酚/日</strong>。",
+      "contraindications": "对本品过敏者禁用；对阿片类药物过敏者禁用；严重呼吸抑制患者禁用；急性或严重支气管哮喘患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>头晕、嗜睡、恶心、呕吐、便秘</strong>；可见<strong>头痛、瘙痒、皮疹</strong>；严重不良反应包括<strong>呼吸抑制、成瘾、肝功能损害</strong>。",
+      "interactions": "与酒精合用可能增加肝毒性和中枢抑制；与其他中枢抑制剂合用可能增强镇静作用；与抗凝药合用可能增加出血风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "含对乙酰氨基酚（解热镇痛）和羟考酮（阿片类镇痛药）；羟考酮作用于中枢阿片受体；口服后吸收良好；经肝脏代谢。",
+      "precautions": "有成瘾性，不宜长期使用；呼吸抑制风险；肝功能损害风险；孕妇禁用；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "甘桔冰梅",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>风热犯肺引起的失音声哑、急性咽炎</strong>；为<strong>清热开音类中成药</strong>。",
+      "dosage": "口服。<strong>一次2片，一日3-4次</strong>；<strong>饭后服用</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>胃肠道不适</strong>；罕见<strong>皮疹、瘙痒</strong>。",
+      "interactions": "与其他清热药合用可能有协同作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为中药复方制剂，含甘草、桔梗、冰片、乌梅等；具有清热开音的作用。",
+      "precautions": "孕妇慎用；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "甘油灌肠剂",
+    "dosage_form": "其他",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>清洁灌肠或便秘</strong>；为<strong>润滑性泻药</strong>。",
+      "dosage": "直肠给药。<strong>一次110ml，注入肛门</strong>；<strong>保留5-10分钟后排便</strong>。",
+      "contraindications": "对本品过敏者禁用；肠道穿孔患者禁用；急腹症患者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>肛门不适、腹痛</strong>。",
+      "interactions": "与其他泻药合用可能增加腹泻风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为甘油制剂，具有润滑和刺激肠壁的作用，促进排便。",
+      "precautions": "不宜长期使用；孕妇慎用；2025版医保甲类，市基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "复方利多卡因",
+    "dosage_form": "乳膏",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>皮层局部麻醉</strong>，如<strong>针穿刺、浅层外科手术</strong>；为<strong>局部麻醉药复方制剂（利多卡因+丙胺卡因）</strong>。",
+      "dosage": "外用。<strong>在皮肤表面涂一层厚乳膏，覆盖密封敷膜</strong>；<strong>成人和1岁以上儿童：针穿刺需敷膜至少1小时，外科手术需敷膜至少2小时</strong>。",
+      "contraindications": "对本品成分过敏者禁用；对酰胺类局部麻醉药过敏者禁用；先天性或特发性高铁血红蛋白血症患者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>局部反应（苍白、红斑、水肿）</strong>；罕见<strong>过敏反应、高铁血红蛋白血症</strong>。",
+      "interactions": "与磺胺类药物合用可能增加高铁血红蛋白血症风险；与其他局部麻醉药合用可能增加毒性。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "含利多卡因和丙胺卡因，为酰胺类局部麻醉药；通过阻断神经冲动传导产生局部麻醉作用；局部使用后部分吸收。",
+      "precautions": "大面积使用需谨慎；高铁血红蛋白血症风险；孕妇慎用；2025版医保自费。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "复方氨基酸",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>不能口服或经肠道补给营养，以及营养不能满足需要的患者</strong>；为<strong>肠外营养药</strong>。",
+      "dosage": "静脉滴注。<strong>成人：一次250-1000ml，一日1次</strong>；<strong>根据病情和体重调整剂量</strong>；<strong>滴注速度不宜过快</strong>。",
+      "contraindications": "对本品过敏者禁用；严重肝肾功能不全患者禁用；氨基酸代谢障碍患者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、发热</strong>；可见<strong>静脉炎、肝功能异常</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与葡萄糖、脂肪乳等合用可组成全肠外营养；与某些药物合用可能产生配伍禁忌。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为18种氨基酸复方制剂，提供氮源和能量；静脉给药后参与蛋白质合成和代谢。",
+      "precautions": "滴注速度不宜过快；肝肾功能不全者需调整剂量；孕妇慎用；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲氟替美维吸入粉雾剂",
+    "dosage_form": "其他",
+    "manual": {
+      "black_box_warning": "<strong>【哮喘相关死亡风险警告】</strong>长效β2受体激动剂（LABA）单药使用可能增加<strong>哮喘相关死亡</strong>风险。本品含LABA，应仅与吸入性糖皮质激素（ICS）联合使用。",
+      "indications": "用于<strong>慢性阻塞性肺疾病（COPD）患者的维持治疗</strong>；用于<strong>成人哮喘患者的维持治疗</strong>；为<strong>三联吸入制剂（ICS/LAMA/LABA）</strong>。",
+      "dosage": "吸入。<strong>一次1吸，一日1次</strong>；<strong>每日同一时间使用</strong>；<strong>使用后漱口</strong>。",
+      "contraindications": "对本品成分过敏者禁用；对牛奶蛋白过敏者禁用；哮喘急性发作或COPD急性加重患者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>鼻咽炎、上呼吸道感染、头痛、口腔念珠菌感染</strong>；可见<strong>咳嗽、发音困难</strong>；罕见<strong>过敏反应、青光眼、白内障</strong>。",
+      "interactions": "与β受体阻滞剂合用可能减弱效果；与酮康唑等CYP3A4抑制剂合用可能增加ICS全身暴露；与利尿剂合用可能增加低钾血症风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "含糠酸氟替卡松（ICS）、乌美溴铵（LAMA）、维兰特罗（LABA）；具有抗炎、支气管扩张作用；吸入后局部作用于肺部。",
+      "precautions": "不适用于急性症状缓解；使用后需漱口；肺结核患者慎用；孕妇慎用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "养血安神",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>阴虚血少引起的头眩心悸、失眠健忘</strong>；为<strong>滋阴养血、宁心安神类中成药</strong>。",
+      "dosage": "口服。<strong>一次5片，一日3次</strong>；<strong>饭后服用</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>胃肠道不适</strong>；罕见<strong>皮疹、瘙痒</strong>。",
+      "interactions": "与镇静催眠药合用可能增强镇静作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为中药复方制剂，含熟地黄、生地黄、鸡血藤、合欢皮、墨旱莲、仙鹤草等；具有滋阴养血、宁心安神的作用。",
+      "precautions": "孕妇慎用；2025版医保甲类，市基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用丙戊酸钠",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【肝毒性、致畸性和胰腺炎警告】</strong>本品可能引起<strong>严重肝毒性</strong>（包括肝衰竭和死亡），<strong>2岁以下儿童风险更高</strong>；孕妇使用可导致<strong>胎儿畸形</strong>；可能引起<strong>危及生命的胰腺炎</strong>。",
+      "indications": "用于<strong>癫痫持续状态、癫痫频繁发作的紧急处理</strong>；用于<strong>不能口服或需要快速达到治疗浓度的情况</strong>；为<strong>广谱抗癫痫药</strong>。",
+      "dosage": "静脉注射或静脉滴注。<strong>癫痫持续状态：一次15-30mg/kg，静脉注射，然后以1mg/kg/h速度静脉滴注</strong>；<strong>根据血药浓度调整剂量</strong>。",
+      "contraindications": "对本品过敏者禁用；活动性肝病或严重肝功能损害患者禁用；尿素循环障碍患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、头晕、嗜睡、震颤</strong>；可见<strong>肝功能异常、血小板减少、体重增加</strong>；严重不良反应包括<strong>肝毒性、胰腺炎、高氨血症脑病</strong>。",
+      "interactions": "与卡马西平合用可能降低丙戊酸钠血药浓度；与拉莫三嗪合用可能增加拉莫三嗪血药浓度；与阿司匹林合用可能增加丙戊酸钠血药浓度；与华法林合用可能增强抗凝效果。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为广谱抗癫痫药，增强GABA活性；静脉给药后快速分布；经肝脏代谢；半衰期约8-20小时。",
+      "precautions": "需监测肝功能、血药浓度、血常规；2岁以下儿童慎用；孕妇禁用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "拉考沙胺",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>4岁及以上癫痫患者部分性发作的辅助治疗</strong>；用于<strong>不能口服或需要快速达到治疗浓度的情况</strong>；为<strong>新型抗癫痫药</strong>。",
+      "dosage": "静脉滴注。<strong>成人：起始剂量一次50mg，一日2次，每周增加100mg/日，维持剂量200-400mg/日</strong>；<strong>静脉滴注时间30-60分钟</strong>。",
+      "contraindications": "对本品过敏者禁用；已知II度或III度房室传导阻滞患者禁用；严重肝功能损害患者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>头晕、头痛、恶心、复视、共济失调</strong>；可见<strong>PR间期延长、视力模糊、乏力</strong>；罕见<strong>过敏反应、房室传导阻滞</strong>。",
+      "interactions": "与其他延长PR间期药物合用可能增加心脏传导阻滞风险；与CYP2C9诱导剂合用可能降低血药浓度。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为新型抗癫痫药，选择性增强钠通道慢失活；静脉给药后分布于全身；经肾脏排泄；半衰期约13小时。",
+      "precautions": "需监测心电图（PR间期）；心功能不全者慎用；孕妇慎用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "氯沙坦钾氢氯噻嗪",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "<strong>【胎儿毒性警告】</strong>孕妇在妊娠<strong>第二和第三个三个月</strong>使用本品可导致<strong>胎儿损伤甚至死亡</strong>。发现妊娠应立即停药。",
+      "indications": "用于<strong>高血压</strong>；用于<strong>单药治疗血压控制不佳的患者</strong>；为<strong>复方降压药（ARB+利尿剂）</strong>。",
+      "dosage": "口服。<strong>一次1片，一日1次</strong>；<strong>根据血压调整剂量</strong>；<strong>最大剂量不超过氯沙坦钾100mg/氢氯噻嗪25mg</strong>。",
+      "contraindications": "对本品过敏者禁用；对磺胺类药物过敏者禁用；无尿患者禁用；严重肝功能损害患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>头晕、乏力、低钾血症、血尿酸升高</strong>；可见<strong>低血压、肾功能异常、血糖升高</strong>；罕见<strong>过敏反应、血管性水肿、急性闭角型青光眼</strong>。",
+      "interactions": "与锂盐合用可能增加锂中毒风险；与NSAIDs合用可能减弱降压效果并增加肾损伤风险；与降糖药合用可能需要调整降糖药剂量。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "含氯沙坦钾（ARB）和氢氯噻嗪（噻嗪类利尿剂）；氯沙坦阻断AT1受体，氢氯噻嗪促进钠水排泄；口服后吸收良好；经肝脏和肾脏代谢排泄。",
+      "precautions": "需监测电解质、肾功能、血糖；孕妇禁用；2025版医保甲类，市基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "他氟前列素",
+    "dosage_form": "滴眼液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>降低开角型青光眼或高眼压症患者的眼压</strong>；为<strong>前列腺素类似物</strong>。",
+      "dosage": "滴眼。<strong>每侧眼睛一次1滴，一日1次，晚间使用</strong>。",
+      "contraindications": "对本品过敏者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>结膜充血、睫毛生长、眼睑色素沉着、眼痒</strong>；可见<strong>角膜上皮点状糜烂、虹膜色素沉着加深</strong>；罕见<strong>黄斑水肿、过敏反应</strong>。",
+      "interactions": "与其他降眼压药合用可能有协同作用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为前列腺素F2α类似物，增加房水流出降低眼压；局部使用后部分吸收。",
+      "precautions": "戴隐形眼镜者需摘镜后使用；可能引起虹膜色素沉着；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸昂丹司琼",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>预防化疗、放疗引起的恶心呕吐</strong>；用于<strong>预防和治疗术后恶心呕吐</strong>；为<strong>5-HT3受体拮抗剂</strong>。",
+      "dosage": "口服。<strong>化疗前：一次8mg，化疗前1-2小时服用，化疗后12小时再服8mg</strong>；<strong>放疗前：一次8mg，放疗前1-2小时服用，每8小时1次</strong>。",
+      "contraindications": "对本品过敏者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>头痛、便秘、腹泻、头晕</strong>；可见<strong>转氨酶升高、皮疹</strong>；罕见<strong>过敏反应、QT间期延长、5-羟色胺综合征</strong>。",
+      "interactions": "与延长QT间期药物合用可能增加心律失常风险；与CYP3A4诱导剂合用可能降低血药浓度。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为5-HT3受体拮抗剂，阻断中枢和外周5-HT3受体；口服后吸收良好；经肝脏代谢；半衰期约3-4小时。",
+      "precautions": "QT间期延长风险；孕妇慎用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用氢化可的松琥珀酸钠",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>肾上腺皮质功能减退症的替代治疗</strong>；用于<strong>严重过敏反应、哮喘持续状态、休克</strong>等；为<strong>糖皮质激素</strong>。",
+      "dosage": "静脉注射或静脉滴注。<strong>根据病情调整剂量</strong>；<strong>严重病例：一次100-500mg，一日1次</strong>；<strong>休克：一次1-2g，一日1次</strong>。",
+      "contraindications": "对本品过敏者禁用；活动性消化性溃疡患者禁用；严重精神病史患者禁用；活动性结核患者禁用（需抗结核治疗）；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>水钠潴留、高血压、血糖升高、骨质疏松、感染易感性增加</strong>；可见<strong>胃肠道溃疡、精神症状、库欣综合征</strong>；罕见<strong>过敏反应、肾上腺皮质功能抑制</strong>。",
+      "interactions": "与利尿剂合用可能增加低钾血症风险；与降糖药合用可能减弱降糖效果；与NSAIDs合用可能增加胃肠道溃疡风险；与华法林合用可能减弱抗凝效果。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为短效糖皮质激素，具有抗炎、抗过敏、抗休克作用；静脉给药后快速起效；经肝脏代谢；半衰期约1.5-2小时。",
+      "precautions": "长期使用需逐渐减量；感染风险；孕妇慎用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用六氟化硫微泡",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>超声心动图检查中左心腔造影</strong>；用于<strong>超声造影增强肝脏、甲状腺等实质脏器的显像</strong>；为<strong>超声造影剂</strong>。",
+      "dosage": "静脉注射。<strong>根据检查部位和目的调整剂量</strong>；<strong>通常一次0.5-2ml</strong>。",
+      "contraindications": "对本品过敏者禁用；对六氟化硫过敏者禁用；急性心肌梗死患者禁用；急性心力衰竭患者禁用；严重肺动脉高压患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>头痛、恶心、味觉异常</strong>；可见<strong>注射部位反应、皮疹</strong>；罕见<strong>过敏反应、过敏性休克</strong>。",
+      "interactions": "与其他药物相互作用资料有限。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为微泡造影剂，增强超声信号；静脉注射后分布于血管腔；经肺部呼出。",
+      "precautions": "需备有抢救设备；过敏史者慎用；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "复方托吡卡胺",
+    "dosage_form": "滴眼液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>散瞳及检查眼底、验光配镜</strong>；为<strong>复方散瞳药（托吡卡胺+去氧肾上腺素）</strong>。",
+      "dosage": "滴眼。<strong>散瞳检查：每侧眼睛一次1-2滴，5分钟后重复1次</strong>；<strong>验光：每侧眼睛一次1-2滴，每5-10分钟1次，共3-5次</strong>。",
+      "contraindications": "对本品成分过敏者禁用；闭角型青光眼患者禁用；前房浅患者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>暂时性视力模糊、畏光、眼部刺激</strong>；可见<strong>眼压升高、全身吸收引起的高血压、心动过速</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与MAOI合用可能增加全身吸收引起的高血压风险；与三环类抗抑郁药合用可能增强抗胆碱作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "含托吡卡胺（抗胆碱药）和去氧肾上腺素（α受体激动剂）；具有散瞳和睫状肌麻痹作用；局部使用后部分吸收。",
+      "precautions": "闭角型青光眼禁用；全身吸收可能引起心血管反应；孕妇慎用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲依折麦布阿托伐他汀钙",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "<strong>【肌病和肝酶异常警告】</strong>本品含<strong>阿托伐他汀</strong>，可能引起<strong>肌病（包括横纹肌溶解）</strong>和<strong>肝酶升高</strong>。需监测肌酸激酶和肝功能，出现不明原因肌痛、肌无力或黄疸应立即停药就医。",
+      "indications": "用于<strong>高胆固醇血症</strong>；用于<strong>纯合子家族性高胆固醇血症</strong>；用于<strong>降低心血管事件风险</strong>；为<strong>复方降脂药（依折麦布+阿托伐他汀）</strong>。",
+      "dosage": "口服。<strong>一次1片，一日1次</strong>；<strong>晚间服用</strong>；<strong>不受进食影响</strong>。",
+      "contraindications": "对本品过敏者禁用；活动性肝病患者禁用；不明原因肝酶持续升高患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>头痛、鼻咽炎、腹泻、关节痛</strong>；可见<strong>肌痛、肌无力、肝功能异常</strong>；罕见<strong>横纹肌溶解、过敏反应、高血糖</strong>。",
+      "interactions": "与CYP3A4强抑制剂（如克拉霉素、HIV蛋白酶抑制剂）合用可能增加肌病风险；与环孢素合用可能增加血药浓度；与贝特类合用可能增加肌病风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "含依折麦布（胆固醇吸收抑制剂）和阿托伐他汀（HMG-CoA还原酶抑制剂）；双重机制降低血胆固醇；口服后吸收良好；经肝脏代谢。",
+      "precautions": "需监测肝功能和肌酸激酶；亚洲人群需用较低剂量；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "碳酸钙D3",
+    "dosage_form": "颗粒",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>妊娠和哺乳期妇女、更年期妇女、老年人等的钙补充剂</strong>；用于<strong>防治骨质疏松症</strong>；为<strong>钙和维生素D复方制剂</strong>。",
+      "dosage": "口服。<strong>一次1袋，一日1-2次</strong>；<strong>溶于适量温开水中服用</strong>。",
+      "contraindications": "对本品过敏者禁用；高钙血症患者禁用；高尿酸血症患者禁用；肾结石患者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>嗳气、便秘、腹胀</strong>；可见<strong>高钙血症、肾结石</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与噻嗪类利尿剂合用可能增加高钙血症风险；与洋地黄合用可能增加心律失常风险；与四环素、喹诺酮类合用可能降低抗生素吸收。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "含钙和维生素D3，补充钙和促进钙吸收；口服后吸收；经肠道排泄。",
+      "precautions": "需监测血钙水平；肾结石患者慎用；孕妇慎用；2025版医保乙类，市基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用青霉素钠",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【过敏反应警告】</strong>本品可能引起<strong>严重过敏反应</strong>，包括<strong>过敏性休克</strong>。使用前必须进行<strong>青霉素皮试</strong>，皮试阳性者禁用。用药过程中需密切观察，备好抢救设备。",
+      "indications": "用于<strong>敏感菌引起的各种感染</strong>，如<strong>肺炎、脑膜炎、心内膜炎、败血症、梅毒</strong>等；为<strong>β-内酰胺类抗生素</strong>。",
+      "dosage": "静脉滴注或肌内注射。<strong>成人：一日200-2000万单位，分2-4次给药</strong>；<strong>儿童：一日5-20万单位/kg，分2-4次给药</strong>；<strong>根据感染严重程度调整</strong>。",
+      "contraindications": "对本品过敏者禁用；对青霉素类过敏者禁用；青霉素皮试阳性者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>过敏反应（皮疹、药物热）</strong>；可见<strong>胃肠道反应、白细胞减少</strong>；严重不良反应包括<strong>过敏性休克、间质性肾炎、神经毒性（大剂量时）</strong>。",
+      "interactions": "与丙磺舒合用可能增加血药浓度；与氨基糖苷类合用有协同作用但需分开给药；与抗凝药合用可能增加出血风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为天然青霉素，抑制细菌细胞壁合成；注射后分布于全身；经肾脏排泄；半衰期约0.5小时。",
+      "precautions": "必须皮试；过敏性休克风险；肾功能不全者需调整剂量；孕妇慎用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "可乐定控释贴",
+    "dosage_form": "其他",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>高血压</strong>；为<strong>中枢性降压药</strong>。",
+      "dosage": "外用。<strong>一次1贴，贴于上臂或胸部无毛皮肤，每周更换1次</strong>；<strong>根据血压调整剂量</strong>。",
+      "contraindications": "对本品过敏者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>口干、嗜睡、头晕、便秘、皮肤反应（贴药部位）</strong>；可见<strong>低血压、心动过缓、乏力</strong>；突然停药可引起<strong>反跳性高血压</strong>。",
+      "interactions": "与β受体阻滞剂合用可能增强降压效果和心动过缓；与三环类抗抑郁药合用可能减弱降压效果；与酒精合用可能增强中枢抑制作用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为中枢α2受体激动剂，降低交感神经活性；经皮肤缓慢吸收；经肝脏代谢；半衰期约12-16小时。",
+      "precautions": "突然停药可致反跳性高血压；需逐渐减量；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "阿加曲班",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "<strong>【出血风险警告】</strong>本品为<strong>抗凝药</strong>，可能增加<strong>出血</strong>风险，包括<strong>严重甚至危及生命的出血</strong>。需监测凝血功能，活动性出血患者禁用。",
+      "indications": "用于<strong>缺血性脑梗死急性期（发病48小时内）</strong>；用于<strong>慢性动脉闭塞症</strong>；用于<strong>肝素诱导的血小板减少症（HIT）的抗凝治疗</strong>；为<strong>直接凝血酶抑制剂</strong>。",
+      "dosage": "静脉滴注。<strong>缺血性脑梗死：开始2日一日60mg，以后一日20mg，分2次给药</strong>；<strong>根据APTT调整剂量</strong>。",
+      "contraindications": "对本品过敏者禁用；活动性出血患者禁用；脑出血患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>出血（颅内、消化道、泌尿道等）</strong>；可见<strong>肝功能异常、恶心、头痛</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与抗血小板药合用可能增加出血风险；与溶栓药合用可能增加出血风险；与肝素合用可能增加出血风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为直接凝血酶抑制剂，抑制纤维蛋白原转化为纤维蛋白；静脉给药后分布于全身；经肝脏代谢；半衰期约40-50分钟。",
+      "precautions": "需监测APTT和凝血功能；出血风险；肝功能不全者需减量；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "养正",
+    "dosage_form": "合剂",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>肿瘤患者化疗后引起的气阴两虚证</strong>，症见<strong>神疲乏力、气短懒言、口干咽燥、自汗盗汗</strong>；为<strong>益气养阴类中成药</strong>。",
+      "dosage": "口服。<strong>一次20ml，一日3次</strong>；<strong>饭前服用</strong>；<strong>疗程根据病情而定</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>胃肠道不适</strong>；罕见<strong>皮疹、瘙痒</strong>。",
+      "interactions": "与化疗药物合用可减轻化疗不良反应。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为中药复方制剂，含黄芪、女贞子、枸杞子等；具有益气养阴的作用。",
+      "precautions": "孕妇慎用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "丙酸氯倍他索",
+    "dosage_form": "乳膏",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>慢性湿疹、银屑病、扁平苔藓、盘状红斑狼疮、神经性皮炎</strong>等；为<strong>强效糖皮质激素外用制剂</strong>。",
+      "dosage": "外用。<strong>薄涂于患处，一日2-3次</strong>；<strong>疗程不超过2周</strong>。",
+      "contraindications": "对本品过敏者禁用；病毒感染（疱疹、水痘）禁用；皮肤结核禁用；梅毒禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>皮肤萎缩、毛细血管扩张、色素沉着、继发感染</strong>；可见<strong>局部刺激、瘙痒</strong>；长期使用可引起<strong>全身吸收导致的库欣综合征</strong>。",
+      "interactions": "与其他外用药物合用需间隔使用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为强效糖皮质激素，具有抗炎、抗过敏、止痒作用；局部使用后部分吸收。",
+      "precautions": "不宜大面积长期使用；面部、皮肤皱褶处慎用；孕妇慎用；2025版医保甲类，市基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "卡泊三醇倍他米松",
+    "dosage_form": "软膏",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>寻常型银屑病</strong>；为<strong>复方外用制剂（维生素D类似物+糖皮质激素）</strong>。",
+      "dosage": "外用。<strong>薄涂于患处，一日1次</strong>；<strong>最大用量不超过体表面积的30%</strong>；<strong>疗程不超过4周</strong>。",
+      "contraindications": "对本品成分过敏者禁用；钙代谢紊乱患者禁用；病毒感染禁用；皮肤结核禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>局部刺激、烧灼感、瘙痒、皮肤萎缩</strong>；可见<strong>毛细血管扩张、色素沉着</strong>；罕见<strong>高钙血症（大面积使用时）</strong>。",
+      "interactions": "与其他外用药物合用需间隔使用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "含卡泊三醇（维生素D类似物）和倍他米松（糖皮质激素）；具有抑制角质形成细胞增殖和抗炎作用；局部使用后部分吸收。",
+      "precautions": "不宜大面积长期使用；避免接触面部和眼睛；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "金蝉止痒",
+    "dosage_form": "胶囊",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>湿热内蕴引起的丘疹性荨麻疹、夏季皮炎</strong>；为<strong>清热解毒、燥湿止痒类中成药</strong>。",
+      "dosage": "口服。<strong>一次6粒，一日3次</strong>；<strong>饭后服用</strong>；<strong>疗程7天</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "偶见<strong>胃肠道不适、皮疹</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与其他清热药合用可能有协同作用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为中药复方制剂，含金银花、蝉蜕、黄芩、黄柏、苦参等；具有清热解毒、燥湿止痒的作用。",
+      "precautions": "孕妇禁用；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "肌醇烟酸酯",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>高脂血症、动脉粥样硬化、各种末梢血管障碍性疾病</strong>；为<strong>周围血管扩张药</strong>。",
+      "dosage": "口服。<strong>一次0.2-0.4g，一日3次</strong>；<strong>饭后服用</strong>；<strong>疗程根据病情而定</strong>。",
+      "contraindications": "对本品过敏者禁用；活动性消化性溃疡患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>轻度恶心、发汗、瘙痒</strong>；可见<strong>潮红、头痛</strong>；罕见<strong>肝功能异常</strong>。",
+      "interactions": "与降压药合用可能增强降压效果；与神经节阻滞药合用可能增强降压效果。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为烟酸衍生物，在体内水解为烟酸和肌醇，具有扩张周围血管和降脂作用；口服后吸收良好；经肝脏代谢。",
+      "precautions": "消化道溃疡患者慎用；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "联苯双酯",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>慢性迁延性肝炎伴ALT升高者</strong>；用于<strong>化学毒物、药物引起的ALT升高</strong>；为<strong>保肝降酶药</strong>。",
+      "dosage": "口服。<strong>一次25-50mg，一日3次</strong>；<strong>疗程根据病情而定</strong>。",
+      "contraindications": "对本品过敏者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>轻度恶心、口干、胃部不适</strong>；罕见<strong>皮疹</strong>。",
+      "interactions": "与其他保肝药合用可能有协同作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为保肝降酶药，降低血清ALT；口服后吸收良好；经肝脏代谢。",
+      "precautions": "停药后可能出现反跳；需逐渐减量；孕妇慎用；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲海曲泊帕乙醇胺",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "<strong>【肝毒性和血栓风险警告】</strong>本品可能引起<strong>肝功能异常</strong>和<strong>血栓形成</strong>。需监测肝功能和血小板计数，血小板过高时血栓风险增加。",
+      "indications": "用于<strong>既往对糖皮质激素、免疫球蛋白等治疗反应不佳的慢性原发免疫性血小板减少症（ITP）成人患者</strong>；用于<strong>重型再生障碍性贫血（SAA）成人患者</strong>；为<strong>血小板生成素受体激动剂（TPO-RA）</strong>。",
+      "dosage": "口服。<strong>一次2.5mg，一日1次</strong>；<strong>根据血小板计数调整剂量</strong>；<strong>最大剂量一日7.5mg</strong>。",
+      "contraindications": "对本品过敏者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>头痛、头晕、恶心、乏力</strong>；可见<strong>肝功能异常、血栓形成、骨髓纤维化</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与CYP酶代谢药物可能存在相互作用；与抗凝药合用可能增加出血或血栓风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为口服血小板生成素受体激动剂，刺激巨核细胞增殖分化和血小板生成；口服后吸收良好；经肝脏代谢。",
+      "precautions": "需监测血小板计数和肝功能；血栓风险；停药后血小板可能下降；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "美沙拉嗪",
+    "dosage_form": "肠溶片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>溃疡性结肠炎</strong>；用于<strong>克罗恩病</strong>；为<strong>5-氨基水杨酸（5-ASA）制剂</strong>。",
+      "dosage": "口服。<strong>溃疡性结肠炎：一次1g，一日4次</strong>；<strong>维持治疗：一次0.5g，一日3次</strong>；<strong>整片吞服，不可嚼碎</strong>。",
+      "contraindications": "对本品过敏者禁用；对水杨酸类过敏者禁用；严重肝功能损害患者禁用；严重肾功能损害患者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>胃肠道反应（恶心、呕吐、腹泻、腹痛）</strong>；可见<strong>头痛、皮疹、关节痛</strong>；罕见<strong>过敏反应、胰腺炎、心包炎、粒细胞缺乏</strong>。",
+      "interactions": "与硫唑嘌呤或巯嘌呤合用可能增加骨髓抑制风险；与华法林合用可能减弱抗凝效果。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为5-氨基水杨酸制剂，在肠道释放，局部作用于肠黏膜，具有抗炎作用；口服后部分吸收；经肾脏排泄。",
+      "precautions": "需监测肾功能和血常规；肠溶片不可嚼碎；孕妇慎用；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲吡非尼酮",
+    "dosage_form": "胶囊",
+    "manual": {
+      "black_box_warning": "<strong>【光敏反应和肝毒性警告】</strong>本品可能引起<strong>严重光敏反应</strong>和<strong>肝功能异常</strong>。用药期间需避免日晒，定期监测肝功能。",
+      "indications": "用于<strong>轻、中度特发性肺间质纤维化</strong>；为<strong>抗纤维化药</strong>。",
+      "dosage": "口服。<strong>初始剂量：一次200mg，一日3次，餐后服用</strong>；<strong>2周后增至一次400mg，一日3次</strong>；<strong>最大剂量一日1800mg</strong>。",
+      "contraindications": "对本品过敏者禁用；严重肝功能损害患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>恶心、皮疹、光敏反应、食欲下降、胃部不适</strong>；可见<strong>肝功能异常、头晕、乏力</strong>；罕见<strong>严重过敏反应</strong>。",
+      "interactions": "与CYP1A2强抑制剂（如环丙沙星、氟伏沙明）合用可能增加血药浓度；与CYP1A2诱导剂合用可能降低血药浓度。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为抗纤维化药，抑制成纤维细胞增殖和胶原合成；口服后吸收良好；经肝脏CYP1A2代谢；半衰期约2.4小时。",
+      "precautions": "需避免日晒，使用防晒措施；需监测肝功能；吸烟者血药浓度降低；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲整蛋白型肠内营养剂",
+    "dosage_form": "其他",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>有胃肠道功能或部分胃肠道功能，而不能或不愿进食足够数量的常规食物以满足机体营养需求的肠内营养治疗患者</strong>；为<strong>肠内营养制剂</strong>。",
+      "dosage": "口服或管饲。<strong>根据患者营养需求和耐受性调整剂量</strong>；<strong>通常一次200-400ml，一日3-6次</strong>。",
+      "contraindications": "对本品成分过敏者禁用；肠梗阻患者禁用；严重腹腔内感染患者禁用；严重消化吸收障碍患者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>胃肠道反应（恶心、呕吐、腹泻、腹胀）</strong>；可见<strong>血糖升高、电解质紊乱</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与某些药物可能存在相互作用，需间隔使用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为整蛋白型肠内营养制剂，含蛋白质、脂肪、碳水化合物、维生素和矿物质；提供全面营养支持。",
+      "precautions": "需监测营养状态和耐受性；糖尿病患者需监测血糖；孕妇慎用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲注射用右兰索拉唑",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>口服疗法不适用的伴有出血的胃、十二指肠溃疡</strong>；为<strong>质子泵抑制剂（PPI）</strong>。",
+      "dosage": "静脉滴注。<strong>一次30mg，一日2次</strong>；<strong>溶于氯化钠注射液100ml中，滴注时间30分钟</strong>；<strong>疗程不超过7天</strong>。",
+      "contraindications": "对本品过敏者禁用；对苯并咪唑类过敏者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>头痛、腹泻、恶心、注射部位反应</strong>；可见<strong>皮疹、肝功能异常、白细胞减少</strong>；罕见<strong>过敏反应、间质性肾炎、骨折风险</strong>。",
+      "interactions": "与氯吡格雷合用可能减弱抗血小板效果；与阿扎那韦合用可能降低抗病毒效果；与地高辛合用可能增加地高辛血药浓度。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为质子泵抑制剂，抑制胃壁细胞H+/K+-ATP酶；静脉给药后分布于胃壁细胞；经肝脏代谢；半衰期约1-2小时。",
+      "precautions": "长期使用需监测骨密度和镁水平；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "烟酸",
+    "dosage_form": "缓释片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>高胆固醇血症、高甘油三酯血症</strong>；为<strong>B族维生素（大剂量时具有降脂作用）</strong>。",
+      "dosage": "口服。<strong>起始剂量：一次500mg，睡前服用</strong>；<strong>每4周增加500mg，最大剂量2000mg/日</strong>；<strong>整片吞服，不可嚼碎或掰开</strong>。",
+      "contraindications": "对本品过敏者禁用；活动性消化性溃疡患者禁用；严重肝功能损害患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>潮红、瘙痒、胃肠道不适、头痛</strong>；可见<strong>肝功能异常、高血糖、高尿酸血症</strong>；罕见<strong>肌病、过敏反应</strong>。",
+      "interactions": "与他汀类合用可能增加肌病风险；与降压药合用可能增强降压效果；与降糖药合用可能需要调整降糖药剂量。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为B族维生素，大剂量时抑制脂肪组织脂解，降低甘油三酯和LDL-C，升高HDL-C；口服后吸收良好；经肝脏代谢。",
+      "precautions": "需监测肝功能、血糖、尿酸；糖尿病患者慎用；孕妇禁用；2025版医保甲类，市基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲瑞戈非尼",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "<strong>【肝毒性警告】</strong>本品可能引起<strong>严重甚至致命的肝毒性</strong>。需在治疗前和治疗期间监测肝功能，肝功能异常患者需调整剂量或停药。",
+      "indications": "用于<strong>既往接受过治疗的转移性结直肠癌患者</strong>；用于<strong>既往接受过治疗的胃肠道间质瘤患者</strong>；用于<strong>既往接受过治疗的肝细胞癌患者</strong>；为<strong>多靶点酪氨酸激酶抑制剂</strong>。",
+      "dosage": "口服。<strong>一次160mg，一日1次，餐后服用</strong>；<strong>每28天为一个周期，前21天服药，后7天停药</strong>。",
+      "contraindications": "对本品过敏者禁用；孕妇禁用；哺乳期妇女禁用；活动性出血患者禁用；严重肝功能损害患者禁用。",
+      "adverse_reactions": "常见<strong>乏力、食欲下降、手足皮肤反应、腹泻、高血压、发声困难</strong>；可见<strong>肝功能异常、出血、感染</strong>；严重不良反应包括<strong>肝毒性、出血、胃肠道穿孔</strong>。",
+      "interactions": "与CYP3A4强诱导剂合用可能降低血药浓度；与CYP3A4强抑制剂合用可能增加血药浓度；与华法林合用可能增加出血风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为多靶点酪氨酸激酶抑制剂，抑制VEGFR、TIE2、KIT、RET、RAF等多种激酶；口服后吸收良好；经肝脏代谢；半衰期约14-47小时。",
+      "precautions": "需监测肝功能；出血风险；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "石杉碱甲",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>良性记忆障碍</strong>；用于<strong>阿尔茨海默病</strong>；为<strong>胆碱酯酶抑制剂</strong>。",
+      "dosage": "口服。<strong>一次0.1-0.2mg，一日2次</strong>；<strong>一日最大剂量0.45mg</strong>；<strong>疗程根据病情而定</strong>。",
+      "contraindications": "对本品过敏者禁用；癫痫患者禁用；机械性肠梗阻患者禁用；心绞痛患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、头晕、出汗、视力模糊</strong>；可见<strong>心动过缓、乏力</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与其他胆碱酯酶抑制剂合用可能增加胆碱能副作用；与抗胆碱药合用可能减弱效果。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为可逆性胆碱酯酶抑制剂，增加乙酰胆碱水平；口服后吸收良好；经肝脏代谢；半衰期约4小时。",
+      "precautions": "心动过缓患者慎用；哮喘患者慎用；孕妇禁用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "葡萄糖粉剂",
+    "dosage_form": "其他",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>补充热能和体液</strong>；用于<strong>低血糖症</strong>；为<strong>营养药</strong>。",
+      "dosage": "口服。<strong>一次10-50g，一日3次</strong>；<strong>溶于适量温开水中服用</strong>。",
+      "contraindications": "对本品过敏者禁用；糖尿病患者禁用（低血糖除外）；高血糖患者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>胃肠道不适</strong>；过量可引起<strong>高血糖</strong>。",
+      "interactions": "与口服降糖药合用可能需要调整降糖药剂量。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为单糖，提供能量；口服后快速吸收；经代谢产生能量。",
+      "precautions": "糖尿病患者慎用；需监测血糖；孕妇慎用；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "美阿沙坦钾",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "<strong>【胎儿毒性警告】</strong>孕妇在妊娠<strong>第二和第三个三个月</strong>使用本品可导致<strong>胎儿损伤甚至死亡</strong>。发现妊娠应立即停药。",
+      "indications": "用于<strong>高血压</strong>；为<strong>血管紧张素II受体拮抗剂（ARB）</strong>。",
+      "dosage": "口服。<strong>一次40-80mg，一日1次</strong>；<strong>根据血压调整剂量</strong>。",
+      "contraindications": "对本品过敏者禁用；孕妇禁用；哺乳期妇女禁用；双侧肾动脉狭窄患者禁用；严重肝功能损害患者禁用。",
+      "adverse_reactions": "常见<strong>头晕、乏力、低血压</strong>；可见<strong>血钾升高、肾功能异常、腹泻</strong>；罕见<strong>血管性水肿、过敏反应</strong>。",
+      "interactions": "与保钾利尿剂或补钾药合用可能增加高钾血症风险；与锂盐合用可能增加锂中毒风险；与NSAIDs合用可能减弱降压效果并增加肾损伤风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为ARB类降压药，选择性阻断AT1受体；口服后吸收良好；经肝脏代谢；半衰期约11-17小时。",
+      "precautions": "需监测血钾和肾功能；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "五酯",
+    "dosage_form": "胶囊",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>慢性、迁延性肝炎谷丙转氨酶升高者</strong>；为<strong>保肝降酶药</strong>。",
+      "dosage": "口服。<strong>一次2粒，一日3次</strong>；<strong>饭后服用</strong>；<strong>疗程根据病情而定</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>胃肠道不适</strong>；罕见<strong>皮疹、瘙痒</strong>。",
+      "interactions": "与其他保肝药合用可能有协同作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为中药五味子提取物，含五味子甲素等；具有降低血清转氨酶的作用。",
+      "precautions": "孕妇慎用；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "单硝酸异山梨酯缓释",
+    "dosage_form": "胶囊",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>冠心病的长期治疗、预防血管痉挛型和混合型心绞痛</strong>；用于<strong>心肌梗死后的治疗</strong>；为<strong>硝酸酯类抗心绞痛药</strong>。",
+      "dosage": "口服。<strong>一次40-50mg，一日1-2次</strong>；<strong>整粒吞服，不可嚼碎</strong>；<strong>早晨服用</strong>。",
+      "contraindications": "对本品过敏者禁用；对硝酸酯类过敏者禁用；急性循环衰竭患者禁用；严重低血压患者禁用；肥厚梗阻型心肌病患者禁用；严重贫血患者禁用；颅内压增高患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>头痛、头晕、低血压、面部潮红</strong>；可见<strong>心悸、恶心、乏力</strong>；罕见<strong>过敏反应、晕厥</strong>。",
+      "interactions": "与西地那非等PDE5抑制剂合用可能引起严重低血压；与降压药合用可能增强降压效果；与酒精合用可能增强血管扩张作用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为硝酸酯类抗心绞痛药，释放一氧化氮，扩张血管；口服后吸收良好；经肝脏代谢；半衰期约4-5小时。",
+      "precautions": "需逐渐减量停药，防止反跳；头痛常见，通常可耐受；孕妇禁用；2025版医保甲类，市基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "稳心",
+    "dosage_form": "颗粒",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>气阴两虚、心脉瘀阻所致的心悸不宁、气短乏力、胸闷胸痛</strong>；用于<strong>室性早搏、房性早搏</strong>；为<strong>益气养阴、活血化瘀类中成药</strong>。",
+      "dosage": "口服。<strong>一次1袋，一日3次</strong>；<strong>开水冲服</strong>；<strong>疗程4周</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>轻度头晕、恶心</strong>；罕见<strong>皮疹、瘙痒</strong>。",
+      "interactions": "与抗心律失常药合用可能有协同作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为中药复方制剂，含党参、黄精、三七、琥珀、甘松等；具有益气养阴、活血化瘀的作用。",
+      "precautions": "孕妇慎用；2025版医保甲类，国基、上增。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "复方甘草",
+    "dosage_form": "口服溶液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>上呼吸道感染、支气管炎和感冒时所产生的咳嗽及咳痰不爽</strong>；为<strong>镇咳祛痰药</strong>。",
+      "dosage": "口服。<strong>一次5-10ml，一日3次</strong>；<strong>服时振摇</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐</strong>；可见<strong>水钠潴留、低钾血症（长期大量使用）</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与强心苷合用可能增加强心苷毒性（低钾血症）；与利尿剂合用可能增加低钾血症风险；与降压药合用可能减弱降压效果。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为复方制剂，含甘草流浸膏、复方樟脑酊等；具有镇咳祛痰的作用。",
+      "precautions": "不宜长期大量使用；高血压患者慎用；孕妇慎用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※※醒脑静",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>气血逆乱、脑脉瘀阻所致的中风昏迷、偏瘫口歪</strong>；用于<strong>外伤头痛、神志昏迷</strong>；为<strong>清热解毒、凉血活血、开窍醒脑类中成药</strong>。",
+      "dosage": "静脉滴注。<strong>一次10-20ml，一日1次，溶于5%葡萄糖注射液或氯化钠注射液250-500ml中</strong>；<strong>疗程根据病情而定</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "偶见<strong>过敏反应、皮疹、瘙痒</strong>；罕见<strong>过敏性休克</strong>。",
+      "interactions": "与其他注射剂合用需谨慎。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为中药复方制剂，含麝香、栀子、郁金、冰片等；具有清热解毒、凉血活血、开窍醒脑的作用。",
+      "precautions": "孕妇禁用；首次用药宜慢，密切观察；2025版医保自费。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "滑膜炎",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>急、慢性滑膜炎及膝关节术后</strong>；为<strong>清热利湿、活血通络类中成药</strong>。",
+      "dosage": "口服。<strong>一次3片，一日3次</strong>；<strong>饭后服用</strong>；<strong>疗程根据病情而定</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "偶见<strong>胃肠道不适</strong>；罕见<strong>皮疹、瘙痒</strong>。",
+      "interactions": "与其他治疗关节药物合用可能有协同作用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为中药复方制剂，含夏枯草、防己、豨莶草、薏苡仁等；具有清热利湿、活血通络的作用。",
+      "precautions": "孕妇禁用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "芪黄通秘软",
+    "dosage_form": "胶囊",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>功能性便秘属虚证者</strong>；为<strong>益气养血、润肠通便类中成药</strong>。",
+      "dosage": "口服。<strong>一次3粒，一日2次</strong>；<strong>饭后服用</strong>；<strong>疗程2周</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>胃肠道不适、腹泻</strong>；罕见<strong>皮疹、瘙痒</strong>。",
+      "interactions": "与其他泻药合用可能增加腹泻风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为中药复方制剂，含黄芪、当归、何首乌、火麻仁等；具有益气养血、润肠通便的作用。",
+      "precautions": "孕妇慎用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "耳聋左慈",
+    "dosage_form": "丸",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>肝肾阴虚引起的耳鸣耳聋、头晕目眩</strong>；为<strong>滋肾平肝类中成药</strong>。",
+      "dosage": "口服。<strong>一次8丸，一日3次</strong>；<strong>饭后服用</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>胃肠道不适</strong>；罕见<strong>皮疹、瘙痒</strong>。",
+      "interactions": "与其他滋补药合用可能有协同作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为中药复方制剂，含磁石、熟地黄、山茱萸、牡丹皮等；具有滋肾平肝的作用。",
+      "precautions": "孕妇慎用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "罗库溴铵",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>全身麻醉时的气管插管和手术中肌肉松弛</strong>；为<strong>非去极化型肌松药（氨基甾体类）</strong>。",
+      "dosage": "静脉注射。<strong>气管插管：一次0.6mg/kg</strong>；<strong>维持：一次0.15mg/kg，或静脉滴注0.3-0.6mg/kg/h</strong>。",
+      "contraindications": "对本品过敏者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>短暂性低血压、心动过速</strong>；可见<strong>过敏反应、支气管痉挛</strong>；罕见<strong>过敏性休克、恶性高热</strong>。",
+      "interactions": "与氨基糖苷类抗生素合用可能增强肌松作用；与吸入麻醉药合用可能增强肌松作用；与镁盐合用可能增强肌松作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为非去极化型肌松药，竞争性阻断乙酰胆碱受体；静脉给药后快速起效；经肝脏代谢；半衰期约1-2小时。",
+      "precautions": "需在有复苏设备的条件下使用；重症肌无力患者慎用；孕妇慎用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸伊伐布雷定",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>窦性心律且心率≥75次/分钟的慢性心力衰竭患者</strong>；用于<strong>慢性稳定型心绞痛</strong>；为<strong> funny通道抑制剂（If通道抑制剂）</strong>。",
+      "dosage": "口服。<strong>起始剂量：一次5mg，一日2次</strong>；<strong>根据心率调整，最大剂量一次7.5mg，一日2次</strong>；<strong>早晚餐时服用</strong>。",
+      "contraindications": "对本品过敏者禁用；急性心力衰竭患者禁用；心源性休克患者禁用；病态窦房结综合征患者禁用；窦房传导阻滞患者禁用；严重肝功能损害患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>光幻视（闪光现象）、心动过缓</strong>；可见<strong>头痛、头晕、视力模糊</strong>；罕见<strong>房颤、室性早搏、过敏反应</strong>。",
+      "interactions": "与CYP3A4强抑制剂（如酮康唑、克拉霉素）合用可能增加血药浓度；与CYP3A4诱导剂合用可能降低血药浓度；与延长QT间期药物合用可能增加心律失常风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为If通道抑制剂，减慢窦房结自律性，降低心率；口服后吸收良好；经肝脏CYP3A4代谢；半衰期约6小时。",
+      "precautions": "需监测心率；心率<50次/分钟或出现传导阻滞需减量或停药；光幻视通常可耐受；孕妇禁用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "皮肤康洗液",
+    "dosage_form": "其他",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>湿疹、皮炎、皮肤瘙痒症</strong>；为<strong>清热解毒、凉血除湿、杀虫止痒类中成药</strong>。",
+      "dosage": "外用。<strong>稀释后清洗患处，一日2-3次</strong>；或<strong>湿敷</strong>。",
+      "contraindications": "对本品成分过敏者禁用；皮肤破损处禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>局部刺激、过敏反应</strong>。",
+      "interactions": "与其他外用药物合用需间隔使用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为中药外用制剂，含金银花、蒲公英、马齿苋、土茯苓等；具有清热解毒、凉血除湿、杀虫止痒的作用。",
+      "precautions": "孕妇慎用；皮肤破损处禁用；2025版医保甲类，市基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "地诺孕素",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "<strong>【血栓栓塞风险警告】</strong>本品可能增加<strong>静脉血栓栓塞</strong>风险。有血栓病史或风险因素者慎用，需权衡获益与风险。",
+      "indications": "用于<strong>子宫内膜异位症</strong>；为<strong>孕激素</strong>。",
+      "dosage": "口服。<strong>一次2mg，一日1次</strong>；<strong>整片吞服，不可咀嚼</strong>；<strong>不间断服用，不受月经周期影响</strong>。",
+      "contraindications": "对本品过敏者禁用；活动性血栓栓塞性疾病患者禁用；严重肝功能损害患者禁用；未确诊的阴道出血患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>不规则出血、头痛、乳房不适、情绪波动、痤疮</strong>；可见<strong>体重增加、恶心、抑郁</strong>；罕见<strong>血栓栓塞、肝功能异常</strong>。",
+      "interactions": "与CYP3A4诱导剂合用可能降低血药浓度；与CYP3A4抑制剂合用可能增加血药浓度。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为19-去甲睾酮衍生物，具有抗雌激素和抗促性腺激素作用；口服后吸收良好；经肝脏代谢；半衰期约10小时。",
+      "precautions": "血栓风险；需定期体检；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲度拉糖肽",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "<strong>【甲状腺C细胞肿瘤风险警告】</strong>本品可能增加<strong>甲状腺髓样癌（MTC）</strong>风险。有MTC既往史或家族史患者以及2型多发性内分泌肿瘤综合征（MEN2）患者禁用。",
+      "indications": "用于<strong>成人2型糖尿病的血糖控制</strong>；用于<strong>降低伴有心血管疾病的2型糖尿病患者的主要心血管不良事件风险</strong>；为<strong>GLP-1受体激动剂</strong>。",
+      "dosage": "皮下注射。<strong>起始剂量：一次0.75mg，一周1次</strong>；<strong>最大剂量：一次1.5mg，一周1次</strong>；<strong>固定时间注射，与进食无关</strong>。",
+      "contraindications": "对本品过敏者禁用；有甲状腺髓样癌（MTC）既往史或家族史者禁用；2型多发性内分泌肿瘤综合征（MEN2）患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、腹泻、便秘</strong>；可见<strong>低血糖（与磺脲类或胰岛素合用时）、头痛、头晕</strong>；罕见<strong>急性胰腺炎、甲状腺髓样癌</strong>。",
+      "interactions": "与磺脲类或胰岛素合用可能增加低血糖风险；与口服药合用可能延迟胃排空影响吸收。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为GLP-1受体激动剂，促进胰岛素分泌、抑制胰高血糖素分泌、延缓胃排空；皮下注射后吸收缓慢；半衰期约5天。",
+      "precautions": "有胰腺炎病史者慎用；需监测甲状腺髓样癌症状；不能替代胰岛素用于1型糖尿病；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "胰酶",
+    "dosage_form": "肠溶片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>消化不良、胰腺疾病引起的消化障碍</strong>；为<strong>助消化药</strong>。",
+      "dosage": "口服。<strong>一次0.3-1g，一日3次，餐前服用</strong>；<strong>整片吞服，不可嚼碎</strong>。",
+      "contraindications": "对本品过敏者禁用；急性胰腺炎早期禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>口腔不适、恶心、腹泻、便秘</strong>；罕见<strong>过敏反应、高尿酸血症</strong>。",
+      "interactions": "与抑酸药合用可能降低效果；与铁剂合用可能影响铁吸收。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为猪胰提取物，含胰蛋白酶、胰淀粉酶、胰脂肪酶；在肠道释放，帮助消化。",
+      "precautions": "肠溶衣不可嚼碎；高尿酸血症患者慎用；孕妇慎用；2025版医保甲类，市基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "司莫司汀",
+    "dosage_form": "胶囊",
+    "manual": {
+      "black_box_warning": "<strong>【骨髓抑制和致癌性警告】</strong>本品为<strong>烷化剂类抗肿瘤药</strong>，可引起<strong>迟发性骨髓抑制</strong>（用药后4-6周出现），并有<strong>致癌性</strong>。需密切监测血常规。",
+      "indications": "用于<strong>脑原发肿瘤及转移瘤</strong>；用于<strong>恶性淋巴瘤、胃癌、大肠癌、黑色素瘤</strong>；为<strong>亚硝基脲类烷化剂</strong>。",
+      "dosage": "口服。<strong>一次100-200mg/m²，每6-8周1次</strong>；<strong>睡前空腹服用</strong>；<strong>根据血象调整剂量</strong>。",
+      "contraindications": "对本品过敏者禁用；孕妇禁用；哺乳期妇女禁用；严重骨髓抑制患者禁用；严重肝肾功能损害患者禁用。",
+      "adverse_reactions": "常见<strong>迟发性骨髓抑制（白细胞和血小板减少，用药后4-6周出现）</strong>；可见<strong>恶心、呕吐、食欲下降、肝功能异常</strong>；罕见<strong>肺纤维化、继发恶性肿瘤</strong>。",
+      "interactions": "与其他骨髓抑制药合用可能增加骨髓抑制；与活疫苗合用可能增加感染风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为亚硝基脲类烷化剂，具有细胞毒作用；口服后吸收良好；脂溶性好，可透过血脑屏障；经肝脏代谢；半衰期约5小时。",
+      "precautions": "迟发性骨髓抑制，需定期监测血常规；致癌性；孕妇禁用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲布地格福吸入",
+    "dosage_form": "气雾剂",
+    "manual": {
+      "black_box_warning": "<strong>【哮喘相关死亡风险警告】</strong>长效β2受体激动剂（LABA）单药使用可能增加<strong>哮喘相关死亡</strong>风险。本品含LABA，应仅与吸入性糖皮质激素（ICS）联合使用。",
+      "indications": "用于<strong>哮喘的维持治疗</strong>；用于<strong>慢性阻塞性肺疾病（COPD）的维持治疗</strong>；为<strong>三联吸入制剂（ICS/LAMA/LABA）</strong>。",
+      "dosage": "吸入。<strong>一次2吸，一日2次</strong>；<strong>使用后漱口</strong>。",
+      "contraindications": "对本品成分过敏者禁用；对牛奶蛋白过敏者禁用；哮喘急性发作或COPD急性加重患者禁用；孕妇慎用；哺乳期妇女慎用。",
+      "adverse_reactions": "常见<strong>口腔念珠菌感染、声音嘶哑、头痛、上呼吸道感染</strong>；可见<strong>心悸、震颤、咳嗽</strong>；罕见<strong>过敏反应、青光眼、白内障</strong>。",
+      "interactions": "与β受体阻滞剂合用可能减弱效果；与酮康唑等CYP3A4抑制剂合用可能增加ICS全身暴露；与利尿剂合用可能增加低钾血症风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "含布地奈德（ICS）、格隆溴铵（LAMA）、富马酸福莫特罗（LABA）；具有抗炎、支气管扩张作用；吸入后局部作用于肺部。",
+      "precautions": "不适用于急性症状缓解；使用后需漱口；肺结核患者慎用；孕妇慎用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲司库奇尤单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "<strong>【严重感染警告】</strong>本品可能增加<strong>严重感染</strong>风险，包括<strong>结核复发</strong>。使用前需筛查结核，治疗期间需监测感染症状。活动性感染患者禁用。",
+      "indications": "用于<strong>符合系统治疗或光疗指征的中度至重度斑块状银屑病的成年患者</strong>；用于<strong>强直性脊柱炎</strong>；用于<strong>银屑病关节炎</strong>；为<strong>IL-17A抑制剂</strong>。",
+      "dosage": "皮下注射。<strong>银屑病：第0、1、2、3、4周一次300mg，以后每4周一次300mg</strong>；<strong>强直性脊柱炎和银屑病关节炎：第0、1、2、3、4周一次150mg，以后每4周一次150mg</strong>。",
+      "contraindications": "对本品过敏者禁用；活动性感染患者禁用；活动性结核患者禁用；活动性克罗恩病患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>鼻咽炎、上呼吸道感染、头痛、腹泻</strong>；可见<strong>口腔疱疹、中性粒细胞减少、真菌感染</strong>；罕见<strong>严重感染、结核复发、炎症性肠病加重、过敏反应</strong>。",
+      "interactions": "与活疫苗合用可能增加感染风险；与免疫抑制剂合用可能增加感染风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为全人源IL-17A单克隆抗体，阻断IL-17A与受体结合；皮下注射后吸收良好；经网状内皮系统清除；半衰期约27天。",
+      "precautions": "使用前需筛查结核；需监测感染症状；炎症性肠病患者慎用；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  }
+]

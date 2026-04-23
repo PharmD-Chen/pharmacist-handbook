@@ -1,0 +1,53 @@
+{
+  "id": 933,
+  "name": "华佗再造丸",
+  "dosage_form": "丸",
+  "full_name": "(甲)华佗再造丸",
+  "chemical_name": "华佗再造丸",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "广州白云山奇星药业"
+  ],
+  "specifications": [
+    {
+      "specification": "4g/袋",
+      "manufacturer": "广州白云山奇星药业",
+      "full_manufacturer": "广州白云山奇星药业有限公司",
+      "price": 68.0,
+      "unit": "盒",
+      "code": "C00109",
+      "approval_number": "国药准字",
+      "insurance_code": "ZA15GAH0234010100412",
+      "location": "L-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "活血化瘀，化痰通络，行气止痛。用于痰瘀阻络之中风恢复期和后遗症，症见半身不遂，拘挛麻木，口眼歪斜，言语不清。",
+    "dosage": "】规定使用，不宜超量、长期用药。 2.肝肾功能异常者慎用。",
+    "contraindications": "1.对本品及成份过敏者禁用。 2.孕妇禁用。",
+    "adverse_reactions": "上市后监测数据显示本品可见以下不良反应： 1.胃肠系统：恶心、呕吐、腹痛、腹胀、腹泻、便秘、口干、口苦、胃灼热、反酸等。 2.神经系统：头晕、头痛等，有肢体麻木、舌麻木个案报告。 3.心血管系统：胸闷、心悸等。 4.皮肤：皮疹、瘙痒等。 5.其他：发热，有呼吸急促、肝功能异常、肾功能异常个案报告。 肝损伤 可能导致肝损伤。",
+    "interactions": "如与其他药物同时使用可能会发生",
+    "pregnancy_category": null,
+    "pharmacokinetics": "川芎、吴茱萸、冰片等。",
+    "precautions": "1.本品应按照药品说明书【用法用量】规定使用，不宜超量、长期用药。 2.肝肾功能异常者慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "活血化瘀，化痰通络，行气止痛。用于痰瘀阻络之中风恢复期和后遗症，症见半身不遂，拘挛麻木，口眼歪斜，言语不清。",
+    "full_dosage": "】规定使用，不宜超量、长期用药。 2.肝肾功能异常者慎用。",
+    "full_contraindications": "1.对本品及成份过敏者禁用。 2.孕妇禁用。",
+    "full_adverse_reactions": "上市后监测数据显示本品可见以下不良反应： 1.胃肠系统：恶心、呕吐、腹痛、腹胀、腹泻、便秘、口干、口苦、胃灼热、反酸等。 2.神经系统：头晕、头痛等，有肢体麻木、舌麻木个案报告。 3.心血管系统：胸闷、心悸等。 4.皮肤：皮疹、瘙痒等。 5.其他：发热，有呼吸急促、肝功能异常、肾功能异常个案报告。 肝损伤 可能导致肝损伤。",
+    "full_interactions": "如与其他药物同时使用可能会发生",
+    "full_pharmacokinetics": "川芎、吴茱萸、冰片等。",
+    "full_precautions": "1.本品应按照药品说明书【用法用量】规定使用，不宜超量、长期用药。 2.肝肾功能异常者慎用。"
+  },
+  "pinyin": "huatuozaizao",
+  "pinyin_initials": "htzz",
+  "dosage_form_pinyin": "wan",
+  "dosage_form_initials": "w",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=7293",
+    "last_updated": "2026-03-21"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 942,
+  "name": "抗凝血用枸橼酸钠溶液",
+  "dosage_form": "其他",
+  "full_name": "(自)抗凝血用枸橼酸钠溶液",
+  "chemical_name": "抗凝血用枸橼酸钠溶液",
+  "types": [],
+  "manufacturers": [
+    "四川绵竹鸿基制药"
+  ],
+  "specifications": [
+    {
+      "specification": "8g:200ml/袋",
+      "manufacturer": "四川绵竹鸿基制药",
+      "full_manufacturer": "四川绵竹鸿基制药有限责任公司",
+      "price": 16.8,
+      "unit": "袋",
+      "code": "X00448",
+      "approval_number": "国药准字H20055065",
+      "insurance_code": "XB05CBJ193B002010102193",
+      "location": "K-6"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于血液体外抗凝。用于血液贮存和输血时体外抗凝。",
+    "dosage": "每100ml全血中加入2.5％枸橼酸钠10ml（0.25g）。 剂型与规格 注射液 0.25g 10ml 7.2g 180ml 8g 200ml 哪儿有 注射液 6.4g 160ml 0.4g 哪儿有",
+    "contraindications": "",
+    "adverse_reactions": "大量快速输入用枸橼酸钠抗凝的全血或血浆时，受血者可因血钙过低和代谢性碱中毒而出现口唇发麻，手足抽搐，甚至出血倾向，血压下降，心室颤动或停搏。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "所以对肝肾功能障碍者，枸橼酸钠宜慎用。",
+    "source": "",
+    "full_indications": "用于血液体外抗凝。用于血液贮存和输血时体外抗凝。",
+    "full_dosage": "每100ml全血中加入2.5％枸橼酸钠10ml（0.25g）。 剂型与规格 注射液 0.25g 10ml 7.2g 180ml 8g 200ml 哪儿有 注射液 6.4g 160ml 0.4g 哪儿有",
+    "full_adverse_reactions": "大量快速输入用枸橼酸钠抗凝的全血或血浆时，受血者可因血钙过低和代谢性碱中毒而出现口唇发麻，手足抽搐，甚至出血倾向，血压下降，心室颤动或停搏。",
+    "full_precautions": "在成年人中，枸橼酸钠中毒剂量为15g左右，相当于4000～5000ml枸橼酸钠抗凝血。如缓慢输入，人体可及时将其破坏并由肾脏排出，尚不致中毒。当肝肾功能不全，持久休克，可因蓄积而发生中毒。所以对肝肾功能障碍者，枸橼酸钠宜慎用。 用法与用量 每100ml全血中加入2.5％枸橼酸钠10ml（0.25g）。 剂型与规格 注射液 0.25g 10ml 7.2g 180ml 8g 200ml 哪儿有 注射液 6.4g 160ml 0.4g 哪儿有"
+  },
+  "pinyin": "kangningxueyongjuyuansuannarongye",
+  "pinyin_initials": "knxyjysnry",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1139"
+  }
+}

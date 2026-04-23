@@ -1,0 +1,18 @@
+[
+  {
+    "name": "※▲注射用紫杉醇聚合物胶束",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>联合铂类用于EGFR基因突变阴性和ALK阴性、不可手术切除的局部晚期或转移性非小细胞肺癌（NSCLC）患者的一线治疗</strong>。",
+      "dosage": "静脉滴注。第1周期：230mg/㎡，滴注≥3小时，然后给予顺铂70mg/㎡；3周后第2次用药。第2周期及后续：如中性粒细胞最低点≥1.0×10⁹/L且血小板≥80×10⁹/L，未发生II~IV级非血液学毒性，则300mg/㎡，滴注≥3小时，然后顺铂70mg/㎡。每3周给药一次。",
+      "contraindications": "对紫杉醇及本品任何成分过敏者禁用；<strong>中性粒细胞数<1.5×10⁹/L禁用</strong>；<strong>妊娠禁用</strong>。",
+      "adverse_reactions": "<strong>骨髓抑制</strong>（中性粒细胞减少，剂量限制性毒性）；<strong>神经毒性</strong>；过敏反应；脱发；肌肉关节痛。",
+      "interactions": "<strong>CYP3A和CYP2C酶的诱导剂和抑制剂</strong>可能干扰代谢；<strong>顺铂之后给药时清除率降低33%</strong>，骨髓毒性加重；<strong>酮康唑可能抑制代谢</strong>。",
+      "pregnancy_category": "D级",
+      "pharmacokinetics": "紫杉醇为抗微管药物，促进微管聚集并抑制解聚。蛋白结合率89%-98%，主要在肝脏代谢，经粪便排出。聚合物胶束制剂改善药物溶解性和肿瘤靶向性。",
+      "precautions": "<strong>治疗前中性粒细胞必须≥1.5×10⁹/L</strong>；<strong>育龄期妇女治疗期间及治疗后6个月内避孕</strong>；男性患者治疗后3个月内避孕；哺乳期用药期间及停药后2周内停止哺乳；2025版医保乙类，限协议期谈判药品。",
+      "solvent": "用0.9%氯化钠注射液溶解稀释，配制后每1ml含6mg紫杉醇，再用氯化钠注射液稀释至500ml",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

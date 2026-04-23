@@ -1,0 +1,182 @@
+[
+  {
+    "name": "阿莫西林",
+    "dosage_form": "胶囊",
+    "manual": {
+      "indications": "敏感菌所致呼吸道感染、尿路感染、皮肤软组织感染、幽门螺杆菌感染（联合用药）。",
+      "dosage": "口服。成人0.5g，每8小时1次。<strong>幽门螺杆菌</strong>：1g，每日2次，联合克拉霉素和PPI。",
+      "contraindications": "青霉素过敏者禁用。",
+      "adverse_reactions": "皮疹、腹泻、恶心；<strong>过敏反应</strong>（荨麻疹、血管性水肿、过敏性休克）。",
+      "interactions": "与<strong>克拉维酸</strong>合用增强抗菌活性；与<strong>别嘌醇</strong>合用增加皮疹风险；与<strong>抗凝药</strong>合用可能增强抗凝效果。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服吸收约90%，1-2小时达峰。半衰期1-1.5小时，主要经肾排泄。",
+      "precautions": "用药前询问青霉素过敏史；<strong>出现皮疹、呼吸困难立即停药</strong>；肾功能不全者减量。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "头孢呋辛",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "敏感菌所致呼吸道感染、尿路感染、皮肤软组织感染。",
+      "dosage": "口服。成人250-500mg，每日2次。",
+      "contraindications": "头孢菌素过敏者禁用。",
+      "adverse_reactions": "腹泻、恶心、皮疹；<strong>伪膜性肠炎</strong>；过敏反应。",
+      "interactions": "与<strong>丙磺舒</strong>合用增加头孢呋辛血药浓度；与<strong>抗酸药</strong>合用减少吸收。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服吸收约50%，2-3小时达峰。半衰期1-2小时，主要经肾排泄。",
+      "precautions": "青霉素过敏者慎用；<strong>长期用药警惕伪膜性肠炎</strong>（腹泻、腹痛）；肾功能不全者减量。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "左氧氟沙星",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "敏感菌所致呼吸道感染、尿路感染、前列腺炎、皮肤软组织感染。",
+      "dosage": "口服。成人250-500mg，每日1次。",
+      "contraindications": "喹诺酮过敏者禁用；<strong>妊娠及哺乳期禁用</strong>；18岁以下儿童禁用；癫痫患者禁用。",
+      "adverse_reactions": "恶心、腹泻、头痛、失眠；<strong>肌腱炎、肌腱断裂</strong>；<strong>QT间期延长</strong>；光敏反应；血糖紊乱。",
+      "interactions": "与<strong>含铝/镁抗酸药</strong>合用减少吸收（间隔2小时）；与<strong>华法林</strong>合用可能增强抗凝；与<strong>降糖药</strong>合用可能引起血糖紊乱。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "口服吸收约99%，1-2小时达峰。半衰期6-8小时，主要经肾排泄。",
+      "precautions": "避免阳光直射；<strong>出现肌腱疼痛、肿胀立即停药</strong>；糖尿病患者监测血糖；癫痫患者慎用。",
+      "source": "手动录入"
+    }
+  },
+ {
+    "name": "甲硝唑",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "厌氧菌感染、<strong>幽门螺杆菌</strong>（联合用药）、<strong>阿米巴病</strong>、滴虫病。",
+      "dosage": "口服。厌氧菌：400mg，每日3次，疗程7天。<strong>幽门螺杆菌</strong>：400mg，每日2次，联合PPI和抗生素。",
+      "contraindications": "妊娠早期禁用；<strong>用药期间及停药后3天内禁酒</strong>。",
+      "adverse_reactions": "恶心、金属味、头痛；<strong>双硫仑样反应</strong>（饮酒时）；外周神经病变（长期用药）。",
+      "interactions": "<strong>与酒精合用：双硫仑样反应</strong>；与<strong>华法林</strong>合用增强抗凝；与<strong>苯妥英</strong>合用增加苯妥英毒性。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服吸收约80%，1-2小时达峰。半衰期6-8小时，主要经肝代谢。",
+      "precautions": "<strong>用药期间及停药后3天内严禁饮酒</strong>；长期用药监测神经症状；肝功能不全者减量。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "奥美拉唑",
+    "dosage_form": "胶囊",
+    "manual": {
+      "indications": "胃溃疡、十二指肠溃疡、<strong>反流性食管炎</strong>、<strong>幽门螺杆菌根除</strong>（联合用药）、卓-艾综合征。",
+      "dosage": "口服。消化性溃疡：20mg，每日1次，疗程4-8周。<strong>幽门螺杆菌</strong>：20mg，每日2次，联合抗生素。",
+      "contraindications": "对奥美拉唑过敏者禁用。",
+      "adverse_reactions": "头痛、腹泻、恶心；<strong>低镁血症</strong>（长期用药）；骨折风险增加（长期用药）；维生素B12缺乏。",
+      "interactions": "<strong>抑制CYP2C19</strong>，影响氯吡格雷代谢（减弱抗血小板效果）；与<strong>酮康唑、伊曲康唑</strong>合用减少吸收；与<strong>地高辛</strong>合用增加地高辛吸收。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "口服吸收约30-40%，0.5-3.5小时达峰。半衰期0.5-1小时（质子泵抑制持久）。",
+      "precautions": "<strong>长期服用监测血镁</strong>；骨折风险患者慎用；与氯吡格雷合用需谨慎。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "雷贝拉唑",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "胃溃疡、十二指肠溃疡、反流性食管炎、幽门螺杆菌根除。",
+      "dosage": "口服。10-20mg，每日1次。",
+      "contraindications": "对雷贝拉唑过敏者禁用。",
+      "adverse_reactions": "头痛、腹泻、恶心；低镁血症（长期用药）。",
+      "interactions": "对CYP450影响较小，与<strong>氯吡格雷相互作用较小</strong>。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服吸收约52%，3.5小时达峰。半衰期1-2小时。",
+      "precautions": "长期服用监测血镁；与氯吡格雷合用相对安全。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "莫沙必利",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "功能性消化不良、<strong>胃食管反流病</strong>、糖尿病性胃轻瘫。",
+      "dosage": "口服。5mg，每日3次，餐前服用。",
+      "contraindications": "胃肠道出血、梗阻或穿孔患者禁用。",
+      "adverse_reactions": "腹泻、腹痛、口干；<strong>QT间期延长</strong>（罕见）。",
+      "interactions": "与<strong>红霉素、克拉霉素</strong>合用增加QT间期延长风险；与<strong>抗胆碱药</strong>合用减弱效果。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "口服吸收约30%，0.5-1小时达峰。半衰期2小时。",
+      "precautions": "<strong>餐前服用</strong>；心脏病患者慎用；出现心悸、晕厥立即停药。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "复方甘草酸苷",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "慢性肝病、<strong>湿疹、皮炎</strong>、斑秃。",
+      "dosage": "口服。成人2-3片，每日3次。",
+      "contraindications": "醛固酮增多症患者禁用；<strong>低钾血症患者禁用</strong>；肌病患者禁用。",
+      "adverse_reactions": "<strong>假性醛固酮增多症</strong>（低钾、高血压、水肿、肌无力）；皮疹。",
+      "interactions": "与<strong>利尿剂</strong>合用增加低钾风险；与<strong>强心苷</strong>合用增加强心苷毒性（低钾）。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "口服吸收，主要经胆汁排泄。",
+      "precautions": "<strong>定期监测血钾、血压</strong>；出现肌无力、心悸立即停药；老年人慎用。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "乳果糖",
+    "dosage_form": "口服溶液",
+    "manual": {
+      "indications": "<strong>便秘</strong>、<strong>肝性脑病</strong>。",
+      "dosage": "口服。便秘：15-30ml/日。肝性脑病：30-45ml，每日3-4次。",
+      "contraindications": "半乳糖血症患者禁用；<strong>肠梗阻患者禁用</strong>。",
+      "adverse_reactions": "腹胀、腹痛、腹泻；<strong>电解质紊乱</strong>（大剂量）。",
+      "interactions": "与<strong>新霉素</strong>合用可能增强肝性脑病治疗效果；与<strong>抗酸药</strong>合用降低效果。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服不吸收，在结肠被细菌分解为有机酸。",
+      "precautions": "<strong>起效慢（24-48小时）</strong>；糖尿病患者可用（不吸收）；大剂量监测电解质。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "双歧杆菌三联活菌",
+    "dosage_form": "胶囊",
+    "manual": {
+      "indications": "<strong>肠道菌群失调</strong>引起的腹泻、便秘、腹胀。",
+      "dosage": "口服。2-4粒，每日2次。",
+      "contraindications": "无。",
+      "adverse_reactions": "罕见皮疹。",
+      "interactions": "与<strong>抗生素</strong>合用需间隔2-3小时；与<strong>铋剂、药用炭</strong>合用降低效果。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "活菌制剂，在肠道定植。",
+      "precautions": "<strong>与抗生素间隔2-3小时服用</strong>；2-8°C冷藏保存；温水送服（<40°C）。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "蒙脱石散",
+    "dosage_form": "散剂",
+    "manual": {
+      "indications": "<strong>急慢性腹泻</strong>。",
+      "dosage": "口服。成人1袋（3g），每日3次。",
+      "contraindications": "<strong>肠梗阻患者禁用</strong>。",
+      "adverse_reactions": "便秘（过量）。",
+      "interactions": "<strong>与其他药物间隔1-2小时服用</strong>（吸附作用）。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服不吸收，在肠道形成保护膜。",
+      "precautions": "<strong>空腹服用效果佳</strong>；与其他药物间隔服用；便秘时减量。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "洛哌丁胺",
+    "dosage_form": "胶囊",
+    "manual": {
+      "indications": "<strong>急慢性腹泻</strong>。",
+      "dosage": "口服。首次4mg，以后每次腹泻后2mg，每日不超过16mg。",
+      "contraindications": "<strong>细菌性痢疾、伪膜性肠炎禁用</strong>（抑制肠蠕动加重病情）；肠梗阻禁用。",
+      "adverse_reactions": "便秘、腹胀、恶心；<strong>嗜睡、头晕</strong>。",
+      "interactions": "与<strong>中枢抑制剂</strong>合用增强镇静作用。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "口服吸收约40%，2.5小时达峰。半衰期10小时。",
+      "precautions": "<strong>感染性腹泻禁用</strong>；2岁以下儿童禁用；肝功能不全者慎用。",
+      "source": "手动录入"
+    }
+  }
+]

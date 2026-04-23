@@ -1,0 +1,54 @@
+{
+  "id": 186,
+  "name": "茶碱缓释片",
+  "dosage_form": "缓释片",
+  "full_name": "(甲)茶碱缓释片[国基]",
+  "chemical_name": "茶碱缓释片",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "湖南绅泰春制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.1g/片",
+      "manufacturer": "湖南绅泰春制药",
+      "full_manufacturer": "湖南绅泰春制药股份有限公司",
+      "price": 8.0,
+      "unit": "盒",
+      "code": "Y00000014612",
+      "approval_number": "国药准字H43020832",
+      "insurance_code": "XR03DAC011A010010104964",
+      "location": "J-4",
+      "outpatient_location": "C-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "清热解毒，活血化瘀，消肿止痛。用于热毒瘀血所致的咽喉肿痛、牙痛、痹痛、胁痛、黄疸、无名肿毒等症。",
+    "dosage": "口服：一次2～4片，一日3次，小儿酌减。外用：用冷开水调化，敷患处。",
+    "contraindications": "活动性溃疡、消化道出血及病史者、溃疡性结肠炎及病史者，癫痫，帕金森病及精神病患者，支气管哮喘者，血管神经性水肿者，肝肾功能不全者，对本品、阿司匹林或其他非甾体抗炎药过敏者禁用。",
+    "adverse_reactions": "⑴消化系统：咽干、口腔黏膜糜烂、消化不良、胃部不适、烧灼感、返酸、纳差、恶心、呕吐、腹痛、腹泻、肝功能异常、消化道溃疡、出血、穿孔等。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "宜餐后服用。",
+    "source": "湖南药事服务网",
+    "full_pharmacokinetics": "",
+    "full_dosage": "口服：一次2～4片，一日3次，小儿酌减。外用：用冷开水调化，敷患处。",
+    "full_contraindications": "活动性溃疡、消化道出血及病史者、溃疡性结肠炎及病史者，癫痫，帕金森病及精神病患者，支气管哮喘者，血管神经性水肿者，肝肾功能不全者，对本品、阿司匹林或其他非甾体抗炎药过敏者禁用。",
+    "full_adverse_reactions": "⑴消化系统：咽干、口腔黏膜糜烂、消化不良、胃部不适、烧灼感、返酸、纳差、恶心、呕吐、腹痛、腹泻、肝功能异常、消化道溃疡、出血、穿孔等。",
+    "full_precautions": "宜餐后服用。",
+    "full_indications": "清热解毒，活血化瘀，消肿止痛。用于热毒瘀血所致的咽喉肿痛、牙痛、痹痛、胁痛、黄疸、无名肿毒等症。"
+  },
+  "pinyin": "chajian",
+  "pinyin_initials": "cj",
+  "dosage_form_pinyin": "huanshipian",
+  "dosage_form_initials": "hsp",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=4187",
+    "last_updated": "2026-03-21"
+  }
+}

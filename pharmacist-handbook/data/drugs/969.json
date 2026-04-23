@@ -1,0 +1,53 @@
+{
+  "id": 969,
+  "name": "精蛋白锌重组赖脯胰岛素混合注射液(25R)",
+  "dosage_form": "注射液",
+  "full_name": "(甲)精蛋白锌重组赖脯胰岛素混合注射液(25R)",
+  "chemical_name": "精蛋白锌重组赖脯胰岛素混合注射液(25R)",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "礼来苏州制药"
+  ],
+  "specifications": [
+    {
+      "specification": "300单位/支",
+      "manufacturer": "礼来苏州制药",
+      "full_manufacturer": "礼来苏州制药有限公司",
+      "price": 38.42,
+      "unit": "盒",
+      "code": "X00542",
+      "approval_number": "国药准字S20237011",
+      "insurance_code": "XA10ADJ137B002010101540",
+      "location": "2B-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于需要胰岛素治疗的糖尿病患者。",
+    "dosage": "皮下注射：使用剂量须由医生根据患者病情而定。可在餐前即时注射。必要时，也可在饭后立即注射。只能以皮下注射方式给药。在任何情况下都不能采取静脉输注方式给药。皮下注射的部位为上臂、大腿、臀部及腹部。...",
+    "contraindications": "低血糖患者禁用。对赖脯胰岛素及其他组份过敏的患者禁用。",
+    "adverse_reactions": null,
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": null,
+    "source": "湖南药事服务网",
+    "full_indications": "用于需要胰岛素治疗的糖尿病患者。",
+    "full_dosage": "皮下注射：使用剂量须由医生根据患者病情而定。可在餐前即时注射。必要时，也可在饭后立即注射。只能以皮下注射方式给药。在任何情况下都不能采取静脉输注方式给药。皮下注射的部位为上臂、大腿、臀部及腹部。应轮换注射部位，每个注射部位每月注射不能超过一次。",
+    "full_contraindications": "低血糖患者禁用。对赖脯胰岛素及其他组份过敏的患者禁用。",
+    "full_adverse_reactions": "",
+    "full_interactions": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": ""
+  },
+  "pinyin": "jingdanbaixinchongzulaipuyidaosuhunhe",
+  "pinyin_initials": "jdbxczlpydshh",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1316",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 147,
+  "name": "注射用曲普瑞林",
+  "dosage_form": "注射用",
+  "full_name": "(乙10%)注射用曲普瑞林",
+  "chemical_name": "注射用曲普瑞林",
+  "types": [],
+  "manufacturers": [
+    "Ferring GmbH"
+  ],
+  "specifications": [
+    {
+      "specification": "3.75mg/支",
+      "manufacturer": "Ferring GmbH",
+      "full_manufacturer": "Ferring GmbH",
+      "price": 1179.3,
+      "unit": "盒",
+      "code": "X00359",
+      "approval_number": "国药准字HJ20140123",
+      "insurance_code": "XL02AEQ108B001010178423",
+      "location": "2C-5",
+      "outpatient_location": "2C-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "①治疗子宫内膜异位症；②子宫肌瘤；③前列腺癌；④治疗妇女不育症；⑤性早熟；⑥也可用于辅助生育技术。",
+    "dosage": "肌内注射：\n　　①治疗前列腺癌作为去势治疗，臀部肌肉注射，一次3.75mg，每4周1次；",
+    "contraindications": "妊娠。对本品及其他GnRH类似物过敏者。",
+    "adverse_reactions": "常见：皮疹、头痛、过敏等。",
+    "interactions": "不能与升高泌乳素浓度的药物同时使用，因可降低垂体中的GnRH受体水平。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "⑴药效学：本药也是强有力的促性腺激素释放素（GnRH）类似物，其对蛋白分解的抵抗力和对垂体促性腺激素释放素（GnRH）受体的亲和力都强于GnRH。本品注射后，使垂体释放黄体生成素和卵泡刺激素增加，约2周后，因降调节作用，垂体进入不应期，垂体释放黄体生成素和卵泡刺激素明显减少，使卵巢内卵泡发育受抑制，",
+    "precautions": "⑴如因雌激素低下引起的症状难以坚持治疗时，可补充少量雌激素（反向添加疗法）缓解症状。  \n⑵孕期用药可引起流产，用药前应除外妊娠。",
+    "source": "湖南药事服务网",
+    "full_indications": "①治疗子宫内膜异位症；②子宫肌瘤；③前列腺癌；④治疗妇女不育症；⑤性早熟；⑥也可用于辅助生育技术。",
+    "full_dosage": "肌内注射：<br>　　①治疗前列腺癌作为去势治疗，臀部肌肉注射，一次3.75mg，每4周1次；<br>　　②用于治疗子宫内膜异位症或子宫肌瘤，臀部肌肉注射，一次3.75mg，每28天注射一次，连续使用12～24周；<br>　　③用于促排卵，常用剂量为每天一次皮下注射0.5mg，连续七天；然后每天一次皮下注射0.1mg，作为维持剂量。体外授精术（IVF）：每天一次皮下注射0.5mg，7至10天；然后每天一次皮下注射0.1mg。",
+    "full_contraindications": "妊娠。对本品及其他GnRH类似物过敏者。",
+    "full_adverse_reactions": "⑴用药初期会使原有的症状加重。  <br>⑵卵巢不应期主要出现雌激素低下症状，轰热、出汗、外阴阴道萎缩引起的阴道干燥、性欲减退和性交困难。  <br>⑶治疗超过6个月会造成骨量丢失。少数妇女出现头痛、虚弱、情绪变化等症状。  <br>⑷极个别出现发痒、皮疹、高热、过敏症。",
+    "full_interactions": "不能与升高泌乳素浓度的药物同时使用，因可降低垂体中的GnRH受体水平。",
+    "full_pharmacokinetics": "⑴药效学：本药也是强有力的促性腺激素释放素（GnRH）类似物，其对蛋白分解的抵抗力和对垂体促性腺激素释放素（GnRH）受体的亲和力都强于GnRH。本品注射后，使垂体释放黄体生成素和卵泡刺激素增加，约2周后，因降调节作用，垂体进入不应期，垂体释放黄体生成素和卵泡刺激素明显减少，使卵巢内卵泡发育受抑制，雌激素降低到去势水平，停药后可恢复。内源性黄体生成素过高影响诱发排卵效果，用药使垂体释放黄体生成素明显减少后，可提高诱发排卵效果。雌激素降低到去势水平对雌激素依赖性疾病有治疗作用。<br>　　⑵药动学：本品皮下注射后迅速吸收，经15分钟血药浓度达峰值，1小时后达最大效应，ｔ1/2约为12小时。",
+    "full_precautions": "⑴如因雌激素低下引起的症状难以坚持治疗时，可补充少量雌激素（反向添加疗法）缓解症状。  <br>⑵孕期用药可引起流产，用药前应除外妊娠。"
+  },
+  "pinyin": "zhusheyongqupuruilin",
+  "pinyin_initials": "zsyqprl",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1282",
+    "last_updated": "2026-03-22"
+  }
+}

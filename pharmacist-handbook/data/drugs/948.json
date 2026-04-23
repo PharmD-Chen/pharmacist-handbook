@@ -1,0 +1,47 @@
+{
+  "id": 948,
+  "name": "孟鲁司特钠咀嚼片",
+  "dosage_form": "咀嚼片",
+  "full_name": "(甲)孟鲁司特钠咀嚼片",
+  "chemical_name": "孟鲁司特钠咀嚼片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "上海安必生制药技术"
+  ],
+  "specifications": [
+    {
+      "specification": "5mg/片",
+      "manufacturer": "上海安必生制药技术",
+      "full_manufacturer": "上海安必生制药技术有限公司(委托:青岛百洋制药有限公司)",
+      "price": 2.8,
+      "unit": "盒",
+      "code": "Y00000014657",
+      "approval_number": "国药准字H20183236",
+      "insurance_code": "XR03DCM082A005020104494",
+      "location": "C-2",
+      "outpatient_location": "A-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "menglusitena",
+  "pinyin_initials": "mlstn",
+  "dosage_form_pinyin": "jujuepian",
+  "dosage_form_initials": "jjp",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1645",
+    "last_updated": "2026-03-22"
+  }
+}

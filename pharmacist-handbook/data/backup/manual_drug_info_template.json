@@ -1,0 +1,51 @@
+{
+  "说明": "手动录入药品信息模板",
+  "使用方式": "1. 复制示例格式 2. 填写药品信息 3. 保存为JSON文件 4. 运行批量导入脚本",
+  "字段说明": {
+    "name": "药品通用名（必填）",
+    "dosage_form": "剂型（必填）",
+    "manual": {
+      "indications": "适应症",
+      "dosage": "用法用量",
+      "contraindications": "禁忌",
+      "adverse_reactions": "不良反应",
+      "interactions": "药物相互作用",
+      "pregnancy_category": "FDA妊娠分级",
+      "pharmacokinetics": "药代动力学",
+      "precautions": "注意事项",
+      "source": "数据来源（如：药智网、说明书等）"
+    }
+  },
+  "药品信息列表": [
+    {
+      "name": "苯海索",
+      "dosage_form": "片",
+      "manual": {
+        "indications": "帕金森病、帕金森综合征、肝豆状核变性、畸形性肌张力障碍、癫痫、慢性精神分裂症、抗精神病药物引起的静坐不能、药物引起的锥体外系反应。",
+        "dosage": "常用量1-2 mg bid，逐日递增至5-10 mg/日，分次服用。药物诱发的锥体外系反应：第1日1 mg，以后视需要及耐受情况逐渐增加至5-10 mg/日，分2次服用。日最大剂量10 mg。老年患者酌情减量。起效时间: 1小时。持续时间: 6-12小时。",
+        "contraindications": "青光眼、尿潴留、前列腺肥大者禁用。",
+        "adverse_reactions": "心动过速、口干、视物不清、瞳孔散大、便秘、尿潴留，大剂量可致幻觉、谵妄和精神病样表现。",
+        "interactions": "",
+        "pregnancy_category": "口服给药: C级",
+        "pharmacokinetics": "吸收: 口服后胃肠道吸收好，血浆浓度达峰时间1.3小时。分布: 可进入乳汁。代谢: 经羟基化作用代谢。排泄: 主要经尿液（原形药）排泄。消除半衰期3.7小时。",
+        "precautions": "心血管功能不全、高血压、肠梗阻或有该病史、重症肌无力、肾功能障碍、有锥体外系反应的精神病患者，高龄老年人，妊娠及哺乳妇女慎用。过量中毒者可用拟扁豆碱解救。",
+        "source": "药智网"
+      }
+    },
+    {
+      "name": "示例药品",
+      "dosage_form": "片剂",
+      "manual": {
+        "indications": "请填写适应症",
+        "dosage": "请填写用法用量",
+        "contraindications": "请填写禁忌",
+        "adverse_reactions": "请填写不良反应",
+        "interactions": "请填写药物相互作用",
+        "pregnancy_category": "请填写FDA妊娠分级",
+        "pharmacokinetics": "请填写药代动力学",
+        "precautions": "请填写注意事项",
+        "source": "手动录入"
+      }
+    }
+  ]
+}

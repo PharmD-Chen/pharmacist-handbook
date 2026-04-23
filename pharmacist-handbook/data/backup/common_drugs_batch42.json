@@ -1,0 +1,79 @@
+[
+  {
+    "name": "阿柏西普眼内注射溶液",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "<strong>用于治疗新生血管(湿性)年龄相关黄斑变性(AMD)</strong>；<strong>用于治疗糖尿病性黄斑水肿(DME)引起的视力损害</strong>；<strong>用于治疗继发于病理性近视的脉络膜新生血管(mCNV)引起的视力损害</strong>。",
+      "dosage": "玻璃体腔注射。<strong>推荐剂量为每次2mg(0.05ml)，每月1次</strong>。连续3次注射后，根据视力和眼底情况调整给药间隔，可延长至每2-3个月1次。",
+      "contraindications": "<strong>对本品或任何成分过敏者禁用</strong>；<strong>眼部或眼周感染患者禁用</strong>；<strong>活动性眼内炎症患者禁用</strong>。",
+      "adverse_reactions": "常见<strong>结膜出血、眼痛、白内障、玻璃体混浊、眼内压升高</strong>；严重不良反应包括<strong>眼内炎、视网膜脱离、眼内压持续升高、脑血管意外、心肌梗死</strong>。",
+      "interactions": "<strong>与抗VEGF药物合用可能增加全身性血管事件风险</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "重组融合蛋白，由VEGF受体1和受体2的胞外区与人免疫球蛋白Fc段融合而成。通过结合VEGF-A、VEGF-B和PlGF，抑制新生血管生成和血管渗漏。玻璃体腔注射后主要分布于眼内。",
+      "precautions": "<strong>必须由有经验的眼科医师操作</strong>；<strong>注射前后需使用抗生素眼药水</strong>；<strong>注射后需监测眼内压</strong>；<strong>出现眼内炎症状(眼痛、视力下降、眼红)应立即就医</strong>；<strong>每眼累计最多支付9支</strong>；<strong>阿柏西普、雷珠单抗、康柏西普、法瑞西单抗、布西珠单抗的药品支数合并计算</strong>；2025版医保乙类，限眼内注射溶液并限50岁以上的湿性AMD和DME。",
+      "solvent": "玻璃体腔注射，无需稀释",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "妥布霉素地塞米松",
+    "dosage_form": "眼膏",
+    "manual": {
+      "indications": "<strong>用于治疗对妥布霉素敏感的细菌引起的眼部感染，同时伴有眼部炎症的情况</strong>。适用于<strong>细菌性结膜炎、角膜炎、睑缘炎等引起的红肿、疼痛、分泌物增多等症状</strong>。",
+      "dosage": "涂眼。<strong>每次约1cm长的眼膏，一日3-4次</strong>。根据病情可适当调整用药频次。",
+      "contraindications": "<strong>对本品任何成分过敏者禁用</strong>；<strong>真菌或病毒感染引起的眼部疾病禁用</strong>；<strong>单纯疱疹性角膜炎禁用</strong>；<strong>水痘、牛痘等病毒感染禁用</strong>；<strong>角膜溃疡禁用</strong>。",
+      "adverse_reactions": "常见<strong>眼部刺激感、眼睑瘙痒、眼睑红肿、结膜充血</strong>；长期使用可能引起<strong>眼内压升高、激素性青光眼、白内障、角膜变薄、继发感染</strong>。",
+      "interactions": "<strong>避免与氯霉素等抑菌剂联用，可能降低妥布霉素疗效</strong>；<strong>与降眼压药物合用需监测眼压</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "复方制剂，含氨基糖苷类抗生素妥布霉素和糖皮质激素地塞米松。妥布霉素通过抑制细菌蛋白质合成发挥抗菌作用；地塞米松通过抑制炎症介质释放发挥抗炎作用。",
+      "precautions": "<strong>儿童连续使用不超过1周</strong>；<strong>长期使用需监测眼压</strong>；<strong>出现视力模糊或眼压升高应立即停用</strong>；<strong>用药期间避免佩戴隐形眼镜</strong>；<strong>孕妇需评估风险后使用</strong>；<strong>不能用于真菌或病毒感染</strong>；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "外用重组人碱性成纤维细胞生长因子",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "<strong>用于促进创面愈合</strong>。适用于<strong>Ⅱ度烧伤创面、慢性溃疡创面、外伤创面、手术创面等</strong>。",
+      "dosage": "外用。<strong>直接用于伤患处或在伤患处覆以适当大小的消毒纱布，充分均匀喷湿纱布(以药液不溢出为准)，适当包扎即可</strong>。推荐剂量每次150U/cm²，一日1次，或遵医嘱。",
+      "contraindications": "<strong>对蛋白质过敏者禁用</strong>；<strong>对本品过敏者禁用</strong>。",
+      "adverse_reactions": "偶见<strong>局部刺痛、烧灼感、瘙痒、皮疹</strong>等过敏反应。",
+      "interactions": "<strong>与蛋白变性剂或蛋白水解酶类外用药物同时使用时会影响药效</strong>；<strong>高浓度碘酒、酒精、双氧水、重金属等蛋白质变性剂可能影响本品的活性</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "重组人碱性成纤维细胞生长因子(rh-bFGF)，能促进成纤维细胞、上皮细胞和内皮细胞的增殖分化，促进血管新生，加速创面愈合。外用后主要作用于局部创面。",
+      "precautions": "<strong>对感染性或急性炎症期创面，须同时局部或全身使用抗生素或抗炎药</strong>；<strong>常规清创后，建议用生理盐水冲洗后再使用本品</strong>；<strong>本品无菌包装，用后请立即盖上喷盖</strong>；<strong>2-8℃保存，避免高温或冰冻</strong>；<strong>过敏体质者慎用</strong>；2025版医保乙类，外用冻干制剂和凝胶剂限Ⅱ度烧伤。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "保妇康栓",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "<strong>行气破瘀，生肌止痛</strong>。用于<strong>湿热瘀滞所致的带下病</strong>，症见<strong>带下量多、色黄、时有阴部瘙痒</strong>；<strong>霉菌性阴道炎、老年性阴道炎、宫颈糜烂</strong>见上述证候者。",
+      "dosage": "阴道给药。<strong>洗净双手及外阴部，将栓剂塞入阴道深部，一次1粒，每晚1次</strong>。7-8天为一疗程。",
+      "contraindications": "<strong>对本品过敏者禁用</strong>；<strong>妊娠期妇女禁用</strong>；<strong>月经期禁用</strong>。",
+      "adverse_reactions": "偶见<strong>阴道内烧灼感、瘙痒、红肿</strong>等局部刺激症状；个别患者可能出现<strong>过敏反应</strong>。",
+      "interactions": "<strong>与其他阴道用药合用可能相互影响</strong>；<strong>使用期间避免性生活</strong>。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "中成药，主要成分为莪术油和冰片。莪术油可以化瘀消肿、止痛；冰片可以清热消肿、止痛。二者合用发挥行气破瘀、生肌止痛的功效。",
+      "precautions": "<strong>用药期间注意个人卫生，避免性生活</strong>；<strong>忌食辛辣、油腻、刺激性食物</strong>；<strong>最好在临睡前使用，以便药物充分分解、吸收</strong>；<strong>使用期间出现异常现象应及时就医</strong>；<strong>未婚妇女不宜使用</strong>；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "曲安奈德",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>用于风湿性及类风湿性关节炎、支气管哮喘、过敏性鼻炎、荨麻疹</strong>；<strong>用于急性扭伤、肩周炎、腱鞘炎、滑囊炎、慢性腰腿痛</strong>；<strong>用于神经性皮炎、湿疹、牛皮癣、疤痕疙瘩等皮肤病</strong>。",
+      "dosage": "肌内注射、关节腔注射或局部注射。<strong>肌内注射：一般每次20-80mg，每周1次</strong>；<strong>关节腔或皮下局部注射：每次2.5-5mg</strong>；<strong>皮肤损害局部注射：每处0.2-0.3mg，每日不超过30mg，每周总剂量不超过75mg</strong>。",
+      "contraindications": "<strong>对本品过敏者禁用</strong>；<strong>活动性消化性溃疡患者禁用</strong>；<strong>严重高血压、糖尿病患者禁用</strong>；<strong>活动性感染患者禁用</strong>；<strong>真菌、病毒或细菌感染禁用</strong>；<strong>骨质疏松症患者禁用</strong>。",
+      "adverse_reactions": "常见<strong>局部疼痛、皮肤萎缩、色素沉着、毛细血管扩张</strong>；长期使用可能引起<strong>肾上腺皮质功能抑制、库欣综合征、高血糖、高血压、骨质疏松、感染风险增加</strong>。",
+      "interactions": "<strong>与利尿药合用可能增加低钾血症风险</strong>；<strong>与降糖药合用可能减弱降糖效果</strong>；<strong>与抗凝药合用可能增加出血风险</strong>；<strong>与NSAIDs合用可能增加胃肠道不良反应</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "中效糖皮质激素，具有显著的抗炎、抗过敏和免疫抑制作用。通过抑制炎症介质释放、减少毛细血管通透性、抑制免疫反应等机制发挥作用。肌内注射后作用可持续数周。",
+      "precautions": "<strong>关节腔注射间隔不少于1-3周</strong>；<strong>避免短期内频繁给药</strong>；<strong>长期使用需监测血糖、血压、电解质</strong>；<strong>停药需逐渐减量，避免反跳</strong>；<strong>注射部位需更换，避免局部组织萎缩</strong>；<strong>活动性感染患者需同时使用抗生素</strong>；2025版医保甲类，限注射剂。",
+      "solvent": "肌内注射、关节腔注射或局部注射，无需稀释",
+      "source": "湖南药事服务网"
+    }
+  }
+]

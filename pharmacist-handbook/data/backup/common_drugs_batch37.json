@@ -1,0 +1,78 @@
+[
+  {
+    "name": "门冬氨酸钾镁",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>用于治疗低钾血症、低镁血症</strong>；<strong>用于心肌炎、心肌梗死、心力衰竭等心肌代谢障碍病症的辅助治疗</strong>；<strong>用于肝功能不全的辅助治疗</strong>。",
+      "dosage": "口服。<strong>一次1-2片，一日3次</strong>。餐后服用。",
+      "contraindications": "<strong>对本品过敏者禁用</strong>；<strong>高钾血症、高镁血症患者禁用</strong>；<strong>严重肾功能障碍患者禁用</strong>；<strong>严重房室传导阻滞患者禁用</strong>；<strong>活动性消化道溃疡患者禁用</strong>。",
+      "adverse_reactions": "常见<strong>食欲不振、恶心、呕吐、腹泻</strong>等胃肠道反应，多在停药后即恢复；极少数人可能出现<strong>高钾血症或高镁血症</strong>，表现为心率异常、肌肉无力等。",
+      "interactions": "<strong>能够抑制四环素、铁盐和氟化钠的吸收，服用本品与上述药物时应间隔3小时以上</strong>；<strong>与保钾利尿剂合用可能增加高钾血症风险</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "电解质补充剂，含有钾和镁元素。门冬氨酸能促进钾、镁离子进入细胞内，维持心肌细胞兴奋性，促进肝细胞三羧酸循环，改善肝功能。",
+      "precautions": "<strong>肾功能损害、房室传导阻滞者慎用</strong>；<strong>有电解质紊乱的患者应常规性检测血钾、镁离子浓度</strong>；<strong>由于胃酸能影响其疗效，因此本品应餐后服用</strong>；2025版医保甲类，国家基本药物。",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "厄贝沙坦氢氯噻嗪",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>用于治疗原发性高血压</strong>。适用于<strong>单用厄贝沙坦或氢氯噻嗪不能有效控制血压的患者</strong>。",
+      "dosage": "口服。<strong>起始剂量和维持剂量通常为每日一次，一次一片</strong>。宜在早餐前服用，需用水送服，应完全吞服。",
+      "contraindications": "<strong>对厄贝沙坦氢氯噻嗪片中任何成分过敏的患者禁用</strong>；<strong>严重肾功能不全患者禁用</strong>；<strong>哺乳期妇女禁用</strong>；<strong>孕中晚期禁用</strong>；<strong>严重肝功能损害者禁用</strong>。",
+      "adverse_reactions": "常见<strong>头晕、恶心、疲劳</strong>；<strong>电解质紊乱（如低钾血症、高尿酸血症）</strong>；厄贝沙坦可能引起<strong>血肌酐升高和高血钾</strong>；氢氯噻嗪可能引起<strong>低血钾、高血糖、高血脂和高尿酸</strong>；少数患者可能出现<strong>肾功能损害、皮疹</strong>等。",
+      "interactions": "<strong>与锂剂合用可能增加锂中毒风险</strong>；<strong>与洋地黄类药物合用可能增加洋地黄毒性风险</strong>；<strong>与非甾体抗炎药合用可能减弱降压效果并增加肾功能损害风险</strong>。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "复方制剂，含血管紧张素Ⅱ受体拮抗剂厄贝沙坦和噻嗪类利尿剂氢氯噻嗪。厄贝沙坦通过选择性阻断血管紧张素Ⅱ与AT1受体结合而降压；氢氯噻嗪通过排钠利尿而降压。两者合用可部分抵消各自对血钾水平的不利影响。",
+      "precautions": "<strong>当检测到怀孕时，应尽快停用本品</strong>；<strong>需定期检查血清电解质</strong>；<strong>运动员慎用（氢氯噻嗪可能使抗兴奋剂检测结果呈现阳性）</strong>；2025版医保甲类，上海市基本药物。",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "恩他卡朋",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>作为左旋多巴/苄丝肼或左旋多巴/卡比多巴的辅助用药，用于治疗帕金森病</strong>；<strong>用于左旋多巴疗效减退或出现「剂末现象」的患者</strong>。",
+      "dosage": "口服。<strong>每次0.2g，每日10次，即每日2g</strong>。与左旋多巴制剂同时服用，可和食物同时或不同时服用。",
+      "contraindications": "<strong>对恩他卡朋或制剂中任一成分过敏者禁用</strong>；<strong>肝功能不全（尤其是肝硬化）患者禁用</strong>；<strong>嗜铬细胞瘤患者禁用</strong>；<strong>正在服用单胺氧化酶抑制剂(MAOIs)的患者禁用</strong>。",
+      "adverse_reactions": "常见<strong>头晕、运动障碍、恶心、呕吐、幻觉、腹泻、腹痛</strong>；可能导致<strong>失眠、恶梦</strong>；严重时可能导致<strong>腿部痉挛、体位性低血压、眩晕</strong>；药物可能导致患者在日常活动中出现<strong>困倦或入睡</strong>。",
+      "interactions": "<strong>与左旋多巴合用可能增加多巴胺能不良反应（运动障碍、恶心、呕吐及幻觉）</strong>，常需要在治疗最初几天至几周内调整左旋多巴剂量（减少10%-30%）；<strong>与MAOIs合用可能增加心血管不良反应风险</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "COMT（儿茶酚-O-甲基转移酶）抑制剂，通过抑制左旋多巴在外周的代谢，增加其进入脑部的量，从而增强左旋多巴的疗效。口服吸收迅速，半衰期约2-3小时。",
+      "precautions": "<strong>为减少与左旋多巴相关的多巴胺能不良反应，常需要在治疗最初几天至几周内调整左旋多巴的剂量</strong>；<strong>因为突然停药可能出现帕金森症状，应避免突然停药</strong>；<strong>药物可能导致患者在日常活动中出现困倦或入睡</strong>；2025版医保乙类。",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "恩他卡朋双多巴",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>用于治疗经左旋多巴/多巴脱羧酶(DDC)抑制剂疗法未能控制的，出现或伴有「剂末」运动功能波动的成人帕金森病患者</strong>。",
+      "dosage": "口服。<strong>用量应根据医生的建议而定，初始剂量较低，随后根据患者的反应逐渐调整至最有效的剂量</strong>。通常每日多次给药。",
+      "contraindications": "<strong>对本品成分（左旋多巴、卡比多巴或恩他卡朋）过敏者禁用</strong>；<strong>窄角型青光眼患者禁用</strong>；<strong>疑似或有恶性黑色素瘤史者禁用</strong>；<strong>不可与非选择性MAO抑制剂合用</strong>；<strong>使用MAOIs的患者在停药后至少14天内应避免使用</strong>。",
+      "adverse_reactions": "可能导致<strong>失眠、幻觉、恶梦</strong>；有可能诱发<strong>异动症</strong>；可能导致<strong>恶心、呕吐、便秘、腹痛</strong>；严重时可能导致<strong>腿部痉挛、体位性低血压、眩晕和运动功能障碍</strong>；<strong>运动障碍、恶心、呕吐及幻觉</strong>。",
+      "interactions": "<strong>与非选择性MAO抑制剂合用可能增加高血压危象风险</strong>；<strong>与铁盐合用可能降低本品吸收</strong>；<strong>与抗精神病药合用可能降低本品疗效</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "复方制剂，含左旋多巴、卡比多巴和恩他卡朋。左旋多巴是多巴胺的前体，卡比多巴是外周多巴脱羧酶抑制剂，恩他卡朋是COMT抑制剂，三者合用可增加左旋多巴进入脑部的量并延长其作用时间。",
+      "precautions": "<strong>患者不应自行更改剂量或停止用药</strong>；<strong>过量使用可能导致严重不良反应</strong>；<strong>长期服用建议定期监测肝肾、心血管及造血功能</strong>；<strong>药物可能导致患者在日常活动中出现困倦或入睡</strong>；2025版医保乙类。",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "碘美普尔",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>用于静脉尿路造影、灌注性尿路造影、CT增强扫描、血管造影等</strong>。",
+      "dosage": "静脉注射。<strong>静脉尿路造影：浓度为250、300、350或400mg/ml，成人50-150ml</strong>；新生儿3.18ml/kg；婴儿（≤1岁）2.5-4ml/kg；儿童（>1岁）1-2.5ml/kg。剂量根据检查部位和患者体重调整。",
+      "contraindications": "<strong>对碘制剂或本品成分过敏者禁用</strong>；<strong>Waldenstrom异常蛋白血症患者禁用</strong>；<strong>多发性骨髓瘤患者禁用</strong>；<strong>重度肝肾功能不全患者禁用</strong>；<strong>妊娠及急性生殖系统炎症期女性禁止相关造影</strong>；<strong>甲状腺功能亢进症患者慎用</strong>。",
+      "adverse_reactions": "使用含碘化合物可引起不良反应，一般为<strong>轻或中度且为一过性</strong>；可能出现<strong>恶心、呕吐、流涎、眩晕、皮疹、荨麻疹</strong>；也可出现比较严重的<strong>过敏反应</strong>。",
+      "interactions": "<strong>与β受体阻滞剂合用可能增加过敏反应风险并降低肾上腺素治疗效果</strong>；<strong>与二甲双胍合用可能增加乳酸酸中毒风险</strong>（使用本品前48小时应停用二甲双胍）。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "非离子型碘造影剂，含碘量高，可增强X线对比度。静脉注射后迅速分布于血管和细胞外液，经肾脏排泄，肾功能不全者排泄减慢。",
+      "precautions": "<strong>当药液变色或有可见微粒时请不要使用</strong>；<strong>使用前需详细询问过敏史，必要时预防性用抗组胺药或糖皮质激素</strong>；<strong>肝肾功能不全者应减量使用或避免使用</strong>；<strong>检查前需充分水化</strong>；2025版医保乙类。",
+      "solvent": "注射液直接使用，无需稀释",
+      "source": "手动录入-综合网络来源"
+    }
+  }
+]

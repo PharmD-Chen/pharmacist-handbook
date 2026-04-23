@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>针剂摆药操作指引</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+            position: relative;
+        }
+
+        .back-to-home {
+            position: absolute;
+            left: 15px;
+            bottom: 15px;
+            color: white;
+            font-size: 0.85em;
+            text-decoration: none;
+            opacity: 0.7;
+        }
+
+        .back-to-home:hover {
+            opacity: 1;
+            text-decoration: underline;
+        }
+
+        .header h1 {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        .main-content {
+            display: flex;
+            min-height: 600px;
+        }
+
+        .sidebar {
+            width: 300px;
+            background: #f8f9fa;
+            border-right: 1px solid #e9ecef;
+            padding: 20px;
+            overflow-y: auto;
+            max-height: 800px;
+        }
+
+        .progress-overview {
+            margin-bottom: 30px;
+            padding: 15px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .progress-overview h3 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 1.1em;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: #e9ecef;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-bottom: 10px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            border-radius: 4px;
+            transition: width 0.3s ease;
+        }
+
+        .progress-text {
+            text-align: center;
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .step-list {
+            list-style: none;
+        }
+
+        .step-item {
+            margin-bottom: 10px;
+            border-radius: 8px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .step-item:hover {
+            background: #e9ecef;
+        }
+
+        .step-item.active {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .step-item.completed {
+            background: #d4edda;
+            border-left: 4px solid #28a745;
+        }
+
+        .step-header {
+            padding: 12px 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .step-number {
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            background: rgba(102, 126, 234, 0.2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 0.9em;
+            flex-shrink: 0;
+        }
+
+        .step-item.active .step-number {
+            background: rgba(255,255,255,0.3);
+        }
+
+        .step-title {
+            font-weight: 500;
+            font-size: 0.95em;
+        }
+
+        .content-area {
+            flex: 1;
+            padding: 30px;
+            overflow-y: auto;
+            max-height: 800px;
+        }
+
+        .step-content {
+            display: none;
+        }
+
+        .step-content.active {
+            display: block;
+        }
+
+        .step-content h2 {
+            color: #333;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #667eea;
+        }
+
+        .step-description {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+            border-left: 4px solid #667eea;
+        }
+
+        .step-description p {
+            color: #555;
+            line-height: 1.8;
+            font-size: 1.05em;
+        }
+
+        .checklist {
+            background: white;
+            border: 1px solid #e9ecef;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 25px;
+        }
+
+        .checklist h3 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 1.1em;
+        }
+
+        .checklist-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            padding: 10px 0;
+            border-bottom: 1px solid #f0f0f0;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .checklist-item:last-child {
+            border-bottom: none;
+        }
+
+        .checklist-item:hover {
+            background: #f8f9fa;
+            margin: 0 -10px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .checklist-item input[type="checkbox"] {
+            width: 20px;
+            height: 20px;
+            margin-top: 2px;
+            cursor: pointer;
+            accent-color: #667eea;
+        }
+
+        .checklist-item label {
+            flex: 1;
+            cursor: pointer;
+            color: #555;
+            line-height: 1.5;
+        }
+
+        .checklist-item.completed label {
+            text-decoration: line-through;
+            color: #888;
+        }
+
+        .notes-section {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 25px;
+        }
+
+        .notes-section h3 {
+            color: #856404;
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+
+        .notes-section ul {
+            margin-left: 20px;
+            color: #856404;
+        }
+
+        .notes-section li {
+            margin-bottom: 8px;
+            line-height: 1.5;
+        }
+
+        .navigation-buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #e9ecef;
+        }
+
+        .nav-btn {
+            padding: 12px 25px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .nav-btn.prev {
+            background: #f8f9fa;
+            color: #666;
+        }
+
+        .nav-btn.prev:hover {
+            background: #e9ecef;
+        }
+
+        .nav-btn.next {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .nav-btn.next:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .nav-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .complete-btn {
+            background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+            color: white;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: all 0.3s ease;
+        }
+
+        .complete-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(40, 167, 69, 0.4);
+        }
+
+        .completion-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .completion-modal.show {
+            display: flex;
+        }
+
+        .modal-content {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            text-align: center;
+            max-width: 400px;
+            animation: modalSlideIn 0.3s ease;
+        }
+
+        @keyframes modalSlideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .modal-content h2 {
+            color: #28a745;
+            margin-bottom: 15px;
+        }
+
+        .modal-content p {
+            color: #666;
+            margin-bottom: 25px;
+        }
+
+        .modal-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1em;
+        }
+
+        @media (max-width: 768px) {
+            .main-content {
+                flex-direction: column;
+            }
+
+            .sidebar {
+                width: 100%;
+                max-height: 300px;
+                border-right: none;
+                border-bottom: 1px solid #e9ecef;
+            }
+
+            .content-area {
+                max-height: none;
+            }
+
+            .header h1 {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <a href="workflow-guide.html" class="back-to-home">← 返回岗位手册</a>
+            <h1>针剂摆药操作指引</h1>
+        </div>
+
+        <div class="main-content">
+            <aside class="sidebar">
+                <div class="progress-overview">
+                    <h3>总体进度</h3>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+                    </div>
+                    <div class="progress-text">
+                        <span id="currentStep">0</span> / <span id="totalSteps">6</span> 步骤已完成
+                    </div>
+                </div>
+
+                <ul class="step-list" id="stepList">
+                    <!-- 步骤列表将由JavaScript生成 -->
+                </ul>
+            </aside>
+
+            <main class="content-area" id="contentArea">
+                <!-- 步骤内容将由JavaScript生成 -->
+            </main>
+        </div>
+    </div>
+
+    <!-- 完成弹窗 -->
+    <div class="completion-modal" id="completionModal">
+        <div class="modal-content">
+            <h2>🎉 恭喜完成！</h2>
+            <p>您已完成针剂摆药操作指引的所有步骤</p>
+            <button class="modal-btn" onclick="closeModal()">确定</button>
+        </div>
+    </div>
+
+    <script>
+        // 针剂摆药流程步骤数据
+        const steps = [
+            {
+                id: 1,
+                title: "准备工作",
+                description: "开始针剂摆药前，做好工作区域和物料的准备工作。",
+                checklist: [
+                    "清洁摆药台面",
+                    "准备药篮和标签",
+                    "检查冷链设备温度",
+                    "准备必要的工具",
+                    "穿戴防护用品"
+                ],
+                notes: [
+                    "针剂摆药需在洁净环境下进行",
+                    "冷链药品需特别注意温度",
+                    "易碎药品轻拿轻放"
+                ]
+            },
+            {
+                id: 2,
+                title: "接收医嘱",
+                description: "从HIS系统接收针剂医嘱，核对汇总摆药单。",
+                checklist: [
+                    "登录系统查看医嘱",
+                    "打印汇总摆药单",
+                    "核对患者信息",
+                    "确认药品名称和规格",
+                    "检查给药途径和频次"
+                ],
+                notes: [
+                    "静脉用药需特别关注",
+                    "皮试药品需标注",
+                    "特殊用药需提前准备"
+                ]
+            },
+            {
+                id: 3,
+                title: "药品取药",
+                description: "根据汇总摆药单从药架取药，参照货位号取药。",
+                checklist: [
+                    "按货位号取药",
+                    "核对药品名称",
+                    "检查药品规格",
+                    "查看药品有效期",
+                    "对取出的药品作标记"
+                ],
+                notes: [
+                    "参照货位号取药提高效率",
+                    "近效期药品优先使用",
+                    "已标记药品避免重复"
+                ]
+            },
+            {
+                id: 4,
+                title: "分类摆放",
+                description: "将针剂按病区、患者分类摆放，便于核对和发送。",
+                checklist: [
+                    "按病区分类",
+                    "按患者分篮",
+                    "标注患者信息",
+                    "特殊药品单独存放",
+                    "冷藏药品放入冷链箱"
+                ],
+                notes: [
+                    "分类清晰便于核对",
+                    "冷藏药品保持冷链",
+                    "高危药品醒目标识"
+                ]
+            },
+            {
+                id: 5,
+                title: "核对检查",
+                description: "对摆好的针剂进行核对，确保准确无误。",
+                checklist: [
+                    "核对药品与摆药单",
+                    "检查药品外观",
+                    "核对患者信息",
+                    "检查药品数量",
+                    "确认给药途径"
+                ],
+                notes: [
+                    "核对应逐项进行",
+                    "发现问题及时纠正",
+                    "核对无误后方可发送"
+                ]
+            },
+            {
+                id: 6,
+                title: "发送交接",
+                description: "将针剂按病区发送，与病区护士做好交接。",
+                checklist: [
+                    "按病区整理药篮",
+                    "填写发送记录",
+                    "与护士当面交接",
+                    "核对签收",
+                    "做好交接记录"
+                ],
+                notes: [
+                    "交接需当面清点",
+                    "冷链药品保持温度",
+                    "做好交接记录"
+                ]
+            }
+        ];
+
+        let currentStepIndex = 0;
+        let completedSteps = new Set();
+
+        // 初始化
+        function init() {
+            renderStepList();
+            renderStepContent();
+            updateProgress();
+        }
+
+        // 渲染步骤列表
+        function renderStepList() {
+            const stepList = document.getElementById('stepList');
+            stepList.innerHTML = steps.map((step, index) => `
+                <li class="step-item ${index === currentStepIndex ? 'active' : ''} ${completedSteps.has(step.id) ? 'completed' : ''}" 
+                    onclick="goToStep(${index})">
+                    <div class="step-header">
+                        <div class="step-number">${step.id}</div>
+                        <div class="step-title">${step.title}</div>
+                    </div>
+                </li>
+            `).join('');
+        }
+
+        // 渲染步骤内容
+        function renderStepContent() {
+            const contentArea = document.getElementById('contentArea');
+            const step = steps[currentStepIndex];
+            
+            contentArea.innerHTML = `
+                <div class="step-content active">
+                    <h2>步骤 ${step.id}: ${step.title}</h2>
+                    
+                    <div class="step-description">
+                        <p>${step.description}</p>
+                    </div>
+
+                    <div class="checklist">
+                        <h3>✓ 操作清单</h3>
+                        ${step.checklist.map((item, index) => `
+                            <div class="checklist-item" onclick="toggleChecklistItem(this)">
+                                <input type="checkbox" id="check-${step.id}-${index}">
+                                <label for="check-${step.id}-${index}">${item}</label>
+                            </div>
+                        `).join('')}
+                    </div>
+
+                    <div class="notes-section">
+                        <h3>⚠️ 注意事项</h3>
+                        <ul>
+                            ${step.notes.map(note => `<li>${note}</li>`).join('')}
+                        </ul>
+                    </div>
+
+                    <div class="navigation-buttons">
+                        <button class="nav-btn prev" onclick="prevStep()" ${currentStepIndex === 0 ? 'disabled' : ''}>
+                            ← 上一步
+                        </button>
+                        ${currentStepIndex === steps.length - 1 ? 
+                            '<button class="complete-btn" onclick="completeGuide()">✓ 完成指引</button>' :
+                            `<button class="nav-btn next" onclick="nextStep()">
+                                下一步 →
+                            </button>`
+                        }
+                    </div>
+                </div>
+            `;
+        }
+
+        // 跳转到指定步骤
+        function goToStep(index) {
+            currentStepIndex = index;
+            renderStepList();
+            renderStepContent();
+        }
+
+        // 上一步
+        function prevStep() {
+            if (currentStepIndex > 0) {
+                currentStepIndex--;
+                renderStepList();
+                renderStepContent();
+            }
+        }
+
+        // 下一步
+        function nextStep() {
+            completedSteps.add(steps[currentStepIndex].id);
+            if (currentStepIndex < steps.length - 1) {
+                currentStepIndex++;
+                renderStepList();
+                renderStepContent();
+                updateProgress();
+            }
+        }
+
+        // 切换清单项
+        function toggleChecklistItem(element) {
+            element.classList.toggle('completed');
+            const checkbox = element.querySelector('input[type="checkbox"]');
+            checkbox.checked = !checkbox.checked;
+        }
+
+        // 更新进度
+        function updateProgress() {
+            const progress = (completedSteps.size / steps.length) * 100;
+            document.getElementById('progressFill').style.width = progress + '%';
+            document.getElementById('currentStep').textContent = completedSteps.size;
+            document.getElementById('totalSteps').textContent = steps.length;
+        }
+
+        // 完成指引
+        function completeGuide() {
+            completedSteps.add(steps[currentStepIndex].id);
+            updateProgress();
+            document.getElementById('completionModal').classList.add('show');
+        }
+
+        // 关闭弹窗
+        function closeModal() {
+            document.getElementById('completionModal').classList.remove('show');
+        }
+
+        // 键盘导航
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'ArrowLeft') {
+                prevStep();
+            } else if (e.key === 'ArrowRight') {
+                nextStep();
+            } else if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
+
+        // 初始化
+        init();
+    </script>
+</body>
+</html>

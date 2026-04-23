@@ -1,0 +1,162 @@
+[
+  {
+    "name": "开喉剑",
+    "dosage_form": "喷雾剂",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>急慢性咽炎、扁桃体炎、咽喉肿痛</strong>；用于<strong>口腔溃疡、牙龈肿痛</strong>；具有<strong>清热解毒、消肿止痛</strong>的作用。",
+      "dosage": "外用喷雾。<strong>喷于患处，每次适量，一日数次</strong>；<strong>儿童需在成人监护下使用</strong>；<strong>用药后半小时内避免进食饮水</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇禁用；哺乳期妇女慎用。",
+      "adverse_reactions": "偶见<strong>局部刺激、恶心</strong>；罕见<strong>皮疹、瘙痒</strong>；个别患者可能出现<strong>过敏反应</strong>。",
+      "interactions": "与其他口腔用药合用需间隔使用；与含酒精制剂合用可能产生刺激。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为中药复方制剂，含八爪金龙、山豆根、蝉蜕、薄荷脑等；具有清热解毒、消肿止痛的作用；局部使用后在口腔黏膜发挥作用。",
+      "precautions": "孕妇禁用；儿童需在成人监护下使用；用药后半小时内避免进食饮水；如出现过敏反应应停药；2025版医保乙类，限儿童型。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "小儿肺咳",
+    "dosage_form": "颗粒",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>小儿支气管炎、肺炎引起的咳嗽</strong>；用于<strong>痰多、气喘</strong>；具有<strong>清肺化痰、止咳平喘</strong>的作用。",
+      "dosage": "开水冲服。<strong>1岁以下：一次2g，一日3次</strong>；<strong>1-4岁：一次3g，一日3次</strong>；<strong>5-8岁：一次6g，一日3次</strong>；<strong>饭后服用</strong>。",
+      "contraindications": "对本品成分过敏者禁用；糖尿病患者禁用（含糖型）。",
+      "adverse_reactions": "偶见<strong>腹泻、恶心</strong>；罕见<strong>皮疹、瘙痒</strong>；个别患者可能出现<strong>胃部不适</strong>。",
+      "interactions": "与镇咳药合用可能抑制咳嗽反射；与祛痰药合用可能增强效果；与抗生素合用治疗感染。",
+      "pregnancy_category": "不适用",
+      "pharmacokinetics": "为中药复方制剂，含麻黄、苦杏仁、石膏、甘草、金银花、连翘、知母、黄芩、板蓝根、麦冬、鱼腥草等；具有清肺化痰、止咳平喘的作用。",
+      "precautions": "风寒咳嗽者慎用；脾虚易腹泻者慎用；用药期间忌食辛辣油腻；2025版医保甲类，国基、市基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲人生长激素",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "<strong>【猝死和肿瘤风险警告】</strong>本品可能增加<strong>猝死风险</strong>（特别是Prader-Willi综合征患者）和<strong>肿瘤复发风险</strong>。有肿瘤病史者慎用，Prader-Willi综合征伴严重肥胖或呼吸问题者禁用。",
+      "indications": "用于<strong>内源性生长激素缺乏引起的儿童生长障碍</strong>；用于<strong>成人生长激素缺乏症</strong>；用于<strong>Turner综合征、慢性肾功能不全引起的生长障碍</strong>；用于<strong>Prader-Willi综合征引起的生长障碍</strong>（无严重肥胖或呼吸问题者）。",
+      "dosage": "皮下注射。<strong>儿童生长激素缺乏：0.025-0.035mg/kg/日，睡前注射</strong>；<strong>Turner综合征：0.045-0.067mg/kg/日</strong>；<strong>成人生长激素缺乏：起始0.15-0.3mg/日，逐渐调整</strong>。",
+      "contraindications": "对本品过敏者禁用；Prader-Willi综合征伴严重肥胖或呼吸问题者禁用；活动性肿瘤患者禁用；急性危重症患者禁用；闭合骨骺者禁用。",
+      "adverse_reactions": "常见<strong>注射部位反应、头痛、水肿、关节痛</strong>；可见<strong>甲状腺功能减退、血糖升高、颅内压升高</strong>；罕见<strong>过敏反应、股骨头坏死</strong>；可能增加<strong>肿瘤复发风险</strong>。",
+      "interactions": "与糖皮质激素合用可能减弱效果；与甲状腺激素合用需调整剂量；与胰岛素合用需调整剂量；与雌激素合用可能降低效果。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为重组人生长激素，与内源性生长激素结构相同；皮下注射后吸收缓慢；经肝脏和肾脏代谢；半衰期约2-4小时。",
+      "precautions": "有肿瘤病史者慎用；需监测甲状腺功能、血糖、骨龄；Prader-Willi综合征患者需筛查睡眠呼吸暂停；2025版医保乙类，国基，限注射剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "利鲁唑",
+    "dosage_form": "口服混悬液",
+    "manual": {
+      "black_box_warning": "<strong>【肝毒性警告】</strong>本品可能引起<strong>肝损伤</strong>。用药期间需定期监测肝功能（ALT），如出现肝功能异常需调整剂量或停药。",
+      "indications": "用于<strong>肌萎缩侧索硬化症（ALS，渐冻症）</strong>；可<strong>延长生存期或推迟气管切开时间</strong>。",
+      "dosage": "口服。<strong>推荐剂量：50mg，一日2次</strong>；<strong>餐前1小时或餐后2小时服用</strong>；<strong>混悬液使用前摇匀</strong>。",
+      "contraindications": "对本品过敏者禁用；严重肝功能不全患者禁用（基线ALT>5倍正常上限）；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>乏力、恶心、头痛、腹痛、眩晕</strong>；可见<strong>肝功能异常、白细胞减少</strong>；罕见<strong>过敏反应、间质性肺病</strong>；个别患者可能出现<strong>胰腺炎</strong>。",
+      "interactions": "与肝酶诱导剂合用可能降低药效；与肝酶抑制剂合用可能增加毒性；与骨髓抑制药物合用可能增加血液毒性；与肝毒性药物合用可能增加肝损伤风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为谷氨酸释放抑制剂，可减少谷氨酸对神经元的毒性作用；口服后吸收良好；经肝脏CYP1A2代谢；半衰期约12小时。",
+      "precautions": "用药前及用药期间定期监测肝功能；出现ALT>5倍正常上限需停药；中性粒细胞减少者慎用；服药期间避免饮酒；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸小檗碱",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>肠道感染</strong>，如<strong>细菌性痢疾、肠炎</strong>；用于<strong>腹泻</strong>；为<strong>植物来源抗菌药</strong>（黄连素）。",
+      "dosage": "口服。<strong>成人：一次0.1-0.3g，一日3次</strong>；<strong>儿童：一日5-10mg/kg，分3次服用</strong>；<strong>饭后服用</strong>。",
+      "contraindications": "对本品过敏者禁用；溶血性贫血患者禁用；葡萄糖-6-磷酸脱氢酶缺乏症患者禁用。",
+      "adverse_reactions": "偶见<strong>恶心、呕吐、皮疹、药物热</strong>；罕见<strong>溶血性贫血</strong>（G6PD缺乏者）；个别患者可能出现<strong>便秘</strong>。",
+      "interactions": "与含鞣质中药合用可能降低药效；与碱性药物合用可能降低药效。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为异喹啉类生物碱，从黄连、黄柏等植物中提取；对痢疾杆菌、大肠杆菌有抑制作用；口服吸收少，主要作用于肠道。",
+      "precautions": "G6PD缺乏者禁用；溶血性贫血患者禁用；孕妇慎用；哺乳期妇女慎用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸乙哌立松",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>肌肉痉挛和疼痛</strong>，如<strong>颈肩腕综合征、肩周炎、腰痛症</strong>；用于<strong>脑血管障碍、痉挛性脊髓麻痹、颈椎病</strong>引起的痉挛性麻痹。",
+      "dosage": "口服。<strong>成人：一次50mg，一日3次</strong>；<strong>根据年龄、症状适当调整</strong>；<strong>饭后服用</strong>。",
+      "contraindications": "对本品过敏者禁用；严重肝功能障碍患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>四肢无力、站立不稳、嗜睡</strong>；可见<strong>恶心、呕吐、厌食、腹痛</strong>；罕见<strong>皮疹、瘙痒、肝功能异常</strong>；个别患者可能出现<strong>休克</strong>。",
+      "interactions": "与中枢抑制剂合用可能增强镇静作用；与肌松药合用可能增强肌松作用；与酒精合用可能增强中枢抑制。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为中枢性肌松药，作用于脊髓和血管平滑肌；口服后吸收良好；经肝脏代谢；半衰期约1.5-2小时。",
+      "precautions": "肝功能障碍者慎用；服药期间避免驾驶和操作机械；孕妇禁用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸异丙肾上腺素",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>心动过缓、房室传导阻滞</strong>；用于<strong>心搏骤停</strong>；用于<strong>支气管哮喘急性发作</strong>；为<strong>β受体激动剂</strong>。",
+      "dosage": "静脉滴注或心内注射。<strong>心动过缓：0.02-0.1mg静脉注射</strong>；<strong>心搏骤停：0.5-1mg心内注射</strong>；<strong>支气管哮喘：0.25-0.5mg皮下注射或静脉滴注</strong>。",
+      "contraindications": "对本品过敏者禁用；心绞痛患者禁用；心肌梗死患者禁用；甲状腺功能亢进患者禁用；嗜铬细胞瘤患者禁用。",
+      "adverse_reactions": "常见<strong>心悸、心动过速、头痛、眩晕</strong>；可见<strong>面色潮红、出汗、震颤</strong>；过量可引起<strong>心律失常、心肌缺血</strong>。",
+      "interactions": "与洋地黄合用可能增加心律失常风险；与茶碱合用可能增加心脏毒性；与MAOI合用可能增强心血管效应。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为β受体激动剂，兴奋心脏β1受体和支气管β2受体；静脉给药起效快；经肝脏代谢；作用持续时间短。",
+      "precautions": "心绞痛、心肌梗死患者禁用；甲状腺功能亢进者慎用；需监测心率和心律；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸异丙嗪",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>过敏性疾病</strong>，如<strong>荨麻疹、过敏性鼻炎、支气管哮喘</strong>；用于<strong>晕动病、恶心呕吐</strong>；用于<strong>镇静催眠、术前给药</strong>；为<strong>吩噻嗪类抗组胺药</strong>。",
+      "dosage": "肌内注射或静脉滴注。<strong>抗过敏：一次25mg，必要时2小时后重复</strong>；<strong>止吐：一次12.5-25mg，必要时每4-6小时一次</strong>；<strong>镇静：一次25-50mg</strong>。",
+      "contraindications": "对本品过敏者禁用；昏迷患者禁用；严重呼吸抑制患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>嗜睡、口干、视物模糊、头晕</strong>；可见<strong>低血压、心动过速、锥体外系反应</strong>；罕见<strong>粒细胞减少、黄疸</strong>；静脉注射可引起<strong>局部刺激和血栓性静脉炎</strong>。",
+      "interactions": "与中枢抑制剂合用可能增强镇静作用；与抗胆碱药合用可能增强抗胆碱作用；与酒精合用可能增强中枢抑制。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为吩噻嗪类抗组胺药，具有抗组胺、镇静、止吐作用；肌内注射后吸收良好；经肝脏代谢；半衰期约7-14小时。",
+      "precautions": "癫痫患者慎用；青光眼患者慎用；前列腺肥大患者慎用；静脉注射需缓慢；孕妇禁用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸右美托咪定",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>全身麻醉的辅助用药</strong>；用于<strong>ICU患者的镇静</strong>；为<strong>高选择性α2肾上腺素受体激动剂</strong>。",
+      "dosage": "静脉滴注。<strong>负荷剂量：1μg/kg，10分钟滴注</strong>；<strong>维持剂量：0.2-0.7μg/kg/h</strong>；<strong>根据镇静水平调整</strong>。",
+      "contraindications": "对本品过敏者禁用；严重肝功能不全患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>低血压、心动过缓、口干</strong>；可见<strong>恶心、呕吐、发热</strong>；罕见<strong>房室传导阻滞、窦性停搏</strong>。",
+      "interactions": "与麻醉药合用可能增强镇静和心血管抑制；与β受体阻滞剂合用可能增加心动过缓风险；与利尿剂合用可能增强降压效果。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为高选择性α2受体激动剂，具有镇静、镇痛、抗焦虑作用；静脉给药后起效快；经肝脏代谢；半衰期约2小时。",
+      "precautions": "需监测血压和心率；严重心动过缓患者慎用；肝功能不全者需减量；孕妇禁用；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸曲马多",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "<strong>【成瘾性、呼吸抑制和死亡风险警告】</strong>本品为<strong>阿片类镇痛药</strong>，具有<strong>成瘾性</strong>，可能导致<strong>呼吸抑制、滥用、误用和死亡</strong>。需严格按照医嘱使用，避免长期使用。",
+      "indications": "用于<strong>中度至重度疼痛</strong>，如<strong>术后疼痛、癌痛、创伤性疼痛</strong>；为<strong>中枢性镇痛药</strong>。",
+      "dosage": "肌内注射或静脉注射。<strong>一次50-100mg，必要时每4-6小时一次</strong>；<strong>一日最大剂量400mg</strong>；<strong>肾功能不全者需减量</strong>。",
+      "contraindications": "对本品过敏者禁用；酒精、镇静剂、催眠药中毒者禁用；严重呼吸抑制患者禁用；严重肝功能不全患者禁用；孕妇禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、头晕、嗜睡、便秘</strong>；可见<strong>出汗、口干、头痛</strong>；罕见<strong>癫痫发作、过敏反应、呼吸抑制</strong>；长期使用可产生<strong>依赖性和耐受性</strong>。",
+      "interactions": "与中枢抑制剂合用可能增强中枢抑制；与MAOI合用可能引起5-羟色胺综合征；与酒精合用可能增强中枢抑制；与卡马西平合用可能降低曲马多效果。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为弱阿片类镇痛药，作用于μ阿片受体和抑制5-HT/NE再摄取；肌内注射后吸收良好；经肝脏代谢；半衰期约6-8小时。",
+      "precautions": "癫痫患者慎用；肝肾功能不全者需减量；有成瘾风险，避免长期使用；孕妇禁用；2025版医保甲类，国基。",
+      "source": "湖南药事服务网"
+    }
+  }
+]

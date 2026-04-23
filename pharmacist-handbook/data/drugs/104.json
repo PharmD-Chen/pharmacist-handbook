@@ -1,0 +1,56 @@
+{
+  "id": 104,
+  "name": "氟哌噻吨美利曲辛片",
+  "dosage_form": "片",
+  "full_name": "(甲)氟哌噻吨美利曲辛片[市基]",
+  "chemical_name": "氟哌噻吨美利曲辛片",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "四川海思科制药有限公司有限公司)"
+  ],
+  "specifications": [
+    {
+      "specification": "1片/片",
+      "manufacturer": "四川海思科制药有限公司有限公司)",
+      "full_manufacturer": "四川海思科制药有限公司(委托:海思科制药（眉山）有限公司)",
+      "price": 29.01,
+      "unit": "盒",
+      "code": "Y00000015013",
+      "approval_number": "国药准字H20153014",
+      "insurance_code": "XN06CAF088A001010379282",
+      "location": "E-2",
+      "outpatient_location": "G-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于神经官能症所致的多种焦虑抑郁状态。也用于神经性头痛、偏头痛、紧张性头痛，某些顽固性疼痛及慢性疼痛等。",
+    "dosage": "口服：一日2片，早晨单次顿服，或早晨、中午各服1片。严重者一日3片，早晨2片，中午1片。维持量为一日1片，早晨服药。",
+    "contraindications": "症 严重心脏病、闭角型青光眼、精神高度兴奋、造血功能紊乱、前列腺腺瘤患者禁用。",
+    "adverse_reactions": "⑴可引起体位性低血压、有增加房室传导阻滞的危险。 ⑵中枢神经系统主要为锥体外系反应，但美利曲辛可以对抗氟哌噻吨的锥体外系反应。氟哌噻吨有引起神经阻滞恶性综合征的报道，美利曲辛可引起多汗症。 ⑶还可引起接触性皮炎、光敏感度增加等。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴癫痫发作，肝、肾功能损害者，心脏疾病患者慎用。 ⑵不推荐儿童使用本品，妊娠期妇女、哺乳期妇女慎用。 用药交代 不要随意停药，如要停药咨询药师或医师。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗神经官能症所致的多种焦虑抑郁状态。也用于治疗神经性头痛、偏头痛、紧张性头痛，某些顽固性疼痛及慢性疼痛等。",
+    "full_dosage": "口服：一日2片，早晨单次顿服，或早晨、中午各服1片。严重者一日3片，早晨2片，中午1片。维持量为一日1片，早晨服药。",
+    "full_contraindications": "症 严重心脏病、闭角型青光眼、精神高度兴奋、造血功能紊乱、前列腺腺瘤患者禁用。",
+    "full_adverse_reactions": "⑴可引起体位性低血压、有增加房室传导阻滞的危险。 ⑵中枢神经系统主要为锥体外系反应，但美利曲辛可以对抗氟哌噻吨的锥体外系反应。氟哌噻吨有引起神经阻滞恶性综合征的报道，美利曲辛可引起多汗症。 ⑶还可引起接触性皮炎、光敏感度增加等。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴癫痫发作，肝、肾功能损害者，心脏疾病患者慎用。 ⑵不推荐儿童使用本品，妊娠期妇女、哺乳期妇女慎用。 用药交代 不要随意停药，如要停药请咨询药师或医师。"
+  },
+  "pinyin": "fupaisaidunmeiliquxin",
+  "pinyin_initials": "fpsdmlqx",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=379",
+    "last_updated": "2026-03-21"
+  }
+}

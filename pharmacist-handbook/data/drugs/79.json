@@ -1,0 +1,50 @@
+{
+  "id": 79,
+  "name": "依奇珠单抗注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)依奇珠单抗注射液",
+  "chemical_name": "依奇珠单抗注射液",
+  "types": [],
+  "manufacturers": [
+    "Eli Lilly and Company"
+  ],
+  "specifications": [
+    {
+      "specification": "80mg/支",
+      "manufacturer": "Eli Lilly and Company",
+      "full_manufacturer": "Eli Lilly and Company",
+      "price": 1218.0,
+      "unit": "盒",
+      "code": "X00917",
+      "approval_number": "国药准字SJ20190034",
+      "insurance_code": "XL04ACY317B002010178396"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于适合系统治疗或光疗的中度至重度成人斑块型银屑病。",
+    "dosage": "皮下注射：推荐剂量是160mg（两次80mg注射）在星期0，随后在2、4、6、8、10、12周取80mg，然后是每4周80mg。",
+    "contraindications": "对本品及其任何的赋形剂成分严重过敏者禁用。",
+    "adverse_reactions": "最常见的不良反应（≥1％）治疗方法是注射部位反应，上呼吸道感染，恶心和癣感染，间质性肺炎。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品为靶向IL-17A抑制剂，具有高亲和力，特异性结合银屑病关键致病因子白介素17A（IL-17A/A和IL-17A/F）12。",
+    "precautions": "使用本品时，如患者出现咳嗽、呼吸困难、发热等症状，立即进行胸部X线、胸部CT扫描、血清标志物检测等检查。如怀疑间质性肺炎，停用依奇珠单抗，并给予糖皮质激素等适当治疗措施。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗适合系统治疗或光疗的中度至重度成人斑块型银屑病。",
+    "full_dosage": "皮下注射：推荐剂量是160mg（两次80mg注射）在星期0，随后在2、4、6、8、10、12周取80mg，然后是每4周80mg。",
+    "full_contraindications": "对本品及其任何的赋形剂成分严重过敏者禁用。",
+    "full_adverse_reactions": "最常见的不良反应（≥1％）治疗方法是注射部位反应，上呼吸道感染，恶心和癣感染，间质性肺炎。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品为靶向IL-17A抑制剂，具有高亲和力，特异性结合银屑病关键致病因子白介素17A（IL-17A/A和IL-17A/F）12。",
+    "full_precautions": "使用本品时，如患者出现咳嗽、呼吸困难、发热等症状，应立即进行胸部X线、胸部CT扫描、血清标志物检测等检查。如怀疑间质性肺炎，应停用依奇珠单抗，并给予糖皮质激素等适当治疗措施。"
+  },
+  "pinyin": "※▲yiqizhudankang",
+  "pinyin_initials": "※▲yqzdk",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=12999",
+    "last_updated": "2026-03-22"
+  }
+}

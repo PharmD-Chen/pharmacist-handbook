@@ -1,0 +1,18 @@
+[
+  {
+    "name": "※▲乌司奴单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>适用于对环孢素、甲氨喋呤(MTX)或PUVA等其他系统性治疗不应答、有禁忌或无法耐受的成年中重度斑块状银屑病患者</strong>；<strong>适用于对传统治疗或TNFα拮抗剂应答不足、失应答或无法耐受的成年中重度活动性克罗恩病患者</strong>；<strong>治疗对常规疗法或生物制剂反应不足或不耐受的中重度活动性溃疡性结肠炎成人患者</strong>。",
+      "dosage": "皮下注射（银屑病）：<strong>第0周和第4周各45mg，之后每12周45mg</strong>；体重>100kg者推荐剂量为90mg。静脉输注（克罗恩病、溃疡性结肠炎）：<strong>单次诱导剂量约6mg/kg</strong>，维持剂量每8周90mg皮下注射。",
+      "contraindications": "<strong>对活性成份或任何辅料存在超敏反应者禁用</strong>；<strong>有临床上重要的活动性感染者禁用</strong>（如活动性结核病）。",
+      "adverse_reactions": "最常见<strong>头痛、关节痛、鼻咽炎、上呼吸道感染</strong>；有<strong>严重细菌、真菌和病毒感染</strong>报告；<strong>皮肤及非皮肤恶性肿瘤</strong>风险；<strong>严重超敏反应（速发过敏反应、血管性水肿）</strong>。",
+      "interactions": "<strong>不建议同时接受活病毒或活菌疫苗接种</strong>（如卡介苗）；<strong>与免疫抑制剂合用可能增加感染风险</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "人源化单克隆抗体，能与IL-12和IL-23共有的p40亚基特异性结合，阻断各自介导的免疫反应。皮下注射后生物利用度约57%，达峰时间约7-13.5天，半衰期约21-32天。",
+      "precautions": "<strong>可能增加感染和再度激活潜伏性感染的风险</strong>；<strong>使用前应评估结核感染，活动性结核病禁用</strong>；<strong>慢性感染或复发性感染史患者慎用</strong>；<strong>恶性肿瘤风险增加</strong>；<strong>2-8℃避光保存，请勿冷冻，禁止振摇</strong>；2025版医保乙类，注射液(静脉输注)为协议期谈判药品，限对传统治疗或TNF-α拮抗剂应答不足、失应答或无法耐受的成年中重度活动性克罗恩病患者；协议期：2026.1.1-2027.12.31。",
+      "solvent": "皮下注射或静脉输注，静脉输注需稀释",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

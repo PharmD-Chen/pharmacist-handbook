@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>岗位手册 - 上海市养志康复医院</title>
+    <script src="auth.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+
+        /* 头部 */
+        .header {
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            color: white;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .header h1 {
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .back-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            text-decoration: none;
+            transition: background 0.3s;
+        }
+
+        .back-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+
+        /* 主内容区 */
+        .main-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 30px 20px;
+        }
+
+        /* 标题区域 */
+        .page-title {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .page-title h2 {
+            font-size: 26px;
+            margin-bottom: 8px;
+        }
+
+        .page-title p {
+            opacity: 0.9;
+            font-size: 15px;
+        }
+
+        /* 岗位分类 */
+        .position-category {
+            margin-bottom: 30px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 20px;
+            backdrop-filter: blur(10px);
+        }
+
+        .category-title {
+            color: white;
+            font-size: 18px;
+            margin-bottom: 15px;
+            padding-left: 12px;
+            border-left: 4px solid rgba(255,255,255,0.7);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        /* 手册网格 */
+        .manual-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 15px;
+        }
+
+        .manual-item {
+            background: white;
+            border-radius: 10px;
+            padding: 18px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            text-decoration: none;
+            color: #333;
+            display: block;
+        }
+
+        .manual-item:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+        }
+
+        .manual-title {
+            font-size: 15px;
+            font-weight: 600;
+            color: #0E7490;
+            margin-bottom: 6px;
+        }
+
+        .manual-desc {
+            font-size: 13px;
+            color: #666;
+            line-height: 1.4;
+        }
+
+        /* 页脚 */
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: rgba(255,255,255,0.7);
+            font-size: 12px;
+        }
+
+        @media (max-width: 600px) {
+            .manual-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .page-title h2 {
+                font-size: 22px;
+            }
+            
+            .position-category {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 头部 -->
+    <header class="header">
+        <h1>岗位手册</h1>
+        <a href="pharmacist-main.html" class="back-btn">← 返回首页</a>
+    </header>
+
+    <!-- 主内容 -->
+    <main class="main-content">
+        <!-- 标题区域 -->
+        <div class="page-title">
+            <h2>选择岗位手册</h2>
+            <p>请点击下方按钮查看相应岗位的操作流程和工作规范</p>
+        </div>
+
+        <!-- 门诊药房 -->
+        <div class="position-category">
+            <h3 class="category-title">门诊药房</h3>
+            <div class="manual-grid">
+                <a href="outpatient-dispensing.html" class="manual-item">
+                    <div class="manual-title">门诊发药操作指引</div>
+                    <div class="manual-desc">门诊处方审核、调配、发药标准化流程</div>
+                </a>
+                <a href="workflow/outpatient-review.html" class="manual-item">
+                    <div class="manual-title">处方审核操作指引</div>
+                    <div class="manual-desc">处方合理性审核、用药适宜性评价</div>
+                </a>
+                <a href="#" class="manual-item" onclick="alert('药品调配操作指引正在建设中')">
+                    <div class="manual-title">药品调配操作指引</div>
+                    <div class="manual-desc">门诊药品调配、核对、包装规范</div>
+                </a>
+                <a href="#" class="manual-item" onclick="alert('用药指导操作指引正在建设中')">
+                    <div class="manual-title">用药指导操作指引</div>
+                    <div class="manual-desc">患者用药教育、注意事项说明</div>
+                </a>
+                <a href="#" class="manual-item" onclick="alert('退药处理操作指引正在建设中')">
+                    <div class="manual-title">退药处理操作指引</div>
+                    <div class="manual-desc">门诊退药审核、药品回收流程</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- 住院药房 -->
+        <div class="position-category">
+            <h3 class="category-title">住院药房</h3>
+            <div class="manual-grid">
+                <a href="oral-medication-dispensing.html" class="manual-item">
+                    <div class="manual-title">口服药摆药操作指引</div>
+                    <div class="manual-desc">口服药自动分包机摆药规范流程</div>
+                </a>
+                <a href="oral-medication-check.html" class="manual-item">
+                    <div class="manual-title">口服药核对操作指引</div>
+                    <div class="manual-desc">口服药三查七对核对规范流程</div>
+                </a>
+                <a href="injection-dispensing.html" class="manual-item">
+                    <div class="manual-title">针剂摆药操作指引</div>
+                    <div class="manual-desc">注射剂汇总摆药标准化流程</div>
+                </a>
+                <a href="workflow/inpatient-scan.html" class="manual-item">
+                    <div class="manual-title">扫码发药操作指引</div>
+                    <div class="manual-desc">住院药房扫码发药标准化操作流程</div>
+                </a>
+                <a href="inpatient-return-medication.html" class="manual-item">
+                    <div class="manual-title">退药处理操作指引</div>
+                    <div class="manual-desc">患者退药审核与处理流程</div>
+                </a>
+                <a href="medication-splitting.html" class="manual-item">
+                    <div class="manual-title">药品拆零操作指引</div>
+                    <div class="manual-desc">住院药房药品拆零规范管理流程</div>
+                </a>
+                <a href="#" class="manual-item" onclick="alert('麻醉药品管理指引正在建设中')">
+                    <div class="manual-title">麻醉药品管理指引</div>
+                    <div class="manual-desc">精麻药品领取、使用、登记规范</div>
+                </a>
+                <a href="#" class="manual-item" onclick="alert('盘点操作指引正在建设中')">
+                    <div class="manual-title">盘点操作指引</div>
+                    <div class="manual-desc">月度盘点、临时盘点操作流程</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- 药库管理 -->
+        <div class="position-category">
+            <h3 class="category-title">药库管理</h3>
+            <div class="manual-grid">
+                <a href="workflow/storage-inventory.html" class="manual-item">
+                    <div class="manual-title">药品入库验收</div>
+                    <div class="manual-desc">药品验收标准、入库流程、质量检查要点</div>
+                </a>
+                <a href="workflow/storage-management.html" class="manual-item">
+                    <div class="manual-title">库存管理规范</div>
+                    <div class="manual-desc">库存盘点、效期管理、储存条件维护</div>
+                </a>
+                <a href="#" class="manual-item" onclick="alert('药品养护操作指引正在建设中')">
+                    <div class="manual-title">药品养护操作指引</div>
+                    <div class="manual-desc">温湿度监控、药品养护、质量检查</div>
+                </a>
+                <a href="#" class="manual-item" onclick="alert('采购管理操作指引正在建设中')">
+                    <div class="manual-title">采购管理操作指引</div>
+                    <div class="manual-desc">采购计划制定、供应商管理、订单处理</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- 临床药学 -->
+        <div class="position-category">
+            <h3 class="category-title">临床药学</h3>
+            <div class="manual-grid">
+                <a href="workflow/clinical-review.html" class="manual-item">
+                    <div class="manual-title">医嘱点评规范</div>
+                    <div class="manual-desc">处方点评标准、不合理医嘱识别、干预流程</div>
+                </a>
+                <a href="workflow/clinical-consultation.html" class="manual-item">
+                    <div class="manual-title">用药咨询服务</div>
+                    <div class="manual-desc">患者用药教育、医师用药咨询、不良反应处理</div>
+                </a>
+                <a href="#" class="manual-item" onclick="alert('治疗药物监测正在建设中')">
+                    <div class="manual-title">治疗药物监测</div>
+                    <div class="manual-desc">血药浓度监测、个体化给药方案制定</div>
+                </a>
+                <a href="#" class="manual-item" onclick="alert('药学查房规范正在建设中')">
+                    <div class="manual-title">药学查房规范</div>
+                    <div class="manual-desc">药学查房流程、重点患者监护、用药建议</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- 质量控制 -->
+        <div class="position-category">
+            <h3 class="category-title">质量控制</h3>
+            <div class="manual-grid">
+                <a href="medication-damage-report.html" class="manual-item">
+                    <div class="manual-title">药品报损登记</div>
+                    <div class="manual-desc">药品退药报损录入、查询与导出</div>
+                </a>
+                <a href="#" class="manual-item" onclick="alert('药品质量检查正在建设中')">
+                    <div class="manual-title">药品质量检查</div>
+                    <div class="manual-desc">药品外观检查、质量抽检、不合格品处理</div>
+                </a>
+                <a href="#" class="manual-item" onclick="alert('差错事故处理正在建设中')">
+                    <div class="manual-title">差错事故处理</div>
+                    <div class="manual-desc">差错报告、原因分析、改进措施</div>
+                </a>
+                <a href="#" class="manual-item" onclick="alert('不良反应监测正在建设中')">
+                    <div class="manual-title">不良反应监测</div>
+                    <div class="manual-desc">ADR报告、分析评价、上报流程</div>
+                </a>
+            </div>
+        </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <p>上海市养志康复医院药剂科 © 2026</p>
+    </footer>
+
+    <script>
+        // 检查登录状态
+        if (typeof AuthManager !== 'undefined') {
+            AuthManager.checkAuth();
+        }
+    </script>
+</body>
+</html>

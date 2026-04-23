@@ -1,0 +1,53 @@
+{
+  "id": 930,
+  "name": "宫血宁胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(甲)宫血宁胶囊",
+  "chemical_name": "宫血宁胶囊",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "云南白药集团"
+  ],
+  "specifications": [
+    {
+      "specification": "0.13g/粒",
+      "manufacturer": "云南白药集团",
+      "full_manufacturer": "云南白药集团股份有限公司",
+      "price": 99.5,
+      "unit": "盒",
+      "code": "C00108",
+      "approval_number": "国药准字Z20020087",
+      "insurance_code": "ZD02AAG0222010205629",
+      "outpatient_location": "V-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "凉血止血，清热除湿，化瘀止痛。用于崩漏下血，月经过多，产后或流产后宫缩不良出血及子宫功能性出血属血热妄行证者，以及慢性盆腔炎之湿热瘀结所致的少腹痛、腰骶痛、带下增多。",
+    "full_indications": "凉血止血，清热除湿，化瘀止痛。用于崩漏下血，月经过多，产后或流产后宫缩不良出血及子宫功能性出血属血热妄行证者，以及慢性盆腔炎之湿热瘀结所致的少腹痛、腰骶痛、带下增多。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "口服：一次1-2粒，一日3次。血止停服。",
+    "full_dosage": "口服：一次1-2粒，一日3次。血止停服。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "full_adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "孕妇忌服；服药期间忌辛辣、生冷食物。",
+    "full_precautions": "1.孕妇忌服。2.服药期间忌辛辣、生冷食物。3.胃肠道疾病患者慎用。4.药品性状发生改变时禁止使用。",
+    "source": "湖南药事服务网"
+  },
+  "pinyin": "gongxuening",
+  "pinyin_initials": "gxn",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13214"
+  }
+}

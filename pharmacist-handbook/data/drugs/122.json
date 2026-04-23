@@ -1,0 +1,62 @@
+{
+  "id": 122,
+  "name": "牛碱性成纤维细胞生长因子滴眼液",
+  "dosage_form": "滴眼液",
+  "full_name": "(乙10%)牛碱性成纤维细胞生长因子滴眼液",
+  "chemical_name": "牛碱性成纤维细胞生长因子滴眼液",
+  "types": [],
+  "manufacturers": [
+    "珠海亿胜生物制药"
+  ],
+  "specifications": [
+    {
+      "specification": "21000IU/5ml/瓶",
+      "manufacturer": "珠海亿胜生物制药",
+      "full_manufacturer": "珠海亿胜生物制药有限公司",
+      "price": 21.09,
+      "unit": "盒",
+      "code": "X00162",
+      "approval_number": "国药准字S19991022",
+      "insurance_code": "XS01XAN125G010020100612",
+      "location": "2E-5",
+      "outpatient_location": "2C-1"
+    },
+    {
+      "specification": "21000IU/5ml/瓶",
+      "manufacturer": "珠海亿胜生物制药",
+      "full_manufacturer": "珠海亿胜生物制药有限公司",
+      "price": 21.09,
+      "unit": "盒",
+      "code": "Y00000014988",
+      "approval_number": "国药准字S19991022",
+      "insurance_code": "XS01XAN125G010020100612"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "适用于有糖尿病的患者，或糖耐量不正常合并有营养不良，有肠道功能而又不能正常进食的患者。",
+    "dosage": "通过管饲或口服使用，应根据患者体重和消耗状况计算每日用量。 ⑴需要安全量补充者：推荐剂量为按体重一日30ml/kg，平均剂量为一日2000ml（1800kcal）。 ⑵部分营养补充者：推荐剂量为一日500ml（500kcal）。管饲给药时，应逐渐增加给药速度，第一天的速度约为20ml/h，以后每天逐日增至125ml/h。通过重力或泵调整输注速度。",
+    "contraindications": "症 禁用：胃肠张力下降、急性胰腺炎和严重消化、吸收障碍。肝肾功能不全以及对本品所含成分有先天性代谢障碍者。",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "⑴给药速度过快或过量时，可能发生恶心、呕吐或腹泻。 ⑵对糖尿病患者适当调节降糖药用量或将每天用量分成几小部分给予。 ⑶注意本品所含成分（例如维生素A和K）的药物相互作用。",
+    "source": "湖南药事服务网",
+    "full_indications": "适用于有糖尿病的患者，或糖耐量不正常合并有营养不良，有肠道功能而又不能正常进食的患者。",
+    "full_dosage": "通过管饲或口服使用，应根据患者体重和消耗状况计算每日用量。 ⑴需要安全量补充者：推荐剂量为按体重一日30ml/kg，平均剂量为一日2000ml（1800kcal）。 ⑵部分营养补充者：推荐剂量为一日500ml（500kcal）。管饲给药时，应逐渐增加给药速度，第一天的速度约为20ml/h，以后每天逐日增至125ml/h。通过重力或泵调整输注速度。",
+    "full_contraindications": "症 禁用于胃肠张力下降、急性胰腺炎和严重消化、吸收障碍。肝肾功能不全以及对本品所含成分有先天性代谢障碍者。",
+    "full_adverse_reactions": "",
+    "full_interactions": "。",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴给药速度过快或过量时，可能发生恶心、呕吐或腹泻。 ⑵对糖尿病患者应适当调节降糖药用量或将每天用量分成几小部分给予。 ⑶注意本品所含成分（例如维生素A和K）的药物相互作用。"
+  },
+  "pinyin": "niujianxingchengxianweixibaoshengzhangyinzi",
+  "pinyin_initials": "njxcxwxbszyz",
+  "dosage_form_pinyin": "diyanye",
+  "dosage_form_initials": "dyy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3547",
+    "last_updated": "2026-03-22"
+  }
+}

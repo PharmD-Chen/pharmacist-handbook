@@ -1,0 +1,47 @@
+{
+  "id": 758,
+  "name": "盐酸金霉素眼膏",
+  "dosage_form": "眼膏",
+  "full_name": "(甲)盐酸金霉素眼膏[市基]",
+  "chemical_name": "盐酸金霉素眼膏",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "山东辰欣佛都药业"
+  ],
+  "specifications": [
+    {
+      "specification": "2g/支",
+      "manufacturer": "山东辰欣佛都药业",
+      "full_manufacturer": "山东辰欣佛都药业股份有限公司",
+      "price": 6.7,
+      "unit": "盒",
+      "code": "X00182",
+      "approval_number": "国药准字H37021990",
+      "insurance_code": "XS01AAJ123G004020104127",
+      "location": "2L-1",
+      "outpatient_location": "2F-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "yansuanjinmeisu",
+  "pinyin_initials": "ysjms",
+  "dosage_form_pinyin": "yangao",
+  "dosage_form_initials": "yg",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1913"
+  }
+}

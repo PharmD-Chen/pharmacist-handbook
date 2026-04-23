@@ -1,0 +1,242 @@
+[
+  {
+    "name": "注射用头孢唑林钠",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>敏感菌引起的各种感染</strong>，如<strong>呼吸道感染、泌尿道感染、皮肤软组织感染、骨和关节感染</strong>；用于<strong>败血症、心内膜炎</strong>；常作为<strong>手术前预防用药</strong>，预防术后切口感染。",
+      "dosage": "肌内注射或静脉注射。<strong>成人常用量：一次0.5-1g，一日2-4次</strong>；<strong>严重感染：一次1-1.5g，一日3-4次</strong>；<strong>儿童：一日20-40mg/kg，分3-4次</strong>；<strong>预防术后感染：术前0.5-1小时给予0.5-1g</strong>。",
+      "contraindications": "对本品过敏者禁用；对头孢菌素类过敏者禁用；有青霉素过敏性休克史者禁用。",
+      "adverse_reactions": "常见<strong>皮疹、瘙痒、胃肠道反应（恶心、腹泻）</strong>；可见<strong>肝功能异常、白细胞减少</strong>；罕见<strong>过敏反应、间质性肾炎</strong>；长期使用可能引起二重感染。",
+      "interactions": "与氨基糖苷类合用可能增加肾毒性；与强效利尿剂合用可能增加肾毒性；与丙磺舒合用可延长半衰期；与抗凝药合用可能增加出血风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为第一代头孢菌素，对革兰阳性菌作用较强；肌内注射后吸收良好；广泛分布于体液和组织，但对血脑屏障穿透性较差；主要经肾脏排泄，半衰期约1.8小时。",
+      "precautions": "用药前需询问过敏史，有青霉素过敏史者慎用；肾功能不全者需调整剂量；用药期间定期监测肾功能；长期使用需监测二重感染；不宜用于中枢神经系统感染；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "托吡卡胺",
+    "dosage_form": "滴眼液",
+    "manual": {
+      "black_box_warning": "<strong>【青光眼警告】</strong>本品可<strong>升高眼压</strong>，青光眼患者禁用；前房角狭窄患者慎用。滴眼后需<strong>压迫泪囊2-3分钟</strong>，减少全身吸收。",
+      "indications": "用于<strong>散瞳检查眼底</strong>；用于<strong>验光配镜前的散瞳</strong>；用于<strong>虹膜睫状体炎的散瞳、防止虹膜后粘连</strong>；为<strong>抗胆碱药</strong>，具有散瞳和睫状肌麻痹作用。",
+      "dosage": "眼部给药。<strong>滴入结膜囊内，一次1-2滴，必要时5-10分钟后再用一次</strong>；<strong>散瞳检查：一次1滴，隔5分钟滴第2次</strong>；<strong>滴药后压迫泪囊2-3分钟</strong>。",
+      "contraindications": "对本品过敏者禁用；青光眼患者禁用；前房角狭窄患者禁用。",
+      "adverse_reactions": "常见<strong>暂时性眼部刺激、视力模糊、畏光</strong>；可见<strong>面部潮红、口干、心动过速</strong>（全身吸收）；罕见<strong>过敏反应、眼压升高</strong>；儿童可能出现中枢神经系统症状。",
+      "interactions": "与抗胆碱酯酶药合用可能相互拮抗；与抗组胺药合用可能增强抗胆碱作用；与三环类抗抑郁药合用可能增强抗胆碱作用。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为M胆碱受体阻断药，散瞳和睫状肌麻痹作用起效快、持续时间短；滴眼后5-10分钟开始散瞳，15-20分钟达最大效果，约维持1.5小时后开始缩瞳，5-10小时瞳孔恢复；可经鼻泪管全身吸收。",
+      "precautions": "滴眼后必须压迫泪囊2-3分钟；儿童用药需减量；老年人慎用；驾驶或操作机械者用药期间需注意；用药期间避免强光刺激；2025版医保甲类，限滴眼液。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "妥布霉素地塞米松",
+    "dosage_form": "滴眼液",
+    "manual": {
+      "black_box_warning": "<strong>【青光眼和白内障警告】</strong>长期使用含<strong>糖皮质激素的滴眼液可能引起眼压升高、青光眼、白内障</strong>。需定期监测眼压。",
+      "indications": "用于<strong>对糖皮质激素敏感的眼部炎症</strong>，如<strong>结膜炎、角膜炎、睑缘炎、葡萄膜炎</strong>；用于<strong>伴有细菌感染的眼部炎症</strong>；具有<strong>抗菌和抗炎</strong>双重作用。",
+      "dosage": "眼部给药。<strong>滴入结膜囊内，一次1-2滴，每4-6小时1次</strong>；<strong>严重感染：每小时1-2滴，病情改善后逐渐减少用药次数</strong>；<strong>疗程一般不超过2周</strong>。",
+      "contraindications": "对本品成分过敏者禁用；对氨基糖苷类过敏者禁用；对糖皮质激素过敏者禁用；角膜上皮缺损患者禁用；病毒性角膜炎禁用；结核性眼病禁用；真菌感染禁用。",
+      "adverse_reactions": "常见<strong>眼部刺激、烧灼感、视力模糊</strong>；长期使用可能引起<strong>眼压升高、青光眼、白内障、角膜变薄</strong>；可见<strong>继发感染、伤口愈合延迟</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与其他氨基糖苷类药物合用需谨慎；与全身性糖皮质激素合用可能增加全身不良反应；与其他眼用药物合用需间隔5-10分钟。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "含妥布霉素（氨基糖苷类抗生素）和地塞米松（糖皮质激素）；妥布霉素抑制细菌蛋白质合成，地塞米松具有抗炎、抗过敏作用；眼用给药后主要在局部发挥作用。",
+      "precautions": "不宜长期使用，疗程一般不超过2周；使用超过10天需监测眼压；佩戴隐形眼镜者用药期间不宜戴镜；避免药瓶口接触眼睛；病毒性、结核性、真菌性眼病禁用；2025版医保甲类，限滴眼液。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "鼻渊舒口服液",
+    "dosage_form": "其他",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>鼻炎、鼻窦炎属肺经风热及胆腑郁热证者</strong>；症见<strong>鼻塞、流涕、头痛、嗅觉减退</strong>；具有<strong>疏风清热、祛湿通窍</strong>的作用。",
+      "dosage": "口服。<strong>一次10ml，一日2-3次</strong>；<strong>饭后服用</strong>；<strong>7天为一疗程</strong>；<strong>根据病情调整疗程</strong>。",
+      "contraindications": "对本品成分过敏者禁用；孕妇禁用；哺乳期妇女慎用；脾胃虚寒者慎用。",
+      "adverse_reactions": "偶见<strong>胃部不适、恶心、腹泻</strong>；罕见<strong>皮疹、瘙痒</strong>；个别患者可能出现<strong>头晕、乏力</strong>。",
+      "interactions": "不宜与滋补性中药同时服用；与抗生素合用可能增强抗菌效果；与抗组胺药合用可能增强效果。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "由苍耳子、辛夷、薄荷、白芷、黄芩、栀子、柴胡、细辛、川芎、黄芪、川木通、桔梗、茯苓等中药组成；具有疏风清热、祛湿通窍的作用；口服后在胃肠道吸收。",
+      "precautions": "服药期间忌食辛辣、油腻食物；多饮温水，保持鼻腔通畅；用药7天症状无改善应就医；儿童需在成人监护下使用；2025版医保甲类，限口服液。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "利可君",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>预防、治疗白细胞减少症及血小板减少症</strong>；用于<strong>肿瘤放疗、化疗引起的骨髓抑制</strong>；用于<strong>再生障碍性贫血、MDS等血液病的辅助治疗</strong>；具有<strong>促进骨髓造血</strong>作用。",
+      "dosage": "口服。<strong>一次20mg，一日3次</strong>；<strong>饭后服用</strong>；<strong>疗程根据病情而定，一般为4-8周</strong>；<strong>根据血象调整剂量</strong>。",
+      "contraindications": "对本品过敏者禁用；急性髓细胞白血病患者禁用；骨髓恶性肿瘤患者禁用。",
+      "adverse_reactions": "偶见<strong>头晕、恶心、胃部不适</strong>；罕见<strong>皮疹、瘙痒</strong>；个别患者可能出现<strong>口干、便秘</strong>；耐受性良好。",
+      "interactions": "与化疗药物合用可能减弱化疗效果；与放疗合用需谨慎；与其他升白细胞药物合用可能增强效果；与含金属离子药物合用可能影响吸收。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为半胱氨酸衍生物，可促进骨髓造血功能；口服后在十二指肠吸收；主要经肝脏代谢；可促进白细胞和血小板生成。",
+      "precautions": "用药期间定期监测血常规；急性髓细胞白血病患者禁用；骨髓增殖性疾病患者慎用；与其他药物间隔2小时服用；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲利奈唑胺",
+    "dosage_form": "片",
+    "manual": {
+      "black_box_warning": "<strong>【骨髓抑制和神经毒性警告】</strong>长期使用本品（超过28天）可能引起<strong>骨髓抑制（贫血、白细胞减少、血小板减少）</strong>和<strong>周围神经病变、视神经病变</strong>。需定期监测血常规。",
+      "indications": "用于<strong>控制耐万古霉素屎肠球菌所致的系统感染</strong>，包括<strong>败血症、肺炎、复杂性皮肤和皮肤组织感染</strong>；用于<strong>MRSA、MRSE及肠球菌感染</strong>；为<strong>噁唑烷酮类抗生素</strong>。",
+      "dosage": "口服或静脉滴注。<strong>成人常用量：一次600mg，每12小时1次</strong>；<strong>疗程一般为10-28天</strong>；<strong>口服制剂可空腹或餐后服用</strong>；<strong>静脉滴注时间30-120分钟</strong>。",
+      "contraindications": "对本品过敏者禁用；正在使用或在2周内使用过MAO抑制剂者禁用；嗜铬细胞瘤患者禁用；甲状腺功能亢进患者禁用；未控制的高血压患者禁用。",
+      "adverse_reactions": "常见<strong>腹泻、恶心、头痛、呕吐</strong>；可见<strong>骨髓抑制（贫血、白细胞减少、血小板减少）、周围神经病变、视神经病变</strong>；罕见<strong>乳酸酸中毒、5-羟色胺综合征、过敏反应</strong>。",
+      "interactions": "与MAO抑制剂合用禁忌；与5-羟色胺能药物合用可能引起5-羟色胺综合征；与肾上腺素能药物合用可能升高血压；与骨髓抑制药物合用增加骨髓抑制风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为噁唑烷酮类抗生素，抑制细菌蛋白质合成；口服生物利用度约100%；广泛分布于体液和组织；主要经非酶途径代谢；半衰期约5-7小时。",
+      "precautions": "用药期间定期监测血常规；疗程超过28天需监测视神经功能；避免与含酪胺食物（奶酪、红酒等）同服；出现视力损害需停药；2025版医保乙类，限口服常释剂型。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用醋酸亮丙瑞林微球",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>前列腺癌的内分泌治疗</strong>；用于<strong>子宫内膜异位症</strong>；用于<strong>子宫肌瘤</strong>；用于<strong>性早熟</strong>；为<strong>GnRH激动剂</strong>，可抑制性激素分泌。",
+      "dosage": "皮下注射。<strong>前列腺癌：一次3.75mg，每4周1次</strong>；<strong>子宫内膜异位症：一次3.75mg，每4周1次，连用3-6个月</strong>；<strong>子宫肌瘤：一次1.88mg或3.75mg，每4周1次</strong>；<strong>性早熟：一次30-90μg/kg，每4周1次</strong>。",
+      "contraindications": "对本品过敏者禁用；对GnRH激动剂过敏者禁用；孕妇或可能怀孕的妇女禁用；哺乳期妇女禁用；未确诊的异常阴道出血患者禁用。",
+      "adverse_reactions": "常见<strong>潮热、出汗、性欲减退、勃起功能障碍</strong>（男性）；<strong>月经紊乱、阴道干燥、情绪波动</strong>（女性）；可见<strong>骨密度降低、注射部位疼痛、肝功能异常</strong>；罕见<strong>过敏反应</strong>。",
+      "interactions": "与抗雄激素药物合用可能增强效果；与雌激素拮抗剂合用可能增强效果；与CYP3A4诱导剂合用可能降低药效；与CYP3A4抑制剂合用可能增加药效。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为GnRH激动剂，初期刺激垂体分泌促性腺激素，随后产生抑制作用，降低性激素水平；皮下注射后缓慢释放；主要经肝脏代谢；作用持续4周。",
+      "precautions": "用药初期可能出现肿瘤 flare现象（症状暂时加重）；长期用药需监测骨密度；女性患者用药期间需采取非激素避孕措施；糖尿病患者需监测血糖；2025版医保乙类，限注射剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用丹曲林钠",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【肝毒性警告】</strong>本品可能引起<strong>严重肝损伤</strong>，甚至<strong>致死性肝炎</strong>。长期使用需定期监测肝功能，出现肝功能异常需停药。",
+      "indications": "用于<strong>恶性高热的紧急治疗</strong>；用于<strong>恶性高热的预防</strong>；用于<strong>神经阻滞剂恶性综合征</strong>；为<strong>骨骼肌松弛剂</strong>，可抑制肌肉收缩。",
+      "dosage": "静脉注射。<strong>恶性高热：初始剂量1-2.5mg/kg快速静脉注射，必要时重复给药，最大累积剂量10mg/kg</strong>；<strong>预防恶性高热：术前1-2天口服4-8mg/kg/日，分3-4次</strong>；<strong>静脉注射需快速推注</strong>。",
+      "contraindications": "对本品过敏者禁用；活动性肝病或肝功能不全患者禁用；严重呼吸系统疾病患者禁用；严重心脏病患者禁用；孕妇禁用。",
+      "adverse_reactions": "常见<strong>嗜睡、乏力、头晕、恶心、腹泻</strong>；可见<strong>肝功能异常、注射部位疼痛、静脉炎</strong>；严重不良反应包括<strong>严重肝损伤、呼吸抑制、心力衰竭</strong>；罕见<strong>过敏反应、胸腔积液、心包炎</strong>。",
+      "interactions": "与CYP3A4诱导剂合用可能降低丹曲林血药浓度；与CYP3A4抑制剂合用可能增加丹曲林血药浓度；与钙通道阻滞剂合用可能增加心血管抑制；与雌激素合用可能增加肝毒性。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为骨骼肌松弛剂，抑制肌浆网钙离子释放，减少肌肉收缩；静脉注射后迅速起效；主要经肝脏代谢；半衰期约6-12小时。",
+      "precautions": "必须在具备复苏设备的条件下使用；定期监测肝功能；出现肝功能异常需立即停药；静脉注射需快速推注；本品为自费药品，限注射剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "复方阿嗪米特",
+    "dosage_form": "肠溶片",
+    "manual": {
+      "black_box_warning": "",
+      "indications": "用于<strong>胆汁分泌不足或消化酶缺乏引起的症状</strong>，如<strong>吸收不良、腹胀、胃痛、消化不良</strong>；用于<strong>慢性胆囊炎或胆囊切除术后引起的消化不良</strong>；具有<strong>促进胆汁分泌和补充消化酶</strong>的作用。",
+      "dosage": "口服。<strong>一次1-2片，一日3次</strong>；<strong>餐后服用</strong>；<strong>整片吞服，不要咀嚼</strong>；<strong>疗程根据病情而定</strong>。",
+      "contraindications": "对本品成分过敏者禁用；急性肝炎患者禁用；胆道梗阻患者禁用；急性胆囊炎患者禁用；急性胰腺炎患者禁用。",
+      "adverse_reactions": "偶见<strong>胃部不适、恶心、腹泻</strong>；罕见<strong>皮疹、瘙痒</strong>；个别患者可能出现<strong>腹痛、便秘</strong>；耐受性良好。",
+      "interactions": "与抗酸药合用可能降低药效；与含金属离子药物合用可能影响酶活性；与抗生素合用可能降低消化酶效果；与胆盐结合树脂合用可能降低胆汁酸效果。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "含阿嗪米特（促进胆汁分泌）、胰酶（含淀粉酶、蛋白酶、脂肪酶）、二甲硅油（消泡剂）；肠溶片在肠道释放，促进消化；主要经粪便排泄。",
+      "precautions": "整片吞服，不要咀嚼或压碎；胆道梗阻患者禁用；急性胰腺炎患者禁用；用药期间避免高脂饮食；与其他药物间隔2小时服用；2025版医保甲类，限肠溶片。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "草乌甲素软",
+    "dosage_form": "胶囊",
+    "manual": {
+      "black_box_warning": "<strong>【心脏毒性和神经毒性警告】</strong>本品为<strong>毒性中药</strong>，可能引起<strong>心律失常、心脏传导阻滞、神经毒性</strong>等严重不良反应。需严格控制剂量。",
+      "indications": "用于<strong>风湿性及类风湿性关节炎</strong>；用于<strong>肩周炎、腰肌劳损</strong>；用于<strong>四肢扭伤、挫伤</strong>；具有<strong>镇痛、抗炎</strong>作用。",
+      "dosage": "口服。<strong>一次0.4mg，一日2次</strong>；<strong>饭后服用</strong>；<strong>疗程一般为2周</strong>；<strong>最大剂量不超过0.8mg/日</strong>。",
+      "contraindications": "对本品过敏者禁用；孕妇禁用；哺乳期妇女禁用；心脏病患者禁用；肝肾功能不全患者禁用；儿童禁用。",
+      "adverse_reactions": "常见<strong>口干、恶心、胃部不适</strong>；可见<strong>头晕、心悸、心律失常</strong>；严重不良反应包括<strong>心脏传导阻滞、室性心律失常、呼吸抑制</strong>；罕见<strong>皮疹、肝功能异常</strong>。",
+      "interactions": "与强心苷类药物合用可能增加心脏毒性；与抗心律失常药合用可能增加心律失常风险；与镇静催眠药合用可能增强中枢抑制；与酒精合用可能增加毒性。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为草乌中提取的生物碱，具有镇痛、抗炎作用；口服后吸收良好；经肝脏代谢；主要经肾脏排泄；治疗窗窄，毒性较大。",
+      "precautions": "严格控制剂量，不可超量服用；心脏病患者禁用；用药期间监测心电图；出现心悸、胸闷需立即停药；不宜长期使用；本品为毒性中药，需医师处方；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "氯膦酸二钠",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "<strong>【肾毒性警告】</strong>本品可能引起<strong>肾毒性</strong>，特别是<strong>快速静脉注射或肾功能不全患者</strong>。需缓慢静脉滴注，监测肾功能。",
+      "indications": "用于<strong>高钙血症</strong>；用于<strong>Paget骨病</strong>；用于<strong>骨质疏松症</strong>；用于<strong>甲状旁腺功能亢进症</strong>；用于<strong>恶性肿瘤引起的高钙血症和骨痛</strong>；为<strong>双膦酸盐类</strong>药物。",
+      "dosage": "静脉滴注。<strong>高钙血症：一次300mg，一日1次，连用5天，或一次1.5g单次给药</strong>；<strong>骨痛：一次300mg，连用5天，每3-4周重复</strong>；<strong>滴注时间不少于2小时</strong>。",
+      "contraindications": "对本品过敏者禁用；严重肾功能不全患者禁用；妊娠期及哺乳期妇女禁用；儿童禁用。",
+      "adverse_reactions": "常见<strong>发热、低钙血症、低磷血症、流感样症状</strong>；可见<strong>肾毒性、颌骨坏死、非典型股骨骨折</strong>；罕见<strong>心房颤动、食管炎、过敏反应</strong>；快速静脉注射可能引起肾衰竭。",
+      "interactions": "与含钙药物合用可能降低药效；与NSAIDs合用可能增加肾毒性；与利尿剂合用可能增加低钙血症风险；与抗骨吸收药物合用需谨慎。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为双膦酸盐类药物，抑制骨吸收，降低血钙；静脉给药后迅速分布于骨骼；主要经肾脏排泄，原形药物不经代谢；半衰期长，可分布于骨组织。",
+      "precautions": "必须缓慢静脉滴注（不少于2小时）；用药前后充分水化；定期监测肾功能、血钙和血磷；有颌骨坏死风险，用药期间避免侵入性口腔手术；2025版医保乙类，限注射剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用硫普罗宁",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【过敏反应警告】</strong>本品可能引起<strong>严重过敏反应</strong>，包括<strong>过敏性休克</strong>。首次用药需缓慢滴注，密切观察。",
+      "indications": "用于<strong>改善各类急慢性肝炎的肝功能</strong>；用于<strong>脂肪肝、酒精性和药物性肝损伤</strong>；用于<strong>重金属中毒</strong>；用于<strong>化疗引起的白细胞降低</strong>；为<strong>含巯基保肝药</strong>。",
+      "dosage": "静脉滴注。<strong>一次0.2g，一日1次</strong>；<strong>溶于5%葡萄糖注射液或生理盐水250ml中</strong>；<strong>滴注时间约1小时</strong>；<strong>疗程一般为2-4周</strong>。",
+      "contraindications": "对本品过敏者禁用；对含巯基药物过敏者禁用；严重肝功能不全患者禁用；妊娠期及哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>皮疹、瘙痒、发热</strong>；可见<strong>恶心、呕吐、头晕、口腔金属味</strong>；罕见<strong>过敏反应、过敏性休克、粒细胞减少</strong>；个别患者可能出现<strong>味觉障碍</strong>。",
+      "interactions": "与重金属解毒剂合用可能增强效果；与肝毒性药物合用需谨慎；与抗凝药物合用可能增加出血风险；与含金属离子药物合用可能产生沉淀。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为含巯基保肝药，可与自由基结合，保护肝细胞；静脉给药后分布于全身；主要经肝脏代谢；经肾脏排泄；具有解毒和保肝作用。",
+      "precautions": "首次用药需缓慢滴注，密切观察30分钟；有过敏史者慎用；用药期间定期监测肝功能和血常规；出现过敏反应立即停药；不宜与金属离子药物混合；2025版医保甲类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲注射用重组人脑利钠肽",
+    "dosage_form": "注射用",
+    "manual": {
+      "black_box_warning": "<strong>【低血压警告】</strong>本品可能引起<strong>症状性低血压</strong>。用药期间需密切监测血压，出现低血压需减量或停药。",
+      "indications": "用于<strong>急性失代偿性心力衰竭</strong>；用于<strong>休息或轻微活动时呼吸困难的急性心力衰竭患者</strong>；为<strong>利尿钠肽类药物</strong>，可扩张血管、利尿排钠。",
+      "dosage": "静脉滴注。<strong>负荷剂量：2μg/kg缓慢静脉推注</strong>；<strong>维持剂量：0.0075-0.01μg/kg/min持续静脉滴注</strong>；<strong>疗程一般为24-72小时</strong>；<strong>根据血压和病情调整剂量</strong>。",
+      "contraindications": "对本品过敏者禁用；心源性休克患者禁用；收缩压<90mmHg的患者禁用；严重瓣膜狭窄患者禁用；肥厚型梗阻性心肌病患者禁用；限制性心包炎患者禁用。",
+      "adverse_reactions": "常见<strong>低血压、头痛、恶心</strong>；可见<strong>室性心动过速、血肌酐升高、头晕</strong>；罕见<strong>过敏反应、心绞痛、心力衰竭加重</strong>；个别患者可能出现<strong>肾功能损害</strong>。",
+      "interactions": "与ACE抑制剂合用可能增强降压作用；与利尿剂合用可能增强利尿作用；与血管扩张剂合用可能增强血管扩张作用；与正性肌力药物合用需谨慎。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为重组人脑利钠肽，与内源性脑利钠肽作用相似；静脉给药后迅速起效；主要经中性内肽酶代谢和肾脏清除；半衰期约18分钟。",
+      "precautions": "用药期间持续监测血压和心功能；收缩压<100mmHg患者慎用；肾功能不全患者需调整剂量；避免与血管扩张剂同时使用；2025版医保乙类，协议期谈判药品。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲帕妥珠单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "<strong>【心脏毒性和胚胎毒性警告】</strong>本品可引起<strong>心脏功能不全、充血性心力衰竭</strong>。治疗前及治疗期间需评估心脏功能。妊娠期使用可导致<strong>胎儿损害</strong>，育龄妇女用药期间需避孕。",
+      "indications": "用于<strong>联合曲妥珠单抗和化疗治疗具有高复发风险的HER2阳性早期乳腺癌患者的辅助治疗</strong>；用于<strong>HER2阳性转移性乳腺癌的一线治疗</strong>（联合曲妥珠单抗和多西他赛）。",
+      "dosage": "静脉滴注。<strong>初始剂量：840mg，60分钟滴注</strong>；<strong>维持剂量：420mg，30-60分钟滴注，每3周1次</strong>；<strong>与曲妥珠单抗和化疗联合使用</strong>；<strong>直至疾病进展或出现不可耐受的毒性</strong>。",
+      "contraindications": "对本品过敏者禁用；严重心力衰竭患者禁用；妊娠期妇女禁用；哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>腹泻、脱发、恶心、乏力、皮疹</strong>；可见<strong>心脏功能不全、输液反应、中性粒细胞减少</strong>；严重不良反应包括<strong>充血性心力衰竭、过敏性休克、肺毒性</strong>。",
+      "interactions": "与曲妥珠单抗合用增加心脏毒性；与蒽环类化疗药物合用增加心脏毒性；与紫杉醇合用可能增加毒性；与其他化疗药物合用需谨慎。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为抗HER2单克隆抗体，与HER2受体的不同表位结合，抑制HER2二聚化；静脉给药后分布广泛；清除半衰期约18天；与曲妥珠单抗联合使用可产生协同作用。",
+      "precautions": "治疗前需确认HER2阳性状态；治疗前及治疗期间定期评估心脏功能（LVEF）；首次输注需密切观察输液反应；妊娠期禁用，育龄妇女用药期间需避孕；2025版医保乙类，协议期谈判药品。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲法瑞西单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "black_box_warning": "<strong>【视网膜血管炎和视网膜血管阻塞警告】</strong>本品可能引起<strong>视网膜血管炎和视网膜血管阻塞</strong>。出现视力突然下降需立即就医。",
+      "indications": "用于<strong>新生血管性（湿性）年龄相关性黄斑变性（nAMD）</strong>；用于<strong>糖尿病性黄斑水肿（DME）</strong>；为<strong>双特异性抗体</strong>，可同时靶向VEGF-A和Ang-2。",
+      "dosage": "玻璃体腔注射。<strong>推荐剂量：6mg（0.05ml），每4周1次，连续4次</strong>；<strong>之后每8-16周1次</strong>；<strong>根据视力和解剖学反应调整给药间隔</strong>。",
+      "contraindications": "对本品过敏者禁用；眼部或眼周感染患者禁用；活动性眼内炎症患者禁用；妊娠期及哺乳期妇女禁用。",
+      "adverse_reactions": "常见<strong>结膜出血、白内障、玻璃体飞蚊症、眼压升高</strong>；可见<strong>视网膜血管炎、视网膜血管阻塞、眼内炎</strong>；罕见<strong>过敏反应、失明</strong>；玻璃体腔注射相关风险包括<strong>眼内炎、视网膜脱离</strong>。",
+      "interactions": "与其他抗VEGF药物合用需谨慎；与抗凝药物合用可能增加出血风险；与抗血小板药物合用可能增加出血风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为双特异性抗体，同时靶向VEGF-A和Ang-2，稳定血管；玻璃体腔注射后主要在眼内发挥作用；缓慢清除；作用持续时间长。",
+      "precautions": "必须由有经验的眼科医师进行玻璃体腔注射；注射前后需使用抗生素眼药水；监测眼压和视力；出现视力突然下降、眼痛需立即就医；2025版医保乙类，协议期谈判药品。",
+      "source": "湖南药事服务网"
+    }
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": 144,
+  "name": "汉防己甲素注射液",
+  "dosage_form": "注射液",
+  "full_name": "(乙10%)汉防己甲素注射液",
+  "chemical_name": "汉防己甲素注射液",
+  "types": [],
+  "manufacturers": [
+    "江西银涛药业"
+  ],
+  "specifications": [
+    {
+      "specification": "30mg/支",
+      "manufacturer": "江西银涛药业",
+      "full_manufacturer": "江西银涛药业股份有限公司",
+      "price": 36.07,
+      "unit": "支",
+      "code": "X00941",
+      "approval_number": "国药准字H20053840",
+      "insurance_code": "XM02AXH005B002010105381",
+      "location": "M-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于风湿痛、关节痛、神经痛。与小剂量放射合并用于肺癌；亦用于单纯硅肺I、II、III期及各期煤硅肺（尘肺病）。",
+    "dosage": "抗风湿及镇痛：一次20mg～40mg，一日3次。抗肺癌：一次40mg～60mg，一日3次。抗硅肺：一次60mg～100mg，一日3次，服用6天，停药1天，疗程3个月。",
+    "contraindications": "对本品过敏禁用。",
+    "adverse_reactions": "常见：恶心、疼痛、乏力、嗜睡等。",
+    "interactions": "１.本品使口服环孢素A后的最高血药浓度(Cmax)增高。<br>２.能减轻化疗药物引起的消化道反应与肢体麻木症状，并对化疗引起的血红蛋白与白细胞的损害有保护作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品对心脏有负性肌力作用，负性频率作用及负性传导作用，并降低心肌耗氧量。可延长心肌的不应期和房室传导，可增加心肌血流量。可降低总外周血管阻力，时血压下降，降压时无反射性心率增加，由于后负荷减低，心输出量可增加。其作用机制与地尔硫䓬相似。",
+    "precautions": "服药期间每3个月复查肝功能，心电图等。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于风湿痛、关节痛、神经痛。与小剂量放射合并用于肺癌；亦用于单纯硅肺I、II、III期及各期煤硅肺（尘肺病）。",
+    "full_dosage": "口服。抗风湿及镇痛：一次20mg～40mg，一日3次。抗肺癌：一次40mg～60mg，一日3次。抗硅肺：一次60mg～100mg，一日3次，服用6天，停药1天，疗程3个月。",
+    "full_contraindications": "1.肝、肾等脏器发生器质性病患者禁用。<br>2.妊娠期妇女禁用。<br>3.对本品过敏者禁用。",
+    "full_adverse_reactions": "⑴不良反应较轻、较少。少数患者服药后出现轻度嗜睡、乏力、恶心、腹部不适，个别患者服后大便次数增加。停药后症状可缓解。  <br>⑵静脉注射部位可能发生疼痛或静脉炎。",
+    "full_interactions": "１.本品使口服环孢素A后的最高血药浓度(Cmax)增高。<br>２.能减轻化疗药物引起的消化道反应与肢体麻木症状，并对化疗引起的血红蛋白与白细胞的损害有保护作用。",
+    "full_pharmacokinetics": "本品对心脏有负性肌力作用，负性频率作用及负性传导作用，并降低心肌耗氧量。可延长心肌的不应期和房室传导，可增加心肌血流量。可降低总外周血管阻力，时血压下降，降压时无反射性心率增加，由于后负荷减低，心输出量可增加。其作用机制与地尔硫䓬相似。",
+    "full_precautions": "服药期间每3个月复查肝功能，心电图等。"
+  },
+  "pinyin": "hanfangjijiasu",
+  "pinyin_initials": "hfjjs",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=274",
+    "last_updated": "2026-03-22"
+  }
+}

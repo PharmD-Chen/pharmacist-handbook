@@ -1,0 +1,66 @@
+{
+  "id": 529,
+  "name": "拉西地平片",
+  "dosage_form": "片",
+  "full_name": "(甲)拉西地平片[市基]",
+  "chemical_name": "拉西地平片",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "GlaxoSmithKline, S.A.",
+    "哈药集团三精明水药业"
+  ],
+  "specifications": [
+    {
+      "specification": "4mg/片",
+      "manufacturer": "GlaxoSmithKline, S.A.",
+      "full_manufacturer": "GlaxoSmithKline, S.A.（Glaxo Wellcome, S.A.）",
+      "price": 22.9,
+      "unit": "盒",
+      "code": "X00471",
+      "approval_number": "国药准字HJ20140294",
+      "insurance_code": "XC08CAL013A001010178477"
+    },
+    {
+      "specification": "4mg/片",
+      "manufacturer": "哈药集团三精明水药业",
+      "full_manufacturer": "哈药集团三精明水药业有限公司",
+      "price": 36.59,
+      "unit": "盒",
+      "code": "X00473",
+      "approval_number": "国药准字H10980180",
+      "insurance_code": "XC08CAL013A025010603705",
+      "location": "L-3"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "治疗高血压，可单独或与其他降压药物合用。",
+    "dosage": "口服：成人常用量，起始剂量一次4mg，一日1次，晨服为佳；根据患者反应，3～4周可增加至6～8mg，一日1次。老年人或肝病患者初始量减为2mg，一日1次。",
+    "contraindications": "症 ⑴严重低血压。 ⑵重度主动脉瓣狭窄。 ⑶本品过敏者。",
+    "adverse_reactions": "⑴最常见的有头痛，皮肤潮红，水肿，眩晕和心悸。 ⑵少见有无力，皮疹，胃纳不佳，恶心，极少数有胸痛和齿龈增生。",
+    "interactions": "⑴与其他抗高血压药：降压作用可能增强。 ⑵西咪替丁：抑制本品代谢，降压作用增强。 ⑶葡萄柚汁：抑制本品代谢，可能使降压作用增强。 ⑷地高辛：本品可能使地高辛的血药浓度升高。 用药交代 谨慎与奈玛特韦/利托那韦片（组合包装）合用。不建议调整剂量，但如果出现症状性低血压，可以考虑在停用拉西地平。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "肝脏代谢。",
+    "precautions": "⑷肝功能不全者须减少剂量或慎用。⑹虽专项研究本品不影响传导系统和心肌收缩，但理论上钙拮抗剂能影响窦房结、房室结活动及心肌储备，应予注意。",
+    "source": "湖南药事服务网",
+    "full_indications": "治疗高血压，可单独或与其他降压药物合用。",
+    "full_dosage": "口服：成人常用量，起始剂量一次4mg，一日1次，晨服为佳；根据患者反应，3～4周可增加至6～8mg，一日1次。老年人或肝病患者初始量减为2mg，一日1次。",
+    "full_contraindications": "症 ⑴严重低血压。 ⑵重度主动脉瓣狭窄。 ⑶本品过敏者。",
+    "full_adverse_reactions": "⑴最常见的有头痛，皮肤潮红，水肿，眩晕和心悸。 ⑵少见有无力，皮疹，胃纳不佳，恶心，极少数有胸痛和齿龈增生。",
+    "full_interactions": "⑴与其他抗高血压药：降压作用可能增强。 ⑵西咪替丁：抑制本品代谢，降压作用增强。 ⑶葡萄柚汁：抑制本品代谢，可能使降压作用增强。 ⑷地高辛：本品可能使地高辛的血药浓度升高。 用药交代 谨慎与奈玛特韦/利托那韦片（组合包装）合用。不建议调整剂量，但如果出现症状性低血压，可以考虑在停用拉西地平。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "由于肝脏广泛首过代谢",
+    "full_precautions": "⑴动物实验显示本品无致畸作用，人体尚无资料证实人类妊娠的安全性。孕妇应用须权衡利弊。 ⑵本品及其代谢物由乳汁排出，应用本品最好不不如或停用本品。 ⑶本品可引起子宫肌肉松弛的可能性，对临分娩妇女应慎重考虑。 ⑷肝功能不全者须减少剂量或慎用。 ⑸逾量时可有低血压，心动过速，此时需用输液及升压药。 ⑹虽专项研究本品不影响传导系统和心肌收缩，但理论上钙拮抗剂能影响窦房结、房室结活动及心肌储备，应予注意。对先前存在窦房结、房室结活动不正常者尤应关注。有心脏储备较弱患者亦应谨慎。 ⑺其余参阅硝苯地平。"
+  },
+  "pinyin": "laxidiping",
+  "pinyin_initials": "lxdp",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=174",
+    "last_updated": "2026-03-21"
+  }
+}

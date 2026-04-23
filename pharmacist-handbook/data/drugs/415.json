@@ -1,0 +1,55 @@
+{
+  "id": 415,
+  "name": "马来酸氯苯那敏片",
+  "dosage_form": "片",
+  "full_name": "(甲)马来酸氯苯那敏片[国基]",
+  "chemical_name": "马来酸氯苯那敏片",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "江苏鹏鹞药业"
+  ],
+  "specifications": [
+    {
+      "specification": "4mg/片",
+      "manufacturer": "江苏鹏鹞药业",
+      "full_manufacturer": "江苏鹏鹞药业有限公司",
+      "price": 7.5,
+      "unit": "瓶",
+      "code": "X00668",
+      "approval_number": "国药准字H32023645",
+      "insurance_code": "XR06ABL189A001010101470",
+      "location": "C-2",
+      "outpatient_location": "C-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于：1.过敏性鼻炎；2.荨麻疹；3.各种过敏性皮肤病。",
+    "dosage": "成人：①口服，一次4～8mg，一日1～3次。  ②",
+    "contraindications": "过敏禁用。",
+    "adverse_reactions": "常见：嗜睡等。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "t1/2约15小时，蛋白结合率72，肝脏代谢。",
+    "precautions": "⑴婴幼儿、孕妇、闭角型青光眼、膀胱颈部或幽门十二指肠梗阻或消化性溃疡致幽门狭窄者、心血管疾病者及肝功能不良者慎用。  ⑵老年人酌减量。  ⑶孕期及哺乳期妇女慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于：1.过敏性鼻炎；2.荨麻疹；3.各种过敏性皮肤病。",
+    "full_dosage": "成人：①口服，一次4～8mg，一日1～3次。  ②肌内注射，一次5～20mg，一日1～2次。",
+    "full_contraindications": "⑴新生儿、早产儿、癫痫患者、接受单胺氧化酶抑制剂治疗者禁用。  <br>⑵对本品及辅料过敏者禁用。",
+    "full_adverse_reactions": "⑴有嗜睡、疲劳、口干、咽干、咽痛，少见有皮肤瘀斑及出血倾向胸闷、心悸。  <br>⑵少数患者出现药疹。  <br>⑶个别患者有烦躁、失眠等中枢兴奋症状，甚至可能诱发癫痫。",
+    "full_interactions": "⑴氯苯那敏与酒精和中枢神经系统抑制药并用，可加强本品的中枢抑制作用。  <br>⑵氯苯那敏可增强金刚烷胺、氟哌啶醇、抗胆碱药、三环类抗抑郁药、吩噻嗪类及拟交感神经药的药效。  <br>⑶氯苯那敏与奎尼丁合用，可增强本品的抗胆碱作用。  <br>⑷氯苯那敏能增加氯喹的吸收和药效，从而提高寄生虫病的治愈率。  <br>⑸氯苯那敏可抑制苯妥英代谢的肝微粒体酶，合用时可引起苯妥英蓄积中毒，应注意监测苯妥英的血药浓度。  <br>⑹氯苯那敏不宜与哌替啶、阿托品等药合用，亦不宜与氨茶碱作混合注射。  <br>⑺氯苯那敏与普萘洛尔有拮抗作用。",
+    "full_pharmacokinetics": "⑴药效学：为烷基胺类抗组胺药，主要作用机制为：①抗组胺作用，可与组胺竞争性拮抗H1受体，从而抑制组胺介导的过敏反应。②抗胆碱作用。 <br>　　⑵药动学：可口服或注射给药，口服吸收迅速完全，生物利用度25％～50％，血浆蛋白结合率为72％。口服给药后15～60分钟起效，肌内注射后5～10分钟起效，清除半衰期为12～15小时，作用可维持4～6小时，本品主要经肝脏代谢，其代谢物经尿液、粪便、汗液排泄。本品亦可随乳汁分泌。",
+    "full_precautions": "⑴婴幼儿、孕妇、闭角型青光眼、膀胱颈部或幽门十二指肠梗阻或消化性溃疡致幽门狭窄者、心血管疾病者及肝功能不良者慎用。  ⑵老年人酌减量。  ⑶孕期及哺乳期妇女慎用。"
+  },
+  "pinyin": "malaisuanlvbennamin",
+  "pinyin_initials": "mlslbnm",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2641",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "盐酸贝尼地平",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>高血压</strong>、<strong>心绞痛</strong>。",
+      "dosage": "口服。2-4mg，每日1次，早餐后服用。效果不佳可增至8mg/日。高龄患者起始2mg/日。重症高血压4-8mg/日。",
+      "contraindications": "对贝尼地平过敏者禁用；<strong>心源性休克禁用</strong>；<strong>妊娠及哺乳期禁用</strong>。",
+      "adverse_reactions": "与乐卡地平相似；<strong>肝功能异常</strong>；面部潮红、头痛、心悸、踝部水肿。",
+      "interactions": "与<strong>其他降压药</strong>合用可能增强降压作用；与<strong>CYP3A4抑制剂</strong>合用可能增加血药浓度。",
+      "pregnancy_category": "禁用（妊娠及哺乳期）",
+      "pharmacokinetics": "二氢吡啶类钙拮抗药，作用比硝苯地平强。口服吸收迅速，生物利用度约10%，肝内代谢，半衰期约2小时。",
+      "precautions": "<strong>严重肝功能不全者慎用</strong>；老年人从小剂量开始；<strong>逐渐减量停药</strong>（避免血压骤降）；影响驾驶和机械操作能力。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

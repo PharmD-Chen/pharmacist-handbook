@@ -1,0 +1,55 @@
+{
+  "id": 905,
+  "name": "去乙酰毛花苷注射液",
+  "dosage_form": "注射液",
+  "full_name": "(甲)去乙酰毛花苷注射液[国基]",
+  "chemical_name": "去乙酰毛花苷注射液",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "上海旭东海普药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.4mg/支",
+      "manufacturer": "上海旭东海普药业",
+      "full_manufacturer": "上海旭东海普药业有限公司",
+      "price": 37.0,
+      "unit": "支",
+      "code": "X00561",
+      "approval_number": "国药准字H31021178",
+      "insurance_code": "XC01AAQ133B002020100808",
+      "location": "N-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "主要用于充血性心力衰竭。由于其作用较快，适用于急性心功能不全或慢性心功能不全急性加重的患者。亦可用于控制伴快速心室率的心房颤动、心房扑动患者的心室率。终止室上性心动过速起效慢，现已少用。",
+    "dosage": "成人：常用量：洋地黄化，用5％葡萄糖注射液稀释后静脉注射，总量1～1.6mg",
+    "contraindications": "症 参阅地高辛。",
+    "adverse_reactions": "参阅地高辛。",
+    "interactions": "参阅地高辛。 输液调配 一次0.2～0.6mg用5%葡萄糖注射液10ml稀释。新鲜调配为无色或几乎无色的澄明液体。本品pH为5.0-7.0。 给药说明 参阅地高辛。",
+    "pregnancy_category": "C\n \n",
+    "pharmacokinetics": null,
+    "precautions": "参阅地高辛。 药物相互作用 参阅地高辛。 输液调配 一次0.2～0.6mg用5%葡萄糖注射液10ml稀释。新鲜调配为无色或几乎无色的澄明液体。本品pH为5.0-7.0。 给药说明 参阅地高辛。",
+    "source": "湖南药事服务网",
+    "full_indications": "主要用于充血性心力衰竭。由于其作用较快，适用于急性心功能不全或慢性心功能不全急性加重的患者。亦可用于控制伴快速心室率的心房颤动、心房扑动患者的心室率。终止室上性心动过速起效慢，现已少用。",
+    "full_dosage": "⑴成人常用量：洋地黄化，用5％葡萄糖注射液稀释后静脉注射，总量1～1.6mg，首剂0.4～0.6mg，以后每2～4小时可再给0.2～0.4mg。 ⑵小儿常用量：洋地黄化，按下列剂量分2～3次间隔3～4小时给予。早产儿和足月新生儿或肾功能减退、心肌炎患者，肌肉或静脉注射按体重0.02mg/kg，2周～3岁，按体重0.025mg/kg。本品静脉注射获得满意疗效后，可改用地高辛常用维持量以保持疗效。",
+    "full_contraindications": "症 参阅地高辛。",
+    "full_adverse_reactions": "参阅地高辛。",
+    "full_interactions": "参阅地高辛。 输液调配 一次0.2～0.6mg用5%葡萄糖注射液10ml稀释。新鲜调配为无色或几乎无色的澄明液体。本品pH为5.0-7.0。 给药说明 参阅地高辛。",
+    "full_pregnancy_category": "C\n \n",
+    "full_pharmacokinetics": "",
+    "full_precautions": "参阅地高辛。 药物相互作用 参阅地高辛。 输液调配 一次0.2～0.6mg用5%葡萄糖注射液10ml稀释。新鲜调配为无色或几乎无色的澄明液体。本品pH为5.0-7.0。 给药说明 参阅地高辛。"
+  },
+  "pinyin": "quyixianmaohuagan",
+  "pinyin_initials": "qyxmhg",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=4",
+    "last_updated": "2026-03-21"
+  }
+}

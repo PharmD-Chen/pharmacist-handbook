@@ -1,0 +1,64 @@
+{
+  "id": 498,
+  "name": "德谷胰岛素注射液（笔芯）",
+  "dosage_form": "注射液",
+  "full_name": "(甲)德谷胰岛素注射液（笔芯）",
+  "chemical_name": "德谷胰岛素注射液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "诺和诺德制药"
+  ],
+  "specifications": [
+    {
+      "specification": "3ml/支",
+      "manufacturer": "诺和诺德制药",
+      "full_manufacturer": "诺和诺德（中国）制药有限公司",
+      "price": 77.11,
+      "unit": "盒",
+      "code": "X00531",
+      "approval_number": "国药准字S20217017",
+      "insurance_code": "XA10AED318B002020107103",
+      "location": "2B-2"
+    },
+    {
+      "specification": "300单位:3ml/支",
+      "manufacturer": "诺和诺德制药",
+      "full_manufacturer": "诺和诺德（中国）制药有限公司",
+      "price": 80.11,
+      "unit": "盒",
+      "code": "X00012",
+      "approval_number": "国药准字J20171096",
+      "insurance_code": "XA10AED318B002030107103",
+      "location": "2B-3"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "⑴适用于成人1型和2型糖尿病的治疗。\n⑵用于1岁以上儿童及成人糖尿病患者的治疗（1型糖尿病、2型糖尿病均可）。【美国FDA已批准；美国糖尿病协会ADA指南（2020版）】",
+    "dosage": "1.皮下注射：对于1型糖尿病患者，用法为每日1次（联合餐时速效胰岛素）；对于2型糖尿病患者，本品可单独使用，也可联合口服降糖药、GLP-1 类似物或餐时胰岛素。",
+    "contraindications": null,
+    "adverse_reactions": null,
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品为一种超长效的基础胰岛素类似物。半衰期接近25小时，稳态血药浓度作用时间超过42 小时，每天1次注射可发挥持久、稳定的降糖作用。本品不仅可以有效降低血糖，同时降低了低血糖的发生率。",
+    "precautions": "1.可每周进行一次剂量调整以达到个体化血糖控制目标。治疗目标和胰岛素剂量调整均基于患者早餐前 FPG（或 SMBG）水平。可计算前两天的平均 FBG 并与血糖控制目标进行对比，增加或减少 2 个...",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴适用于成人1型和2型糖尿病的治疗。<br>⑵用于1岁以上儿童及成人糖尿病患者的治疗（1型糖尿病、2型糖尿病均可）。【美国FDA已批准；美国糖尿病协会ADA指南（2020版）】",
+    "full_dosage": "1.皮下注射：对于1型糖尿病患者，用法为每日1次（联合餐时速效胰岛素）；对于2型糖尿病患者，本品可单独使用，也可联合口服降糖药、GLP-1 类似物或餐时胰岛素。",
+    "full_contraindications": "",
+    "full_adverse_reactions": "",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品为一种超长效的基础胰岛素类似物。半衰期接近25小时，稳态血药浓度作用时间超过42 小时，每天1次注射可发挥持久、稳定的降糖作用。本品不仅可以有效降低血糖，同时降低了低血糖的发生率。",
+    "full_precautions": "1.可每周进行一次剂量调整以达到个体化血糖控制目标。治疗目标和胰岛素剂量调整均基于患者早餐前 FPG（或 SMBG）水平。可计算前两天的平均 FBG 并与血糖控制目标进行对比，增加或减少 2 个单位基础胰岛素以达到治疗目标。<br>2.德谷胰岛素每天给药一次，最好在每天的同一时间注射。不过，如果有时不能在同一时间注射，德谷胰岛素的给药时间也可灵活调整，相邻两次给药的时间不低于 8 小时被证实是安全的。与每天同一时间给药的甘精胰岛素相比，德谷胰岛素灵活给药（间隔 8~40 小时）不影响其有效性和安全性。如果患者发生德谷胰岛素漏用，应嘱其尽快注射并重新开始之前的每日一次给药方案。<br>3.德谷胰岛素被批准用于老年（≥ 65 岁）患者，同时适用于肾功能或肝功能不全的患者。然而，与其他胰岛素一样，在上述特殊人群中使用时应加强血糖监测。德谷胰岛素用于儿童或 18 岁以下青少年的安全性和有效性目前正在验证中。此外，目前尚无在孕妇中使用德谷胰岛素的临床经验。"
+  },
+  "pinyin": "deguyidaosu",
+  "pinyin_initials": "dgyds",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=10579",
+    "last_updated": "2026-03-22"
+  }
+}

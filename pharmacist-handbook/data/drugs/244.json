@@ -1,0 +1,52 @@
+{
+  "id": 244,
+  "name": "盐酸甲哌卡因/肾上腺素注射液",
+  "dosage_form": "注射液",
+  "full_name": "(自)盐酸甲哌卡因/肾上腺素注射液",
+  "chemical_name": "盐酸甲哌卡因/肾上腺素注射液",
+  "types": [],
+  "manufacturers": [
+    "SEPTODONT"
+  ],
+  "specifications": [
+    {
+      "specification": "1.8ml/支",
+      "manufacturer": "SEPTODONT",
+      "full_manufacturer": "SEPTODONT",
+      "price": 6.58,
+      "unit": "支",
+      "code": "X00689",
+      "approval_number": "国药准字HJ20171134",
+      "insurance_code": "XN01BBJ060B002010278859",
+      "location": "待入库定位",
+      "outpatient_location": "U-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于口腔及牙科治疗中局部浸润麻醉（神经传导阻滞型）。",
+    "dosage": "区域注射，不得静脉注射。以上甲哌卡因最大用量不超过7mg/kg。具体情况视麻醉范围及所用麻醉技术而定。推注速度不超过1ml/min。",
+    "contraindications": "对胺基类麻醉药有过敏反应者、患高血压、心律失常、冠状动脉或风心病的患者、服用复方三环类抗抑郁药及进行单胺氧化酶治疗的患者禁用。3周岁以下儿童禁用。",
+    "adverse_reactions": "类似于其他口腔麻醉药所引起的不良反应。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品为口腔局部麻醉药。每支由36mg的麻醉药盐酸甲哌卡因和0.018mg的血管收缩药肾上腺素制成，本品有效地延长了麻醉效果，降低了交叉感染的发生率。盐酸甲哌卡因作用于外周神经传导阻滞，只需黏膜下浸润就可完成深龋制洞、牙髓治疗及拔牙，并且减少了麻醉并发症如血肿、局部感染、神经损伤等的风险。其余人参阅甲",
+    "precautions": "避免对已经感染或发生红肿的部位进行麻醉；妊娠期及哺乳期妇女慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于口腔及牙科治疗中局部浸润麻醉（神经传导阻滞型）。",
+    "full_dosage": "区域注射，不得静脉注射。以上甲哌卡因最大用量不超过7mg/kg。具体情况视麻醉范围及所用麻醉技术而定。推注速度不超过1ml/min。",
+    "full_contraindications": "对胺基类麻醉药有过敏反应者、患高血压、心律失常、冠状动脉或风心病的患者、服用复方三环类抗抑郁药及进行单胺氧化酶治疗的患者禁用。3周岁以下儿童禁用。",
+    "full_adverse_reactions": "类似于其他口腔麻醉药所引起的不良反应。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品为口腔局部麻醉药。每支由36mg的麻醉药盐酸甲哌卡因和0.018mg的血管收缩药肾上腺素制成，本品有效地延长了麻醉效果，降低了交叉感染的发生率。盐酸甲哌卡因作用于外周神经传导阻滞，只需黏膜下浸润就可完成深龋制洞、牙髓治疗及拔牙，并且减少了麻醉并发症如血肿、局部感染、神经损伤等的风险。其余人参阅甲哌卡因及肾上腺素。",
+    "full_precautions": "避免对已经感染或发生红肿的部位进行麻醉；妊娠期及哺乳期妇女慎用。"
+  },
+  "pinyin": "yansuanjiapaikayin/shenshangxiansu",
+  "pinyin_initials": "ysjpky/ssxs",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2880",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 432,
+  "name": "盐酸曲马多注射液",
+  "dosage_form": "注射液",
+  "full_name": "(甲)盐酸曲马多注射液",
+  "chemical_name": "盐酸曲马多注射液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "上海旭东海普药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.1g:100mg/支",
+      "manufacturer": "上海旭东海普药业",
+      "full_manufacturer": "上海旭东海普药业有限公司",
+      "price": 4.0,
+      "unit": "支",
+      "code": "X00579",
+      "approval_number": "国药准字H20023785",
+      "insurance_code": "XN02AXQ098B002020100808",
+      "outpatient_location": "O-4",
+      "inpatient_location": "O-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于癌症疼痛、骨折或术后疼痛等各种急、慢性疼痛。",
+    "full_indications": "用于癌症疼痛、骨折或术后疼痛等各种急、慢性疼痛。",
+    "dosage": "肌内注射，一次50-100mg，必要时可重复。日剂量不超过400mg。",
+    "full_dosage": "肌内注射，一次50-100mg，必要时可重复。日剂量不超过400mg。",
+    "contraindications": "1.对本品过敏者禁用；2.酒精、安眠药、镇痛药或其他中枢神经系统作用药物急性中毒患者禁用；3.严重脑损伤、意识模糊、呼吸抑制患者禁用。",
+    "full_contraindications": "1.对本品过敏者禁用；2.酒精、安眠药、镇痛药或其他中枢神经系统作用药物急性中毒患者禁用；3.严重脑损伤、意识模糊、呼吸抑制患者禁用。",
+    "adverse_reactions": "常见出汗、眩晕、恶心、呕吐、食欲减退及排尿困难等。少见心悸、心动过速或体位性低血压。偶见皮疹、血压降低等过敏反应。",
+    "full_adverse_reactions": "常见出汗、眩晕、恶心、呕吐、食欲减退及排尿困难等。少见心悸、心动过速或体位性低血压。偶见皮疹、血压降低等过敏反应。",
+    "interactions": "1.与中枢神经抑制药物或酒精合用时有强化本品的镇静作用，特别是呼吸抑制作用；2.与神经阻滞剂合用，个别病例有惊厥的报道；3.与选择性5-羟色胺再摄取抑制剂（SSRI）合用，可导致血清素综合征。",
+    "full_interactions": "1.与中枢神经抑制药物或酒精合用时有强化本品的镇静作用，特别是呼吸抑制作用；2.与神经阻滞剂合用，个别病例有惊厥的报道；3.与选择性5-羟色胺再摄取抑制剂（SSRI）合用，可导致血清素综合征。",
+    "pregnancy_category": "孕妇及哺乳期妇女慎用。",
+    "pharmacokinetics": "",
+    "precautions": "1.肝肾功能不全者、心脏疾患者酌情减量使用或慎用；2.不得与单胺氧化酶抑制剂同用；3.长期使用不能排除产生耐药性或药物依赖性的可能；4.有药物滥用或依赖性倾向的病人只能短期使用。",
+    "full_precautions": "1.肝肾功能不全者、心脏疾患者酌情减量使用或慎用；2.不得与单胺氧化酶抑制剂同用；3.长期使用不能排除产生耐药性或药物依赖性的可能；4.有药物滥用或依赖性倾向的病人只能短期使用。",
+    "source": "湖南药事服务网"
+  },
+  "pinyin": "yansuanqumaduo",
+  "pinyin_initials": "ysqmd",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1029",
+    "last_updated": "2026-03-22"
+  }
+}

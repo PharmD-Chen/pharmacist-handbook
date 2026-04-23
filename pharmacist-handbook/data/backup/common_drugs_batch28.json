@@ -1,0 +1,33 @@
+[
+  {
+    "name": "※▲甲苯磺酸艾多沙班",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>非瓣膜性房颤</strong>、<strong>深静脉血栓</strong>、<strong>肺栓塞</strong>（限华法林治疗控制不良或出血高危患者）。",
+      "dosage": "口服。60mg，每日1次；CrCl 15-50ml/min或体重≤60kg：30mg，每日1次。可与或不与食物同服。",
+      "contraindications": "对艾多沙班过敏者禁用；<strong>活动性出血禁用</strong>；<strong>严重肝功能不全禁用</strong>；<strong>妊娠哺乳期禁用</strong>；<strong>机械性心瓣膜或中重度二尖瓣狭窄不建议使用</strong>；合用其他抗凝剂禁用。",
+      "adverse_reactions": "<strong>出血</strong>（尿潜血、皮下出血、伤口出血）；<strong>肝酶升高</strong>（γ-GTP、ALT）；头痛、腹泻、皮疹、瘙痒、浮肿、发热。",
+      "interactions": "<strong>避免与其他抗凝剂合用</strong>；<strong>利福平避免合用</strong>；<strong>奈玛特韦/利托那韦合用需减量</strong>。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "FXa直接抑制剂，选择性比FIIa高104倍。口服吸收，半衰期10-14小时，25%经肾排泄。",
+      "precautions": "<strong>出血风险增加者慎用</strong>；<strong>重度出血立即停药</strong>；肾功能不全减量；中度或严重肝受损不建议使用；2025版医保乙类，限华法林控制不良或出血高危患者。",
+      "source": "手动录入-湖南药事服务网"
+    }
+  },
+  {
+    "name": "依洛尤单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>降低心血管事件风险</strong>（心梗、卒中、冠脉血运重建）；<strong>原发性高胆固醇血症</strong>、<strong>混合型血脂异常</strong>；<strong>纯合子型家族性高胆固醇血症</strong>（≥12岁）。",
+      "dosage": "皮下注射。140mg，每2周1次；或420mg，每月1次。HoFH：420mg，每月1次。",
+      "contraindications": "对依洛尤单抗严重过敏者禁用。",
+      "adverse_reactions": "<strong>鼻咽炎</strong>、上呼吸道感染、流感、背痛、<strong>注射部位反应</strong>；<strong>过敏反应</strong>（皮疹、荨麻疹、血管性水肿）。",
+      "interactions": "与他汀类合用清除率上升约20%。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "PCSK9人单克隆IgG2抗体，抑制PCSK9与LDL受体结合，降低LDL-C。皮下给药3-4天达峰，生物利用度72%，半衰期11-17天。",
+      "precautions": "<strong>出现严重过敏反应立即停药</strong>；孕妇权衡利弊；哺乳期权衡利弊；<strong>2-8℃避光保存，不要冻结，不要摇晃</strong>；室温25℃可保存30天；2025版医保乙类，协议期谈判药品。",
+      "solvent": "预充式注射器或注射笔，皮下注射",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": 141,
+  "name": "知柏地黄丸",
+  "dosage_form": "丸",
+  "full_name": "(甲)知柏地黄丸",
+  "chemical_name": "知柏地黄丸",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "仲景宛西制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.17g/丸",
+      "manufacturer": "仲景宛西制药",
+      "full_manufacturer": "仲景宛西制药股份有限公司",
+      "price": 27.98,
+      "unit": "瓶",
+      "code": "C00105",
+      "approval_number": "国药准字Z41021904",
+      "insurance_code": "ZA09CAZ0151010203082",
+      "outpatient_location": "V-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "外用适用于对糖皮质激素治疗有效的皮肤病，如接触性皮炎、特应性皮炎、脂溢性皮炎、湿疹、神经性皮炎、银屑病等瘙痒性及非感染性炎症性皮肤病。",
+    "dosage": "外用均匀涂于患处，用后轻轻揉擦，一日2～3次。对顽固、肥厚性皮损可采用封包疗法。",
+    "contraindications": "症 ⑴对本药及其基质成分过敏者和对其他糖皮质激素过敏者禁用。 ⑵水痘、化脓性皮肤病或其他感染性皮肤病时禁用。",
+    "adverse_reactions": "的发生率低，可适用于儿童及面部皮肤的使用。 不良反应 偶可出现瘙痒、干燥及烧灼感。长期局部外用，可以起糖皮质激素类的不良反应，如痤疮样皮炎、毛细血管扩张、色素沉着或脱失、增加对感染的易感性等。",
+    "interactions": "参阅肾上腺皮质激素项。 用药交代 稀薄涂敷。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "⑴婴儿及儿童勿长期、大面积使用或采用封包法治疗，以免抑制下丘脑-垂体-肾上腺轴，产生继发性肾上腺功能不足。 ⑵孕妇、哺乳期妇女考虑用药的利弊，慎重使用。 ⑶币买了与眼睛接触。 ⑷不宜用于破损皮肤。 ⑸久用可产生耐受性。 药物相互作用 参阅肾上腺皮质激素项。 用药交代 稀薄涂敷。",
+    "source": "湖南药事服务网",
+    "full_indications": "外用适用于对糖皮质激素治疗有效的皮肤病，如接触性皮炎、特应性皮炎、脂溢性皮炎、湿疹、神经性皮炎、银屑病等瘙痒性及非感染性炎症性皮肤病。",
+    "full_dosage": "外用均匀涂于患处，用后轻轻揉擦，一日2～3次。对顽固、肥厚性皮损可采用封包疗法。",
+    "full_contraindications": "症 ⑴对本药及其基质成分过敏者和对其他糖皮质激素过敏者禁用。 ⑵水痘、化脓性皮肤病或其他感染性皮肤病时禁用。",
+    "full_adverse_reactions": "的发生率低，可适用于儿童及面部皮肤的使用。 不良反应 偶可出现瘙痒、干燥及烧灼感。长期局部外用，可以起糖皮质激素类的不良反应，如痤疮样皮炎、毛细血管扩张、色素沉着或脱失、增加对感染的易感性等。",
+    "full_interactions": "参阅肾上腺皮质激素项。 用药交代 稀薄涂敷。",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴婴儿及儿童勿长期、大面积使用或采用封包法治疗，以免抑制下丘脑-垂体-肾上腺轴，产生继发性肾上腺功能不足。 ⑵孕妇、哺乳期妇女应考虑用药的利弊，慎重使用。 ⑶币买了与眼睛接触。 ⑷不宜用于破损皮肤。 ⑸久用可产生耐受性。 药物相互作用 参阅肾上腺皮质激素项。 用药交代 稀薄涂敷。",
+    "composition": "知母、黄柏、熟地黄、山茱萸（制）、牡丹皮、山药、茯苓、泽泻。"
+  },
+  "pinyin": "zhibaidihuang",
+  "pinyin_initials": "zbdh",
+  "dosage_form_pinyin": "wan",
+  "dosage_form_initials": "w",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=6624",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 502,
+  "name": "白脉软膏",
+  "dosage_form": "软膏",
+  "full_name": "(乙10%)白脉软膏",
+  "chemical_name": "白脉软膏",
+  "types": [],
+  "manufacturers": [
+    "西藏奇正藏药"
+  ],
+  "specifications": [
+    {
+      "specification": "20g/支",
+      "manufacturer": "西藏奇正藏药",
+      "full_manufacturer": "西藏奇正藏药股份有限公司",
+      "price": 52.2,
+      "unit": "盒",
+      "code": "Y00000013034",
+      "approval_number": "国药准字Z20043178",
+      "insurance_code": "ZI01AAB0104020105742",
+      "location": "D-3",
+      "outpatient_location": "2G-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "舒筋活络。用于白脉病，瘫痪，偏瘫，筋腱强直，外伤引起的经络及筋腱断伤，手足挛急，跛行等。",
+    "dosage": "取本品适量涂于患处，一日2～3次。",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": "湖南药事服务网",
+    "full_indications": "舒筋活络。用于白脉病，瘫痪，偏瘫，筋腱强直，外伤引起的经络及筋腱断伤，手足挛急，跛行等。",
+    "full_dosage": "取本品适量涂于患处，一日2～3次。",
+    "full_contraindications": "",
+    "full_adverse_reactions": "",
+    "full_interactions": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "",
+    "composition": "姜黄、肉豆蔻、甘松、阳起石、甘草、麝香、山柰、藏菖蒲、花椒、碱花。"
+  },
+  "pinyin": "baimairuangao",
+  "pinyin_initials": "bmrg",
+  "dosage_form_pinyin": "",
+  "dosage_form_initials": "",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=4813",
+    "last_updated": "2026-03-21"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 963,
+  "name": "口服补液盐散(Ⅲ)",
+  "dosage_form": "散",
+  "full_name": "(甲)口服补液盐散(Ⅲ)[国基]",
+  "chemical_name": "口服补液盐散(Ⅲ)",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "西安安健药业"
+  ],
+  "specifications": [
+    {
+      "specification": "5.125g/袋",
+      "manufacturer": "西安安健药业",
+      "full_manufacturer": "西安安健药业有限公司",
+      "price": 28.2,
+      "unit": "盒",
+      "code": "Y00000014541",
+      "approval_number": "国药准字H20090205",
+      "insurance_code": "XA07CAB163P001020302456",
+      "location": "H-1",
+      "outpatient_location": "A-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "预防和治疗体内失水。对腹泻。呕吐、经皮肤和呼吸等液体丢失引起的轻、中度失水的防治，可补充水、钾和钠。重度失水需静脉补液。",
+    "dosage": "应用时溶解于500ml水中。",
+    "contraindications": "⑴少尿或无尿。；⑵严重失水、有休克征象时应静脉补液。；⑶严重腹泻，粪便量超过每小时30ml/kg，此时病人往往不能口服足够量的ORS。",
+    "adverse_reactions": "⑴高钠血症。  \n⑵水过多；出现上述两种情况应立即停药。  \n⑶呕吐、多为轻微。常发生于开始服用时，此时可分次少量服用。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "除补充水、钠和钾外，尚对急性腹泻有治疗作用，ORS中含有葡萄糖，肠粘膜吸收葡萄糖的同时可吸收一定的钠离子，从而使肠粘膜对肠液的吸收增加。用药后8～12小时作用达高峰。",
+    "precautions": "⑴一般不用于早产儿。  \n⑵老年人应用本品无特殊注意事项。  \n⑶随访检查：①血压；②体重；③血电解质（主要为Na+和K+）；血pH；④失水体征；⑤粪便量。",
+    "source": "湖南药事服务网",
+    "full_indications": "预防和治疗体内失水。对腹泻。呕吐、经皮肤和呼吸等液体丢失引起的轻、中度失水的防治，可补充水、钾和钠。重度失水需静脉补液。",
+    "full_dosage": "应用时溶解于500ml水中。<br>　　⑴成人：①轻度失水，开始时50ml/kg，，4～6小时内饮完。以后酌情调整剂量。②中度失水，开始时50ml/kg，6小时内饮完，其余应予静脉补液。③轻度腹泻，每日50ml/kg。④严重腹泻，应以静脉滴注为主，直至腹泻停止。    <br>　　⑵小儿：治疗轻度失水，开始时50ml/kg，4小时内服用，直至腹泻停止。中度脱水应以静脉补液为主。",
+    "full_contraindications": "⑴少尿或无尿。  <br>⑵严重失水、有休克征象时应静脉补液。  <br>⑶严重腹泻，粪便量超过每小时30ml/kg，此时病人往往不能口服足够量的ORS。  <br>⑷葡萄糖吸收障碍。  <br>⑸由于严重呕吐等原因不能口服着。  <br>⑹肠梗阻、肠麻痹和肠穿孔。",
+    "full_adverse_reactions": "⑴高钠血症。  <br>⑵水过多；出现上述两种情况应立即停药。  <br>⑶呕吐、多为轻微。常发生于开始服用时，此时可分次少量服用。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "除补充水、钠和钾外，尚对急性腹泻有治疗作用，ORS中含有葡萄糖，肠粘膜吸收葡萄糖的同时可吸收一定的钠离子，从而使肠粘膜对肠液的吸收增加。用药后8～12小时作用达高峰。",
+    "full_precautions": "⑴一般不用于早产儿。  <br>⑵老年人应用本品无特殊注意事项。  <br>⑶随访检查：①血压；②体重；③血电解质（主要为Na+和K+）；血pH；④失水体征；⑤粪便量。"
+  },
+  "pinyin": "koufubuyeyan",
+  "pinyin_initials": "kfbyy",
+  "dosage_form_pinyin": "san",
+  "dosage_form_initials": "s",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3215",
+    "last_updated": "2026-03-22"
+  }
+}

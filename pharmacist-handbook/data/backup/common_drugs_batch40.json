@@ -1,0 +1,63 @@
+[
+  {
+    "name": "※▲巴瑞替尼",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>用于治疗对一种或多种改善病情抗风湿药疗效不佳或不耐受的中重度活动性类风湿关节炎成人患者</strong>；<strong>用于治疗成人重度斑秃</strong>；<strong>用于治疗COVID-19病毒感染</strong>。",
+      "dosage": "口服。<strong>类风湿性关节炎：推荐剂量为每日1次口服2mg</strong>；<strong>COVID-19病毒：推荐剂量为每日一次口服4mg</strong>；<strong>斑秃：推荐剂量是每天一次口服2mg</strong>，可增至每日4mg。餐前餐后都可服用。",
+      "contraindications": "<strong>对本品或任何辅料过敏者禁用</strong>；<strong>活动性严重感染患者禁用</strong>；<strong>重度肝功能损害患者禁用</strong>；<strong>孕妇及哺乳期妇女禁用</strong>；<strong>18岁以下儿童及青少年不建议使用</strong>。",
+      "adverse_reactions": "常见<strong>上呼吸道感染、恶心、腹泻、血液指标异常（白细胞减少、肝酶升高等）</strong>；严重不良反应包括<strong>严重感染（肺炎、带状疱疹和尿路感染）、恶性肿瘤和淋巴增生性疾病、重大心血管不良事件、血栓形成、过敏反应、胃肠道穿孔</strong>；50岁以上及有心血管疾病的患者有更高的全因死亡率。",
+      "interactions": "<strong>与其他免疫抑制剂合用可能增加感染风险</strong>；<strong>与CYP3A4抑制剂合用可能增加本品血药浓度</strong>；<strong>与活疫苗合用可能降低疫苗效果</strong>；避免与强效免疫抑制剂（如环孢素、他克莫司）联用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "Janus激酶（JAK）抑制剂，通过抑制JAK-STAT信号通路，阻断炎症因子释放。口服吸收良好，半衰期约12小时，主要经肾脏排泄。",
+      "precautions": "<strong>用药前需评估感染风险，治疗期间监测感染症状</strong>；<strong>50岁以上及有心血管疾病患者慎用</strong>；<strong>可能增加血栓形成风险，需密切监测</strong>；<strong>治疗期间避免接种活疫苗</strong>；<strong>治疗前需排查结核、乙肝、丙肝等感染</strong>；2025版医保乙类，限片剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "※▲替瑞奇珠单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>用于治疗适合系统治疗或光疗指征的成人中重度斑块状银屑病患者</strong>。",
+      "dosage": "皮下注射。<strong>推荐剂量为100mg，在第0周和第4周分别注射一次，之后每12周注射一次</strong>。注射部位可选择大腿、腹部或上臂外侧。",
+      "contraindications": "<strong>对本品或任何辅料过敏者禁用</strong>；<strong>活动性严重感染患者禁用</strong>；<strong>活动性结核病患者禁用</strong>。",
+      "adverse_reactions": "常见<strong>上呼吸道感染(14%)、注射部位反应(3%)、腹泻(2%)、头痛、乏力</strong>；严重不良反应包括<strong>严重感染（如肺炎、结核病）、过敏反应、恶性肿瘤</strong>。",
+      "interactions": "<strong>与其他免疫抑制剂合用可能增加感染风险</strong>；<strong>治疗期间避免接种活疫苗</strong>；与其他生物制剂联用需谨慎。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "人源化的IgG1/k单克隆抗体，选择性地与白介素-23(IL-23)的p19亚基结合，抑制其与IL-23受体的相互作用，从而抑制促炎症细胞因子和趋化因子的释放。皮下注射后吸收良好。",
+      "precautions": "<strong>用药前需筛查结核和乙肝</strong>；<strong>治疗期间监测感染症状</strong>；<strong>出现严重感染需停药</strong>；<strong>治疗期间避免接种活疫苗</strong>；<strong>维持期一年仅需4次注射，给药间隔长</strong>；2025版医保乙类，协议期谈判药品。",
+      "solvent": "皮下注射，无需稀释",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "甲磺酸雷沙吉兰",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>适用于原发性帕金森病患者的单药治疗</strong>；<strong>适用于伴有剂末波动患者的联合治疗（与左旋多巴合用）</strong>。",
+      "dosage": "口服。<strong>单药治疗：每次1mg，每日1次</strong>；<strong>与左旋多巴联合治疗：起始剂量每次0.5mg，每日1次，维持剂量为0.5～1.0mg，每日1次</strong>。不受进食影响，老年患者无需调整剂量。",
+      "contraindications": "<strong>对本品过敏者禁用</strong>；<strong>中度或重度肝功能不全患者禁用</strong>；<strong>嗜铬细胞瘤患者禁用</strong>；<strong>禁止与其他MAO抑制剂联用</strong>；<strong>禁止与哌替啶合用</strong>。",
+      "adverse_reactions": "常见<strong>头痛、流感样症状、关节痛、抑郁、幻觉、结膜炎、眩晕、心绞痛、鼻炎、胃肠胀气、皮炎、肌肉骨骼疼痛、颈部疼痛、关节炎、尿急、发热、乏力</strong>；少见<strong>食欲下降、脑血管意外、心肌梗塞、疱疹</strong>；个别患者会出现<strong>冲动控制障碍、5-羟色胺综合征、日间睡眠增多、睡眠突然发作、高血压</strong>。",
+      "interactions": "<strong>禁止与其他MAO抑制剂联用（如圣约翰草）</strong>；<strong>禁止与哌替啶合用</strong>；<strong>避免与氟西汀、氟伏沙明合用</strong>；<strong>与恩他卡朋合用，本品的清除率增加28％</strong>；与拟交感神经药合用可能导致高血压危象。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "选择性单胺氧化酶B（MAO-B）抑制剂，不可逆地抑制MAO-B，减少多巴胺在脑内的降解，从而改善帕金森病患者的运动症状。经肝脏CYP1A2代谢。",
+      "precautions": "<strong>轻度肝功能不全患者慎用</strong>；<strong>哺乳期妇女用药应谨慎</strong>；<strong>服用期间避免食用富含酪胺的食物（如干酪、熏肉、红酒等）</strong>；<strong>避免使用含拟交感胺类（如麻黄碱、伪麻黄碱等）的非处方药</strong>；<strong>服药期间避免饮酒</strong>；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "西格列他钠",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>适用于配合饮食和运动改善成人2型糖尿病患者的血糖控制</strong>；<strong>可作为单药使用，也可与二甲双胍联合使用</strong>。",
+      "dosage": "口服。<strong>单药治疗：推荐剂量为32mg，每日1次</strong>，可根据血糖控制加强至48mg，每日1次；<strong>与二甲双胍联合治疗：推荐剂量为48mg，每日1次</strong>。不受进食限制。",
+      "contraindications": "<strong>对本品或任何辅料过敏者禁用</strong>；<strong>1型糖尿病患者禁用</strong>；<strong>糖尿病酮症酸中毒患者禁用</strong>；<strong>妊娠期、哺乳期妇女不建议使用</strong>；<strong>18岁以下儿童及青少年不建议使用</strong>。",
+      "adverse_reactions": "常见<strong>水肿、体重增加、低血糖、贫血、骨折</strong>；其他不良反应包括<strong>呼吸道感染、蛋白尿、腹痛、恶心、轻度升高低密度脂蛋白胆固醇</strong>。",
+      "interactions": "<strong>经肝脏CYP3A4和CYP3A5代谢，与酶诱导剂利福平合用可能增强本品降糖作用</strong>；<strong>与恩格列净等SGLT-2抑制剂无显著冲突</strong>。",
+      "pregnancy_category": "不建议使用",
+      "pharmacokinetics": "全球首个获批的过氧化物酶体增殖物激活受体(PPAR)全激动剂，能同时适度激活PPAR-α、γ和δ受体，不仅可以改善胰岛素抵抗、降血糖，还可以降血脂，减少单一且过度激活导致的潜在不良反应。",
+      "precautions": "<strong>中度肝、肾功能损害患者谨慎使用，重度肝、肾功能损害患者不推荐使用</strong>；<strong>有心衰病史或有心衰高风险的患者慎用</strong>；<strong>出现水肿、体重增加、充血性心力衰竭等症状时应咨询医生</strong>；<strong>有骨折高风险的患者慎用</strong>；<strong>用药期间应定期检查血糖、肝肾功能、血脂等指标</strong>；2025版医保乙类。",
+      "source": "湖南药事服务网"
+    }
+  }
+]

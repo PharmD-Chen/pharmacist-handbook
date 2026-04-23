@@ -1,0 +1,53 @@
+{
+  "id": 766,
+  "name": "丹红注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)丹红注射液",
+  "chemical_name": "丹红注射液",
+  "types": [],
+  "manufacturers": [
+    "山东丹红制药"
+  ],
+  "specifications": [
+    {
+      "specification": "10ml/支",
+      "manufacturer": "山东丹红制药",
+      "full_manufacturer": "山东丹红制药有限公司",
+      "price": 16.92,
+      "unit": "支",
+      "code": "C00077",
+      "approval_number": "国药准字Z20026866",
+      "insurance_code": "ZA12CAD0087040103962",
+      "location": "M-7"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "活血化瘀，通脉舒络。用于瘀血闭阻所致的胸痹及中风。",
+    "dosage": "肌注：一次2-4ml，一日1-2次；静注：一次4ml，加入50%葡萄糖20ml稀释；静滴：一次20-40ml，加入5%葡萄糖100-500ml稀释，糖尿病患者改用0.9%生理盐水。",
+    "contraindications": "有出血倾向者、孕妇及哺乳期妇女禁用；对本品过敏者禁用。",
+    "adverse_reactions": "过敏反应：皮疹、瘙痒、头痛、头晕、心悸、寒战、发热、面部潮红、恶心、呕吐、腹泻、胸闷、呼吸困难、喉头水肿、抽搐等，罕见过敏性休克。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "不得与其他药物混合使用；月经期妇女慎用；过敏体质者慎用；加强临床监护。",
+    "solvent": "静注：一次4ml加入50%葡萄糖注射液20ml稀释；静滴：一次20-40ml加入5%葡萄糖注射液100-500ml稀释；糖尿病患者改用0.9%生理盐水稀释。",
+    "source": "湖南药事服务网",
+    "full_indications": "活血化瘀，通脉舒络。用于瘀血闭阻所致的胸痹及中风，症见胸痛，胸闷，心悸，口眼歪斜，言语謇涩，肢体麻木，活动不利等症；冠心病、心绞痛、心肌梗塞、瘀血型肺心病、缺血性脑病、脑血栓。",
+    "full_dosage": "肌内注射：一次2-4ml，一日1～2次；静脉注射：一次4ml，加入50％葡萄糖注射液20ml稀释后缓慢注射，一日1～2次；静脉滴注：一次20～40ml，加入5％葡萄糖注射液100～500ml稀释后缓慢滴注，一日1～2次；伴有糖尿病等特殊情况时，改用0.9％的生理盐水稀释使用；或遵医嘱。",
+    "full_contraindications": "1.有出血倾向者禁用，孕妇及哺乳期妇女忌用。2.对本品过敏者禁用。",
+    "full_adverse_reactions": "本品有过敏反应，可见皮疹、瘙痒、头痛、头晕、心悸、寒战、发热、面部潮红、恶心、呕吐、腹泻、胸闷、呼吸困难、喉头水肿、抽搐等，停药后均能恢复正常。罕见过敏性休克。",
+    "full_interactions": "暂未发现有临床意义的药物相互作用。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴本品不得与其他药物混合在同一容器内使用；谨慎联合用药，如确需联合使用其他药品时，应谨慎考虑与中药注射剂的时间间隔以及药物相互作用等问题。⑵本品为纯中药制剂，保存不当可能影响产品质量。如发现药液出现浑浊、沉淀、变色、漏气或瓶身细微破裂等现象时不能使用。⑶月经期妇女慎用。⑷过敏体质者慎用。⑸特殊人群（特别是老年患者）用药要加强临床监护。⑹如出现不良反应，应立即停药并采取相应救治措施。"
+  },
+  "pinyin": "※▲danhongzhusheye",
+  "pinyin_initials": "※▲dhzsy",
+  "dosage_form_pinyin": "",
+  "dosage_form_initials": "",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5149",
+    "last_updated": "2026-03-21"
+  }
+}

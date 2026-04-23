@@ -1,0 +1,47 @@
+{
+  "id": 819,
+  "name": "注射用盐酸多柔比星",
+  "dosage_form": "注射用",
+  "full_name": "(甲)注射用盐酸多柔比星[国基]",
+  "chemical_name": "注射用盐酸多柔比星",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "瀚晖制药"
+  ],
+  "specifications": [
+    {
+      "specification": "10mg/瓶",
+      "manufacturer": "瀚晖制药",
+      "full_manufacturer": "瀚晖制药有限公司",
+      "price": 21.36,
+      "unit": "瓶",
+      "code": "X00569",
+      "approval_number": "国药准字H33021980",
+      "insurance_code": "XL01DBD174B001010204641",
+      "location": "L"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "zhusheyongyansuanduoroubixing",
+  "pinyin_initials": "zsyysdrbx",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2518",
+    "last_updated": "2026-03-22"
+  }
+}

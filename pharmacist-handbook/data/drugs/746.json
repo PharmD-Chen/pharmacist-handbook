@@ -1,0 +1,45 @@
+{
+  "id": 746,
+  "name": "骨化三醇胶丸",
+  "dosage_form": "丸",
+  "full_name": "(乙10)骨化三醇胶丸[市基]",
+  "chemical_name": "骨化三醇胶丸",
+  "types": [
+    "市基药"
+  ],
+  "manufacturers": [
+    "Atnahs Pharma UK Limited"
+  ],
+  "specifications": [
+    {
+      "specification": "0.25ug/粒",
+      "manufacturer": "Atnahs Pharma UK Limited",
+      "full_manufacturer": "Atnahs Pharma UK Limited（委托生产企业： CatalentGermanyEberbachGmbH）",
+      "price": 32.01,
+      "unit": "盒",
+      "code": "X00821",
+      "approval_number": "国药准字HJ20140598",
+      "insurance_code": "XA11CCG111E002010279436"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "guhuasanchunjiao",
+  "pinyin_initials": "ghscj",
+  "dosage_form_pinyin": "wan",
+  "dosage_form_initials": "w",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3090",
+    "last_updated": "2026-03-22"
+  }
+}

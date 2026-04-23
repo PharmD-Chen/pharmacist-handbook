@@ -1,0 +1,50 @@
+{
+  "id": 418,
+  "name": "白芍总苷胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)白芍总苷胶囊",
+  "chemical_name": "白芍总苷胶囊",
+  "types": [],
+  "manufacturers": [
+    "宁波立华制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.3g/粒",
+      "manufacturer": "宁波立华制药",
+      "full_manufacturer": "宁波立华制药有限公司",
+      "price": 56.33,
+      "unit": "盒",
+      "code": "C00097",
+      "approval_number": "国药准字H20055058",
+      "insurance_code": "XM01AXB013E001010204557"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "临床上用于类风湿性关节炎。国内有报道还可用于系统性红斑狼疮、干燥综合征、白塞病、强直性脊柱炎等。",
+    "dosage": "成人：常用量：口服，一次0.6g；儿童：推荐剂量：每日每公斤体重30mg",
+    "contraindications": "对白芍总苷或制剂中其他任何成份过敏者禁用。",
+    "adverse_reactions": "常见：皮疹、恶心、呕吐、腹泻、头痛、头晕、瘙痒、过敏等。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "具有抗炎、免疫调节、镇痛和保护肝脏的作用。",
+    "precautions": "⑴本品易引起腹泻，肠胃虚弱或已有腹泻症状的患者慎用。⑵严重肝功能不全者慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "临床上用于类风湿性关节炎。国内有报道还可用于系统性红斑狼疮、干燥综合征、白塞病、强直性脊柱炎等。",
+    "full_dosage": "⑴成人常用量：口服，一次0.6g，一日2～3次，餐后服用或遵医嘱。建议首期3个月每日3次，每次0.6g，口服；起效后每日2次，每次0.6g口服维持。4周为一疗程，连服2～3个疗程效果更佳。<br>　　⑵儿童推荐剂量：每日每公斤体重30mg，分2次早晚服。",
+    "full_contraindications": "对白芍总苷或制剂中其他任何成份过敏者禁用。",
+    "full_adverse_reactions": "上市后监测中发现本品有以下不良反应报告：<br>1.消化系统：恶心、呕吐、腹部不适、腹泻、腹痛、腹胀、排便频率增加、便秘、肝酶升高。<br>2.皮肤及皮下组织：皮疹、荨麻疹、红斑、瘙痒。<br>3.全身性及给药部位反应：乏力、胸部不适、水肿。<br>4.神经系统及精神类反应：头晕、头痛。<br>5.其他：过敏反应、心悸、食欲减退。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "具有抗炎、免疫调节、镇痛和保护肝脏的作用。",
+    "full_precautions": "⑴本品易引起腹泻，肠胃虚弱或已有腹泻症状的患者慎用。<br>⑵严重肝功能不全者慎用。<br>⑶孕妇：动物生殖毒性实验研究发现本品在高达2160mg剂量时，仍无致畸作用。人体尚不明确。  <br>⑷乳母用药，不详。"
+  },
+  "pinyin": "baishaozonggan",
+  "pinyin_initials": "bszg",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2843",
+    "last_updated": "2026-03-22"
+  }
+}

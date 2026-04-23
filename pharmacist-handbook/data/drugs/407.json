@@ -1,0 +1,54 @@
+{
+  "id": 407,
+  "name": "注射用还原型谷胱甘肽",
+  "dosage_form": "注射用",
+  "full_name": "※▲(乙)注射用还原型谷胱甘肽[市基]",
+  "chemical_name": "注射用还原型谷胱甘肽",
+  "types": [
+    "乙类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "瑞阳制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.6g/瓶",
+      "manufacturer": "瑞阳制药",
+      "full_manufacturer": "瑞阳制药股份有限公司",
+      "price": 10.34,
+      "unit": "瓶",
+      "code": "X00925",
+      "approval_number": "国药准字H20183373",
+      "insurance_code": "XA05BAH112B001010104152",
+      "location": "K-1",
+      "outpatient_location": "R-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于：①既往接受过以氟尿嘧啶、奥沙利铂和伊立替康为基础的化疗，以及既往接受过或不适合接受抗VEGF治疗、抗表皮生长因子受体治疗(RAS 野生型)的转移性结直肠癌(mCRC)患者；②既往接受过甲磺酸伊马替尼及苹果酸舒尼替尼治疗的局部晚期的、无法手术切除的或转移性的胃肠道间质瘤（GIST）患者；③经过索拉非尼治疗失败后的肝细胞癌（肝癌：HCC）患者。",
+    "dosage": "口服：推荐剂量为一次160mg，一日1次，连续服用21天，休息7天，28天为一疗程。",
+    "contraindications": "症 对本品过敏者禁用。",
+    "adverse_reactions": "常见：(≥30%)是乏力/疲乏，减低食欲和食物摄入量，手足皮肤反应(HFSR)[掌足红肿(PPE)]，腹泻，口腔粘膜炎，体重减轻，感染， 高血压，和发音困难",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴出血：对严重或威胁生命出血永久停止应用本品。 ⑵皮肤学毒性：皮肤学毒性的严重程度和持久性决定终止或减少本品应用。 ⑶高血压：对严重或不能控制的高血压暂时或永久终止本品。 ⑷心脏缺血和梗死：拒给Stivarga对新或急性心脏缺血/梗死和只有急性缺血事件解决后恢复。 ⑸可逆性后部白质脑病综合征(RPLS)：终止本品。 ⑹胃肠道穿孔或瘘管：终止本品。 ⑺伤口愈合",
+    "source": "湖南药事服务网",
+    "full_indications": "用于：①既往接受过以氟尿嘧啶、奥沙利铂和伊立替康为基础的化疗，以及既往接受过或不适合接受抗VEGF治疗、抗表皮生长因子受体治疗(RAS 野生型)的转移性结直肠癌(mCRC)患者；②既往接受过甲磺酸伊马替尼及苹果酸舒尼替尼治疗的局部晚期的、无法手术切除的或转移性的胃肠道间质瘤（GIST）患者；③经过索拉非尼治疗失败后的肝细胞癌（肝癌：HCC）患者。",
+    "full_pharmacokinetics": "",
+    "full_dosage": "口服：推荐剂量为一次160mg，一日1次，连续服用21天，休息7天，28天为一疗程。在每天同一时间，进食低脂早餐(脂肪含量<30%)后随水整片吞服。剂量调整建议为每次40mg，建议每日 80~160mg。",
+    "full_contraindications": "症 对本品过敏者禁用。",
+    "full_adverse_reactions": "最常见不良反应(≥30%)是乏力/疲乏，减低食欲和食物摄入量，手足皮肤反应(HFSR)[掌足红肿(PPE)]，腹泻，口腔粘膜炎，体重减轻，感染， 高血压，和发音困难。",
+    "full_precautions": "⑴出血：对严重或威胁生命出血永久停止应用本品。 ⑵皮肤学毒性：皮肤学毒性的严重程度和持久性决定终止或减少本品应用。 ⑶高血压：对严重或不能控制的高血压暂时或永久终止本品。 ⑷心脏缺血和梗死：拒给Stivarga对新或急性心脏缺血/梗死和只有急性缺血事件解决后恢复。 ⑸可逆性后部白质脑病综合征(RPLS)：终止本品。 ⑹胃肠道穿孔或瘘管：终止本品。 ⑺伤口愈合并发症：在伤口裂开患者中终止本品。 ⑻胚胎胎儿毒性：可能致胎儿危害，劝告妇女对胎儿潜在风险。"
+  },
+  "pinyin": "※▲zhusheyonghuanyuanxingguguanggantai",
+  "pinyin_initials": "※▲zsyhyxgggt",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=635",
+    "last_updated": "2026-03-22"
+  }
+}

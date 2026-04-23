@@ -1,0 +1,55 @@
+{
+  "id": 36,
+  "name": "肌苷注射液",
+  "dosage_form": "注射液",
+  "full_name": "(甲)肌苷注射液[市基]",
+  "chemical_name": "肌苷注射液",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "上海锦帝九州药业"
+  ],
+  "specifications": [
+    {
+      "specification": "100mg/支",
+      "manufacturer": "上海锦帝九州药业",
+      "full_manufacturer": "上海锦帝九州药业(安阳)有限公司",
+      "price": 28.5,
+      "unit": "支",
+      "code": "X00539",
+      "approval_number": "国药准字H41023030",
+      "insurance_code": "XL03AXJ004B002010202994",
+      "location": "B-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于急、慢性肝炎、肝硬化、胆囊炎、胆石症及白细胞或血小板减少症、心脏疾患、眼科疾病（如中心视网膜炎、视神经萎缩）等的辅助治疗。也可用于消耗性疾病的营养支持治疗。",
+    "dosage": "⑴ ⑵静脉注射或静脉滴注：一次0.2～0.6g，一日1～2次。 ⑶肌内注射：一次0.1～0.2g，一日1～2次。",
+    "contraindications": "症 对本品过敏者禁用。",
+    "adverse_reactions": "偶见胃部不适、面部潮红、轻度腹泻、腹痛、恶心、胸部灼热感。",
+    "interactions": "本品不能与乳清酸、氯霉素、双嘧达莫、硫喷妥钠注射液配伍。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "过敏体质者、妊娠及哺乳期妇女慎用。 药物相互作用 本品不能与乳清酸、氯霉素、双嘧达莫、硫喷妥钠注射液配伍。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于急、慢性肝炎、肝硬化、胆囊炎、胆石症及白细胞或血小板减少症、心脏疾患、眼科疾病（如中心视网膜炎、视神经萎缩）等的辅助治疗。也可用于消耗性疾病的营养支持治疗。",
+    "full_dosage": "⑴口服：①成人一次0.2～0.6g，儿童一次0.2g，一日3次。 ⑵静脉注射或静脉滴注：一次0.2～0.6g，一日1～2次。 ⑶肌内注射：一次0.1～0.2g，一日1～2次。",
+    "full_contraindications": "症 对本品过敏者禁用。",
+    "full_adverse_reactions": "偶见胃部不适、面部潮红、轻度腹泻、腹痛、恶心、胸部灼热感。",
+    "full_interactions": "本品不能与乳清酸、氯霉素、双嘧达莫、硫喷妥钠注射液配伍。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "过敏体质者、妊娠及哺乳期妇女慎用。 药物相互作用 本品不能与乳清酸、氯霉素、双嘧达莫、硫喷妥钠注射液配伍。"
+  },
+  "pinyin": "jigan",
+  "pinyin_initials": "jg",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13356",
+    "last_updated": "2026-03-21"
+  }
+}

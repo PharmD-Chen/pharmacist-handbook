@@ -1,0 +1,52 @@
+{
+  "id": 993,
+  "name": "胃复春胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(甲)胃复春胶囊",
+  "chemical_name": "胃复春胶囊",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "杭州胡庆余堂药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.35g/粒",
+      "manufacturer": "杭州胡庆余堂药业",
+      "full_manufacturer": "杭州胡庆余堂药业有限公司",
+      "price": 67.5,
+      "unit": "瓶",
+      "code": "C00052",
+      "approval_number": "国药准字",
+      "insurance_code": "ZA09ABW0092010104481",
+      "location": "J-1",
+      "outpatient_location": "L-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "健脾益气，活血解毒。用于胃癌癌前期病变及胃癌手术后辅助治疗。",
+    "dosage": "口服：一次4粒，一日3次。 剂型与规格 胶囊剂 0.36g ZA09AB乙0349 5% 暂无",
+    "contraindications": "对本品任何成分过敏者禁用。",
+    "adverse_reactions": "尚不明确。 禁忌症 对本品任何成分过敏者禁用。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询医师或药师。 用法与用量 口服：一次4粒，一日3次。 剂型与规格 胶囊剂 0.36g ZA09AB乙0349 5% 暂无",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "尚不明确。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情请咨询医师或药师。 用法与用量 口服：一次4粒，一日3次。 剂型与规格 胶囊剂 0.36g ZA09AB乙0349 5% 暂无",
+    "source": "",
+    "full_indications": "健脾益气，活血解毒。用于胃癌癌前期病变及胃癌手术后辅助治疗。",
+    "full_dosage": "口服：一次4粒，一日3次。 剂型与规格 胶囊剂 0.36g ZA09AB乙0349 5% 暂无",
+    "full_contraindications": "对本品任何成分过敏者禁用。",
+    "full_adverse_reactions": "尚不明确。 禁忌症 对本品任何成分过敏者禁用。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询医师或药师。 用法与用量 口服：一次4粒，一日3次。 剂型与规格 胶囊剂 0.36g ZA09AB乙0349 5% 暂无",
+    "full_precautions": "尚不明确。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情请咨询医师或药师。 用法与用量 口服：一次4粒，一日3次。 剂型与规格 胶囊剂 0.36g ZA09AB乙0349 5% 暂无"
+  },
+  "pinyin": "weifuchun",
+  "pinyin_initials": "wfc",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=6303"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 1002,
+  "name": "盐酸丙美卡因滴眼液",
+  "dosage_form": "滴眼液",
+  "full_name": "(自)盐酸丙美卡因滴眼液",
+  "chemical_name": "盐酸丙美卡因滴眼液",
+  "types": [],
+  "manufacturers": [
+    "Alcon NV"
+  ],
+  "specifications": [
+    {
+      "specification": "15ml/支",
+      "manufacturer": "Alcon NV",
+      "full_manufacturer": "Alcon NV（s.a.ALCON-COUVREUR n.v）",
+      "price": 33.14,
+      "unit": "盒",
+      "code": "X00442",
+      "approval_number": "国药准字HJ20160133",
+      "insurance_code": "XS01HAB131G010010280043",
+      "location": "2E-5",
+      "outpatient_location": "2C-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "适用于眼科局部表面麻醉。",
+    "dosage": "滴眼：⑴深部麻醉：白内障摘除术后，滴入眼睑内，一次1～2滴，每5～10分钟1次，共5～7次。 ⑵缝线拆除：于拆线前2～3分钟，滴入眼睑内，一次1～2滴。 ⑶取异物、平面眼压计测量：操作前滴入眼睑内1～2滴。必要时可追加1滴。 剂型与规格 滴眼液 75mg 15ml 2mg 0.4ml 哪儿有",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "长期使用可引起角膜损伤、视力减退或伤口愈合延迟。 禁忌症 对本品过敏者禁用。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "C\n \n",
+    "pharmacokinetics": "",
+    "precautions": "⑴甲状腺功能亢进、心脏病患者慎用。⑵表面麻醉药不宜长期使用，以免引起角膜损伤、视力减退或伤口愈合延迟。",
+    "source": "",
+    "full_indications": "适用于眼科局部表面麻醉。",
+    "full_dosage": "滴眼：⑴深部麻醉：白内障摘除术后，滴入眼睑内，一次1～2滴，每5～10分钟1次，共5～7次。 ⑵缝线拆除：于拆线前2～3分钟，滴入眼睑内，一次1～2滴。 ⑶取异物、平面眼压计测量：操作前滴入眼睑内1～2滴。必要时可追加1滴。 剂型与规格 滴眼液 75mg 15ml 2mg 0.4ml 哪儿有",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "长期使用可引起角膜损伤、视力减退或伤口愈合延迟。 禁忌症 对本品过敏者禁用。",
+    "full_precautions": "⑴甲状腺功能亢进、心脏病患者慎用。 ⑵表面麻醉药不宜长期使用，以免引起角膜损伤、视力减退或伤口愈合延迟。 ⑶使用本品时防止异物进入眼内，并禁止揉搓眼睛。 用法与用量 滴眼：⑴深部麻醉：白内障摘除术后，滴入眼睑内，一次1～2滴，每5～10分钟1次，共5～7次。 ⑵缝线拆除：于拆线前2～3分钟，滴入眼睑内，一次1～2滴。 ⑶取异物、平面眼压计测量：操作前滴入眼睑内1～2滴。必要时可追加1滴。 剂型与规格 滴眼液 75mg 15ml 2mg 0.4ml 哪儿有"
+  },
+  "pinyin": "yansuanbingmeikayin",
+  "pinyin_initials": "ysbmky",
+  "dosage_form_pinyin": "diyanye",
+  "dosage_form_initials": "dyy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2862"
+  }
+}

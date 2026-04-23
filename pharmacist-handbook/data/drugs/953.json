@@ -1,0 +1,54 @@
+{
+  "id": 953,
+  "name": "吸入用复方异丙托溴铵溶液",
+  "dosage_form": "其他",
+  "full_name": "(甲)吸入用复方异丙托溴铵溶液",
+  "chemical_name": "吸入用复方异丙托溴铵溶液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "健康元药业集团"
+  ],
+  "specifications": [
+    {
+      "specification": "2.5ml/支",
+      "manufacturer": "健康元药业集团",
+      "full_manufacturer": "健康元药业集团股份有限公司(委托生产企业：健康元海滨药业有限公司)",
+      "price": 14.7,
+      "unit": "盒",
+      "code": "Y00000014695",
+      "approval_number": "国药准字H20193086",
+      "insurance_code": "XR03BBF576L019010100545",
+      "location": "C-3",
+      "outpatient_location": "A-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于预防和治疗支气管哮喘或喘息型支气管炎等伴有支气管痉挛（喘鸣），慢性阻塞性肺疾病的平喘治疗。一般作为临时用药。",
+    "dosage": "⑴气雾剂：成人（包括老年人）及12岁以上儿童，一次2揿，一日4次，需要时可用至最大剂量，即24小时内12揿。",
+    "contraindications": "参阅异丙托溴铵和沙丁胺醇。",
+    "adverse_reactions": "也可出现两种药物的不良反应：主要为肌肉震颤、心悸、心率增快、头痛以及口干等。",
+    "interactions": "⑴同时使用黄嘌呤衍生物、β肾上腺素类和抗胆碱能类可增加不良反应。；⑵黄嘌呤衍生物、皮质类固醇和利尿药可增强由β受体激动药引起的低钾血症，对有严重气道阻塞的患者要特别重视。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "为具有两种作用机制的药物复方制剂，具有沙丁胺醇起效迅速，而异丙托溴胺起效缓慢，但作用持久，两者具有协同作用。其余参阅异丙托溴铵和沙丁胺醇。",
+    "precautions": "妊娠期尤其是妊娠前3个月慎用；妊娠期妇女慎用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于预防和治疗支气管哮喘或喘息型支气管炎等伴有支气管痉挛（喘鸣），慢性阻塞性肺疾病的平喘治疗。一般作为临时用药。",
+    "full_dosage": "⑴气雾剂：成人（包括老年人）及12岁以上儿童，一次2揿，一日4次，需要时可用至最大剂量，即24小时内12揿。    <br>　　⑵雾化吸入溶液：用于成人和12岁以上的青少年；急性发作期一次1～2支；维持治疗期一次1支，一日3～4次。",
+    "full_contraindications": "参阅异丙托溴铵和沙丁胺醇。",
+    "full_adverse_reactions": "也可出现两种药物的不良反应：主要为肌肉震颤、心悸、心率增快、头痛以及口干等。",
+    "full_interactions": "⑴同时使用黄嘌呤衍生物、β肾上腺素类和抗胆碱能类可增加不良反应。  <br>⑵黄嘌呤衍生物、皮质类固醇和利尿药可增强由β受体激动药引起的低钾血症，对有严重气道阻塞的患者要特别重视。  <br>⑶同用β受体拮抗药可使支气管扩张效果显著降低。  <br>⑷单胺氧化酶抑制药或三环类抗抑郁药可增强β肾上腺素能激动药的作用。  <br>⑸吸入卤化烃类麻醉药如卤烷、三氯乙烯和安氟醚可以增加β受体激动药对心血管作用的易感性。",
+    "full_pharmacokinetics": "为具有两种作用机制的药物复方制剂，具有沙丁胺醇起效迅速，而异丙托溴胺起效缓慢，但作用持久，两者具有协同作用。其余参阅异丙托溴铵和沙丁胺醇。",
+    "full_precautions": "妊娠期尤其是妊娠前3个月慎用；妊娠期妇女慎用。"
+  },
+  "pinyin": "xiruyongfufangyibingtuoxiuanrongye",
+  "pinyin_initials": "xryffybtxary",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1667",
+    "last_updated": "2026-03-22"
+  }
+}

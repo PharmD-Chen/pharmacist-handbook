@@ -1,0 +1,55 @@
+{
+  "id": 689,
+  "name": "氯沙坦钾氢氯噻嗪片",
+  "dosage_form": "片",
+  "full_name": "(甲)氯沙坦钾氢氯噻嗪片[市基]",
+  "chemical_name": "氯沙坦钾氢氯噻嗪片",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "浙江华海药业"
+  ],
+  "specifications": [
+    {
+      "specification": "1片/片",
+      "manufacturer": "浙江华海药业",
+      "full_manufacturer": "浙江华海药业股份有限公司（委托生产企业：浙江华海药业股份有限公司,浙江华海制药科技有限公司）",
+      "price": 4.16,
+      "unit": "盒",
+      "code": "X00428",
+      "approval_number": "国药准字H20223466",
+      "insurance_code": "XC09DAL246A001010204647",
+      "location": "L-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "本品为氯沙坦和氢氯噻嗪的复方制剂。 用于高血压病。",
+    "dosage": "口服：一次1片，一日1次。如达不到满意效果，剂量可增至一次2片，一日1次。最大剂量为一次2片，一日1次。通常在服药后3周内可达到最佳效果。老年患者不需要调整初始剂量。",
+    "contraindications": "症 参阅氯沙坦和氢氯噻嗪。",
+    "adverse_reactions": "发生。 不良反应 参阅氯沙坦和氢氯噻嗪。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "参阅氯沙坦和氢氯噻嗪。 给药说明 半片可与食物同服或单独服用。",
+    "source": "湖南药事服务网",
+    "full_indications": "本品为氯沙坦和氢氯噻嗪的复方制剂。 用于治疗高血压病。",
+    "full_dosage": "口服：一次1片，一日1次。如达不到满意效果，剂量可增至一次2片，一日1次。最大剂量为一次2片，一日1次。通常在服药后3周内可达到最佳效果。老年患者不需要调整初始剂量。",
+    "full_contraindications": "症 参阅氯沙坦和氢氯噻嗪。",
+    "full_adverse_reactions": "发生。 不良反应 参阅氯沙坦和氢氯噻嗪。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "参阅氯沙坦和氢氯噻嗪。 给药说明 半片可与食物同服或单独服用。"
+  },
+  "pinyin": "lvshatanjiaqinglvsaiqin",
+  "pinyin_initials": "lstjqlsq",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2180",
+    "last_updated": "2026-03-21"
+  }
+}

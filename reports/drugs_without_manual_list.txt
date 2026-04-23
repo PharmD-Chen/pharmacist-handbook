@@ -1,0 +1,1108 @@
+================================================================================
+缺少说明书的药品清单
+================================================================================
+
+总计: 151 个药品
+
+================================================================================
+按剂型分类统计
+================================================================================
+
+丸: 5 个
+  - ※苏合香 https://www.hnysfww.com/goods.php?id=7457
+  - 牛黄清心 https://www.hnysfww.com/goods.php?id=7181
+  - ※▲儿茶上清 https://www.hnysfww.com/goods.php?id=13746
+  - 华佗再造 https://www.hnysfww.com/goods.php?id=7293
+  - 金匮肾气 https://www.hnysfww.com/goods.php?id=6502
+
+乳膏: 3 个
+  - 磺胺嘧啶银 https://www.hnysfww.com/goods.php?id=2066
+  - 维A酸 https://www.hnysfww.com/goods.php?id=2940
+  - ※▲本维莫德 https://www.hnysfww.com/goods.php?id=1827
+
+其他: 14 个
+  - 浓替硝唑含漱液
+  - 西帕依固龈液 https://www.hnysfww.com/goods.php?id=4000
+  - 利培酮口服液 https://www.hnysfww.com/goods.php?id=780
+  - 青霉素皮试剂
+  - 抗凝血用枸橼酸钠溶液
+  - 吸入用布地奈德混悬液 https://www.hnysfww.com/goods.php?id=1655
+  - 吸入用复方异丙托溴铵溶液 https://www.hnysfww.com/goods.php?id=1667
+  - 吸入用七氟烷 https://www.hnysfww.com/goods.php?id=2891
+  - 吸入用乙酰半胱氨酸溶液 https://www.hnysfww.com/goods.php?id=1587
+  - 克林霉素磷酸酯外用溶液 https://www.hnysfww.com/goods.php?id=2038
+  - 甲硝唑栓 https://www.hnysfww.com/goods.php?id=2328
+  - 金振口服液 https://www.hnysfww.com/goods.php?id=6150
+  - 大川芎口服液 https://www.hnysfww.com/goods.php?id=7244
+  - 桂林西瓜霜 https://www.hnysfww.com/goods.php?id=4139
+
+凝胶: 1 个
+  - 洛索洛芬钠凝胶 https://www.hnysfww.com/goods.php?id=2715
+
+口服溶液: 3 个
+  - 草酸艾司西酞普兰 https://www.hnysfww.com/goods.php?id=821
+  - ※▲利司扑兰口服溶液用 https://www.hnysfww.com/goods.php?id=13310
+  - 美敏伪麻 https://www.hnysfww.com/goods.php?id=7990
+
+合剂: 1 个
+  - 人纤维蛋白粘 https://www.hnysfww.com/goods.php?id=3519
+
+咀嚼片: 1 个
+  - 孟鲁司特钠 https://www.hnysfww.com/goods.php?id=1645
+
+喷雾剂: 1 个
+  - 筋骨伤 https://www.hnysfww.com/goods.php?id=8206
+
+散: 3 个
+  - 磷霉素氨丁三醇 https://www.hnysfww.com/goods.php?id=2117
+  - 口服补液盐 https://www.hnysfww.com/goods.php?id=3215
+  - 凝血酶 https://www.hnysfww.com/goods.php?id=13851
+
+注射液: 42 个
+  - 50%葡萄糖
+  - 精蛋白人胰岛素混合 https://www.hnysfww.com/goods.php?id=13307
+  - 丙泊酚乳状 https://www.hnysfww.com/goods.php?id=2902
+  - 瑞基奥仑赛 https://www.hnysfww.com/goods.php?id=13214
+  - ※▲香丹 https://www.hnysfww.com/goods.php?id=5353
+  - 单唾液酸四己糖神经节苷脂钠 https://www.hnysfww.com/goods.php?id=1078
+  - 醋酸奥曲肽 https://www.hnysfww.com/goods.php?id=1287
+  - ※▲脂肪乳氨基酸葡萄糖
+  - 黄体酮 https://www.hnysfww.com/goods.php?id=1413
+  - 地塞米松磷酸钠 https://www.hnysfww.com/goods.php?id=1240
+  - 甘露醇 https://www.hnysfww.com/goods.php?id=1747
+  - 尼莫地平 https://www.hnysfww.com/goods.php?id=355
+  - 尼可刹米 https://www.hnysfww.com/goods.php?id=940
+  - 门冬胰岛素30 https://www.hnysfww.com/goods.php?id=1313
+  - 氟哌啶醇 https://www.hnysfww.com/goods.php?id=752
+  - 氢溴酸山莨菪碱 https://www.hnysfww.com/goods.php?id=517
+  - 盐酸格拉司琼 https://www.hnysfww.com/goods.php?id=552
+  - 硫酸鱼精蛋白 https://www.hnysfww.com/goods.php?id=1108
+  - 注射用头孢哌酮钠舒巴坦钠/氯化钠 https://www.hnysfww.com/goods.php?id=1944
+  - 盐酸纳洛酮 https://www.hnysfww.com/goods.php?id=3284
+  - ※▲特瑞普利单抗 https://www.hnysfww.com/goods.php?id=12903
+  - 多奈单抗 https://www.hnysfww.com/goods.php?id=13629
+  - 碘普罗胺 https://www.hnysfww.com/goods.php?id=3304
+  - 托拉塞米 https://www.hnysfww.com/goods.php?id=1728
+  - 氨甲苯酸 https://www.hnysfww.com/goods.php?id=1105
+  - 氢溴酸东莨菪碱 https://www.hnysfww.com/goods.php?id=1105
+  - 氯化琥珀胆碱 https://www.hnysfww.com/goods.php?id=2904
+  - 精蛋白锌重组赖脯胰岛素混合 https://www.hnysfww.com/goods.php?id=1316
+  - 维生素B12 https://www.hnysfww.com/goods.php?id=3075
+  - 维生素B1 https://www.hnysfww.com/goods.php?id=3070
+  - 维生素B6 https://www.hnysfww.com/goods.php?id=3074
+  - 碳酸氢钠
+  - 巴曲酶 https://www.hnysfww.com/goods.php?id=1142
+  - ※▲依那西普 https://www.hnysfww.com/goods.php?id=3561
+  - ※▲天麻素 https://www.hnysfww.com/goods.php?id=737
+  - 盐酸纳美芬 https://www.hnysfww.com/goods.php?id=3285
+  - 氢溴酸依他佐辛 https://www.hnysfww.com/goods.php?id=1020
+  - 谷赖胰岛素 https://www.hnysfww.com/goods.php?id=1320
+  - 甲钴胺 https://www.hnysfww.com/goods.php?id=1076
+  - 地塞米松棕榈酸酯 https://www.hnysfww.com/goods.php?id=1240
+  - 盐酸二甲弗林 https://www.hnysfww.com/goods.php?id=943
+  - 硫酸镁
+
+注射用: 4 个
+  - ※▲注射用血栓通 https://www.hnysfww.com/goods.php?id=5186
+  - 注射用苄星青霉素 https://www.hnysfww.com/goods.php?id=1850
+  - ※注射用糜蛋白酶 https://www.hnysfww.com/goods.php?id=3664
+  - ※▲注射用人生长激素 https://www.hnysfww.com/goods.php?id=1291
+
+混悬剂: 2 个
+  - 阿奇霉素干 https://www.hnysfww.com/goods.php?id=2016
+  - 硫酸钡干 https://www.hnysfww.com/goods.php?id=3319
+
+滴眼液: 1 个
+  - 盐酸丙美卡因 https://www.hnysfww.com/goods.php?id=2862
+
+片: 35 个
+  - ※甲磺酸雷沙吉兰 https://www.hnysfww.com/goods.php?id=901
+  - ※▲洛拉替尼 https://www.hnysfww.com/goods.php?id=12908
+  - 替米沙坦氢氯噻嗪 https://www.hnysfww.com/goods.php?id=10307
+  - 拉西地平 https://www.hnysfww.com/goods.php?id=174
+  - 灵泽 https://www.hnysfww.com/goods.php?id=8135
+  - 罗替高汀贴 https://www.hnysfww.com/goods.php?id=1303
+  - 萘普生钠 https://www.hnysfww.com/goods.php?id=2694
+  - 氨酚伪麻美芬片与苯酚伪麻
+  - 甲磺酸二氢麦角碱分散 https://www.hnysfww.com/goods.php?id=982
+  - ※▲炔雌醇环丙孕酮 https://www.hnysfww.com/goods.php?id=1440
+  - 消旋山莨菪碱 https://www.hnysfww.com/goods.php?id=517
+  - 马来酸依那普利 https://www.hnysfww.com/goods.php?id=184
+  - 匹伐他汀钙 https://www.hnysfww.com/goods.php?id=315
+  - 天麻素 https://www.hnysfww.com/goods.php?id=737
+  - 诺氟沙星 https://www.hnysfww.com/goods.php?id=2087
+  - 西格列汀二甲双胍 https://www.hnysfww.com/goods.php?id=1359
+  - 莱博雷生 https://www.hnysfww.com/goods.php?id=13917
+  - 吡格列酮二甲双胍 https://www.hnysfww.com/goods.php?id=12404
+  - 吡仑帕奈 https://www.hnysfww.com/goods.php?id=863
+  - 盐酸伐昔洛韦 https://www.hnysfww.com/goods.php?id=2235
+  - 磷酸可待因 https://www.hnysfww.com/goods.php?id=1009
+  - 磷酸西格列汀 https://www.hnysfww.com/goods.php?id=1348
+  - 克霉唑阴道 https://www.hnysfww.com/goods.php?id=2174
+  - 卡托普利 https://www.hnysfww.com/goods.php?id=183
+  - 维生素B1 https://www.hnysfww.com/goods.php?id=3070
+  - ※▲阿布昔替尼 https://www.hnysfww.com/goods.php?id=13530
+  - 复方嗜酸乳杆菌 https://www.hnysfww.com/goods.php?id=468
+  - 艾地苯醌 https://www.hnysfww.com/goods.php?id=986
+  - 爱普列特 https://www.hnysfww.com/goods.php?id=1769
+  - ※▲非奈利酮 https://www.hnysfww.com/goods.php?id=13554
+  - 富马酸丙酚替诺福韦 https://www.hnysfww.com/goods.php?id=12897
+  - ※▲金水宝 https://www.hnysfww.com/goods.php?id=6851
+  - 醋酸去氨加压素 https://www.hnysfww.com/goods.php?id=1755
+  - 普适泰 https://www.hnysfww.com/goods.php?id=1771
+  - ※▲乙酰唑胺 https://www.hnysfww.com/goods.php?id=2992
+
+糖浆: 1 个
+  - 急支 https://www.hnysfww.com/goods.php?id=6157
+
+缓释片: 5 个
+  - 碳酸锂 https://www.hnysfww.com/goods.php?id=851
+  - 丙戊酸镁 https://www.hnysfww.com/goods.php?id=858
+  - ※▲乌帕替尼 https://www.hnysfww.com/goods.php?id=13235
+  - 硫酸吗啡 https://www.hnysfww.com/goods.php?id=1003
+  - 甲磺酸二氢麦角碱 https://www.hnysfww.com/goods.php?id=982
+
+肠溶片: 2 个
+  - 己酮可可碱 https://www.hnysfww.com/goods.php?id=375
+  - ※▲麦考酚钠 https://www.hnysfww.com/goods.php?id=1808
+
+胶囊: 21 个
+  - 便通 https://www.hnysfww.com/goods.php?id=4206
+  - 心可宁 https://www.hnysfww.com/goods.php?id=5393
+  - 标准桃金娘油肠溶 https://www.hnysfww.com/goods.php?id=1590
+  - ※▲乙磺酸尼达尼布软 https://www.hnysfww.com/goods.php?id=1706
+  - 脑心通 https://www.hnysfww.com/goods.php?id=5474
+  - 黄体酮软 https://www.hnysfww.com/goods.php?id=1413
+  - ※▲苯磺酸克利加巴林 https://www.hnysfww.com/goods.php?id=13775
+  - 丹参酮 https://www.hnysfww.com/goods.php?id=5289
+  - 加巴喷丁 https://www.hnysfww.com/goods.php?id=867
+  - 酒石酸长春瑞滨软 https://www.hnysfww.com/goods.php?id=2543
+  - 宫血宁 https://www.hnysfww.com/goods.php?id=5821
+  - 黄葵 https://www.hnysfww.com/goods.php?id=7058
+  - 头孢拉定 https://www.hnysfww.com/goods.php?id=1886
+  - 麻仁软 https://www.hnysfww.com/goods.php?id=7032
+  - 坤泰 https://www.hnysfww.com/goods.php?id=6672
+  - 兰索拉唑肠溶 https://www.hnysfww.com/goods.php?id=414
+  - 头孢克洛 https://www.hnysfww.com/goods.php?id=1898
+  - 胃复春 https://www.hnysfww.com/goods.php?id=6303
+  - ※▲参莲 https://www.hnysfww.com/goods.php?id=5638
+  - 达比加群酯 https://www.hnysfww.com/goods.php?id=1130
+  - 大活络 https://www.hnysfww.com/goods.php?id=7242
+
+软膏: 6 个
+  - 莫匹罗星 https://www.hnysfww.com/goods.php?id=2120
+  - 积雪苷霜 https://www.hnysfww.com/goods.php?id=8146
+  - 他克莫司 https://www.hnysfww.com/goods.php?id=1806
+  - ※▲他克莫司 https://www.hnysfww.com/goods.php?id=1806
+  - ※▲克立硼罗 https://www.hnysfww.com/goods.php?id=13172
+  - 硫 https://www.hnysfww.com/goods.php?id=2383
+
+================================================================================
+完整清单（按ID排序）
+================================================================================
+
+1. ID: 85
+   名称: ※甲磺酸雷沙吉兰
+   剂型: 片
+   完整名称: ※(乙10%)甲磺酸雷沙吉兰片
+   拼音首字母: ※jhslsjl
+
+2. ID: 114
+   名称: 50%葡萄糖
+   剂型: 注射液
+   完整名称: (甲)50%葡萄糖注射液[国基]
+   拼音首字母: 50%ptt
+
+3. ID: 245
+   名称: 精蛋白人胰岛素混合
+   剂型: 注射液
+   完整名称: (甲)(礼来)精蛋白人胰岛素混合注射液(30R)(70/30)[国基][市基]
+   拼音首字母: jdbrydshh
+
+4. ID: 252
+   名称: ※▲注射用血栓通
+   剂型: 注射用
+   完整名称: ※▲(甲)注射用血栓通(冻干)[国基]
+   拼音首字母: ※▲zsyxst
+
+5. ID: 506
+   名称: 便通
+   剂型: 胶囊
+   完整名称: (乙10%)便通胶囊
+   拼音首字母: bt
+
+6. ID: 507
+   名称: 丙泊酚乳状
+   剂型: 注射液
+   完整名称: (甲)丙泊酚乳状注射液[国基]
+   拼音首字母: bpfrz
+
+7. ID: 520
+   名称: ※苏合香
+   剂型: 丸
+   完整名称: ※(甲)苏合香丸[国基]
+   拼音首字母: ※shx
+
+8. ID: 525
+   名称: 未确瑞基奥仑赛
+   剂型: 注射液
+   完整名称: 未确(自)瑞基奥仑赛注射液
+   拼音首字母: wqrjals
+
+9. ID: 526
+   名称: ※▲香丹
+   剂型: 注射液
+   完整名称: ※▲(甲)香丹注射液
+   拼音首字母: ※▲xd
+
+10. ID: 527
+   名称: ※▲洛拉替尼
+   剂型: 片
+   完整名称: ※▲(乙10%)洛拉替尼片
+   拼音首字母: ※▲lltn
+
+11. ID: 528
+   名称: 替米沙坦氢氯噻嗪
+   剂型: 片
+   完整名称: (乙)替米沙坦氢氯噻嗪片
+   拼音首字母: tmstqlsq
+
+12. ID: 529
+   名称: 拉西地平
+   剂型: 片
+   完整名称: (甲)拉西地平片[市基]
+   拼音首字母: lxdp
+
+13. ID: 531
+   名称: 阿奇霉素干
+   剂型: 混悬剂
+   完整名称: (甲)阿奇霉素干混悬剂
+   拼音首字母: aqmsg
+
+14. ID: 533
+   名称: 灵泽
+   剂型: 片
+   完整名称: (甲)灵泽片[国基]
+   拼音首字母: lz
+
+15. ID: 534
+   名称: 罗替高汀贴
+   剂型: 片
+   完整名称: (自)罗替高汀贴片
+   拼音首字母: ltgtt
+
+16. ID: 536
+   名称: 注射用苄星青霉素
+   剂型: 注射用
+   完整名称: (甲)注射用苄星青霉素[国基]
+   拼音首字母: zsybxqms
+
+17. ID: 538
+   名称: 萘普生钠
+   剂型: 片
+   完整名称: (甲)萘普生钠片
+   拼音首字母: npsn
+
+18. ID: 574
+   名称: 氨酚伪麻美芬片与苯酚伪麻
+   剂型: 片
+   完整名称: (甲)氨酚伪麻美芬片(II)与苯酚伪麻片
+   拼音首字母: afwmmfpybfwm
+
+19. ID: 579
+   名称: 甲磺酸二氢麦角碱分散
+   剂型: 片
+   完整名称: (甲)甲磺酸二氢麦角碱分散片[市基]
+   拼音首字母: jhseqmjjfs
+
+20. ID: 582
+   名称: 人纤维蛋白粘
+   剂型: 合剂
+   完整名称: (自)人纤维蛋白粘合剂
+   拼音首字母: rxwdbz
+
+21. ID: 638
+   名称: ※▲炔雌醇环丙孕酮
+   剂型: 片
+   完整名称: ※▲(乙10%)炔雌醇环丙孕酮片
+   拼音首字母: ※▲gcchbyt
+
+22. ID: 660
+   名称: 草酸艾司西酞普兰
+   剂型: 口服溶液
+   完整名称: (甲)草酸艾司西酞普兰口服溶液
+   拼音首字母: csasxtpl
+
+23. ID: 664
+   名称: ※▲利司扑兰口服溶液用
+   剂型: 口服溶液
+   完整名称: ※▲(乙10%)利司扑兰口服溶液用散
+   拼音首字母: ※▲lsplkfryy
+
+24. ID: 666
+   名称: 心可宁
+   剂型: 胶囊
+   完整名称: (乙10%)心可宁胶囊
+   拼音首字母: xkn
+
+25. ID: 866
+   名称: 标准桃金娘油肠溶
+   剂型: 胶囊
+   完整名称: (甲)标准桃金娘油肠溶胶囊
+   拼音首字母: bztjnycr
+
+26. ID: 867
+   名称: 单唾液酸四己糖神经节苷脂钠
+   剂型: 注射液
+   完整名称: (自)单唾液酸四己糖神经节苷脂钠注射液
+   拼音首字母: dtyssjtsjjgzn
+
+27. ID: 868
+   名称: 醋酸奥曲肽
+   剂型: 注射液
+   完整名称: (乙10%)醋酸奥曲肽注射液
+   拼音首字母: csaqt
+
+28. ID: 869
+   名称: ※▲脂肪乳氨基酸葡萄糖
+   剂型: 注射液
+   完整名称: ※▲(甲)脂肪乳氨基酸(17)葡萄糖(11%)注射液
+   拼音首字母: ※▲zfrajsptt
+
+29. ID: 870
+   名称: 美敏伪麻
+   剂型: 口服溶液
+   完整名称: (甲)美敏伪麻口服溶液
+   拼音首字母: mmwm
+
+30. ID: 872
+   名称: 黄体酮
+   剂型: 注射液
+   完整名称: (甲)黄体酮注射液[国基]
+   拼音首字母: htt
+
+31. ID: 873
+   名称: 磺胺嘧啶银
+   剂型: 乳膏
+   完整名称: (甲)磺胺嘧啶银乳膏[国基]
+   拼音首字母: hamdy
+
+32. ID: 875
+   名称: 消旋山莨菪碱
+   剂型: 片
+   完整名称: (甲)消旋山莨菪碱片[国基]
+   拼音首字母: xxsldj
+
+33. ID: 877
+   名称: 马来酸依那普利
+   剂型: 片
+   完整名称: (甲)马来酸依那普利片[国基]
+   拼音首字母: mlsynpl
+
+34. ID: 878
+   名称: 浓替硝唑含漱液
+   剂型: 其他
+   完整名称: (甲)浓替硝唑含漱液[市基]
+   拼音首字母: ntxzhsy
+
+35. ID: 879
+   名称: 地塞米松磷酸钠
+   剂型: 注射液
+   完整名称: (甲)地塞米松磷酸钠注射液
+   拼音首字母: dsmslsn
+
+36. ID: 880
+   名称: 甘露醇
+   剂型: 注射液
+   完整名称: (甲)甘露醇注射液[国基]
+   拼音首字母: glc
+
+37. ID: 881
+   名称: ※▲乙磺酸尼达尼布软
+   剂型: 胶囊
+   完整名称: ※▲(乙10%)乙磺酸尼达尼布软胶囊
+   拼音首字母: ※▲yhsndnbr
+
+38. ID: 882
+   名称: 西帕依固龈液
+   剂型: 其他
+   完整名称: (甲)西帕依固龈液[国基]
+   拼音首字母: xpygky
+
+39. ID: 884
+   名称: 碳酸锂
+   剂型: 缓释片
+   完整名称: (甲)碳酸锂缓释片
+   拼音首字母: tsl
+
+40. ID: 885
+   名称: 牛黄清心
+   剂型: 丸
+   完整名称: (甲)牛黄清心丸(局方)
+   拼音首字母: nhqx
+
+41. ID: 887
+   名称: 尼莫地平
+   剂型: 注射液
+   完整名称: (乙)尼莫地平注射液
+   拼音首字母: nmdp
+
+42. ID: 889
+   名称: 匹伐他汀钙
+   剂型: 片
+   完整名称: (乙10%)匹伐他汀钙片
+   拼音首字母: pfttg
+
+43. ID: 890
+   名称: 莫匹罗星
+   剂型: 软膏
+   完整名称: (甲)莫匹罗星软膏[国基、上增]
+   拼音首字母: mplx
+
+44. ID: 891
+   名称: 脑心通
+   剂型: 胶囊
+   完整名称: (甲)脑心通胶囊[国基]
+   拼音首字母: nxt
+
+45. ID: 892
+   名称: 尼可刹米
+   剂型: 注射液
+   完整名称: (甲)尼可刹米注射液[国基]
+   拼音首字母: nksm
+
+46. ID: 893
+   名称: 门冬胰岛素30
+   剂型: 注射液
+   完整名称: (甲)门冬胰岛素30注射液(笔芯)
+   拼音首字母: mdyds30
+
+47. ID: 894
+   名称: 天麻素
+   剂型: 片
+   完整名称: (乙10%)天麻素片
+   拼音首字母: tms
+
+48. ID: 895
+   名称: 黄体酮软
+   剂型: 胶囊
+   完整名称: (甲)黄体酮软胶囊
+   拼音首字母: httr
+
+49. ID: 896
+   名称: ※▲苯磺酸克利加巴林
+   剂型: 胶囊
+   完整名称: ※▲(乙10%)苯磺酸克利加巴林胶囊
+   拼音首字母: ※▲bhskljbl
+
+50. ID: 897
+   名称: 丹参酮
+   剂型: 胶囊
+   完整名称: (乙10%)丹参酮胶囊
+   拼音首字母: dst
+
+51. ID: 898
+   名称: 利培酮口服液
+   剂型: 其他
+   完整名称: (甲)利培酮口服液
+   拼音首字母: lptkfy
+
+52. ID: 900
+   名称: 氟哌啶醇
+   剂型: 注射液
+   完整名称: (甲)氟哌啶醇注射液
+   拼音首字母: fpdc
+
+53. ID: 902
+   名称: 青霉素皮试剂
+   剂型: 其他
+   完整名称: (甲)青霉素皮试剂
+   拼音首字母: qmspsj
+
+54. ID: 904
+   名称: 氢溴酸山莨菪碱
+   剂型: 注射液
+   完整名称: (甲)氢溴酸山莨菪碱注射液[国基]
+   拼音首字母: qxssldj
+
+55. ID: 906
+   名称: 诺氟沙星
+   剂型: 片
+   完整名称: (甲)诺氟沙星片[国基]
+   拼音首字母: nfsx
+
+56. ID: 907
+   名称: 加巴喷丁
+   剂型: 胶囊
+   完整名称: (乙10%)加巴喷丁胶囊
+   拼音首字母: jbpd
+
+57. ID: 919
+   名称: 盐酸格拉司琼
+   剂型: 注射液
+   完整名称: (乙10%)盐酸格拉司琼注射液
+   拼音首字母: ysglsq
+
+58. ID: 920
+   名称: 西格列汀二甲双胍
+   剂型: 片
+   完整名称: (乙10%)西格列汀二甲双胍片(II)
+   拼音首字母: xgltejsg
+
+59. ID: 921
+   名称: 酒石酸长春瑞滨软
+   剂型: 胶囊
+   完整名称: (乙)酒石酸长春瑞滨软胶囊
+   拼音首字母: jssccrbr
+
+60. ID: 922
+   名称: 硫酸鱼精蛋白
+   剂型: 注射液
+   完整名称: (甲)硫酸鱼精蛋白注射液
+   拼音首字母: lsyjdb
+
+61. ID: 923
+   名称: 丙戊酸镁
+   剂型: 缓释片
+   完整名称: (乙10%)丙戊酸镁缓释片
+   拼音首字母: bwsm
+
+62. ID: 924
+   名称: 注射用头孢哌酮钠舒巴坦钠/氯化钠
+   剂型: 注射液
+   完整名称: (乙10%)注射用头孢哌酮钠舒巴坦钠/氯化钠注射液
+   拼音首字母: zsytbptnsbtn/lhn
+
+63. ID: 925
+   名称: 莱博雷生
+   剂型: 片
+   完整名称: (自)莱博雷生片
+   拼音首字母: lbls
+
+64. ID: 926
+   名称: 盐酸纳洛酮
+   剂型: 注射液
+   完整名称: (甲)盐酸纳洛酮注射液
+   拼音首字母: ysnlt
+
+65. ID: 927
+   名称: ※▲儿茶上清
+   剂型: 丸
+   完整名称: ※▲(乙10%)儿茶上清丸
+   拼音首字母: ※▲ecsq
+
+66. ID: 928
+   名称: ※▲特瑞普利单抗
+   剂型: 注射液
+   完整名称: ※▲(乙10%)特瑞普利单抗注射液
+   拼音首字母: ※▲trpldk
+
+67. ID: 929
+   名称: 多奈单抗
+   剂型: 注射液
+   完整名称: (自)多奈单抗注射液
+   拼音首字母: dndk
+
+68. ID: 930
+   名称: 宫血宁
+   剂型: 胶囊
+   完整名称: (甲)宫血宁胶囊
+   拼音首字母: gxn
+
+69. ID: 932
+   名称: 碘普罗胺
+   剂型: 注射液
+   完整名称: (甲)碘普罗胺注射液
+   拼音首字母: dpla
+
+70. ID: 933
+   名称: 华佗再造
+   剂型: 丸
+   完整名称: (甲)华佗再造丸
+   拼音首字母: htzz
+
+71. ID: 934
+   名称: 托拉塞米
+   剂型: 注射液
+   完整名称: (乙)托拉塞米注射液
+   拼音首字母: tlsm
+
+72. ID: 936
+   名称: 吡格列酮二甲双胍
+   剂型: 片
+   完整名称: (乙10%)吡格列酮二甲双胍片
+   拼音首字母: bgltejsg
+
+73. ID: 938
+   名称: 吡仑帕奈
+   剂型: 片
+   完整名称: (乙10%)吡仑帕奈片
+   拼音首字母: blpn
+
+74. ID: 939
+   名称: 盐酸伐昔洛韦
+   剂型: 片
+   完整名称: (乙10%)盐酸伐昔洛韦片
+   拼音首字母: ysfxlw
+
+75. ID: 940
+   名称: 黄葵
+   剂型: 胶囊
+   完整名称: (乙10%)黄葵胶囊
+   拼音首字母: hk
+
+76. ID: 941
+   名称: 氨甲苯酸
+   剂型: 注射液
+   完整名称: (甲)氨甲苯酸注射液[国基]
+   拼音首字母: ajbs
+
+77. ID: 942
+   名称: 抗凝血用枸橼酸钠溶液
+   剂型: 其他
+   完整名称: (自)抗凝血用枸橼酸钠溶液
+   拼音首字母: knxyjysnry
+
+78. ID: 943
+   名称: 氢溴酸东莨菪碱
+   剂型: 注射液
+   完整名称: (甲)氢溴酸东莨菪碱注射液
+   拼音首字母: qxsdldj
+
+79. ID: 944
+   名称: 头孢拉定
+   剂型: 胶囊
+   完整名称: (甲10%)头孢拉定胶囊[国基]
+   拼音首字母: tbld
+
+80. ID: 945
+   名称: ※注射用糜蛋白酶
+   剂型: 注射用
+   完整名称: ※(甲)注射用糜蛋白酶[市基]
+   拼音首字母: ※zsymdbm
+
+81. ID: 948
+   名称: 孟鲁司特钠
+   剂型: 咀嚼片
+   完整名称: (甲)孟鲁司特钠咀嚼片
+   拼音首字母: mlstn
+
+82. ID: 949
+   名称: 洛索洛芬钠凝胶
+   剂型: 凝胶
+   完整名称: (甲)洛索洛芬钠凝胶贴膏
+   拼音首字母: lslfnnj
+
+83. ID: 950
+   名称: 麻仁软
+   剂型: 胶囊
+   完整名称: (甲)麻仁软胶囊
+   拼音首字母: mrr
+
+84. ID: 951
+   名称: 氯化琥珀胆碱
+   剂型: 注射液
+   完整名称: (甲)氯化琥珀胆碱注射液[国基]
+   拼音首字母: lhhpdj
+
+85. ID: 952
+   名称: 吸入用布地奈德混悬液
+   剂型: 其他
+   完整名称: (甲)吸入用布地奈德混悬液[国基]
+   拼音首字母: xrybdndhxy
+
+86. ID: 953
+   名称: 吸入用复方异丙托溴铵溶液
+   剂型: 其他
+   完整名称: (甲)吸入用复方异丙托溴铵溶液
+   拼音首字母: xryffybtxary
+
+87. ID: 954
+   名称: 吸入用七氟烷
+   剂型: 其他
+   完整名称: (甲)吸入用七氟烷[国基]
+   拼音首字母: xryqfw
+
+88. ID: 955
+   名称: 吸入用乙酰半胱氨酸溶液
+   剂型: 其他
+   完整名称: (甲)吸入用乙酰半胱氨酸溶液
+   拼音首字母: xryyxbgasry
+
+89. ID: 956
+   名称: 克林霉素磷酸酯外用溶液
+   剂型: 其他
+   完整名称: (自)克林霉素磷酸酯外用溶液
+   拼音首字母: klmslszwyry
+
+90. ID: 957
+   名称: 维A酸
+   剂型: 乳膏
+   完整名称: (甲)维A酸乳膏[国基]
+   拼音首字母: was
+
+91. ID: 958
+   名称: 磷霉素氨丁三醇
+   剂型: 散
+   完整名称: (甲)磷霉素氨丁三醇散[国基]
+   拼音首字母: lmsadsc
+
+92. ID: 959
+   名称: 磷酸可待因
+   剂型: 片
+   完整名称: (甲)磷酸可待因片[国基]
+   拼音首字母: lskdy
+
+93. ID: 960
+   名称: 磷酸西格列汀
+   剂型: 片
+   完整名称: (甲)磷酸西格列汀片[国基]
+   拼音首字母: lsxglt
+
+94. ID: 962
+   名称: 克霉唑阴道
+   剂型: 片
+   完整名称: (甲)克霉唑阴道片[国基]
+   拼音首字母: kmzyd
+
+95. ID: 963
+   名称: 口服补液盐
+   剂型: 散
+   完整名称: (甲)口服补液盐散(Ⅲ)[国基]
+   拼音首字母: kfbyy
+
+96. ID: 964
+   名称: 坤泰
+   剂型: 胶囊
+   完整名称: (甲)坤泰胶囊[国基]
+   拼音首字母: kt
+
+97. ID: 965
+   名称: 兰索拉唑肠溶
+   剂型: 胶囊
+   完整名称: (甲)兰索拉唑肠溶胶囊[市基]
+   拼音首字母: lslzcr
+
+98. ID: 966
+   名称: 卡托普利
+   剂型: 片
+   完整名称: (甲)卡托普利片[国基]
+   拼音首字母: ktpl
+
+99. ID: 968
+   名称: 金匮肾气
+   剂型: 丸
+   完整名称: (甲)金匮肾气丸[国基]
+   拼音首字母: jksq
+
+100. ID: 969
+   名称: 精蛋白锌重组赖脯胰岛素混合
+   剂型: 注射液
+   完整名称: (甲)精蛋白锌重组赖脯胰岛素混合注射液(25R)
+   拼音首字母: jdbxczlpydshh
+
+101. ID: 971
+   名称: 甲硝唑栓
+   剂型: 其他
+   完整名称: (甲)甲硝唑栓[国基]
+   拼音首字母: jxzs
+
+102. ID: 973
+   名称: 积雪苷霜
+   剂型: 软膏
+   完整名称: (甲)积雪苷霜软膏
+   拼音首字母: jxgs
+
+103. ID: 974
+   名称: 急支
+   剂型: 糖浆
+   完整名称: (甲)急支糖浆[市基]
+   拼音首字母: jz
+
+104. ID: 975
+   名称: 己酮可可碱
+   剂型: 肠溶片
+   完整名称: (乙10%)己酮可可碱肠溶片
+   拼音首字母: jtkkj
+
+105. ID: 976
+   名称: 维生素B12
+   剂型: 注射液
+   完整名称: (甲)维生素B12注射液
+   拼音首字母: wssb12
+
+106. ID: 977
+   名称: 维生素B1
+   剂型: 片
+   完整名称: (甲)维生素B1片
+   拼音首字母: wssb1
+
+107. ID: 978
+   名称: 维生素B1
+   剂型: 注射液
+   完整名称: (甲)维生素B1注射液[国基]
+   拼音首字母: wssb1
+
+108. ID: 979
+   名称: 维生素B6
+   剂型: 注射液
+   完整名称: (甲)维生素B6注射液[国基]
+   拼音首字母: wssb6
+
+109. ID: 980
+   名称: 头孢克洛
+   剂型: 胶囊
+   完整名称: (甲)头孢克洛胶囊[市基]
+   拼音首字母: tbkl
+
+110. ID: 981
+   名称: 他克莫司
+   剂型: 软膏
+   完整名称: (乙10%)他克莫司软膏
+   拼音首字母: tkms
+
+111. ID: 982
+   名称: ※▲他克莫司
+   剂型: 软膏
+   完整名称: ※▲(乙10%)他克莫司软膏
+   拼音首字母: ※▲tkms
+
+112. ID: 983
+   名称: 碳酸氢钠
+   剂型: 注射液
+   完整名称: (甲)碳酸氢钠注射液(塑)[国基]
+   拼音首字母: tsqn
+
+113. ID: 984
+   名称: 巴曲酶
+   剂型: 注射液
+   完整名称: (乙)巴曲酶注射液
+   拼音首字母: bqm
+
+114. ID: 986
+   名称: ※▲本维莫德
+   剂型: 乳膏
+   完整名称: ※▲(乙10%)本维莫德乳膏
+   拼音首字母: ※▲bwmd
+
+115. ID: 987
+   名称: ※▲克立硼罗
+   剂型: 软膏
+   完整名称: ※▲(乙10%)克立硼罗软膏
+   拼音首字母: ※▲klpl
+
+116. ID: 988
+   名称: ※▲阿布昔替尼
+   剂型: 片
+   完整名称: ※▲(乙10%)阿布昔替尼片
+   拼音首字母: ※▲abxtn
+
+117. ID: 989
+   名称: ※▲乌帕替尼
+   剂型: 缓释片
+   完整名称: ※▲(乙10%)乌帕替尼缓释片
+   拼音首字母: ※▲wptn
+
+118. ID: 990
+   名称: ※▲依那西普
+   剂型: 注射液
+   完整名称: ※▲(乙10%)依那西普注射液
+   拼音首字母: ※▲ynxp
+
+119. ID: 993
+   名称: 胃复春
+   剂型: 胶囊
+   完整名称: (甲)胃复春胶囊
+   拼音首字母: wfc
+
+120. ID: 994
+   名称: 复方嗜酸乳杆菌
+   剂型: 片
+   完整名称: (乙10%)复方嗜酸乳杆菌片
+   拼音首字母: ffssrgj
+
+121. ID: 995
+   名称: 艾地苯醌
+   剂型: 片
+   完整名称: (自)艾地苯醌片
+   拼音首字母: adbk
+
+122. ID: 996
+   名称: 爱普列特
+   剂型: 片
+   完整名称: (乙10%)爱普列特片
+   拼音首字母: aplt
+
+123. ID: 997
+   名称: ※▲天麻素
+   剂型: 注射液
+   完整名称: ※▲(乙10%)天麻素注射液
+   拼音首字母: ※▲tms
+
+124. ID: 998
+   名称: ※▲参莲
+   剂型: 胶囊
+   完整名称: ※▲(乙10%)参莲胶囊
+   拼音首字母: ※▲cl
+
+125. ID: 999
+   名称: ※▲非奈利酮
+   剂型: 片
+   完整名称: ※▲(乙10%)非奈利酮片
+   拼音首字母: ※▲fnlt
+
+126. ID: 1000
+   名称: 富马酸丙酚替诺福韦
+   剂型: 片
+   完整名称: (乙10%)富马酸丙酚替诺福韦片
+   拼音首字母: fmsbftnfw
+
+127. ID: 1001
+   名称: 盐酸纳美芬
+   剂型: 注射液
+   完整名称: (乙10%)盐酸纳美芬注射液
+   拼音首字母: ysnmf
+
+128. ID: 1002
+   名称: 盐酸丙美卡因
+   剂型: 滴眼液
+   完整名称: (自)盐酸丙美卡因滴眼液
+   拼音首字母: ysbmky
+
+129. ID: 1003
+   名称: 硫
+   剂型: 软膏
+   完整名称: (甲)硫软膏[市基]
+   拼音首字母: l
+
+130. ID: 1004
+   名称: ※▲注射用人生长激素
+   剂型: 注射用
+   完整名称: ※▲(甲)注射用人生长激素[国基]
+   拼音首字母: ※▲zsyrszjs
+
+131. ID: 1005
+   名称: 氢溴酸依他佐辛
+   剂型: 注射液
+   完整名称: (自)氢溴酸依他佐辛注射液
+   拼音首字母: qxsytzx
+
+132. ID: 1008
+   名称: ※▲麦考酚钠
+   剂型: 肠溶片
+   完整名称: ※▲(乙10%)麦考酚钠肠溶片
+   拼音首字母: ※▲mkfn
+
+133. ID: 1009
+   名称: 谷赖胰岛素
+   剂型: 注射液
+   完整名称: (甲)谷赖胰岛素注射液(预填充笔)
+   拼音首字母: glyds
+
+134. ID: 1011
+   名称: 凝血酶
+   剂型: 散
+   完整名称: (甲)凝血酶散
+   拼音首字母: nxm
+
+135. ID: 1012
+   名称: 硫酸钡干
+   剂型: 混悬剂
+   完整名称: (甲)硫酸钡(ll型)干混悬剂[国基]
+   拼音首字母: lsbg
+
+136. ID: 1013
+   名称: 硫酸吗啡
+   剂型: 缓释片
+   完整名称: (甲)硫酸吗啡缓释片[国基]
+   拼音首字母: lsmf
+
+137. ID: 1014
+   名称: 甲钴胺
+   剂型: 注射液
+   完整名称: (甲)甲钴胺注射液[市基]
+   拼音首字母: jga
+
+138. ID: 1015
+   名称: 筋骨伤
+   剂型: 喷雾剂
+   完整名称: (乙10%)筋骨伤喷雾剂
+   拼音首字母: jgs
+
+139. ID: 1016
+   名称: ※▲金水宝
+   剂型: 片
+   完整名称: ※▲(甲)金水宝片[国基]
+   拼音首字母: ※▲jsb
+
+140. ID: 1017
+   名称: 金振口服液
+   剂型: 其他
+   完整名称: (甲)金振口服液[国基]
+   拼音首字母: jzkfy
+
+141. ID: 1018
+   名称: 醋酸去氨加压素
+   剂型: 片
+   完整名称: (甲)醋酸去氨加压素片[国基]
+   拼音首字母: csqajys
+
+142. ID: 1019
+   名称: 达比加群酯
+   剂型: 胶囊
+   完整名称: (甲)达比加群酯胶囊[国基]
+   拼音首字母: dbjqz
+
+143. ID: 1021
+   名称: 大川芎口服液
+   剂型: 其他
+   完整名称: (乙10%)大川芎口服液
+   拼音首字母: dcqkfy
+
+144. ID: 1022
+   名称: 大活络
+   剂型: 胶囊
+   完整名称: (甲)大活络胶囊
+   拼音首字母: dhl
+
+145. ID: 1024
+   名称: 地塞米松棕榈酸酯
+   剂型: 注射液
+   完整名称: (甲)地塞米松棕榈酸酯注射液
+   拼音首字母: dsmszlsz
+
+146. ID: 1025
+   名称: 普适泰
+   剂型: 片
+   完整名称: (甲)普适泰片
+   拼音首字母: pst
+
+147. ID: 1026
+   名称: 甲磺酸二氢麦角碱
+   剂型: 缓释片
+   完整名称: (甲)甲磺酸二氢麦角碱缓释片[市基]
+   拼音首字母: jhseqmjj
+
+148. ID: 1027
+   名称: 盐酸二甲弗林
+   剂型: 注射液
+   完整名称: (乙10%)盐酸二甲弗林注射液
+   拼音首字母: ysejfl
+
+149. ID: 1028
+   名称: ※▲乙酰唑胺
+   剂型: 片
+   完整名称: ※▲(甲)乙酰唑胺片[国基]
+   拼音首字母: ※▲yxza
+
+150. ID: 1029
+   名称: 硫酸镁
+   剂型: 注射液
+   完整名称: (甲)硫酸镁注射液
+   拼音首字母: lsm
+
+151. ID: 1032
+   名称: 桂林西瓜霜
+   剂型: 其他
+   完整名称: (乙10%)桂林西瓜霜
+   拼音首字母: glxgs

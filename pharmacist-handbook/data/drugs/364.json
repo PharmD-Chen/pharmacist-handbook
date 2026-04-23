@@ -1,0 +1,51 @@
+{
+  "id": 364,
+  "name": "柑橘黄酮片",
+  "dosage_form": "片",
+  "full_name": "(乙10%)柑橘黄酮片",
+  "chemical_name": "柑橘黄酮片",
+  "types": [],
+  "manufacturers": [
+    "LES LABORATOIRES SERVIER制药有限公司)"
+  ],
+  "specifications": [
+    {
+      "specification": "500mg/片",
+      "manufacturer": "LES LABORATOIRES SERVIER制药有限公司)",
+      "full_manufacturer": "LES LABORATOIRES SERVIER(LES LABORATOIRES SERVIER INDUSTRIE)(进口分包：施维雅(天津)制药有限公司)",
+      "price": 50.0,
+      "unit": "盒",
+      "code": "C00057",
+      "approval_number": "国药准字J20140129",
+      "insurance_code": "XC05CAD336A001010179020",
+      "location": "L"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "治疗静脉淋巴功能不全的各种症状（腿部沉重，疼痛，晨起酸胀不适感），治疗急性痔疮发作有关的各种症状。",
+    "dosage": "口服：常用剂量一次为500mg，一日2次。当用于痔急性发作时，前四天一次1.5g，每天2次，以后三天，每次1.0g，每天2次于午餐和晚餐时服用。",
+    "contraindications": "对活性成份或任何赋形剂成份过敏者禁用。",
+    "adverse_reactions": "常见：皮疹、恶心、呕吐、腹泻、头痛、头晕、瘙痒等。",
+    "interactions": "没有进行药物相互作用的研究。但根据爱脉朗上市后的使用经验，尚无与其它药物有临床相关相互作用的报道。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "",
+    "source": "湖南药事服务网",
+    "full_indications": "治疗静脉淋巴功能不全的各种症状（腿部沉重，疼痛，晨起酸胀不适感），治疗急性痔疮发作有关的各种症状。",
+    "full_dosage": "口服：常用剂量一次为500mg，一日2次。当用于痔急性发作时，前四天一次1.5g，每天2次，以后三天，每次1.0g，每天2次于午餐和晚餐时服用。",
+    "full_contraindications": "对活性成份或任何赋形剂成份过敏者禁用。",
+    "full_adverse_reactions": "按照发生率对报道的不良反应或事件分类如下：很常见(≥1/10)；常见(≥1/100~<1/10)；不常见(≥1/1,000~<1/100)；罕见(≥1/10,000~<1/1,000)；极罕见(<1/10,000),未知(从现有资料中很难估计)。<br>1.神经系统疾病：罕见：头晕、头痛、不适；<br>2.胃肠道疾病：-常见：腹泻、消化不良、恶心、呕吐；<br>3.不常见：结肠炎；<br>4.未知：腹痛；<br>5.皮肤和皮下组织疾病：罕见：皮疹、瘙痒症、荨麻疹；<br>6.未知：单独出现的面部、唇、眼睑水肿。特殊情况下，血管神经性水肿",
+    "full_interactions": "没有进行药物相互作用的研究。但根据爱脉朗上市后的使用经验，尚无与其它药物有临床相关相互作用的报道。",
+    "full_pharmacokinetics": "",
+    "full_precautions": ""
+  },
+  "pinyin": "ganjuhuangtong",
+  "pinyin_initials": "gjht",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13203",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>药品追溯码盘点系统</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/mobile.css') }}">
+    <!-- 引入扫码库 -->
+    <script src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js"></script>
+</head>
+<body>
+    <!-- 顶部导航 -->
+    <nav class="navbar">
+        <div class="nav-brand">📦 药品盘点系统</div>
+        <div class="nav-tabs">
+            <button class="nav-tab active" data-tab="inventory">📊 盘点</button>
+            <button class="nav-tab" data-tab="maintenance">🔧 养护</button>
+        </div>
+    </nav>
+
+    <!-- 盘点页面 -->
+    <div id="inventory-page" class="page active">
+        <!-- 货架选择 -->
+        <div class="section">
+            <label class="section-label">选择货架</label>
+            <select id="shelf-select" class="form-select">
+                <option value="">请选择货架</option>
+            </select>
+        </div>
+
+        <!-- 扫码区域 -->
+        <div class="section">
+            <label class="section-label">扫描追溯码</label>
+            <div id="reader" class="scanner-container"></div>
+            <button id="start-scan" class="btn btn-primary btn-block">📷 开始扫码</button>
+            <button id="stop-scan" class="btn btn-secondary btn-block" style="display:none;">⏹️ 停止扫码</button>
+        </div>
+
+        <!-- 手动输入追溯码 -->
+        <div class="section">
+            <label class="section-label">或手动输入追溯码</label>
+            <div class="input-group">
+                <input type="text" id="manual-trace-code" class="form-input" placeholder="请输入追溯码">
+                <button id="btn-parse" class="btn btn-primary">解析</button>
+            </div>
+        </div>
+
+        <!-- 药品信息显示 -->
+        <div id="drug-info" class="drug-card" style="display:none;">
+            <h3 class="drug-name">药品名称</h3>
+            <div class="drug-details">
+                <p><span class="label">规格：</span><span id="drug-spec">-</span></p>
+                <p><span class="label">厂家：</span><span id="drug-manufacturer">-</span></p>
+                <p><span class="label">批号：</span><span id="drug-batch">-</span></p>
+                <p><span class="label">有效期：</span><span id="drug-expiry">-</span></p>
+            </div>
+        </div>
+
+        <!-- 数量输入 -->
+        <div id="quantity-section" class="section" style="display:none;">
+            <label class="section-label">输入实际数量</label>
+            <div class="quantity-input">
+                <button class="btn-quantity" onclick="changeQuantity(-1)">-</button>
+                <input type="number" id="quantity" class="form-input quantity-field" value="1" min="1">
+                <button class="btn-quantity" onclick="changeQuantity(1)">+</button>
+            </div>
+            <div class="numpad">
+                <button class="numpad-btn" onclick="appendNumber(1)">1</button>
+                <button class="numpad-btn" onclick="appendNumber(2)">2</button>
+                <button class="numpad-btn" onclick="appendNumber(3)">3</button>
+                <button class="numpad-btn" onclick="appendNumber(4)">4</button>
+                <button class="numpad-btn" onclick="appendNumber(5)">5</button>
+                <button class="numpad-btn" onclick="appendNumber(6)">6</button>
+                <button class="numpad-btn" onclick="appendNumber(7)">7</button>
+                <button class="numpad-btn" onclick="appendNumber(8)">8</button>
+                <button class="numpad-btn" onclick="appendNumber(9)">9</button>
+                <button class="numpad-btn numpad-clear" onclick="clearNumber()">C</button>
+                <button class="numpad-btn" onclick="appendNumber(0)">0</button>
+                <button class="numpad-btn numpad-back" onclick="backspaceNumber()">⌫</button>
+            </div>
+        </div>
+
+        <!-- 操作人 -->
+        <div class="section">
+            <label class="section-label">操作人</label>
+            <input type="text" id="operator" class="form-input" placeholder="请输入姓名">
+        </div>
+
+        <!-- 提交按钮 -->
+        <div class="section">
+            <button id="btn-submit" class="btn btn-success btn-block" disabled>✅ 确认提交</button>
+        </div>
+
+        <!-- 最近记录 -->
+        <div class="section">
+            <h3 class="section-title">最近盘点记录</h3>
+            <div id="recent-records" class="records-list">
+                <p class="empty-tip">暂无记录</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 养护页面 -->
+    <div id="maintenance-page" class="page">
+        <!-- 扫码区域 -->
+        <div class="section">
+            <label class="section-label">扫描追溯码</label>
+            <div id="reader-maintenance" class="scanner-container"></div>
+            <button id="start-scan-maintenance" class="btn btn-primary btn-block">📷 开始扫码</button>
+            <button id="stop-scan-maintenance" class="btn btn-secondary btn-block" style="display:none;">⏹️ 停止扫码</button>
+        </div>
+
+        <!-- 手动输入 -->
+        <div class="section">
+            <label class="section-label">或手动输入追溯码</label>
+            <div class="input-group">
+                <input type="text" id="manual-trace-code-maintenance" class="form-input" placeholder="请输入追溯码">
+                <button id="btn-parse-maintenance" class="btn btn-primary">解析</button>
+            </div>
+        </div>
+
+        <!-- 药品信息显示 -->
+        <div id="drug-info-maintenance" class="drug-card" style="display:none;">
+            <h3 class="drug-name-maintenance">药品名称</h3>
+            <div class="drug-details">
+                <p><span class="label">规格：</span><span id="drug-spec-maintenance">-</span></p>
+                <p><span class="label">批号：</span><span id="drug-batch-maintenance">-</span></p>
+            </div>
+        </div>
+
+        <!-- 批号数量 -->
+        <div id="batch-section" class="section" style="display:none;">
+            <label class="section-label">各批号数量</label>
+            <div id="batch-list" class="batch-list">
+                <!-- 动态添加批号输入 -->
+            </div>
+            <button id="btn-add-batch" class="btn btn-secondary btn-sm">+ 添加批号</button>
+        </div>
+
+        <!-- 养护类型 -->
+        <div class="section">
+            <label class="section-label">养护类型</label>
+            <select id="maintenance-type" class="form-select">
+                <option value="常规养护">常规养护</option>
+                <option value="重点养护">重点养护</option>
+                <option value="临时养护">临时养护</option>
+                <option value="近效期养护">近效期养护</option>
+            </select>
+        </div>
+
+        <!-- 备注 -->
+        <div class="section">
+            <label class="section-label">备注</label>
+            <textarea id="maintenance-notes" class="form-textarea" rows="3" placeholder="请输入养护备注..."></textarea>
+        </div>
+
+        <!-- 操作人 -->
+        <div class="section">
+            <label class="section-label">操作人</label>
+            <input type="text" id="operator-maintenance" class="form-input" placeholder="请输入姓名">
+        </div>
+
+        <!-- 提交按钮 -->
+        <div class="section">
+            <button id="btn-submit-maintenance" class="btn btn-success btn-block" disabled>✅ 确认提交</button>
+        </div>
+
+        <!-- 最近记录 -->
+        <div class="section">
+            <h3 class="section-title">最近养护记录</h3>
+            <div id="recent-maintenance-records" class="records-list">
+                <p class="empty-tip">暂无记录</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 提示消息 -->
+    <div id="toast" class="toast"></div>
+
+    <script src="{{ url_for('static', filename='js/mobile.js') }}"></script>
+</body>
+</html>

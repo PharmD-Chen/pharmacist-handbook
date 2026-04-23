@@ -1,0 +1,63 @@
+[
+  {
+    "name": "牛碱性成纤维细胞生长因子",
+    "dosage_form": "滴眼液",
+    "manual": {
+      "indications": "<strong>用于各种原因引起的角膜上皮缺损和点状角膜病变</strong>；<strong>用于复发性浅层点状角膜病变</strong>；<strong>用于轻中度干眼症、角膜擦伤</strong>；<strong>用于轻中度化学烧伤、大泡性角膜炎</strong>；<strong>用于角膜手术或激光手术后的角膜修复</strong>。",
+      "dosage": "滴眼。<strong>每次1-2滴，每日4-6次</strong>，或遵医嘱。使用前洗净双手，滴药后闭眼按压泪囊区1分钟以增加药物作用时间。",
+      "contraindications": "<strong>对牛源性成分过敏者禁用</strong>。",
+      "adverse_reactions": "可能出现<strong>轻微眼部刺激感、短暂视力模糊</strong>；极少数患者可能出现<strong>过敏反应如眼睑水肿、眼红、瘙痒</strong>。",
+      "interactions": "<strong>避免与含蛋白变性剂的滴眼液同时使用</strong>，防止活性成分失活；<strong>与其他眼药合用时应间隔5-15分钟</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "主要成分为重组牛碱性成纤维细胞生长因子，能促进角膜上皮细胞增殖分化，加速创伤愈合。通过激活细胞表面受体促进DNA合成，增加角膜基质胶原分泌，同时抑制炎症因子释放。局部用药系统吸收极少。",
+      "precautions": "<strong>本品为蛋白类药物，需2-8℃冷藏保存</strong>；<strong>开封后1周内用完</strong>；<strong>用药期间避免佩戴隐形眼镜</strong>；<strong>出现持续不适或过敏反应应立即停用</strong>；<strong>用于感染性角膜病时需联合抗生素</strong>；2025版医保乙类，限滴眼剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "玉屏风",
+    "dosage_form": "颗粒",
+    "manual": {
+      "indications": "<strong>益气，固表，止汗</strong>。用于<strong>表虚不固，自汗恶风，面色㿠白</strong>；<strong>用于体虚易感风邪者</strong>；临床亦可用于治疗<strong>反复呼吸道感染、慢性支气管炎、哮喘、慢性阻塞性肺疾病属肺气虚证</strong>等。",
+      "dosage": "开水冲服。<strong>一次5克（1袋），一日3次</strong>。宜饭前服用。",
+      "contraindications": "<strong>外感发热病人不宜服用</strong>；<strong>阴虚盗汗者慎用</strong>。",
+      "adverse_reactions": "尚不明确。",
+      "interactions": "<strong>如与其他药物同时使用可能会发生药物相互作用</strong>，详情请咨询医师或药师。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "主要成分为黄芪、白术（炒）、防风。黄芪甘温补气固表为君药；炒白术健脾益气为臣药；防风祛风散邪为佐药。三药合用，补、固、防三位一体，共奏益气固表止汗之效。",
+      "precautions": "<strong>忌油腻、不易消化及辛辣食物</strong>；<strong>宜饭前服用</strong>；<strong>小儿、孕妇、高血压、心脏病、肝病、糖尿病、肾病等患者应在医师指导下服用</strong>；<strong>服药2周症状无改善或加重者，应立即停药就医</strong>；<strong>对本品过敏者禁用，过敏体质者慎用</strong>；2025版医保甲类，限颗粒剂。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "脂肪乳",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>用于肠外营养补充能量和必需脂肪酸</strong>；<strong>用于经口/肠道摄取营养不能、不足或有禁忌时的患者</strong>；<strong>用于预防必需脂肪酸缺乏症</strong>。",
+      "dosage": "静脉滴注。<strong>成人推荐剂量：按体重一日静脉滴注本品5-10ml/kg</strong>，相当于1-2g甘油三酯/kg；<strong>一般于10-24小时内滴注完毕</strong>；<strong>滴注速度不应超过按体重一小时0.15g甘油三酯/kg</strong>。",
+      "contraindications": "<strong>对鸡蛋或大豆蛋白过敏者禁用</strong>；<strong>严重高脂血症患者禁用</strong>；<strong>严重肝功能不全患者禁用</strong>；<strong>严重凝血障碍患者禁用</strong>；<strong>急性休克患者禁用</strong>；<strong>急性肺水肿、水中毒、失代偿性心功能不全患者禁用</strong>。",
+      "adverse_reactions": "输注初期可能出现<strong>出汗、颤抖、头痛、呼吸困难</strong>；长期使用可能出现<strong>碱性磷酸酶、转氨酶及胆红素升高</strong>；<strong>罕见肝肿大和黄疸</strong>；可能出现<strong>血小板减少症</strong>；严重者可出现<strong>脂肪超载综合征</strong>（表现为高血脂、发热、肝脾大、凝血障碍等）。",
+      "interactions": "<strong>切勿将其他药物或电解质直接加入脂肪乳剂中</strong>；<strong>如确需加入添加剂，应先检查配伍相容性并充分混匀</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "长链脂肪乳注射液(C14-24)以大豆油为主要成分，提供亚油酸和亚麻酸等必需脂肪酸。乳粒粒径及生物学特性类似于人体内源性乳糜微粒，通过外源性途径代谢提供能量。",
+      "precautions": "<strong>脂质代谢受损患者慎用</strong>（如肾功能不全、糖尿病未控制、胰腺炎、肝功能损害、甲减伴高脂血症、败血症等）；<strong>应定期监测血清甘油三酯浓度</strong>；<strong>出现过敏反应症状应立即停止输注</strong>；<strong>25℃以下保存，不得冷冻</strong>；2025版医保甲类，限注射液(C14-24)(大豆油)。",
+      "solvent": "静脉滴注，可单独输注或作为肠外营养混合液的组成部分，通过中心静脉或周围静脉滴注",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "治糜康栓",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "<strong>清热解毒，燥湿收敛</strong>。用于<strong>宫颈糜烂</strong>；<strong>用于感染性阴道炎、湿热带下</strong>。",
+      "dosage": "阴道用药。<strong>每次1枚，隔一天上药一次</strong>；<strong>睡前用1:5000高锰酸钾溶液清洗外阴部，然后将栓剂放入阴道顶端</strong>；<strong>十天为一疗程</strong>。",
+      "contraindications": "<strong>对本品成分过敏者禁用</strong>；<strong>孕妇禁用</strong>。",
+      "adverse_reactions": "可能出现<strong>局部烧灼感、瘙痒或轻微疼痛</strong>等局部刺激症状；如症状持续或加重应立即停药就医。",
+      "interactions": "<strong>如与其他药物同时使用可能会发生药物相互作用</strong>，详情请咨询医师或药师。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "中药复方制剂，主要成分为黄柏、苦参、儿茶、枯矾、冰片等。具有清热解毒、燥湿收敛的功效，能有效抑制多种病原微生物，促进宫颈糜烂面愈合。",
+      "precautions": "<strong>月经期停止使用</strong>；<strong>治疗期间避免性交</strong>；<strong>用药期间注意个人卫生</strong>；<strong>用药后可能出现淡黄色分泌物排出，为正常现象</strong>；<strong>用药后平卧15-20分钟，避免药物脱落</strong>；2025版医保乙类10%，限市基。",
+      "source": "湖南药事服务网"
+    }
+  }
+]

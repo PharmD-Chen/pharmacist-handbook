@@ -1,0 +1,55 @@
+{
+  "id": 706,
+  "name": "联苯双酯片",
+  "dosage_form": "片",
+  "full_name": "(甲)联苯双酯片",
+  "chemical_name": "联苯双酯片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "山西太原药业"
+  ],
+  "specifications": [
+    {
+      "specification": "25mg/片",
+      "manufacturer": "山西太原药业",
+      "full_manufacturer": "山西太原药业有限公司",
+      "price": 65.05,
+      "unit": "盒",
+      "code": "X00775",
+      "approval_number": "国药准字H14022896",
+      "insurance_code": "XA05BAL080A001010102944",
+      "location": "J-1",
+      "outpatient_location": "K-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "适用于慢性肝炎和长期单项丙氨酸氨基转移酶异常者。对肝炎主要症状如肝区痛、乏力、腹胀等的改善由一定疗效，但对肝脾肿大的改变无影响。",
+    "dosage": "口服：片剂，成人一次25～50mg，一日3次。滴丸，一次5粒，一日3次。",
+    "contraindications": "症 肝硬化患者禁用，妊娠期妇女及哺乳期妇女禁用。",
+    "adverse_reactions": "轻微，个别病例服用后可出现口干、轻度恶心，偶有皮疹发生，一般加用抗变态反应药物后即可消失。",
+    "interactions": "与肌苷合用，可减少本品的降酶反跳现象。 给药说明 有效病例应待ALT、AST均恢复正常后在逐渐减量以减少反跳，ALT一次复常即停药易有反跳。对于反跳病例可再重新服药，服药后丙氨酸氨基转移酶仍可下降，甚至恢复正常。凡病程长、肝功能异常时间较长者易于反跳，反之则少。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑵有报道本品治疗过程中出现黄疸及病情恶化，应引起注意。",
+    "source": "湖南药事服务网",
+    "full_indications": "适用于慢性肝炎和长期单项丙氨酸氨基转移酶异常者。对肝炎主要症状如肝区痛、乏力、腹胀等的改善由一定疗效，但对肝脾肿大的改变无影响。",
+    "full_dosage": "口服：片剂，成人一次25～50mg，一日3次。滴丸，一次5粒，一日3次。",
+    "full_contraindications": "症 肝硬化患者禁用，妊娠期妇女及哺乳期妇女禁用。",
+    "full_adverse_reactions": "轻微，个别病例服用后可出现口干、轻度恶心，偶有皮疹发生，一般加用抗变态反应药物后即可消失。",
+    "full_interactions": "与肌苷合用，可减少本品的降酶反跳现象。 给药说明 有效病例应待ALT、AST均恢复正常后在逐渐减量以减少反跳，ALT一次复常即停药易有反跳。对于反跳病例可再重新服药，服药后丙氨酸氨基转移酶仍可下降，甚至恢复正常。凡病程长、肝功能异常时间较长者易于反跳，反之则少。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴少数病人用药过程中ALT可回升，加大剂量可使之降低。停药后部分患者ALT反跳，但继续服药仍有效。 ⑵有报道本品治疗过程中出现黄疸及病情恶化，应引起注意。 药物相互作用 与肌苷合用，可减少本品的降酶反跳现象。 给药说明 有效病例应待ALT、AST均恢复正常后在逐渐减量以减少反跳，ALT一次复常即停药易有反跳。对于反跳病例可再重新服药，服药后丙氨酸氨基转移酶仍可下降，甚至恢复正常。凡病程长、肝功能异常时间较长者易于反跳，反之则少。"
+  },
+  "pinyin": "lianbenshuangzhi",
+  "pinyin_initials": "lbsz",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=617",
+    "last_updated": "2026-03-21"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 850,
+  "name": "外用人表皮生长因子",
+  "dosage_form": "其他",
+  "full_name": "(乙10%)外用人表皮生长因子",
+  "chemical_name": "外用人表皮生长因子",
+  "types": [],
+  "manufacturers": [
+    "上海昊海生物科技"
+  ],
+  "specifications": [
+    {
+      "specification": "50000IU/瓶",
+      "manufacturer": "上海昊海生物科技",
+      "full_manufacturer": "上海昊海生物科技股份有限公司",
+      "price": 63.68,
+      "unit": "瓶",
+      "code": "X00701",
+      "approval_number": "国药准字S20010095",
+      "insurance_code": "XD03AXR112P009010100688",
+      "outpatient_location": "2C-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "⑴用于烧伤创面（包括浅Ⅱ度或深Ⅱ度烧伤创面）、残余小创面、供皮区新鲜创面等的治疗。",
+    "dosage": "⑴外用，用生理盐水溶解本品，配制成浓度约为5000IU/ml的药液，每ml药液湿透约10cm²的双层纱布，敷于清创后的创面上，并按常规包扎。每日换药一次或遵医嘱。 推荐剂量为每100cm²创面使...",
+    "contraindications": "对rhEGF、甘油、甘露醇过敏者禁用。",
+    "adverse_reactions": "偶见轻度刺激症状，如刺痛、灼热感。",
+    "interactions": "rhEGF与蛋白变性剂或蛋白水解酶类外用药物同时使用时会影响药效。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "Tmax约0.5小时。",
+    "precautions": "不宜与蛋白变性剂或蛋白水解酶类外用药物同时使用。",
+    "source": "湖南药事服务网",
+    "full_indications": "⑴用于烧伤创面（包括浅Ⅱ度或深Ⅱ度烧伤创面）、残余小创面、供皮区新鲜创面等的治疗。<br>⑵用于各种原因引起的角膜上皮缺损。[1.《中华人民共和国药典临床用药须知》（2015版）；2中华医学会眼科学分会白内障及人工晶状体学组《中国白内障围手术期干眼防治专家共识》(2021年)；3亚洲干眼协会中国分会，海峡两岸医药卫生交流协会眼科学专业委员会眼表与泪液病学组，中国医师协会眼科医师分会眼表与干眼学组《中国干眼专家共识:治疗(2020年)》]",
+    "full_dosage": "⑴外用，用生理盐水溶解本品，配制成浓度约为5000IU/ml的药液，每ml药液湿透约10cm²的双层纱布，敷于清创后的创面上，并按常规包扎。每日换药一次或遵医嘱。 推荐剂量为每100cm²创面使用凝胶10g。   <br>　　⑵滴眼：一次2～3滴，一日4次。",
+    "full_contraindications": "对rhEGF、甘油、甘露醇过敏者禁用。",
+    "full_adverse_reactions": "偶见轻度刺激症状，如刺痛、灼热感。",
+    "full_interactions": "rhEGF与蛋白变性剂或蛋白水解酶类外用药物同时使用时会影响药效。",
+    "full_pharmacokinetics": "⑴药效学：外用重组人表皮生长因子（rhEGF）能促进皮肤创面组织修复过程的DNA、RNA和羟脯氨酸的合成，加速创面肉芽组织的生成和上皮细胞的增殖，从而缩短创面的愈合时间。<br>　　⑵药动学：hEGF广泛存在于正常人体液中，对于体表局部给药的药代动力学尚未充分研究。本品滴眼达峰时间0.5小时，体内滞留时间2.76小时；眼内组织器官吸收分布迅速，从眼外泪液→角膜→巩膜→前房水→虹膜至眼内其他组织由内至外的浓度分布梯度，各组织亲和性不同，晶体和玻璃体内只有较低的分布。在体内的半衰期消除相较短，主要与分布、代谢、排泄快有关，而排泄主要途径是尿液。",
+    "full_precautions": "不宜与蛋白变性剂或蛋白水解酶类外用药物同时使用。"
+  },
+  "pinyin": "waiyongrenbiaopishengzhangyinzi",
+  "pinyin_initials": "wyrbpszyz",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3551",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": 157,
+  "name": "静注人免疫球蛋白(pH4)",
+  "dosage_form": "其他",
+  "full_name": "(乙10%)静注人免疫球蛋白(pH4)",
+  "chemical_name": "静注人免疫球蛋白(pH4)",
+  "types": [],
+  "manufacturers": [
+    "山东泰邦生物制品",
+    "绿十字生物制品"
+  ],
+  "specifications": [
+    {
+      "specification": "2.5g/瓶",
+      "manufacturer": "绿十字生物制品",
+      "full_manufacturer": "绿十字（中国）生物制品有限公司",
+      "price": 610.0,
+      "unit": "瓶",
+      "code": "Y00000014776",
+      "approval_number": "国药准字S19993026",
+      "insurance_code": "XJ06BAJ215B001010104426",
+      "location": "2D-3",
+      "outpatient_location": "2B-2"
+    },
+    {
+      "specification": "2.5g/瓶",
+      "manufacturer": "山东泰邦生物制品",
+      "full_manufacturer": "山东泰邦生物制品有限公司",
+      "price": 561.0,
+      "unit": "瓶",
+      "code": "Y00000015063",
+      "approval_number": "国药准字S20013001",
+      "insurance_code": "XJ06BAJ215B001020104143"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "主要用于预防麻疹和甲型肝炎（甲肝）等病毒性感染。",
+    "dosage": "成人：不超过6ml；儿童：5岁以内1.5～3.0ml",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "偶见过敏反应如荨麻疹、猴头水肿，严重者可见过敏性休克。剂量大或输注速度过快时，可见头痛、心悸、恶心和暂时性体温升高。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品系采用健康人血浆或血清分离、纯化，并经灭活、去除病毒步骤加工制备而成。人免疫球蛋白中丙种球蛋白含量占90％以上，含有多种抗体。其作用机制有两种：一种是“被动免疫”，注射较大剂量的被动抗体后，使受者得到完全保护而不被感染；另一种是“被动－自动免疫”，注射小剂量后使受者得到部分保护，虽似倍感染，但在",
+    "precautions": "⑵制剂过期、安瓿破裂或有摇不散的沉淀禁用；",
+    "source": "湖南药事服务网",
+    "full_indications": "主要用于预防麻疹和甲型肝炎（甲肝）等病毒性感染。",
+    "full_dosage": "1.预防麻疹：0.05～0.15ml/kg或儿童5岁以内1.5～3.0ml，成人不超过6ml，预防效果1个月。   <br>　　2.预防甲型肝炎：0.05～0.1ml/kg或儿童1.5～3.0ml，成人每次3ml，预防效果1个月。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "偶见过敏反应如荨麻疹、猴头水肿，严重者可见过敏性休克。剂量大或输注速度过快时，可见头痛、心悸、恶心和暂时性体温升高。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品系采用健康人血浆或血清分离、纯化，并经灭活、去除病毒步骤加工制备而成。人免疫球蛋白中丙种球蛋白含量占90％以上，含有多种抗体。其作用机制有两种：一种是“被动免疫”，注射较大剂量的被动抗体后，使受者得到完全保护而不被感染；另一种是“被动－自动免疫”，注射小剂量后使受者得到部分保护，虽似倍感染，但在被动抗体的保护下症状很轻，甚至没有明显的临床症状而产生自动免疫。",
+    "full_precautions": "⑴本品为肌内注射制剂，不可静脉注射。  <br>⑵制剂过期、安瓿破裂或有摇不散的沉淀禁用；开启后一次用完。"
+  },
+  "pinyin": "jingzhurenmianyiqiudanbai",
+  "pinyin_initials": "jzrmyqdb",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3511",
+    "last_updated": "2026-03-22"
+  }
+}

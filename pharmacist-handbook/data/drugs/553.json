@@ -1,0 +1,47 @@
+{
+  "id": 553,
+  "name": "格列吡嗪控释片",
+  "dosage_form": "控释片",
+  "full_name": "(甲)格列吡嗪控释片[市基]",
+  "chemical_name": "格列吡嗪控释片",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "北京红林制药"
+  ],
+  "specifications": [
+    {
+      "specification": "5mg/片",
+      "manufacturer": "北京红林制药",
+      "full_manufacturer": "北京红林制药有限公司",
+      "price": 19.72,
+      "unit": "盒",
+      "code": "Y00000014709",
+      "approval_number": "国药准字H20084634",
+      "insurance_code": "XA10BBG067A011010300044",
+      "location": "I-3",
+      "outpatient_location": "N-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "geliebiqin",
+  "pinyin_initials": "glbq",
+  "dosage_form_pinyin": "kongshipian",
+  "dosage_form_initials": "ksp",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1326"
+  }
+}

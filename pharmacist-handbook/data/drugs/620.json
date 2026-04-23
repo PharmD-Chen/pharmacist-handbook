@@ -1,0 +1,52 @@
+{
+  "id": 620,
+  "name": "磷酸奥司他韦颗粒",
+  "dosage_form": "颗粒",
+  "full_name": "※▲(乙)磷酸奥司他韦颗粒[国基]",
+  "chemical_name": "磷酸奥司他韦颗粒",
+  "types": [
+    "乙类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "宜昌东阳光长江药业"
+  ],
+  "specifications": [
+    {
+      "specification": "15mg/袋",
+      "manufacturer": "宜昌东阳光长江药业",
+      "full_manufacturer": "宜昌东阳光长江药业股份有限公司",
+      "price": 45.68,
+      "unit": "盒",
+      "code": "X00021",
+      "approval_number": "国药准字H20080763",
+      "insurance_code": "XJ05AHA218N001010101997"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于慢性肝炎所致的氨基转移酶升高。",
+    "dosage": "成人常用量：口服，一次25mg，必要时可增至一次50mg，一日3次。疗程不短于6个月或遵医嘱，应逐渐减量停药。",
+    "contraindications": "症 对本品过敏者禁用。",
+    "adverse_reactions": "服药后个别患者出现头晕；极个别患者发生皮疹，必要时可服用抗过敏药，皮疹明显者可停药观察。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "Tmax约1.8小时。",
+    "precautions": "⑴疗程结束后加强随访。 ⑵肝功能失代偿者如胆红素明显升高、低白蛋白血症、肝硬化腹水、食管静脉曲张出血、肝性脑病及肝肾综合征者慎用。 ⑶对于孕妇、哺乳期妇女及70岁以上老年患者的本品用药安全性研究资料缺乏。 ⑷12岁以下儿童的最适剂量遵医嘱。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗慢性肝炎所致的氨基转移酶升高。",
+    "full_pharmacokinetics": "达峰时间（ｔmax）为1.8小时",
+    "full_dosage": "成人常用量：口服，一次25mg，必要时可增至一次50mg，一日3次。疗程不短于6个月或遵医嘱，应逐渐减量停药。",
+    "full_contraindications": "症 对本品过敏者禁用。",
+    "full_adverse_reactions": "服药后个别患者出现头晕；极个别患者发生皮疹，必要时可服用抗过敏药，皮疹明显者可停药观察。",
+    "full_precautions": "⑴疗程结束后应加强随访。 ⑵肝功能失代偿者如胆红素明显升高、低白蛋白血症、肝硬化腹水、食管静脉曲张出血、肝性脑病及肝肾综合征者应慎用。 ⑶对于孕妇、哺乳期妇女及70岁以上老年患者的本品用药安全性研究资料缺乏。 ⑷12岁以下儿童的最适剂量遵医嘱。"
+  },
+  "pinyin": "※▲linsuanaositawei",
+  "pinyin_initials": "※▲lsastw",
+  "dosage_form_pinyin": "keli",
+  "dosage_form_initials": "kl",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=620",
+    "last_updated": "2026-03-21"
+  }
+}

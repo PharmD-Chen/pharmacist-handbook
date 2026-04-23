@@ -1,0 +1,53 @@
+{
+  "id": 390,
+  "name": "天舒片",
+  "dosage_form": "片",
+  "full_name": "(甲)天舒片",
+  "chemical_name": "天舒片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "江苏康缘药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.34g/片",
+      "manufacturer": "江苏康缘药业",
+      "full_manufacturer": "江苏康缘药业股份有限公司",
+      "price": 52.1,
+      "unit": "盒",
+      "code": "Y00000014951",
+      "approval_number": "国药准字Z20040136",
+      "insurance_code": "ZA15EAT0100010201463"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "活血平肝，通络止痛。用于瘀血阻络或肝阳上亢所致的头痛日久，痛有定处，或头晕胁痛，失眠烦躁，舌质暗或有瘀斑；血管神经性头痛见上述证候者。",
+    "dosage": "饭后口服，一次4片，一日3次，或遵医嘱。",
+    "contraindications": "对本品过敏者禁用；孕妇及月经量过多的妇女禁用。",
+    "adverse_reactions": "偶见胃部不适、头胀或妇女月经量过多。",
+    "interactions": "如与其他药物同时使用可能会发生",
+    "pregnancy_category": null,
+    "pharmacokinetics": "川芎、天麻。",
+    "precautions": "尚不明确。",
+    "source": "湖南药事服务网",
+    "full_indications": "活血平肝，通络止痛。用于瘀血阻络或肝阳上亢所致的头痛日久，痛有定处，或头晕胁痛，失眠烦躁，舌质暗或有瘀斑；血管神经性头痛见上述证候者。",
+    "full_dosage": "饭后口服，一次4片，一日3次，或遵医嘱。",
+    "full_contraindications": "对本品过敏者禁用；孕妇及月经量过多的妇女禁用。",
+    "full_adverse_reactions": "偶见胃部不适、头胀或妇女月经量过多。",
+    "full_interactions": "如与其他药物同时使用可能会发生",
+    "full_pharmacokinetics": "川芎、天麻。",
+    "full_precautions": "尚不明确。",
+    "composition": "川芎、天麻。"
+  },
+  "pinyin": "tianshu",
+  "pinyin_initials": "ts",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=7249",
+    "last_updated": "2026-03-21"
+  }
+}

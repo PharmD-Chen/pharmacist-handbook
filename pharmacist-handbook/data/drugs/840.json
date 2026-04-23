@@ -1,0 +1,47 @@
+{
+  "id": 840,
+  "name": "0.3%玻璃酸钠滴眼液",
+  "dosage_form": "滴眼液",
+  "full_name": "(甲)0.3%玻璃酸钠滴眼液",
+  "chemical_name": "0.3%玻璃酸钠滴眼液",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "扬子江药业集团"
+  ],
+  "specifications": [
+    {
+      "specification": "0.4ml/支",
+      "manufacturer": "扬子江药业集团",
+      "full_manufacturer": "扬子江药业集团有限公司",
+      "price": 49.2,
+      "unit": "盒",
+      "code": "Y00000014629",
+      "approval_number": "国药准字H20203424",
+      "insurance_code": "XS01KAB146G010020101749",
+      "location": "G-2",
+      "outpatient_location": "D-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "0.3%bolisuanna",
+  "pinyin_initials": "0.3%blsn",
+  "dosage_form_pinyin": "diyanye",
+  "dosage_form_initials": "dyy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2840",
+    "last_updated": "2026-03-22"
+  }
+}

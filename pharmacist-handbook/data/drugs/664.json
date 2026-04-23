@@ -1,0 +1,51 @@
+{
+  "id": 664,
+  "name": "利司扑兰口服溶液用散",
+  "dosage_form": "口服溶液",
+  "full_name": "※▲(乙10%)利司扑兰口服溶液用散",
+  "chemical_name": "利司扑兰口服溶液用散",
+  "types": [],
+  "manufacturers": [
+    "Roche Pharma  AG"
+  ],
+  "specifications": [
+    {
+      "specification": "60mg/瓶",
+      "manufacturer": "Roche Pharma  AG",
+      "full_manufacturer": "Roche Pharma (Schweiz) AG （F.Hoffmann-La Roche Ltd； F.Hoffmann-La Roche AG）",
+      "price": 3780.0,
+      "unit": "盒",
+      "code": "X00396",
+      "approval_number": "国药准字HJ20210045",
+      "insurance_code": "XM09AXL393P001010182529",
+      "location": "M-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于治疗16日龄及以上的脊髓性肌萎缩症（罕见病：SMA）患者。",
+    "dosage": "口服溶液散：口服或鼻饲管给药：推荐的最大剂量为不足2个月婴幼儿按体重一次0.15mg/kg；2个月~2岁的婴幼儿按体重一次0.2mg/kg；2岁及以上，体重小于20kg的一次0.25mg/kg；...",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "最常见的不良反应（发生率至少10%）是发烧、腹泻和皮疹、口腔和阿弗他溃疡、关节痛、尿路感染等。婴儿型SMA中最常见的不良反应类似于在迟发的SMA患者中观察到的那些。此外，不良反应至少有10%的发...",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品是运动神经元2(SMN2)的剪接修饰剂，直接靶向疾病的潜在分子缺陷，增加中枢组织和外周组织的功能性SMN蛋白的产生。该品种上市为脊髓性肌萎缩症患者提供了新的治疗选择。 Risdiplam口服...",
+    "precautions": "⑴根据动物数据显示，可能对胎儿造成伤害。\n⑵避免在肝功能不全患者中使用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗16日龄及以上的脊髓性肌萎缩症（罕见病：SMA）患者。<br>SMA是一种严重的、致命的进行性神经肌肉遗传疾病，在欧美存活新生儿中的发病率约为1／10000~1/6000，是导致婴儿死亡的最常见遗传疾病，目前中国尚无发病率的确切数据，大约有3~5万名患儿。",
+    "full_dosage": "口服溶液散：口服或鼻饲管给药：推荐的最大剂量为不足2个月婴幼儿按体重一次0.15mg/kg；2个月~2岁的婴幼儿按体重一次0.2mg/kg；2岁及以上，体重小于20kg的一次0.25mg/kg；2岁以上或体重大于20kg的一次5mg，一日1次。饭后每天口服一次，使用提供的口服注射器。<br>片剂：每日给药1次，可与食物同服或空腹服用。不到2个月的婴幼儿推荐剂量为一次0.15mg/kg；2个月大至2岁婴幼儿推荐剂量为一次0.2mg/kg；2岁及以上，体重小于20kg的一次0.25mg/kg；2岁以上或体重大于20kg的一次5mg。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "最常见的不良反应（发生率至少10%）是发烧、腹泻和皮疹、口腔和阿弗他溃疡、关节痛、尿路感染等。婴儿型SMA中最常见的不良反应类似于在迟发的SMA患者中观察到的那些。此外，不良反应至少有10%的发生率还有上呼吸道感染，肺炎、便秘和呕吐。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品是运动神经元2(SMN2)的剪接修饰剂，直接靶向疾病的潜在分子缺陷，增加中枢组织和外周组织的功能性SMN蛋白的产生。该品种上市为脊髓性肌萎缩症患者提供了新的治疗选择。<br>Risdiplam口服给药后呈现全身分布，可持续增加中枢神经系统和外周组织SMN蛋白水平，改善1型、2型、3型SMA患者的运动功能。",
+    "full_precautions": "⑴根据动物数据显示，可能对胎儿造成伤害。<br>⑵避免在肝功能不全患者中使用。"
+  },
+  "pinyin": "※▲lisipulankoufurongyeyong",
+  "pinyin_initials": "※▲lsplkfryy",
+  "dosage_form_pinyin": "koufurongye",
+  "dosage_form_initials": "kfry",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13310",
+    "last_updated": "2026-03-22"
+  }
+}

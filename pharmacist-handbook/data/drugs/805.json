@@ -1,0 +1,67 @@
+{
+  "id": 805,
+  "name": "碳酸钙D3片(I)",
+  "dosage_form": "片",
+  "full_name": "(甲)碳酸钙D3片(I)[市基]",
+  "chemical_name": "碳酸钙D3片(I)",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "惠氏制药",
+    "赫力昂制药"
+  ],
+  "specifications": [
+    {
+      "specification": "1片/片",
+      "manufacturer": "赫力昂制药",
+      "full_manufacturer": "赫力昂(苏州)制药有限公司",
+      "price": 27.04,
+      "unit": "瓶",
+      "code": "X00477",
+      "approval_number": "国药准字H10950029",
+      "insurance_code": "XA12AXT201A001010101421",
+      "location": "I-3",
+      "outpatient_location": "M-3"
+    },
+    {
+      "specification": "0.6g/125IU",
+      "manufacturer": "惠氏制药",
+      "full_manufacturer": "惠氏制药有限公司",
+      "price": 27.04,
+      "unit": "瓶",
+      "code": "Y00000012477",
+      "approval_number": "国药准字H10950029",
+      "insurance_code": "XA12AXT013A001010301421"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "用于防治因钙缺乏所引起的各种疾病，如骨质疏松症。",
+    "dosage": "口服：成人一日1～2片，或遵医嘱；小儿一日1～2片，或遵医嘱。",
+    "contraindications": "症 对本品过敏者禁用；高尿酸血症患者禁用。",
+    "adverse_reactions": "1.嗳气、便秘。 2.过量服用可发生高钙血症，偶可发生奶一碱综合征，表现为高血钙、碱中毒及肾功能不全（因服用牛奶及碳酸钙或单用碳酸钙引起）。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴心肾功能不全者慎用。 ⑵如服用过量或出现严重不良反应，应立即就医。 ⑶过敏体质者慎用。 ⑷本品性状发生改变时禁止使用。 ⑸请将本品放在儿童不能接触的地方。 ⑹儿童必须在成人监护下使用。 ⑺如正在使用其他药品，使用本品前请咨询药师或医师。 ⑺肾结石患者应在医师指导下使用。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于防治因钙缺乏所引起的各种疾病，如骨质疏松症。",
+    "full_dosage": "口服：成人一日1～2片，或遵医嘱；小儿一日1～2片，或遵医嘱。",
+    "full_contraindications": "症 对本品过敏者禁用；高尿酸血症患者禁用。",
+    "full_adverse_reactions": "1.嗳气、便秘。 2.过量服用可发生高钙血症，偶可发生奶一碱综合征，表现为高血钙、碱中毒及肾功能不全（因服用牛奶及碳酸钙或单用碳酸钙引起）。",
+    "full_interactions": "⑴本品不宜与洋地黄类药物合用。 ⑵大量饮用含酒精和咖啡因的饮料以及大量吸烟，均会抑制钙剂的吸收。 ⑶大量进食富含纤维素的食物能抑制钙的吸收，因钙与纤维素结合成不易吸收的化合物。 ⑷本品与苯妥英钠类及四环素类同用，二者吸收减低。 ⑸维生素D、避孕药、雌激素能增加钙的吸收。 ⑹含铝的抗酸药与本品同服时，铝的吸收增多。 ⑺本品与噻嗪类利尿药合用时，因增加肾小管对钙的重吸收而易发生高钙血症。 ⑻本品与含钾药物合用时，应注意心律失常。 ⑼如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。 给药说明 儿童版每片含碳酸钙0.75克（相当于钙300mg），维生素D3100国际单位，或成人版每片含碳酸钙1.5克（相当于钙600mg），维生素D3125国际单位。 用法与用量 口服：成人一日1～2片，或遵医嘱；小儿一日1～2片，或遵医嘱。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴心肾功能不全者慎用。 ⑵如服用过量或出现严重不良反应，应立即就医。 ⑶过敏体质者慎用。 ⑷本品性状发生改变时禁止使用。 ⑸请将本品放在儿童不能接触的地方。 ⑹儿童必须在成人监护下使用。 ⑺如正在使用其他药品，使用本品前请咨询药师或医师。 ⑺肾结石患者应在医师指导下使用。"
+  },
+  "pinyin": "tansuangaid3",
+  "pinyin_initials": "tsgd3",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3205",
+    "last_updated": "2026-03-21"
+  }
+}

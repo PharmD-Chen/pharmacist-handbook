@@ -1,0 +1,182 @@
+[
+  {
+    "name": "盐酸氨溴索",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>痰液粘稠、咳痰困难</strong>；术后肺部并发症预防。",
+      "dosage": "静脉滴注。成人15-30mg，每日2-3次。",
+      "contraindications": "对氨溴索过敏者禁用；<strong>妊娠早期禁用</strong>。",
+      "adverse_reactions": "胃部不适、恶心、皮疹；<strong>罕见过敏反应</strong>。",
+      "interactions": "与<strong>抗生素</strong>合用可能增加肺组织抗生素浓度；与<strong>中枢镇咳药</strong>合用需谨慎。",
+      "pregnancy_category": "B级（中晚期）",
+      "pharmacokinetics": "静脉给药迅速起效，主要经肝代谢，肾排泄。半衰期7-12小时。",
+      "precautions": "<strong>妊娠早期禁用</strong>；胃溃疡患者慎用；避免与中枢镇咳药合用。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "盐酸多西环素肠溶",
+    "dosage_form": "胶囊",
+    "manual": {
+      "indications": "<strong>立克次体病</strong>、<strong>支原体/衣原体感染</strong>、布鲁菌病、霍乱、鼠疫。",
+      "dosage": "口服。成人首剂200mg，以后100mg，每日1-2次。",
+      "contraindications": "对四环素类过敏者禁用；<strong>8岁以下儿童禁用</strong>；妊娠及哺乳期禁用。",
+      "adverse_reactions": "胃肠道反应、光敏反应；<strong>牙齿黄染</strong>（儿童）；<strong>肝毒性</strong>；前庭反应。",
+      "interactions": "与<strong>含钙、镁、铝、铁制剂</strong>合用减少吸收；与<strong>抗凝药</strong>合用增强抗凝；与<strong>苯妥英、巴比妥类</strong>合用降低多西环素血药浓度。",
+      "pregnancy_category": "D级",
+      "pharmacokinetics": "口服吸收约90%，2小时达峰。半衰期12-22小时，主要经粪便排泄。",
+      "precautions": "<strong>8岁以下儿童禁用</strong>；<strong>服药期间避免日晒</strong>；肝肾功能不全者慎用；食管炎患者慎用。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "盐酸克林霉素",
+    "dosage_form": "胶囊",
+    "manual": {
+      "indications": "<strong>厌氧菌感染</strong>、<strong>链球菌/葡萄球菌感染</strong>（青霉素过敏者替代）。",
+      "dosage": "口服。成人150-300mg，每6小时1次；严重感染300-450mg，每6小时1次。",
+      "contraindications": "对克林霉素或林可霉素过敏者禁用。",
+      "adverse_reactions": "胃肠道反应、皮疹；<strong>伪膜性肠炎</strong>；肝功能异常。",
+      "interactions": "与<strong>红霉素</strong>有拮抗作用；与<strong>神经肌肉阻滞剂</strong>合用增强阻滞作用。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服吸收约90%，45-60分钟达峰。半衰期2-3小时，主要经肝代谢。",
+      "precautions": "<strong>警惕伪膜性肠炎</strong>（腹泻、腹痛）；肝功能不全者慎用；严重肾功能不全者减量。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "阿立哌唑",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>精神分裂症</strong>、<strong>双相情感障碍</strong>。",
+      "dosage": "口服。成人起始5-10mg，每日1次，可增至15-30mg/日。",
+      "contraindications": "对阿立哌唑过敏者禁用。",
+      "adverse_reactions": "头痛、焦虑、失眠、恶心；<strong>静坐不能</strong>；<strong>锥体外系反应</strong>；体重增加。",
+      "interactions": "与<strong>CYP3A4抑制剂</strong>（酮康唑、克拉霉素）合用增加血药浓度；与<strong>CYP2D6抑制剂</strong>（氟西汀、帕罗西汀）合用增加血药浓度；与<strong>降压药</strong>合用增强降压作用。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "口服吸收良好，3-5小时达峰。半衰期75小时，主要经肝代谢。",
+      "precautions": "<strong>监测锥体外系症状</strong>；癫痫患者慎用；心血管疾病患者慎用；老年人起始剂量减半。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "盐酸度洛西汀肠溶",
+    "dosage_form": "胶囊",
+    "manual": {
+      "indications": "<strong>抑郁症</strong>、<strong>广泛性焦虑障碍</strong>、<strong>糖尿病周围神经痛</strong>、纤维肌痛。",
+      "dosage": "口服。成人起始30-60mg，每日1次，可增至60-120mg/日。",
+      "contraindications": "单胺氧化酶抑制剂（MAOI）使用者禁用；<strong>未经治疗的窄角型青光眼</strong>禁用；严重肝功能不全禁用。",
+      "adverse_reactions": "恶心、口干、便秘、嗜睡；<strong>血压升高</strong>；<strong>5-羟色胺综合征</strong>；肝功能异常。",
+      "interactions": "<strong>与MAOI合用禁用</strong>（间隔至少14天）；与<strong>曲坦类、曲马多、利奈唑胺</strong>合用增加5-羟色胺综合征风险；与<strong>华法林</strong>合用增加出血风险。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "口服吸收约80%，6-10小时达峰。半衰期12小时，主要经肝代谢。",
+      "precautions": "<strong>不可突然停药</strong>（撤药反应）；监测血压；肝功能不全者慎用；<strong>窄角型青光眼患者慎用</strong>。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "盐酸帕罗西汀",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>抑郁症</strong>、<strong>强迫症</strong>、<strong>惊恐障碍</strong>、社交焦虑障碍、广泛性焦虑障碍。",
+      "dosage": "口服。成人起始20mg，每日1次，早晨服用，可增至50-60mg/日。",
+      "contraindications": "MAOI使用者禁用；<strong>与硫利达嗪、匹莫齐特合用禁用</strong>。",
+      "adverse_reactions": "恶心、嗜睡、出汗、性功能障碍；<strong>5-羟色胺综合征</strong>；<strong>撤药反应</strong>（眩晕、感觉异常）。",
+      "interactions": "<strong>与MAOI合用禁用</strong>（间隔至少14天）；与<strong>色氨酸、曲坦类、曲马多</strong>合用增加5-羟色胺综合征风险；与<strong>华法林</strong>合用增加出血风险；<strong>抑制CYP2D6</strong>，影响经此酶代谢药物。",
+      "pregnancy_category": "D级",
+      "pharmacokinetics": "口服吸收完全，5.2小时达峰。半衰期21小时，主要经肝代谢。",
+      "precautions": "<strong>不可突然停药</strong>；妊娠晚期可能致新生儿肺动脉高压；<strong>出血倾向者慎用</strong>；癫痫患者慎用。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "盐酸丁螺环酮",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>广泛性焦虑障碍</strong>。",
+      "dosage": "口服。成人起始5mg，每日3次，每2-3天增加5mg，最大剂量60mg/日。",
+      "contraindications": "对丁螺环酮过敏者禁用；<strong>MAOI使用者禁用</strong>。",
+      "adverse_reactions": "头晕、头痛、恶心、神经质；<strong>罕见5-羟色胺综合征</strong>。",
+      "interactions": "<strong>与MAOI合用禁用</strong>；与<strong>红霉素、伊曲康唑、葡萄柚汁</strong>合用增加血药浓度；与<strong>利福平、地塞米松、苯妥英、苯巴比妥</strong>合用降低血药浓度。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服吸收迅速，0.5-1小时达峰。半衰期2-3小时，主要经肝代谢。",
+      "precautions": "<strong>起效慢（2-4周）</strong>；肝肾功能不全者慎用；癫痫患者慎用。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "盐酸多奈哌齐",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>轻度至中度阿尔茨海默病</strong>。",
+      "dosage": "口服。成人起始5mg，每日1次，睡前服用，4-6周后可增至10mg/日。",
+      "contraindications": "对多奈哌齐过敏者禁用。",
+      "adverse_reactions": "恶心、腹泻、失眠、肌肉痉挛；<strong>心动过缓</strong>；<strong>晕厥</strong>；体重下降。",
+      "interactions": "与<strong>琥珀酰胆碱、神经肌肉阻滞剂</strong>可能有协同作用；与<strong>CYP2D6抑制剂</strong>（氟西汀、奎尼丁）合用增加血药浓度；与<strong>CYP3A4诱导剂</strong>（利福平、苯妥英）合用降低血药浓度。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "口服吸收良好，3-4小时达峰。半衰期70小时，主要经肝代谢。",
+      "precautions": "<strong>哮喘、COPD、心脏病患者慎用</strong>（心动过缓风险）；<strong>消化道溃疡患者慎用</strong>；癫痫患者慎用；肝功能不全者减量。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "重酒石酸卡巴拉汀",
+    "dosage_form": "胶囊",
+    "manual": {
+      "indications": "<strong>轻度至中度阿尔茨海默病</strong>、<strong>帕金森病痴呆</strong>。",
+      "dosage": "口服。成人起始1.5mg，每日2次，每2周增加1.5mg/次，最大剂量6mg，每日2次。",
+      "contraindications": "对卡巴拉汀过敏者禁用；<strong>严重肝损害禁用</strong>。",
+      "adverse_reactions": "恶心、呕吐、腹泻、食欲减退、体重下降；<strong>心动过缓</strong>；<strong>晕厥</strong>；消化道溃疡。",
+      "interactions": "与<strong>其他胆碱酯酶抑制剂</strong>合用增加不良反应；与<strong>神经肌肉阻滞剂</strong>有相互作用；与<strong>β受体阻滞剂</strong>合用增加心动过缓风险。",
+      "pregnancy_category": "B级",
+      "pharmacokinetics": "口服吸收迅速，1小时达峰。半衰期1.5小时，主要经肝代谢。",
+      "precautions": "<strong>与食物同服减少胃肠道反应</strong>；<strong>心动过缓、消化道溃疡患者慎用</strong>；哮喘、癫痫患者慎用；严重肝损害者禁用。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "盐酸普萘洛尔",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>高血压</strong>、<strong>心绞痛</strong>、<strong>心律失常</strong>、偏头痛预防、甲亢辅助治疗。",
+      "dosage": "口服。高血压：起始10mg，每日3-4次，可增至20mg，每日3-4次。心绞痛：10-20mg，每日3-4次。",
+      "contraindications": "<strong>支气管哮喘禁用</strong>；<strong>严重心动过缓、房室传导阻滞禁用</strong>；心源性休克禁用；急性心力衰竭禁用。",
+      "adverse_reactions": "心动过缓、乏力、肢端发冷；<strong>支气管痉挛</strong>；<strong>掩盖低血糖症状</strong>；抑郁、性功能障碍。",
+      "interactions": "与<strong>维拉帕米、地尔硫卓</strong>合用增加心动过缓、房室传导阻滞风险；与<strong>地高辛</strong>合用增加心动过缓风险；与<strong>降糖药</strong>合用掩盖低血糖症状；与<strong>NSAIDs</strong>合用减弱降压效果。",
+      "pregnancy_category": "C级（早期），D级（中晚期）",
+      "pharmacokinetics": "口服吸收完全，1-1.5小时达峰。半衰期3-6小时，主要经肝代谢。",
+      "precautions": "<strong>不可突然停药</strong>（反跳现象）；<strong>哮喘、COPD患者禁用</strong>；糖尿病患者慎用；<strong>手术前需停药</strong>。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "盐酸氟桂利嗪",
+    "dosage_form": "胶囊",
+    "manual": {
+      "indications": "<strong>偏头痛预防</strong>、<strong>眩晕</strong>（包括梅尼埃病）。",
+      "dosage": "口服。成人5-10mg，每日1次，睡前服用。",
+      "contraindications": "<strong>抑郁症病史禁用</strong>；<strong>帕金森病禁用</strong>；基底动脉供血不足禁用。",
+      "adverse_reactions": "嗜睡、体重增加、抑郁；<strong>锥体外系反应</strong>；<strong>帕金森综合征</strong>。",
+      "interactions": "与<strong>镇静剂</strong>合用增强镇静作用；与<strong>酒精</strong>合用增强中枢抑制。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "口服吸收良好，2-4小时达峰。半衰期2.4-6.4小时，主要经肝代谢。",
+      "precautions": "<strong>抑郁症、帕金森病患者禁用</strong>；<strong>老年患者慎用</strong>（锥体外系反应风险）；长期用药需定期评估。",
+      "source": "手动录入"
+    }
+  },
+  {
+    "name": "氟哌噻吨美利曲辛",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>轻中度抑郁和焦虑</strong>、<strong>神经衰弱</strong>、心因性抑郁、隐匿性抑郁。",
+      "dosage": "口服。成人每日2片，早晨及中午各1片；老年患者每日1片，早晨服用。",
+      "contraindications": "<strong>心肌梗死急性期禁用</strong>；<strong>束支传导阻滞禁用</strong>；<strong>闭角型青光眼禁用</strong>；兴奋躁狂患者禁用。",
+      "adverse_reactions": "失眠、不安、口干、便秘；<strong>锥体外系反应</strong>；<strong>5-羟色胺综合征</strong>。",
+      "interactions": "<strong>与MAOI合用禁用</strong>（间隔至少14天）；与<strong>肾上腺素、去甲肾上腺素</strong>合用增加心律失常风险；与<strong>巴比妥类、酒精</strong>合用增强中枢抑制。",
+      "pregnancy_category": "C级",
+      "pharmacokinetics": "口服吸收迅速，4小时达峰。半衰期约19小时，主要经肝代谢。",
+      "precautions": "<strong>心脏病患者慎用</strong>；<strong>癫痫患者慎用</strong>；<strong>甲状腺功能亢进患者慎用</strong>；<strong>下午4点后不宜服用</strong>（影响睡眠）。",
+      "source": "手动录入"
+    }
+  }
+]

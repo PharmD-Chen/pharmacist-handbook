@@ -1,0 +1,54 @@
+{
+  "id": 885,
+  "name": "牛黄清心丸(局方)",
+  "dosage_form": "丸",
+  "full_name": "(甲)牛黄清心丸(局方)",
+  "chemical_name": "牛黄清心丸(局方)",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "呼伦贝尔松鹿制药"
+  ],
+  "specifications": [
+    {
+      "specification": "3g/丸",
+      "manufacturer": "呼伦贝尔松鹿制药",
+      "full_manufacturer": "呼伦贝尔松鹿制药有限公司",
+      "price": 165.66,
+      "unit": "盒",
+      "code": "C00066",
+      "approval_number": "国药准字Z15020944",
+      "insurance_code": "ZA07AAN0128010103879",
+      "location": "L-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "清心化痰，镇惊祛风。用于风痰阻窍所致的头晕目眩，痰涎壅盛，神志混乱，言语不清，及惊风抽搐、癫痫。",
+    "dosage": "口服：大蜜丸一次1丸，水丸一次1.5g，一日1次。",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "牛黄、当归、川芎、甘草、山药、黄芩、苦杏仁（炒）、大豆黄卷、大枣（去核）、白术（炒）、茯苓、桔梗、防风、柴胡、阿胶、干姜、白芍、人参、六神曲（炒）、肉桂、麦冬、白蔹、蒲黄（炒）、人工麝香、冰片、水牛角浓缩粉、羚羊角、朱砂、雄黄。",
+    "precautions": "本品不宜过服、久服。",
+    "source": "湖南药事服务网",
+    "full_indications": "清心化痰，镇惊祛风。用于风痰阻窍所致的头晕目眩，痰涎壅盛，神志混乱，言语不清，及惊风抽搐、癫痫。",
+    "full_dosage": "口服：大蜜丸一次1丸，水丸一次1.5g，一日1次。",
+    "full_contraindications": "",
+    "full_adverse_reactions": "",
+    "full_interactions": "",
+    "full_pharmacokinetics": "牛黄、当归、川芎、甘草、山药、黄芩、苦杏仁（炒）、大豆黄卷、大枣（去核）、白术（炒）、茯苓、桔梗、防风、柴胡、阿胶、干姜、白芍、人参、六神曲（炒）、肉桂、麦冬、白蔹、蒲黄（炒）、人工麝香、冰片、水牛角浓缩粉、羚羊角、朱砂、雄黄。",
+    "full_precautions": "本品不宜过服、久服。",
+    "composition": "牛黄、当归、川芎、甘草、山药、黄芩、苦杏仁（炒）、大豆黄卷、大枣（去核）、白术（炒）、茯苓、桔梗、防风、柴胡、阿胶、干姜、白芍、人参、六神曲（炒）、肉桂、麦冬、白蔹、蒲黄（炒）、人工麝香、冰片、水牛角浓缩粉、羚羊角、朱砂、雄黄。"
+  },
+  "pinyin": "niuhuangqingxin",
+  "pinyin_initials": "nhqx",
+  "dosage_form_pinyin": "wan",
+  "dosage_form_initials": "w",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=7181",
+    "last_updated": "2026-03-21"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 843,
+  "name": "丹参片",
+  "dosage_form": "片",
+  "full_name": "(甲)丹参片[市基]",
+  "chemical_name": "丹参片",
+  "types": [
+    "甲类",
+    "市基药"
+  ],
+  "manufacturers": [
+    "上海雷允上药业"
+  ],
+  "specifications": [
+    {
+      "specification": "1片/片",
+      "manufacturer": "上海雷允上药业",
+      "full_manufacturer": "上海雷允上药业有限公司",
+      "price": 7.81,
+      "unit": "瓶",
+      "code": "Y00000014464",
+      "approval_number": "国药准字Z31020192",
+      "insurance_code": "ZA12CAD0068010500716",
+      "location": "D-1",
+      "outpatient_location": "J-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于冠心病引起的心绞痛、胸闷及心悸等症状。",
+    "full_indications": "用于冠心病引起的心绞痛、胸闷及心悸等症状；瘀血闭阻所致的胸痹，症见胸部疼痛、痛处固定、舌质紫暗；冠心病心绞痛见上述证候者。",
+    "dosage": "口服：一次3～4片，一日3次。",
+    "full_dosage": "口服：一次3～4片，一日3次。疗程根据病情而定，一般4周为一疗程。",
+    "contraindications": "对本品过敏者禁用；孕妇慎用。",
+    "full_contraindications": "对本品过敏者禁用；孕妇慎用；出血性疾病及有出血倾向者慎用。",
+    "adverse_reactions": "偶见胃肠道不适、皮疹等。",
+    "full_adverse_reactions": "偶见胃肠道不适、恶心、呕吐、腹胀、腹泻；过敏反应如皮疹、瘙痒等；偶见头晕、头痛等。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。不宜与藜芦同用。",
+    "pregnancy_category": "慎用",
+    "pharmacokinetics": "",
+    "full_pharmacokinetics": "丹参主要含丹参酮、丹酚酸等有效成分，具有活血化瘀、通经止痛的作用。",
+    "precautions": "忌食生冷、辛辣、油腻食物；孕妇慎用。",
+    "full_precautions": "忌食生冷、辛辣、油腻食物；孕妇慎用；月经过多及出血性疾病患者慎用；服药期间如出现严重不良反应应立即停药并就医。",
+    "source": "湖南药事服务网",
+    "url_added": true,
+    "composition": "丹参。"
+  },
+  "pinyin": "danshen",
+  "pinyin_initials": "ds",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5150",
+    "last_updated": "2026-03-20"
+  }
+}

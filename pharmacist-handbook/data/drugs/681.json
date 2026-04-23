@@ -1,0 +1,80 @@
+{
+  "id": 681,
+  "name": "甘精胰岛素注射液(预填充笔)",
+  "dosage_form": "注射液",
+  "full_name": "(甲)甘精胰岛素注射液(预填充笔)[国基]",
+  "chemical_name": "甘精胰岛素注射液",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "Sanofi-Aventis Deutschland GmbH制药有限公司)",
+    "甘李药业",
+    "赛诺菲制药"
+  ],
+  "specifications": [
+    {
+      "specification": "300单位/盒",
+      "manufacturer": "赛诺菲制药",
+      "full_manufacturer": "赛诺菲（北京）制药有限公司",
+      "price": 70.32,
+      "unit": "盒",
+      "code": "Y00000013120",
+      "approval_number": "国药准字S20201001",
+      "insurance_code": "XA10AEG025B002020181708",
+      "location": "2B-4",
+      "outpatient_location": "2A-1"
+    },
+    {
+      "specification": "450单位:1.5ml/支",
+      "manufacturer": "Sanofi-Aventis Deutschland GmbH制药有限公司)",
+      "full_manufacturer": "Sanofi-Aventis Deutschland GmbH(进口分包企业：赛诺菲（北京）制药有限公司)",
+      "price": 89.91,
+      "unit": "盒",
+      "code": "X00423",
+      "approval_number": "国药准字SJ20200023",
+      "insurance_code": "XA10AEG025B002030278820",
+      "location": "2B-1"
+    },
+    {
+      "specification": "3ml/支",
+      "manufacturer": "甘李药业",
+      "full_manufacturer": "甘李药业股份有限公司",
+      "price": 51.71,
+      "unit": "盒",
+      "code": "X00474",
+      "approval_number": "国药准字S20194001",
+      "insurance_code": "XA10AEC074B002020100227",
+      "location": "2B-2"
+    }
+  ],
+  "spec_count": 3,
+  "manual": {
+    "indications": "需用胰岛素治疗的糖尿病。",
+    "full_indications": "需用胰岛素治疗的糖尿病。",
+    "dosage": "皮下注射：剂量应个体化。通常每日一次，于睡前注射。根据患者血糖水平调整剂量。",
+    "full_dosage": "皮下注射：剂量应个体化。通常每日一次，于睡前注射。根据患者血糖水平调整剂量。",
+    "contraindications": "对甘精胰岛素过敏者禁用。",
+    "full_contraindications": "对甘精胰岛素过敏者禁用。",
+    "adverse_reactions": "低血糖、注射部位反应（疼痛、红斑、结节、瘙痒）、体重增加、水肿。",
+    "full_adverse_reactions": "低血糖、注射部位反应（疼痛、红斑、结节、瘙痒）、体重增加、水肿。",
+    "interactions": "与口服降糖药、ACE抑制剂、单胺氧化酶抑制剂等合用可能增加低血糖风险。",
+    "full_interactions": "与口服降糖药、ACE抑制剂、单胺氧化酶抑制剂等合用可能增加低血糖风险。",
+    "pregnancy_category": "C级",
+    "full_pregnancy_category": "C级。妊娠期间使用胰岛素治疗糖尿病时，必须严格控制血糖水平。",
+    "pharmacokinetics": "甘精胰岛素是一种长效胰岛素类似物，皮下注射后缓慢释放，作用可持续24小时，无明显峰值。",
+    "full_pharmacokinetics": "甘精胰岛素是一种长效胰岛素类似物，皮下注射后缓慢释放，作用可持续24小时，无明显峰值。",
+    "precautions": "3.运动员慎用。2.注射部位应轮换，以避免脂肪营养不良。",
+    "full_precautions": "1.低血糖是常见不良反应，患者应学会识别低血糖症状并随身携带糖类食品。<br>2.注射部位应轮换，以避免脂肪营养不良。<br>3.运动员慎用。",
+    "source": "湖南药事服务网"
+  },
+  "pinyin": "ganjingyidaosu",
+  "pinyin_initials": "gjyds",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=681",
+    "last_updated": "2026-03-21"
+  }
+}

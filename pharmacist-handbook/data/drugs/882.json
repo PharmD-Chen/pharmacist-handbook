@@ -1,0 +1,56 @@
+{
+  "id": 882,
+  "name": "西帕依固龈液",
+  "dosage_form": "其他",
+  "full_name": "(甲)西帕依固龈液[国基]",
+  "chemical_name": "西帕依固龈液",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "新奇康药业"
+  ],
+  "specifications": [
+    {
+      "specification": "30ml/盒",
+      "manufacturer": "新奇康药业",
+      "full_manufacturer": "新奇康药业股份有限公司",
+      "price": 36.85,
+      "unit": "瓶",
+      "code": "X00675",
+      "approval_number": "国药准字Z65020012",
+      "insurance_code": "ZI03AAX0014040105996",
+      "location": "C-5",
+      "outpatient_location": "2H-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "健齿固龈，清血止痛。用于牙周疾病引起的牙齿酸软，咀嚼无力，松动移位，牙龈出血以及口舌生疮，咽喉肿痛，口臭烟臭。",
+    "dosage": "使用，小儿、年老体弱者应在药师或医师指导下使用。 4．用药同时应注意口腔卫生，并配合牙周治疗以增加疗效。 5．过敏体质者慎用。 6．如正在使用其他药品，使用本品前请咨询药师或医师。",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生",
+    "pregnancy_category": null,
+    "pharmacokinetics": "没食子。",
+    "precautions": "1．忌烟、酒及辛辣食物。 2．以牙龈出血为主症者，应排除血液系统疾患后方可使用。 3．按照用法用量使用，小儿、年老体弱者应在药师或医师指导下使用。 4．用药同时应注意口腔卫生，并配合牙周治疗以增加疗效。 5．过敏体质者慎用。 6．如正在使用其他药品，使用本品前请咨询药师或医师。",
+    "source": "湖南药事服务网",
+    "full_indications": "健齿固龈，清血止痛。用于牙周疾病引起的牙齿酸软，咀嚼无力，松动移位，牙龈出血以及口舌生疮，咽喉肿痛，口臭烟臭。",
+    "full_dosage": "使用，小儿、年老体弱者应在药师或医师指导下使用。 4．用药同时应注意口腔卫生，并配合牙周治疗以增加疗效。 5．过敏体质者慎用。 6．如正在使用其他药品，使用本品前请咨询药师或医师。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "尚不明确。",
+    "full_interactions": "如与其他药物同时使用可能会发生",
+    "full_pharmacokinetics": "没食子。",
+    "full_precautions": "1．忌烟、酒及辛辣食物。 2．以牙龈出血为主症者，应排除血液系统疾患后方可使用。 3．按照用法用量使用，小儿、年老体弱者应在药师或医师指导下使用。 4．用药同时应注意口腔卫生，并配合牙周治疗以增加疗效。 5．过敏体质者慎用。 6．如正在使用其他药品，使用本品前请咨询药师或医师。",
+    "composition": "没食子。"
+  },
+  "pinyin": "xipayigukenye",
+  "pinyin_initials": "xpygky",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=4000",
+    "last_updated": "2026-03-21"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 672,
+  "name": "骨痛灵酊",
+  "dosage_form": "其他",
+  "full_name": "(甲)骨痛灵酊[国基]",
+  "chemical_name": "骨痛灵酊",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "云南圣科药业"
+  ],
+  "specifications": [
+    {
+      "specification": "10ml/袋",
+      "manufacturer": "云南圣科药业",
+      "full_manufacturer": "云南圣科药业有限公司",
+      "price": 32.8,
+      "unit": "盒",
+      "code": "Y00000014989",
+      "approval_number": "国药准字Z53021244",
+      "insurance_code": "ZG02BAG0284010105583",
+      "location": "D-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": "",
+    "composition": "雪山一枝蒿、干姜、龙血竭、乳香、没药、冰片。"
+  },
+  "pinyin": "gutonglingding",
+  "pinyin_initials": "gtld",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=4987"
+  }
+}

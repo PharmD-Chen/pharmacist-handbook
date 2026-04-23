@@ -1,0 +1,43 @@
+{
+  "id": 734,
+  "name": "注射用双羟萘酸曲普瑞林",
+  "dosage_form": "注射用",
+  "full_name": "(乙10%)注射用双羟萘酸曲普瑞林",
+  "chemical_name": "注射用双羟萘酸曲普瑞林",
+  "types": [],
+  "manufacturers": [
+    "Ipsen Pharma"
+  ],
+  "specifications": [
+    {
+      "specification": "15mg/瓶",
+      "manufacturer": "Ipsen Pharma",
+      "full_manufacturer": "Ipsen Pharma（IPSEN PHARMA BIOTECH）",
+      "price": 4028.0,
+      "unit": "盒",
+      "code": "X00932",
+      "approval_number": "国药准字HJ20130842",
+      "insurance_code": "XL02AEQ108B001030178274"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "zhusheyongshuangqiangnaisuanqupuruilin",
+  "pinyin_initials": "zsysqnsqprl",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1282",
+    "last_updated": "2026-03-22"
+  }
+}

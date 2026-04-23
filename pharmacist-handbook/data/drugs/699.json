@@ -1,0 +1,44 @@
+{
+  "id": 699,
+  "name": "可乐定控释贴",
+  "dosage_form": "其他",
+  "full_name": "(乙10%)可乐定控释贴",
+  "chemical_name": "可乐定控释贴",
+  "types": [],
+  "manufacturers": [
+    "北京克莱斯瑞控释药业"
+  ],
+  "specifications": [
+    {
+      "specification": "2.5mg/片",
+      "manufacturer": "北京克莱斯瑞控释药业",
+      "full_manufacturer": "北京克莱斯瑞控释药业有限公司",
+      "price": 167.5,
+      "unit": "盒",
+      "code": "X00764",
+      "approval_number": "国药准字H11022508",
+      "insurance_code": "XC02ACK062V007010100082",
+      "location": "F-1",
+      "outpatient_location": "G-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "keledingkongshitie",
+  "pinyin_initials": "kldkst",
+  "dosage_form_pinyin": "qita",
+  "dosage_form_initials": "qt",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=227"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 1031,
+  "name": "※(乙10%)注射用头孢哌酮钠舒巴坦钠",
+  "dosage_form": "注射用",
+  "full_name": "※(乙10%)注射用头孢哌酮钠舒巴坦钠",
+  "chemical_name": "注射用头孢哌酮钠舒巴坦钠",
+  "types": [],
+  "manufacturers": [
+    "海南合瑞制药"
+  ],
+  "specifications": [
+    {
+      "specification": "1.0g",
+      "manufacturer": "海南合瑞制药",
+      "full_manufacturer": "海南合瑞制药股份有限公司",
+      "price": 44.5,
+      "unit": "盒",
+      "code": "X00063",
+      "approval_number": "国药准字H20103514",
+      "insurance_code": "XJ01DDT081B001010205815"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "※zhusheyongtoubaopaitongnashubatanna",
+  "pinyin_initials": "※zsytbptnsbtn",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1944",
+    "last_updated": "2026-03-22"
+  }
+}

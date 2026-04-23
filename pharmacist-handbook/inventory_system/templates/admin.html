@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>药品追溯码盘点系统 - 管理后台</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/admin.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="admin-container">
+        <!-- 侧边栏 -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>📦 药品盘点系统</h2>
+                <p class="version">管理后台</p>
+            </div>
+            <nav class="sidebar-nav">
+                <a href="#dashboard" class="nav-item active" data-page="dashboard">
+                    <span class="icon">📊</span> 数据概览
+                </a>
+                <a href="#inventory" class="nav-item" data-page="inventory">
+                    <span class="icon">📋</span> 盘点记录
+                </a>
+                <a href="#maintenance" class="nav-item" data-page="maintenance">
+                    <span class="icon">🔧</span> 养护记录
+                </a>
+                <a href="#shelves" class="nav-item" data-page="shelves">
+                    <span class="icon">🏪</span> 货架管理
+                </a>
+                <a href="#mobile" class="nav-item" data-page="mobile">
+                    <span class="icon">📱</span> 移动端入口
+                </a>
+            </nav>
+        </aside>
+
+        <!-- 主内容区 -->
+        <main class="main-content">
+            <!-- 顶部栏 -->
+            <header class="top-bar">
+                <h1 id="page-title">数据概览</h1>
+                <div class="top-bar-actions">
+                    <button class="btn btn-primary" onclick="refreshData()">🔄 刷新数据</button>
+                </div>
+            </header>
+
+            <!-- 数据概览页面 -->
+            <div id="page-dashboard" class="page active">
+                <!-- 统计卡片 -->
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon" style="background: #667eea;">📦</div>
+                        <div class="stat-info">
+                            <h3 id="stat-total-inventory">0</h3>
+                            <p>总盘点记录</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon" style="background: #11998e;">📅</div>
+                        <div class="stat-info">
+                            <h3 id="stat-today-inventory">0</h3>
+                            <p>今日盘点</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon" style="background: #f093fb;">🔧</div>
+                        <div class="stat-info">
+                            <h3 id="stat-total-maintenance">0</h3>
+                            <p>养护记录</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon" style="background: #f5576c;">🏪</div>
+                        <div class="stat-info">
+                            <h3 id="stat-total-shelves">0</h3>
+                            <p>货架数量</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 图表区域 -->
+                <div class="charts-grid">
+                    <div class="chart-card">
+                        <h3>盘点趋势（最近7天）</h3>
+                        <canvas id="inventoryChart"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>货架盘点分布</h3>
+                        <canvas id="shelfChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- 最新记录 -->
+                <div class="recent-section">
+                    <div class="section-header">
+                        <h3>最新盘点记录</h3>
+                        <a href="#inventory" class="view-all">查看全部 →</a>
+                    </div>
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>时间</th>
+                                <th>货架</th>
+                                <th>药品名称</th>
+                                <th>规格</th>
+                                <th>批号</th>
+                                <th>数量</th>
+                                <th>操作人</th>
+                            </tr>
+                        </thead>
+                        <tbody id="recent-inventory-tbody">
+                            <tr><td colspan="7" class="loading-cell">加载中...</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- 盘点记录页面 -->
+            <div id="page-inventory" class="page">
+                <div class="filter-bar">
+                    <div class="filter-group">
+                        <label>货架筛选：</label>
+                        <select id="filter-shelf" class="form-select">
+                            <option value="">全部货架</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label>日期筛选：</label>
+                        <input type="date" id="filter-date" class="form-input">
+                    </div>
+                    <button class="btn btn-primary" onclick="filterInventory()">筛选</button>
+                    <button class="btn btn-secondary" onclick="exportInventory()">📥 导出Excel</button>
+                </div>
+
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>盘点时间</th>
+                            <th>货架</th>
+                            <th>药品名称</th>
+                            <th>规格</th>
+                            <th>批号</th>
+                            <th>数量</th>
+                            <th>操作人</th>
+                        </tr>
+                    </thead>
+                    <tbody id="inventory-tbody">
+                        <tr><td colspan="8" class="loading-cell">加载中...</td></tr>
+                    </tbody>
+                </table>
+
+                <div class="pagination">
+                    <button class="btn btn-sm" onclick="changePage(-1)">上一页</button>
+                    <span id="page-info">第 1 页</span>
+                    <button class="btn btn-sm" onclick="changePage(1)">下一页</button>
+                </div>
+            </div>
+
+            <!-- 养护记录页面 -->
+            <div id="page-maintenance" class="page">
+                <div class="filter-bar">
+                    <div class="filter-group">
+                        <label>养护类型：</label>
+                        <select id="filter-maintenance-type" class="form-select">
+                            <option value="">全部类型</option>
+                            <option value="常规养护">常规养护</option>
+                            <option value="重点养护">重点养护</option>
+                            <option value="临时养护">临时养护</option>
+                            <option value="近效期养护">近效期养护</option>
+                        </select>
+                    </div>
+                    <button class="btn btn-primary" onclick="filterMaintenance()">筛选</button>
+                    <button class="btn btn-secondary" onclick="exportMaintenance()">📥 导出Excel</button>
+                </div>
+
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>养护时间</th>
+                            <th>药品名称</th>
+                            <th>规格</th>
+                            <th>批号</th>
+                            <th>数量</th>
+                            <th>养护类型</th>
+                            <th>操作人</th>
+                            <th>备注</th>
+                        </tr>
+                    </thead>
+                    <tbody id="maintenance-tbody">
+                        <tr><td colspan="9" class="loading-cell">加载中...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- 货架管理页面 -->
+            <div id="page-shelves" class="page">
+                <div class="section-header">
+                    <h3>货架列表</h3>
+                    <button class="btn btn-primary" onclick="showAddShelfModal()">+ 添加货架</button>
+                </div>
+
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>货架编号</th>
+                            <th>描述</th>
+                            <th>创建时间</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="shelves-tbody">
+                        <tr><td colspan="5" class="loading-cell">加载中...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- 移动端入口页面 -->
+            <div id="page-mobile" class="page">
+                <div class="mobile-entrance">
+                    <h2>📱 移动端访问</h2>
+                    <p>请使用手机浏览器扫描下方二维码，或直接在手机浏览器中输入地址访问</p>
+                    
+                    <div class="qr-code-container">
+                        <div id="qrcode"></div>
+                        <p class="qr-url" id="mobile-url"></p>
+                    </div>
+
+                    <div class="mobile-tips">
+                        <h4>使用说明：</h4>
+                        <ol>
+                            <li>确保手机和电脑连接同一WiFi网络</li>
+                            <li>使用手机浏览器扫描二维码</li>
+                            <li>允许浏览器访问摄像头权限</li>
+                            <li>选择货架后开始扫码盘点</li>
+                        </ol>
+                    </div>
+
+                    <div class="network-info">
+                        <h4>网络信息：</h4>
+                        <p id="network-info">检测中...</p>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- 添加货架弹窗 -->
+    <div id="add-shelf-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>添加货架</h3>
+                <button class="modal-close" onclick="closeModal()">×</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label>货架编号</label>
+                    <input type="text" id="new-shelf-name" class="form-input" placeholder="如：A01">
+                </div>
+                <div class="form-group">
+                    <label>描述</label>
+                    <input type="text" id="new-shelf-desc" class="form-input" placeholder="如：口服药货架1">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeModal()">取消</button>
+                <button class="btn btn-primary" onclick="addShelf()">确认添加</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script src="{{ url_for('static', filename='js/admin.js') }}"></script>
+</body>
+</html>

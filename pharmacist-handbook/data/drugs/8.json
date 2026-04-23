@@ -1,0 +1,71 @@
+{
+  "id": 8,
+  "name": "盐酸贝尼地平片",
+  "dosage_form": "片",
+  "full_name": "(乙10%)盐酸贝尼地平片",
+  "chemical_name": "盐酸贝尼地平片",
+  "types": [],
+  "manufacturers": [
+    "Kyowa Kirin Co., Ltd.",
+    "山东华素制药"
+  ],
+  "specifications": [
+    {
+      "specification": "4mg/片",
+      "manufacturer": "山东华素制药",
+      "full_manufacturer": "山东华素制药有限公司",
+      "price": 27.13,
+      "unit": "盒",
+      "code": "X00877",
+      "approval_number": "国药准字H20184010",
+      "insurance_code": "XC08CAB037A001020180517"
+    },
+    {
+      "specification": "8mg/片",
+      "manufacturer": "山东华素制药",
+      "full_manufacturer": "山东华素制药有限公司",
+      "price": 26.9,
+      "unit": "盒",
+      "code": "X00665",
+      "approval_number": "国药准字H20184009",
+      "insurance_code": "XC08CAB037A001030180517"
+    },
+    {
+      "specification": "8mg/片",
+      "manufacturer": "Kyowa Kirin Co., Ltd.",
+      "full_manufacturer": "Kyowa Kirin Co., Ltd.(Kyowa Kirin Co., Ltd. Ube Plant)",
+      "price": 56.84,
+      "unit": "盒",
+      "code": "X00930",
+      "approval_number": "国药准字HJ20170111",
+      "insurance_code": "XC08CAB037A001020100617"
+    }
+  ],
+  "spec_count": 3,
+  "manual": {
+    "indications": "用于高血压和心绞痛。",
+    "dosage": "口服：一次2～4mg，一日1次，早餐后服用。效果不佳时可增至一次8mg，一日1次。高龄患者初始剂量一次2mg，一日1次。重症高血压患者，一次4～8mg，一日1次。",
+    "contraindications": "对本品过敏者，心源性休克禁用，妊娠期妇女及哺乳期妇女禁用。",
+    "adverse_reactions": "不良反应与乐卡地平相似。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "肝脏代谢。",
+    "precautions": "⑴严重肝功能不全者慎用。⑵老年人应从小剂量（一日2mg）开始，并注意观察。⑶停用本品应逐渐减量并注意观察，可因血压过低引起一过性意识消失、眩晕等。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗高血压和心绞痛。",
+    "full_dosage": "口服：一次2～4mg，一日1次，早餐后服用。效果不佳时可增至一次8mg，一日1次。高龄患者初始剂量一次2mg，一日1次。重症高血压患者，一次4～8mg，一日1次。",
+    "full_contraindications": "对本品过敏者，心源性休克禁用，妊娠期妇女及哺乳期妇女禁用。",
+    "full_adverse_reactions": "不良反应与乐卡地平相似。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "⑴药效学：本品为二氢吡啶类钙拮抗药。可舒张血管，能降低血压和增加冠脉流量，作用比硝苯地平强。  <br>⑵药动学：口服后吸收迅速，但生物利用度较低，仅10％左右在肝内代谢，ｔ1/2约2小时。",
+    "full_precautions": "⑴严重肝功能不全者慎用。  <br>⑵老年人应从小剂量（一日2mg）开始，并注意观察。  <br>⑶停用本品应逐渐减量并注意观察，可因血压过低引起一过性意识消失、眩晕等。  <br>⑷可影响驾车和机械操作的能力。"
+  },
+  "pinyin": "yansuanbeinidiping",
+  "pinyin_initials": "ysbndp",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=176",
+    "last_updated": "2026-03-22"
+  }
+}

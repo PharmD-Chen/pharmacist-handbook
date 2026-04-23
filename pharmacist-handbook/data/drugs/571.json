@@ -1,0 +1,54 @@
+{
+  "id": 571,
+  "name": "重组人血管内皮抑制素注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙)重组人血管内皮抑制素注射液",
+  "chemical_name": "重组人血管内皮抑制素注射液",
+  "types": [
+    "乙类"
+  ],
+  "manufacturers": [
+    "山东先声生物制药"
+  ],
+  "specifications": [
+    {
+      "specification": "15mg:3ml/支",
+      "manufacturer": "山东先声生物制药",
+      "full_manufacturer": "山东先声生物制药有限公司",
+      "price": 472.85,
+      "unit": "盒",
+      "code": "X00262",
+      "approval_number": "国药准字S20050088",
+      "insurance_code": "XL01XXC116B002010104184"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于配合化疗治疗不能手术的非小细胞肺癌。本品虽然可以单用但有效率较低，提高剂量也未能提高疗效。与NP方案联合治疗非小细胞肺癌具有协同作用，且不增加NP的",
+    "dosage": "静脉滴注：一次7.5mg/m²，一日1次，用前加入0.9％氯化钠注射液500ml中，匀速滴注3～4小时，连续14日，休息7日，21日为一疗程。通常可治疗2～4个周期。",
+    "contraindications": "症 对本品过敏者禁用。",
+    "adverse_reactions": "。本品与NP联合是一安全、有效的晚期非小细胞肺癌的治疗方案。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "过敏体质或对蛋白类生物制品有过敏者慎用。有严重心脏病或病史者及顽固性高血压患者慎用。心肾功能不全者慎用。 配伍禁忌 不可与可能影响本品酸碱度的其他药物或溶液混合使用。 输液调配 一次用量药物加入0.9%氯化钠注射液500ml中稀释。新鲜调配为无色的澄明液体。本品及用0.9%氯化钠注射液调配的稀释液pH约为5.5。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于配合化疗治疗不能手术的非小细胞肺癌。本品虽然可以单用但有效率较低，提高剂量也未能提高疗效。与NP方案联合治疗非小细胞肺癌具有协同作用，且不增加NP的",
+    "full_dosage": "静脉滴注：一次7.5mg/m²，一日1次，用前加入0.9％氯化钠注射液500ml中，匀速滴注3～4小时，连续14日，休息7日，21日为一疗程。通常可治疗2～4个周期。",
+    "full_contraindications": "症 对本品过敏者禁用。",
+    "full_adverse_reactions": "。本品与NP联合是一安全、有效的晚期非小细胞肺癌的治疗方案。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "过敏体质或对蛋白类生物制品有过敏者慎用。有严重心脏病或病史者及顽固性高血压患者慎用。心肾功能不全者慎用。 配伍禁忌 不可与可能影响本品酸碱度的其他药物或溶液混合使用。 输液调配 一次用量药物加入0.9%氯化钠注射液500ml中稀释。新鲜调配为无色的澄明液体。本品及用0.9%氯化钠注射液调配的稀释液pH约为5.5。",
+    "solvent": "静滴：用0.9%氯化钠注射液稀释"
+  },
+  "pinyin": "※▲chongzurenxueguanneipiyizhisu",
+  "pinyin_initials": "※▲czrxgnpyzs",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3556",
+    "last_updated": "2026-03-21"
+  }
+}

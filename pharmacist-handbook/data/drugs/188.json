@@ -1,0 +1,52 @@
+{
+  "id": 188,
+  "name": "肠内营养乳剂(TPF-D)",
+  "dosage_form": "乳剂",
+  "full_name": "(乙10%)肠内营养乳剂(TPF-D)",
+  "chemical_name": "肠内营养乳剂(TPF-D)",
+  "types": [],
+  "manufacturers": [
+    "费森尤斯卡比华瑞制药"
+  ],
+  "specifications": [
+    {
+      "specification": "500ml/袋",
+      "manufacturer": "费森尤斯卡比华瑞制药",
+      "full_manufacturer": "费森尤斯卡比华瑞制药有限公司",
+      "price": 59.06,
+      "unit": "袋",
+      "code": "Y00000013109",
+      "approval_number": "国药准字H20183301",
+      "insurance_code": "XV01AAC028X010010101415",
+      "location": "1",
+      "outpatient_location": "1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "适用于有糖尿病的患者，或糖耐量不正常合并有营养不良，有肠道功能而又不能正常进食的患者。",
+    "dosage": "口服：一次5片，一日3次。",
+    "contraindications": "症 对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "蒲黄、丹参、地黄、墨旱莲、菊花、黄芩（炭）、决明子、车前子、茺蔚子、女贞子、夏枯草、龙胆、郁金、木贼、赤芍、牡丹皮、当归、川芎。",
+    "precautions": "尚不明确。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情咨询药师或医师。",
+    "source": "湖南药事服务网",
+    "full_indications": "适用于有糖尿病的患者，或糖耐量不正常合并有营养不良，有肠道功能而又不能正常进食的患者。",
+    "full_dosage": "口服：一次5片，一日3次。",
+    "full_contraindications": "症 对本品过敏者禁用。",
+    "full_adverse_reactions": "尚不明确。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "full_pharmacokinetics": "蒲黄、丹参、地黄、墨旱莲、菊花、黄芩（炭）、决明子、车前子、茺蔚子、女贞子、夏枯草、龙胆、郁金、木贼、赤芍、牡丹皮、当归、川芎。",
+    "full_precautions": "尚不明确。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。"
+  },
+  "pinyin": "changneiyingyang",
+  "pinyin_initials": "cnyy",
+  "dosage_form_pinyin": "ruji",
+  "dosage_form_initials": "rj",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=3177",
+    "last_updated": "2026-03-22"
+  }
+}

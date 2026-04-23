@@ -1,0 +1,50 @@
+{
+  "id": 81,
+  "name": "佩索利单抗注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙10%)佩索利单抗注射液",
+  "chemical_name": "佩索利单抗注射液",
+  "types": [],
+  "manufacturers": [
+    "Boehringer Ingelheim International GmbH"
+  ],
+  "specifications": [
+    {
+      "specification": "450mg/瓶",
+      "manufacturer": "Boehringer Ingelheim International GmbH",
+      "full_manufacturer": "Boehringer Ingelheim International GmbH（Boehringer Ingelheim Pharma GmbH & Co. KG）",
+      "price": 13218.0,
+      "unit": "瓶",
+      "code": "X00920",
+      "approval_number": "国药准字SJ20220020",
+      "insurance_code": "XL04ACP147B002010480023"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于成人泛发性脓疱型银屑病（GPP，属皮肤罕见病）的急性发作。",
+    "dosage": "静脉滴注：在90分钟内，通过静脉输液一次性用药900mg。",
+    "contraindications": "对本品或本品中任何赋形剂的严重或危及生命的超敏反应者禁用。",
+    "adverse_reactions": "最常见的不良反应(≥5%）是乏力和乏力、恶心和呕吐、头痛、瘙痒和瘙痒、输液部位血肿和瘀伤以及尿路感染。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "佩索利单抗注射液是一种人源化拮抗性单克隆IgG1抗体，可与IL-36R结合并阻断人IL-36α、IL-36β和IL-36γ诱导的IL-36R活化，从而抑制炎症性皮肤病中的促炎和促纤维化通路。",
+    "precautions": "⑴本品可能会增加感染的风险，因此在临床上有任何的活动性感染期间不要使用。\n⑵结核病患者不要使用。\n⑶不要与本品使用的同时接种活疫苗。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗成人泛发性脓疱型银屑病（GPP，属皮肤罕见病）的急性发作。",
+    "full_dosage": "静脉滴注：在90分钟内，通过静脉输液一次性用药900mg。如果突发症状持续存在，可在初始剂量后一周额外静脉注射900mg（静滴时间不少于90分钟）。<br>皮下注射：",
+    "full_contraindications": "对本品或本品中任何赋形剂的严重或危及生命的超敏反应者禁用。",
+    "full_adverse_reactions": "最常见的不良反应(≥5%）是乏力和乏力、恶心和呕吐、头痛、瘙痒和瘙痒、输液部位血肿和瘀伤以及尿路感染。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "佩索利单抗注射液是一种人源化拮抗性单克隆IgG1抗体，可与IL-36R结合并阻断人IL-36α、IL-36β和IL-36γ诱导的IL-36R活化，从而抑制炎症性皮肤病中的促炎和促纤维化通路。",
+    "full_precautions": "⑴本品可能会增加感染的风险，因此在临床上有任何的活动性感染期间不要使用。<br>⑵结核病患者不要使用。<br>⑶不要与本品使用的同时接种活疫苗。"
+  },
+  "pinyin": "※▲peisuolidankang",
+  "pinyin_initials": "※▲psldk",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=13592",
+    "last_updated": "2026-03-22"
+  }
+}

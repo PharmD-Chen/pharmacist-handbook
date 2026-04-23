@@ -1,0 +1,55 @@
+{
+  "id": 452,
+  "name": "曲安奈德益康唑乳膏",
+  "dosage_form": "乳膏",
+  "full_name": "(甲)曲安奈德益康唑乳膏[国基]",
+  "chemical_name": "曲安奈德益康唑乳膏",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "西安杨森制药"
+  ],
+  "specifications": [
+    {
+      "specification": "15g/支",
+      "manufacturer": "西安杨森制药",
+      "full_manufacturer": "西安杨森制药有限公司",
+      "price": 14.79,
+      "unit": "支",
+      "code": "X00521",
+      "approval_number": "国药准字H20000454",
+      "insurance_code": "XD01ACQ086F002010102529",
+      "location": "G-1",
+      "outpatient_location": "S-3"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "1、伴有真菌感染或有真菌感染倾向的皮炎、湿疹；...",
+    "dosage": "局部外用。一日2次，早晨和晚间取适量轻轻涂抹于患处。治疗皮炎、湿疹，疗程2～4周。治疗炎症性真菌性疾病应持续至炎症反应消退，疗程不超过4周。",
+    "contraindications": "皮肤结核、梅毒、病毒性感染者（如疱疹、牛痘、水痘）或新接种疫苗部位禁用；已知对本品任何成分过敏者禁用。",
+    "adverse_reactions": "局部偶见过敏反应，如出现皮肤烧灼感、瘙痒、针刺感等；长期使用时可出现皮肤萎缩、毛细血管扩张、色素沉着以及继发感染；极罕见的不良反应有用药部位疼痛、用药部位肿胀、超敏性、血管性水肿、接触性皮炎、皮肤剥脱、皮肤纹理异常和红斑。",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品为益康唑和曲安奈德的复合制剂。其药理作用参阅相应的药品项。",
+    "precautions": "",
+    "source": "湖南药事服务网",
+    "full_indications": "1、伴有真菌感染或有真菌感染倾向的皮炎、湿疹；<br>2、有皮肤癣菌、酵母菌和霉菌所致的炎症皮肤真菌病，如手足癣、体癣、花斑癣；<br>3、尿布性皮炎；<br>4、念珠菌性口角炎；<br>5、甲沟炎；<br>6、由真菌、细菌所致的皮肤混合感染。",
+    "full_dosage": "局部外用。一日2次，早晨和晚间取适量轻轻涂抹于患处。治疗皮炎、湿疹，疗程2～4周。治疗炎症性真菌性疾病应持续至炎症反应消退，疗程不超过4周。",
+    "full_contraindications": "皮肤结核、梅毒、病毒性感染者（如疱疹、牛痘、水痘）或新接种疫苗部位禁用；已知对本品任何成分过敏者禁用。",
+    "full_adverse_reactions": "局部偶见过敏反应，如出现皮肤烧灼感、瘙痒、针刺感等；长期使用时可出现皮肤萎缩、毛细血管扩张、色素沉着以及继发感染；极罕见的不良反应有用药部位疼痛、用药部位肿胀、超敏性、血管性水肿、接触性皮炎、皮肤剥脱、皮肤纹理异常和红斑。",
+    "full_interactions": "使用口服抗凝血剂如华法林、香豆素的患者应慎用，并监测抗凝作用。",
+    "full_pharmacokinetics": "本品为益康唑和曲安奈德的复合制剂。其药理作用参阅相应的药品项。",
+    "full_precautions": ""
+  },
+  "pinyin": "quannaideyikangzuo",
+  "pinyin_initials": "qandykz",
+  "dosage_form_pinyin": "rugao",
+  "dosage_form_initials": "rg",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1261",
+    "last_updated": "2026-03-22"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 631,
+  "name": "盐酸精氨酸注射液",
+  "dosage_form": "注射液",
+  "full_name": "(甲)盐酸精氨酸注射液[国基]",
+  "chemical_name": "盐酸精氨酸注射液",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "上海信谊金朱药业"
+  ],
+  "specifications": [
+    {
+      "specification": "5g:20ml/支",
+      "manufacturer": "上海信谊金朱药业",
+      "full_manufacturer": "上海信谊金朱药业有限公司",
+      "price": 6.6,
+      "unit": "支",
+      "code": "X00620",
+      "approval_number": "国药准字H31021692",
+      "insurance_code": "XB05XBJ128B002010200801",
+      "outpatient_location": "H-5",
+      "inpatient_location": "H-5"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于肝性脑病，适用于忌钠的患者，也适用于其他原因引起血氨增高所致的精神症状治疗。",
+    "full_indications": "用于肝性脑病，适用于忌钠的患者，也适用于其他原因引起血氨增高所致的精神症状治疗。",
+    "dosage": "静脉滴注。一次15-20g，临用前用5%葡萄糖注射液1000ml稀释后应用，于4小时内滴完。",
+    "full_dosage": "静脉滴注。一次15-20g，临用前用5%葡萄糖注射液1000ml稀释后应用，于4小时内滴完。",
+    "contraindications": "1.高氯性酸中毒患者禁用；2.肾功能不全及无尿患者禁用。",
+    "full_contraindications": "1.高氯性酸中毒患者禁用；2.肾功能不全及无尿患者禁用。",
+    "adverse_reactions": "1.可引起高氯性酸中毒，以及血中尿素、肌酸、肌酐浓度升高；2.静脉滴注速度过快会引起呕吐、流涎、皮肤潮红等。",
+    "full_adverse_reactions": "1.可引起高氯性酸中毒，以及血中尿素、肌酸、肌酐浓度升高；2.静脉滴注速度过快会引起呕吐、流涎、皮肤潮红等。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "full_interactions": "尚不明确。",
+    "pregnancy_category": "尚不明确。",
+    "pharmacokinetics": "",
+    "precautions": "1.用药期间宜进行血氨监测；2.注意患者的酸碱平衡，监测患者的血气分析；3.滴注速度不宜过快。",
+    "full_precautions": "1.用药期间宜进行血氨监测；2.应注意患者的酸碱平衡，监测患者的血气分析；3.滴注速度不宜过快。",
+    "source": "湖南药事服务网"
+  },
+  "pinyin": "yansuanjingansuan",
+  "pinyin_initials": "ysjas",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=631",
+    "last_updated": "2026-03-21"
+  }
+}

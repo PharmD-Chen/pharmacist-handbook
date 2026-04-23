@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>上海市养志康复医院药品手册（2026版）</title>
+    <script src="js/auth.js"></script>
+    <script src="data/drugs/drugs.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            color: white;
+            padding: 20px;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header h1 {
+            font-size: 20px;
+            margin-bottom: 5px;
+        }
+
+        .header p {
+            font-size: 14px;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .search-box {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 15px;
+            font-size: 16px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            outline: none;
+        }
+
+        .search-box input:focus {
+            border-color: #0E7490;
+        }
+
+        .drug-list {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .drug-item {
+            padding: 15px 20px;
+            border-bottom: 1px solid #eee;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .drug-item:hover {
+            background: #f8f9fa;
+        }
+
+        .drug-item:last-child {
+            border-bottom: none;
+        }
+
+        .drug-name {
+            font-size: 16px;
+            font-weight: 600;
+            color: #0E7490;
+            margin-bottom: 5px;
+        }
+
+        .drug-info {
+            font-size: 14px;
+            color: #666;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #999;
+        }
+
+        /* 固定搜索栏 */
+        .search-bar {
+            position: sticky;
+            top: 75px;
+            background: #f5f5f5;
+            padding: 15px 20px;
+            z-index: 99;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .search-bar-inner {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .search-bar input {
+            width: 100%;
+            padding: 15px 20px;
+            font-size: 16px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            outline: none;
+            background: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        .search-bar input:focus {
+            border-color: #0E7490;
+            box-shadow: 0 2px 15px rgba(14, 116, 144, 0.15);
+        }
+
+        /* 返回按钮 - 简洁文字样式，无底色 */
+        .back-btn {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            background: transparent;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+            font-size: 15px;
+            color: rgba(255,255,255,0.95);
+            z-index: 1001;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            font-weight: 600;
+            text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+            letter-spacing: 0.5px;
+        }
+
+        .back-btn:hover {
+            color: #fff;
+            text-shadow: 0 2px 5px rgba(0,0,0,0.4);
+        }
+
+        @media (max-width: 768px) {
+            .back-btn {
+                top: 10px;
+                left: 10px;
+                padding: 6px 12px;
+                font-size: 13px;
+            }
+
+            .search-bar {
+                top: 65px;
+                padding: 10px 15px;
+            }
+
+            .search-bar input {
+                padding: 12px 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>上海市养志康复医院药品手册</h1>
+        <p>2026版 | 专业药师用药参考系统</p>
+    </div>
+
+    <!-- 固定搜索栏 -->
+    <div class="search-bar">
+        <div class="search-bar-inner">
+            <input type="text" id="searchInput" placeholder="搜索药品名称、拼音或首字母..." oninput="searchDrugs(this.value)">
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="drug-list" id="drugList">
+            <div class="loading">正在加载药品数据...</div>
+        </div>
+    </div>
+
+    <script>
+        // 检查登录状态
+        if (!AuthManager.isLoggedIn()) {
+            window.location.href = 'index.html';
+        }
+
+        // 显示用户信息 - auth.js会自动创建用户栏
+        const user = AuthManager.getCurrentUser();
+        const permissions = AuthManager.getCurrentPermissions();
+
+        // 创建返回按钮
+        const backBtn = document.createElement('a');
+        backBtn.href = 'main.html';
+        backBtn.className = 'back-btn';
+        backBtn.innerHTML = '← 返回首页';
+        document.body.appendChild(backBtn);
+
+        // 药品数据 - 从 drugs.js 加载（不重复声明）
+        // drugIndex 已在 drugs.js 中定义
+
+        // 从localStorage加载缓存的药品数据
+        function loadDrugDataFromCache() {
+            try {
+                const cached = localStorage.getItem('drugIndexCache');
+                if (cached) {
+                    const data = JSON.parse(cached);
+                    if (Array.isArray(data) && data.length > 0) {
+                        drugIndex = data;
+                        displayDrugs(drugIndex.slice(0, 50));
+                        return true;
+                    }
+                }
+            } catch (e) {
+                console.error('Cache load error:', e);
+            }
+            return false;
+        }
+
+        // 保存药品数据到localStorage
+        function saveDrugDataToCache(data) {
+            try {
+                localStorage.setItem('drugIndexCache', JSON.stringify(data));
+                localStorage.setItem('drugIndexCacheTime', Date.now().toString());
+            } catch (e) {
+                console.error('Cache save error:', e);
+            }
+        }
+
+        // 加载药品数据 - 优先使用已嵌入的 drugs.js
+        async function loadDrugData() {
+            console.log('🔄 开始加载药品数据...');
+            
+            // 显示加载状态
+            document.getElementById('drugList').innerHTML = `
+                <div style="padding: 60px; text-align: center;">
+                    <div style="font-size: 48px; margin-bottom: 20px;">⏳</div>
+                    <div style="color: #666; font-size: 16px;">正在加载药品数据...</div>
+                </div>
+            `;
+            
+            // 首先检查 drugs.js 是否已加载
+            if (typeof drugIndex !== 'undefined' && drugIndex.length > 0) {
+                console.log('✅ 使用已嵌入的 drugs.js 数据，共', drugIndex.length, '条');
+                window.drugIndex = drugIndex; // 确保是全局变量
+                displayDrugs(drugIndex.slice(0, 50));
+                return;
+            }
+            
+            // 等待 drugs.js 加载完成（最多10秒）
+            let waitCount = 0;
+            const maxWait = 100; // 10秒
+            while ((typeof drugIndex === 'undefined' || drugIndex.length === 0) && waitCount < maxWait) {
+                await new Promise(resolve => setTimeout(resolve, 100));
+                waitCount++;
+                if (waitCount % 10 === 0) {
+                    console.log(`⏳ 等待 drugs.js 加载... (${waitCount * 100}ms)`);
+                }
+            }
+            
+            if (typeof drugIndex !== 'undefined' && drugIndex.length > 0) {
+                console.log('✅ drugs.js 加载完成，共', drugIndex.length, '条');
+                window.drugIndex = drugIndex;
+                displayDrugs(drugIndex.slice(0, 50));
+                return;
+            }
+            
+            // 如果 drugs.js 没有加载，显示错误
+            console.error('❌ drugs.js 未能加载，typeof drugIndex:', typeof drugIndex);
+            document.getElementById('drugList').innerHTML = `
+                <div style="padding: 40px; text-align: center;">
+                    <div style="font-size: 48px; margin-bottom: 15px;">⚠️</div>
+                    <div style="color: #666; font-size: 16px; margin-bottom: 20px;">
+                        药品数据加载失败
+                    </div>
+                    <div style="color: #999; font-size: 14px; margin-bottom: 25px;">
+                        可能原因：数据文件未能正确加载<br>
+                        请确保 data/drugs/drugs.js 文件存在<br>
+                        <small>（drugIndex 类型: ${typeof drugIndex}）</small>
+                    </div>
+                    <button onclick="location.reload(true)" style="
+                        padding: 12px 30px;
+                        background: #0E7490;
+                        color: white;
+                        border: none;
+                        border-radius: 25px;
+                        cursor: pointer;
+                        font-size: 15px;
+                        margin-right: 10px;
+                    ">刷新页面</button>
+                    <a href="main.html" style="
+                        padding: 12px 30px;
+                        background: #f5f5f5;
+                        color: #666;
+                        text-decoration: none;
+                        border-radius: 25px;
+                        font-size: 15px;
+                        display: inline-block;
+                    ">返回首页</a>
+                </div>
+            `;
+        }
+
+        // 后台刷新药品数据
+        async function refreshDrugDataInBackground() {
+            try {
+                // 尝试加载轻量级文件
+                let response = await fetch('data/drugs/drugs_lite.js');
+                
+                if (!response.ok) {
+                    response = await fetch('data/drugs/drugs.js');
+                }
+                
+                if (!response.ok) return;
+
+                const jsContent = await response.text();
+                const extractData = new Function(jsContent + '; return drugIndexLite || drugIndex;');
+                const newData = extractData();
+
+                if (Array.isArray(newData) && newData.length > 0) {
+                    saveDrugDataToCache(newData);
+                    console.log('Drug data refreshed in background');
+                }
+            } catch (e) {
+                console.error('Background refresh failed:', e);
+            }
+        }
+
+        // 显示药品列表
+        function displayDrugs(drugs) {
+            const list = document.getElementById('drugList');
+
+            if (drugs.length === 0) {
+                list.innerHTML = '<div class="loading">没有找到匹配的药品</div>';
+                return;
+            }
+
+            list.innerHTML = drugs.map(drug => `
+                <div class="drug-item" data-drug-id="${drug.id}">
+                    <div class="drug-name">${drug.name}</div>
+                    <div class="drug-info">
+                        ${drug.dosage_form} | ${drug.manufacturers?.[0] || '未知厂家'}
+                    </div>
+                </div>
+            `).join('');
+
+            // 使用事件委托绑定点击事件
+            list.querySelectorAll('.drug-item').forEach(item => {
+                item.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    const drugId = parseInt(this.getAttribute('data-drug-id'));
+                    console.log('Drug item clicked, id:', drugId);
+                    showDrugDetail(drugId);
+                });
+            });
+        }
+
+        // 搜索药品
+        function searchDrugs(keyword) {
+            if (!keyword.trim()) {
+                displayDrugs(drugIndex.slice(0, 50));
+                return;
+            }
+
+            const lowerKeyword = keyword.toLowerCase();
+            const results = drugIndex.filter(drug =>
+                drug.name.toLowerCase().includes(lowerKeyword) ||
+                (drug.pinyin && drug.pinyin.toLowerCase().includes(lowerKeyword)) ||
+                (drug.pinyin_initials && drug.pinyin_initials.toLowerCase().includes(lowerKeyword))
+            );
+
+            displayDrugs(results.slice(0, 50));
+        }
+
+        // 显示药品详情
+        async function showDrugDetail(drugId) {
+            console.log('[showDrugDetail] called with drugId:', drugId);
+
+            // 从已加载的 drugIndex 中查找药品详情
+            const drug = drugIndex.find(d => d.id === drugId);
+
+            if (!drug) {
+                console.error('[showDrugDetail] Drug not found:', drugId);
+                alert('未找到该药品信息');
+                return;
+            }
+
+            console.log('[showDrugDetail] Found drug:', drug.name);
+
+            const permissions = AuthManager.getCurrentPermissions();
+            const manual = drug.manual || {};
+
+            // 根据权限决定显示精简版还是完整版
+            const isFullVersion = AuthManager.canView('full_manual');
+
+            // 获取第一个规格的信息
+            const spec = drug.specifications?.[0] || {};
+            
+            let detailHtml = `
+                <h2 style="color: #0E7490; margin-bottom: 20px; padding-right: 30px;">${drug.name}</h2>
+            `;
+            
+            // 黑框警告 - 放在药品名称之后，最前面，加框、字体加大
+            if (manual.black_box_warning) {
+                detailHtml += `
+                    <div style="margin: 20px 0; padding: 20px; border: 3px solid #dc3545; border-radius: 8px; background: #fff5f5;">
+                        <div style="color: #dc3545; font-size: 20px; font-weight: bold; margin-bottom: 12px;">⚠️ 黑框警告</div>
+                        <div style="color: #333; font-size: 16px; line-height: 1.8; white-space: pre-wrap;">${manual.black_box_warning}</div>
+                    </div>
+                `;
+            }
+            
+            detailHtml += `
+                <!-- 基本信息 - 字体缩小 -->
+                <div style="background: #f8f9fa; padding: 12px 15px; border-radius: 8px; margin-bottom: 20px; font-size: 13px;">
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #666;">剂型：</span>
+                        <span style="font-weight: 500;">${drug.dosage_form || '未知'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #666;">规格：</span>
+                        <span style="font-weight: 500;">${spec.specification || '未知'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #666;">厂家：</span>
+                        <span style="font-weight: 500;">${spec.full_manufacturer || drug.manufacturers?.join(', ') || '未知'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #666;">批准文号：</span>
+                        <span style="font-weight: 500;">${spec.approval_number || '未知'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #666;">价格：</span>
+                        <span style="font-weight: 500;">${spec.price ? spec.price + ' 元/' + (spec.unit || '盒') : '未知'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #666;">医保编码：</span>
+                        <span style="font-weight: 500;">${spec.insurance_code || '未知'}</span>
+                    </div>
+                    <div style="margin-bottom: 0;">
+                        <span style="color: #666;">存放位置：</span>
+                        <span style="font-weight: 500;">${spec.location || '未知'}</span>
+                        ${spec.outpatient_location ? `<span style="color: #999; font-size: 11px;">（门诊：${spec.outpatient_location}）</span>` : ''}
+                    </div>
+                </div>
+            `;
+
+            // 根据权限显示内容
+            if (AuthManager.canView('dosage_info')) {
+                // 用法用量 - 精简版/完整版
+                if (isFullVersion && manual.full_dosage) {
+                    detailHtml += createDetailSection('用法用量', manual.full_dosage);
+                } else if (manual.dosage) {
+                    detailHtml += createDetailSection('用法用量', manual.dosage);
+                }
+
+                // 溶媒选择
+                if (manual.solvent) {
+                    detailHtml += createDetailSection('溶媒选择', manual.solvent);
+                }
+            }
+
+            if (isFullVersion) {
+
+                // 适应症 - 完整版
+                if (manual.full_indications) {
+                    detailHtml += createDetailSection('适应症', manual.full_indications);
+                } else if (manual.indications) {
+                    detailHtml += createDetailSection('适应症', manual.indications);
+                }
+
+                // 禁忌症 - 完整版
+                if (manual.full_contraindications) {
+                    detailHtml += createDetailSection('禁忌症', manual.full_contraindications);
+                } else if (manual.contraindications) {
+                    detailHtml += createDetailSection('禁忌症', manual.contraindications);
+                }
+
+                // 不良反应 - 完整版
+                if (manual.full_adverse_reactions) {
+                    detailHtml += createDetailSection('不良反应', manual.full_adverse_reactions);
+                } else if (manual.adverse_reactions) {
+                    detailHtml += createDetailSection('不良反应', manual.adverse_reactions);
+                }
+
+                // 药物相互作用 - 完整版
+                if (manual.full_interactions) {
+                    detailHtml += createDetailSection('药物相互作用', manual.full_interactions);
+                } else if (manual.interactions) {
+                    detailHtml += createDetailSection('药物相互作用', manual.interactions);
+                }
+
+                // 注意事项 - 完整版
+                if (manual.full_precautions) {
+                    detailHtml += createDetailSection('注意事项', manual.full_precautions);
+                } else if (manual.precautions) {
+                    detailHtml += createDetailSection('注意事项', manual.precautions);
+                }
+
+                // 妊娠分级
+                if (manual.full_pregnancy_category || manual.pregnancy_category) {
+                    detailHtml += createDetailSection('妊娠分级', manual.full_pregnancy_category || manual.pregnancy_category);
+                }
+
+                // 药理作用 - 完整版
+                if (manual.full_pharmacodynamics) {
+                    detailHtml += createDetailSection('药理作用', manual.full_pharmacodynamics);
+                } else if (manual.pharmacodynamics) {
+                    detailHtml += createDetailSection('药理作用', manual.pharmacodynamics);
+                }
+
+                // 药代动力学
+                if (manual.full_pharmacokinetics) {
+                    detailHtml += createDetailSection('药代动力学', manual.full_pharmacokinetics);
+                } else if (manual.pharmacokinetics) {
+                    detailHtml += createDetailSection('药代动力学', manual.pharmacokinetics);
+                }
+            }
+
+            // 创建弹窗显示详情
+            const modal = document.createElement('div');
+            modal.style.cssText = `
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0,0,0,0.5);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                z-index: 2000;
+                padding: 20px;
+            `;
+            modal.innerHTML = `
+                <div style="
+                    background: white;
+                    border-radius: 10px;
+                    max-width: 700px;
+                    max-height: 85vh;
+                    overflow-y: auto;
+                    padding: 25px;
+                    position: relative;
+                    width: 100%;
+                ">
+                    <button onclick="this.parentElement.parentElement.remove()" style="
+                        position: absolute;
+                        top: 15px;
+                        right: 15px;
+                        background: none;
+                        border: none;
+                        font-size: 24px;
+                        cursor: pointer;
+                        color: #666;
+                    ">✕</button>
+                    ${detailHtml}
+                </div>
+            `;
+            modal.onclick = (e) => {
+                if (e.target === modal) modal.remove();
+            };
+            document.body.appendChild(modal);
+            console.log('[showDrugDetail] Modal appended to body');
+        }
+
+        // 创建详情章节 - 主体内容字体加大
+        function createDetailSection(title, content, titleColor = '#0E7490') {
+            return `
+                <div style="margin-top: 20px; padding-top: 15px; border-top: 1px solid #eee;">
+                    <h3 style="color: ${titleColor}; font-size: 18px; margin-bottom: 12px; font-weight: 600;">${title}</h3>
+                    <div style="color: #333; line-height: 1.8; font-size: 15px; white-space: pre-wrap;">${content}</div>
+                </div>
+            `;
+        }
+
+        // 岗位手册：工作流程指引
+        function showWorkflowGuide() {
+            const content = `
+                <h2 style="color: #0E7490; margin-bottom: 20px;">药房工作流程指引</h2>
+
+                <div style="margin-bottom: 20px;">
+                    <h3 style="color: #333; margin-bottom: 10px;">一、处方审核流程</h3>
+                    <ol style="line-height: 2; margin-left: 20px;">
+                        <li>接收处方，核对患者基本信息</li>
+                        <li>审核处方合法性（医师签名、日期等）</li>
+                        <li>审核用药适宜性（适应症、禁忌症、相互作用等）</li>
+                        <li>审核用法用量合理性</li>
+                        <li>如有问题，及时与医师沟通</li>
+                        <li>审核通过后，进入调配流程</li>
+                    </ol>
+                </div>
+
+                <div style="margin-bottom: 20px;">
+                    <h3 style="color: #333; margin-bottom: 10px;">二、药品调配流程</h3>
+                    <ol style="line-height: 2; margin-left: 20px;">
+                        <li>按处方顺序逐一调配药品</li>
+                        <li>核对药品名称、规格、数量</li>
+                        <li>检查药品有效期和外观质量</li>
+                        <li>特殊药品按相关规定处理</li>
+                        <li>调配完成后，双人核对</li>
+                    </ol>
+                </div>
+
+                <div style="margin-bottom: 20px;">
+                    <h3 style="color: #333; margin-bottom: 10px;">三、发药核对流程</h3>
+                    <ol style="line-height: 2; margin-left: 20px;">
+                        <li>呼叫患者姓名，核对身份信息</li>
+                        <li>逐一核对药品与处方</li>
+                        <li>向患者交代用法用量</li>
+                        <li>交代注意事项和储存条件</li>
+                        <li>解答患者用药疑问</li>
+                        <li>患者确认无误后，完成发药</li>
+                    </ol>
+                </div>
+
+                <div style="background: #e3f2fd; padding: 15px; border-radius: 8px; margin-top: 20px;">
+                    <strong>💡 提示：</strong>严格按照"四查十对"原则执行，确保用药安全。
+                </div>
+            `;
+            showModal('工作流程指引', content);
+        }
+
+        // 岗位手册：处方审核规范
+        function showDispensingGuide() {
+            const content = `
+                <h2 style="color: #0E7490; margin-bottom: 20px;">处方审核规范</h2>
+
+                <div style="margin-bottom: 20px;">
+                    <h3 style="color: #333; margin-bottom: 10px;">一、处方合法性审核</h3>
+                    <ul style="line-height: 2; margin-left: 20px;">
+                        <li>处方医师是否具有处方权</li>
+                        <li>处方签名是否清晰可辨</li>
+                        <li>处方日期是否在有效期内</li>
+                        <li>处方格式是否符合规范</li>
+                    </ul>
+                </div>
+
+                <div style="margin-bottom: 20px;">
+                    <h3 style="color: #333; margin-bottom: 10px;">二、用药适宜性审核</h3>
+                    <ul style="line-height: 2; margin-left: 20px;">
+                        <li>药品选择是否符合适应症</li>
+                        <li>是否存在禁忌症</li>
+                        <li>用法用量是否合理</li>
+                        <li>给药途径是否正确</li>
+                        <li>是否存在药物相互作用</li>
+                        <li>重复用药情况</li>
+                    </ul>
+                </div>
+
+                <div style="margin-bottom: 20px;">
+                    <h3 style="color: #333; margin-bottom: 10px;">三、特殊人群用药审核</h3>
+                    <ul style="line-height: 2; margin-left: 20px;">
+                        <li>妊娠期、哺乳期妇女用药安全性</li>
+                        <li>儿童用药剂量适宜性</li>
+                        <li>老年人用药风险评估</li>
+                        <li>肝肾功能不全患者剂量调整</li>
+                    </ul>
+                </div>
+
+                <div style="background: #fff3e0; padding: 15px; border-radius: 8px; margin-top: 20px;">
+                    <strong>⚠️ 注意：</strong>发现处方存在问题时，应及时与开方医师沟通，不得擅自更改处方。
+                </div>
+            `;
+            showModal('处方审核规范', content);
+        }
+
+        // 岗位手册：用药咨询指南
+        function showConsultationGuide() {
+            const content = `
+                <h2 style="color: #0E7490; margin-bottom: 20px;">用药咨询指南</h2>
+
+                <div style="margin-bottom: 20px;">
+                    <h3 style="color: #333; margin-bottom: 10px;">一、咨询接待规范</h3>
+                    <ul style="line-height: 2; margin-left: 20px;">
+                        <li>主动问候，态度和蔼</li>
+                        <li>耐心倾听患者问题</li>
+                        <li>使用通俗易懂的语言</li>
+                        <li>保护患者隐私</li>
+                    </ul>
+                </div>
+
+                <div style="margin-bottom: 20px;">
+                    <h3 style="color: #333; margin-bottom: 10px;">二、常见咨询内容</h3>
+                    <ul style="line-height: 2; margin-left: 20px;">
+                        <li>药品用法用量说明</li>
+                        <li>服药时间指导（餐前/餐后）</li>
+                        <li>药品储存条件</li>
+                        <li>常见不良反应及处理</li>
+                        <li>药物与食物的相互作用</li>
+                        <li>漏服药物的处理方法</li>
+                    </ul>
+                </div>
+
+                <div style="margin-bottom: 20px;">
+                    <h3 style="color: #333; margin-bottom: 10px;">三、咨询记录要求</h3>
+                    <ul style="line-height: 2; margin-left: 20px;">
+                        <li>记录咨询时间和患者信息</li>
+                        <li>记录咨询问题和解答内容</li>
+                        <li>复杂问题应向上级药师请教</li>
+                        <li>必要时建议患者就医</li>
+                    </ul>
+                </div>
+
+                <div style="background: #e8f5e9; padding: 15px; border-radius: 8px; margin-top: 20px;">
+                    <strong>✅ 原则：</strong>以患者为中心，提供专业、准确、贴心的药学服务。
+                </div>
+            `;
+            showModal('用药咨询指南', content);
+        }
+
+        // 通用弹窗显示函数
+        function showModal(title, content) {
+            const modal = document.createElement('div');
+            modal.style.cssText = `
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0,0,0,0.5);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                z-index: 2000;
+                padding: 20px;
+            `;
+            modal.innerHTML = `
+                <div style="
+                    background: white;
+                    border-radius: 10px;
+                    max-width: 800px;
+                    max-height: 85vh;
+                    overflow-y: auto;
+                    padding: 25px;
+                    position: relative;
+                    width: 100%;
+                ">
+                    <button onclick="this.parentElement.parentElement.remove()" style="
+                        position: absolute;
+                        top: 15px;
+                        right: 15px;
+                        background: none;
+                        border: none;
+                        font-size: 24px;
+                        cursor: pointer;
+                        color: #666;
+                    ">✕</button>
+                    ${content}
+                </div>
+            `;
+            modal.onclick = (e) => {
+                if (e.target === modal) modal.remove();
+            };
+            document.body.appendChild(modal);
+        }
+
+        // 页面加载完成后初始化
+        document.addEventListener('DOMContentLoaded', loadDrugData);
+    </script>
+</body>
+</html>

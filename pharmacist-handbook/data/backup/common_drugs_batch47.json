@@ -1,0 +1,173 @@
+[
+  {
+    "name": "复合磷酸氢钾",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "用于<strong>低磷血症的预防和治疗</strong>；<strong>作为全胃肠外营养疗法中磷的补充剂</strong>；<strong>用于急性或慢性低磷血症</strong>。",
+      "dosage": "静脉滴注。<strong>成人每日应用磷计算310mg(10mmol)</strong>；<strong>小儿按体重每日31-62mg/kg(1-2mmol/kg)</strong>。应根据病情及临床检验结果调整剂量。",
+      "contraindications": "高磷血症患者禁用；高钾血症患者禁用；肾功能不全患者禁用。",
+      "adverse_reactions": "常见<strong>高磷血症、高钾血症</strong>；可能出现<strong>恶心、呕吐、腹泻</strong>等胃肠道反应；静脉注射过快可引起<strong>低钙血症、手足抽搐</strong>。",
+      "interactions": "与含钙药物合用可能产生沉淀；与洋地黄类药物合用增加心律失常风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "磷是细胞内重要的阴离子，参与能量代谢、骨代谢等多种生理过程。静脉给药后迅速分布到细胞内。",
+      "precautions": "用药期间应监测血磷、血钾、血钙水平；静脉滴注速度不宜过快；2025版医保甲类，限注射剂。",
+      "solvent": "用5%葡萄糖注射液或0.9%氯化钠注射液稀释后静脉滴注",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "醋酸甲地孕酮分散",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>治疗月经不调、功能性子宫出血、子宫内膜异位症</strong>；<strong>用于乳腺癌的姑息治疗</strong>；<strong>用于子宫内膜腺癌</strong>；<strong>可作为复方短效避孕片的孕激素成分</strong>。",
+      "dosage": "口服。<strong>治疗闭经：一次4mg，一日2-3次，连服2-3日，停药2-7日即有撤退性出血</strong>；<strong>治疗功能性出血：一次4mg，每8小时1次，每3日减量一次，减量不超过原剂量的1/2</strong>；<strong>治疗乳腺癌：一次40mg，一日4次</strong>；<strong>治疗子宫内膜癌：一次10-80mg，一日4次</strong>。",
+      "contraindications": "对本品过敏者禁用；严重肝、肾功能不全者禁用；乳房肿块者禁用；孕妇禁用；伴有严重血栓性静脉炎、血栓栓塞性疾病患者禁用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、水肿、体重增加</strong>；可见<strong>突破性出血、月经改变</strong>；长期使用可能出现<strong>血栓栓塞、肝功能异常</strong>。",
+      "interactions": "与利福平合用降低药效；与抗凝药合用可能减弱抗凝效果。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为孕激素类药物，对垂体促性腺激素的释放有一定的抑制作用，具有明显的抗雌激素作用。口服后生物半衰期较短，大部分代谢产物以葡萄糖醛酸酯形式排出。",
+      "precautions": "有子宫肌瘤、血栓病史及高血压、糖尿病、哮喘病、癫痫、偏头痛、精神抑郁患者慎用；长期用药注意检查肝功能、乳房检查；2025版医保甲类，限口服常释剂型。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸氢吗啡酮",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>适用于其他镇痛药无效的急性锐痛和重度疼痛的成人患者</strong>，如<strong>严重创伤、战伤、烧伤、晚期癌症等疼痛</strong>。",
+      "dosage": "皮下注射、肌内注射或静脉注射。<strong>成人常用剂量为每次1-2mg，每4-6小时一次</strong>；<strong>剂量应根据患者疼痛程度和反应个体化调整</strong>。",
+      "contraindications": "对本品过敏者禁用；呼吸抑制患者禁用；支气管哮喘患者禁用；麻痹性肠梗阻患者禁用；急性或严重支气管哮喘患者禁用。",
+      "adverse_reactions": "常见<strong>便秘、恶心、呕吐、食欲减退、头晕、乏力、排尿困难</strong>；可见<strong>瘙痒、心悸、呼吸抑制</strong>；连用3-5天即产生耐药性，1周以上可成瘾。",
+      "interactions": "与中枢神经抑制药合用增强抑制作用；与抗胆碱药合用增加便秘和尿潴留风险。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为半合成吗啡衍生物，主要作用于μ受体，等剂量下其镇痛作用比吗啡强5-10倍，起效较吗啡快，持续时间较短。消除半衰期为1.7-3小时，蛋白结合率26%-36%。主要在肝脏代谢，主要经肾脏排出。",
+      "precautions": "本品为麻醉药品，应严格按麻醉药品管理；急性中毒的主要症状为昏迷、呼吸深度抑制、瞳孔极度缩小、血压下降、发绀；2025版医保乙类10%，限注射剂。",
+      "solvent": "皮下注射、肌内注射或静脉注射，无需稀释",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "盐酸曲马多",
+    "dosage_form": "缓释片",
+    "manual": {
+      "indications": "用于<strong>中度至重度疼痛</strong>，如<strong>手术后疼痛、癌症疼痛、慢性疼痛</strong>等。",
+      "dosage": "口服。<strong>成人及14岁以上青少年：起始剂量为50-100mg，每12小时一次</strong>；<strong>根据疼痛程度可逐渐增加剂量，最大日剂量不超过400mg</strong>。",
+      "contraindications": "对本品过敏者禁用；酒精、安眠药、镇痛药或其他精神药物急性中毒者禁用；严重呼吸抑制患者禁用；严重脑损伤患者禁用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、便秘、头晕、嗜睡、头痛</strong>；可见<strong>出汗、口干、疲劳</strong>；偶见<strong>心悸、低血压、过敏反应</strong>。",
+      "interactions": "与中枢神经抑制药合用增强抑制作用；与MAOI合用增加惊厥风险；与卡马西平合用降低曲马多血药浓度。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为中枢性镇痛药，具有阿片样作用和非阿片样作用。口服后几乎完全吸收，生物利用度约70%。主要经肝脏代谢，代谢产物经肾脏排出。",
+      "precautions": "癫痫患者慎用；肝肾功能不全者应减量；有成瘾性，长期使用需谨慎；2025版医保甲类，限口服常释剂型和缓释控释剂型。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "静注人免疫球蛋白",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "用于<strong>原发性免疫球蛋白缺乏症</strong>，如X联锁低免疫球蛋白血症、常见变异性免疫缺陷病、免疫球蛋白G亚型缺陷病等；<strong>继发性免疫球蛋白缺陷病</strong>，如重症感染、新生儿败血症等；<strong>自身免疫性疾病</strong>，如原发性血小板减少性紫癜、川崎病等。",
+      "dosage": "静脉滴注。<strong>原发性免疫球蛋白缺乏或替代疗法：每次200-400mg/kg，每3-4周一次</strong>；<strong>原发性血小板减少性紫癜：每日400mg/kg，连用5日</strong>；<strong>川崎病：发病10日内使用，每日2g/kg，单次静脉滴注</strong>。",
+      "contraindications": "对人免疫球蛋白过敏或有其他严重过敏史者禁用；有抗IgA抗体的选择性IgA缺乏者禁用。",
+      "adverse_reactions": "常见<strong>头痛、寒战、发热、肌肉疼痛、乏力</strong>；少数患者可能出现<strong>过敏反应</strong>，严重者可出现过敏性休克；<strong>无菌性脑膜炎综合征</strong>；<strong>急性肾功能衰竭</strong>。",
+      "interactions": "与活疫苗合用可能降低疫苗效果；与免疫抑制药合用可能减弱药效。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为生物制品，由健康人血浆提取制成，含有广谱抗病毒、细菌或其他病原体的IgG抗体。静脉输注后迅速分布到血管内和血管外间隙。",
+      "precautions": "个别患者在输注时出现一过性头痛、心慌、恶心等反应，可能与输注速度过快或个体差异有关；输注时应缓慢，开始15分钟宜慢；2025版医保乙类10%，限注射剂。",
+      "solvent": "用5%葡萄糖注射液或注射用水溶解后静脉滴注",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "酒石酸托特罗定",
+    "dosage_form": "缓释片",
+    "manual": {
+      "indications": "用于<strong>因膀胱过度兴奋引起的尿频、尿急或急迫性尿失禁</strong>等症状的治疗。",
+      "dosage": "口服。<strong>成人推荐剂量为一次4mg，一日1次</strong>；<strong>根据疗效和耐受性，剂量可减至一次2mg，一日1次</strong>。",
+      "contraindications": "对本品过敏者禁用；尿潴留患者禁用；胃潴留患者禁用；未控制的窄角型青光眼患者禁用；重症肌无力患者禁用；严重溃疡性结肠炎患者禁用；中毒性巨结肠患者禁用。",
+      "adverse_reactions": "常见<strong>口干、便秘、头痛、消化不良</strong>；可见<strong>眼干、嗜睡、视力模糊</strong>；偶见<strong>尿潴留、心动过速</strong>。",
+      "interactions": "与其他抗胆碱药合用增加不良反应；与CYP3A4抑制剂合用增加血药浓度；与氟西汀合用增加不良反应。",
+      "pregnancy_category": "C",
+      "pharmacokinetics": "为竞争性的M胆碱能受体阻滞剂，对膀胱的选择性高于唾液腺。主要作用于膀胱壁和逼尿肌上的M受体，竞争性抑制乙酰胆碱与M受体结合，从而抑制膀胱逼尿肌的不自主收缩。口服吸收率大于77%，主要经肝脏代谢。",
+      "precautions": "肝功能不全者应减量；肾功能不全者慎用；可能引起视力模糊，驾驶或操作机械时需注意；2025版医保乙类，限口服常释剂型和缓释控释剂型。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "玻璃酸钠",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "用于<strong>膝关节骨关节炎</strong>、<strong>肩关节周围炎</strong>等关节疾病；<strong>作为关节内润滑剂和保护剂</strong>。",
+      "dosage": "关节腔内注射。<strong>膝关节骨关节炎：每次2.5ml(25mg)，每周1次，连续5次为一疗程</strong>；<strong>肩关节周围炎：每次2.5ml(25mg)，每周1次，连续5次为一疗程</strong>。",
+      "contraindications": "对本品过敏者禁用；关节感染或皮肤感染者禁用；关节严重肿胀或关节腔内有游离体者禁用。",
+      "adverse_reactions": "注射部位可能出现<strong>疼痛、肿胀、发热</strong>；偶见<strong>过敏反应、皮疹</strong>；关节腔内注射后可能出现<strong>关节积液</strong>。",
+      "interactions": "与非甾体抗炎药合用可能增加胃肠道不良反应；与抗凝药合用可能增加出血风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "为关节滑液的主要成分，也是软骨基质的成分之一。关节腔内注射后可覆盖和保护关节组织表面，抑制炎症反应，改善关节功能。",
+      "precautions": "注射时应严格无菌操作；注射后24小时内避免剧烈运动；注射后可能出现短暂疼痛加重，一般1-2天自行缓解；2025版医保甲类，限注射剂。",
+      "solvent": "关节腔内注射，无需稀释",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "注射用泮托拉唑钠",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "用于<strong>消化性溃疡出血</strong>；<strong>非甾体类抗炎药引起的急性胃黏膜损伤和应激性溃疡出血</strong>；<strong>全身麻醉或大手术后以及衰弱昏迷患者防止胃酸反流合并吸入性肺炎</strong>。",
+      "dosage": "静脉滴注。<strong>一次40-80mg，每日1-2次</strong>；<strong>临用前将10ml 0.9%氯化钠注射液注入冻干粉小瓶内，将溶解后的药液加入0.9%氯化钠注射液100ml中稀释后供静脉滴注</strong>；<strong>要求在15-60分钟内滴完</strong>。",
+      "contraindications": "对本品过敏者禁用；孕妇及哺乳期妇女禁用；婴幼儿禁用。",
+      "adverse_reactions": "常见<strong>头痛、头晕、失眠、恶心、腹泻、便秘、腹胀</strong>；偶见<strong>皮疹、瘙痒、肝功能异常</strong>；长期使用可能出现<strong>低镁血症、骨折风险增加、艰难梭菌相关性腹泻</strong>。",
+      "interactions": "与氯吡格雷合用可能减弱抗血小板作用；与酮康唑合用降低酮康唑吸收；与甲氨蝶呤合用增加甲氨蝶呤毒性。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "为质子泵抑制剂，特异性地作用于胃黏膜壁细胞，降低壁细胞中的H+-K+-ATP酶的活性，从而抑制胃酸分泌。静脉给药后起效快，作用持久。",
+      "precautions": "本品抑制胃酸分泌作用强，时间长，故应用本品时不宜同时再服用其他抗酸剂或抑酸剂；肾功能受损者不须调整剂量；肝功能受损者需要酌情减量；2025版医保乙类，限口服常释剂型和注射剂。",
+      "solvent": "用0.9%氯化钠注射液溶解稀释后静脉滴注",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "己酮可可碱",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "临床主要用于<strong>缺血性脑卒中后脑循环改善</strong>；亦可用于<strong>周围血管病，如伴有间歇性跛行的慢性闭塞性脉管炎</strong>等。",
+      "dosage": "静脉滴注。<strong>一次100-400mg，溶于250-500ml 5%葡萄糖注射液或0.9%氯化钠注射液中，每日1-2次</strong>；<strong>最大日剂量不超过1200mg</strong>。",
+      "contraindications": "对本品过敏者禁用；急性心肌梗死患者禁用；严重冠状动脉硬化患者禁用；严重高血压患者禁用；孕妇禁用。",
+      "adverse_reactions": "常见<strong>恶心、呕吐、腹胀、头晕、头痛、面部潮红</strong>；偶见<strong>心悸、心绞痛、肝功能异常</strong>；罕见<strong>出血倾向、血小板减少</strong>。",
+      "interactions": "与抗血小板药或抗凝药合用增加出血风险；与茶碱合用增加茶碱血药浓度；与降压药合用增强降压作用。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "及其活性代谢产物可改善红细胞的变形能力、抑制血小板黏附和聚集，从而降低血粘度、改善微循环。口服吸收快，有首关消除，在肝脏迅速代谢。",
+      "precautions": "有出血倾向者慎用；肝肾功能不全者应减量；低血压患者慎用；2025版医保乙类，限口服常释剂型、缓释控释剂型和注射剂。",
+      "solvent": "用5%葡萄糖注射液或0.9%氯化钠注射液250-500ml稀释后静脉滴注",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "曲克芦丁",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "用于<strong>闭塞综合征、血栓性静脉炎、毛细血管出血</strong>等；<strong>用于血管通透性升高引起的水肿</strong>。",
+      "dosage": "口服。<strong>一次120-180mg，一日3次</strong>；或遵医嘱。",
+      "contraindications": "对本品过敏者禁用。",
+      "adverse_reactions": "偶见<strong>胃肠道反应、过敏反应</strong>；个别患者可能出现<strong>头晕、头痛</strong>。",
+      "interactions": "与其他抗凝药合用可能增加出血风险。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "能抑制血小板的聚集，有防止血栓形成的作用。同时能对抗5-羟色胺、缓激肽引起的血管损伤，增加毛细血管抵抗力，降低毛细血管通透性，可防止血管通透性升高引起的水肿。",
+      "precautions": "服药期间应避免阳光直射、高温及过久站立；2025版医保甲类，限口服常释剂型。",
+      "source": "湖南药事服务网"
+    }
+  },
+  {
+    "name": "双氯芬酸二乙胺乳胶剂",
+    "dosage_form": "其他",
+    "manual": {
+      "indications": "用于<strong>缓解肌肉、软组织和关节的轻至中度疼痛</strong>，如<strong>缓解肌肉、软组织的扭伤、拉伤、挫伤、劳损、腰背部损伤引起的疼痛以及关节疼痛</strong>等。",
+      "dosage": "外用。<strong>根据疼痛部位大小，使用本品适量，轻轻揉搓，一日3-4次</strong>；<strong>最大日剂量不超过8g</strong>。",
+      "contraindications": "对本品及其他非甾体抗炎药过敏者禁用；对丙二醇过敏者禁用；皮肤破损处禁用；感染性创口禁用。",
+      "adverse_reactions": "局部可能出现<strong>瘙痒、皮疹、红斑、灼热感</strong>；偶见<strong>过敏反应、皮肤刺激</strong>；长期大面积使用可能出现<strong>全身性不良反应</strong>。",
+      "interactions": "与其他非甾体抗炎药合用可能增加不良反应；与抗凝药合用可能增加出血风险。",
+      "pregnancy_category": "C",
+      "pharmacokinetics": "为前列腺素合成抑制剂，具有抗炎、镇痛作用。局部应用，其有效成份可穿透皮肤达到炎症区域，缓解急、慢性炎症反应。",
+      "precautions": "避免接触眼睛和黏膜；仅供外用，不可口服；12岁以下儿童应在医师指导下使用；不得用于破损皮肤或感染性创口；2025版医保甲类，限乳胶剂。",
+      "source": "湖南药事服务网"
+    }
+  }
+]

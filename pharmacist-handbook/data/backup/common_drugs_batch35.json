@@ -1,0 +1,80 @@
+[
+  {
+    "name": "※▲古塞奇尤单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>适用于适合系统治疗或光疗的中度至重度斑块状银屑病成人患者</strong>。",
+      "dosage": "皮下注射。<strong>第0周和第4周时皮下给药100mg，之后每8周接受一次相同剂量维持</strong>。治疗16周后仍未应答的患者应考虑停止用药。",
+      "contraindications": "<strong>对药物成分过敏者禁用</strong>；<strong>活动性结核感染者禁用</strong>。",
+      "adverse_reactions": "常见<strong>上呼吸道感染、注射部位反应、头痛、腹泻、关节痛</strong>；偶见<strong>超敏反应、胃肠炎、皮疹、荨麻疹</strong>；极少数情况下可能出现<strong>严重过敏反应</strong>。",
+      "interactions": "<strong>合并使用CYP3A4等酶代谢药物时需谨慎，可能需调整剂量</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "人源化单克隆抗体，选择性结合IL-23的p19亚基，抑制其与IL-23受体的相互作用。皮下注射后吸收迅速，半衰期较长。",
+      "precautions": "<strong>使用期间需警惕感染风险</strong>；<strong>治疗前需评估结核病风险</strong>；<strong>活动性结核病患者禁用</strong>；2025版医保乙类。",
+      "solvent": "皮下注射，无需稀释",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "※▲佩索利单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>用于治疗成人泛发性脓疱型银屑病(GPP)发作</strong>；<strong>用于预防泛发性脓疱型银屑病发作</strong>。",
+      "dosage": "静脉输注。<strong>本品剂量为900mg单次静脉输注给药，持续90分钟</strong>（给药时间应超过90分钟，但最长不应超过180分钟）。使用前需稀释。",
+      "contraindications": "<strong>对佩索利单抗或本品中的任何辅料有重度或危及生命超敏反应史的患者禁用</strong>；<strong>活动性感染（如活动性结核病）患者应避免使用</strong>。",
+      "adverse_reactions": "常见<strong>发热、寒战、恶心、瘙痒、关节痛、低血压</strong>；偶见<strong>过敏反应（皮疹、瘙痒、呼吸困难）</strong>；长期使用可能引发<strong>心血管症状、脱发、蛋白尿</strong>。",
+      "interactions": "<strong>与活疫苗合用可能降低疫苗效果</strong>；<strong>与免疫抑制剂合用可能增加感染风险</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "人源化单克隆抗体，靶向IL-36受体，阻断IL-36信号通路。静脉给药后迅速分布，半衰期较长。",
+      "precautions": "<strong>每次给药前进行评估，注射过程中需要监测心率、血压等生命体征</strong>；<strong>如有严重反应，应立即联系医生</strong>；2025版医保乙类。",
+      "solvent": "静脉输注，使用前需稀释",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "※▲巴瑞替尼",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>用于对一种或多种抗风湿药疗效不佳或不耐受的中重度活动性类风湿关节炎成年患者</strong>；<strong>用于斑秃治疗</strong>。",
+      "dosage": "口服。<strong>类风湿关节炎：推荐剂量为每日2mg</strong>；无高风险因素时可考虑每日4mg，疾病缓解后建议降至2mg。<strong>斑秃：推荐每日2mg，疗效不足可增至4mg</strong>。",
+      "contraindications": "<strong>对本品过敏者禁用</strong>；<strong>孕妇禁用</strong>；<strong>重度肝功能损害患者禁用</strong>；<strong>活动性感染者禁用</strong>。",
+      "adverse_reactions": "常见<strong>上呼吸道感染、头痛、LDL胆固醇升高</strong>；可能发生<strong>带状疱疹、胃肠道不适、肝酶升高、血脂异常、静脉血栓及过敏反应</strong>；<strong>严重感染、贫血、肝功能异常</strong>。",
+      "interactions": "<strong>与CYP3A4诱导剂合用可能降低本品疗效</strong>；<strong>与CYP3A4抑制剂合用可能增加本品血药浓度</strong>。",
+      "pregnancy_category": "禁用",
+      "pharmacokinetics": "JAK1/JAK2抑制剂，通过抑制Janus激酶信号通路发挥抗炎作用。口服吸收迅速，半衰期约12小时。",
+      "precautions": "<strong>育龄期女性治疗期间及结束后至少1周内必须采取有效避孕措施</strong>；<strong>18岁以下儿童和青少年患者不建议使用</strong>；<strong>治疗期间应评估血脂参数</strong>；<strong>高风险患者（≥65岁、既往VTE、MACE、肿瘤史或慢性感染史）仅推荐2mg/日</strong>；<strong>肌酐清除率30-60mL/min时需调整剂量</strong>；2025版医保乙类。",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "※▲替瑞奇珠单抗",
+    "dosage_form": "注射液",
+    "manual": {
+      "indications": "<strong>用于治疗适合接受系统治疗或光疗的中度至重度斑块状银屑病成人患者</strong>。",
+      "dosage": "皮下注射。<strong>首次需在第0周、第4周各注射1次（共2支），之后每12周注射1次</strong>（维持期每年4支）。",
+      "contraindications": "<strong>对替瑞奇珠单抗或任何辅料过敏者禁用</strong>；<strong>活动性感染者禁用</strong>。",
+      "adverse_reactions": "常见<strong>头痛、恶心、发热、寒战</strong>等轻度反应；偶见<strong>过敏反应（皮疹、瘙痒、呼吸困难）</strong>；长期使用可能引发<strong>心血管症状、脱发、蛋白尿</strong>；部分患者出现<strong>血液系统异常</strong>。",
+      "interactions": "<strong>与活疫苗合用可能降低疫苗效果</strong>；<strong>与免疫抑制剂合用可能增加感染风险</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "人源化的IgG1/k单抗，选择性地与IL-23的p19亚基结合，抑制其与IL-23受体的相互作用。皮下注射后吸收迅速，半衰期较长。",
+      "precautions": "<strong>每次给药前进行评估，注射过程中需要监测心率、血压等生命体征</strong>；<strong>如有严重反应，请立即联系医生</strong>；2025版医保乙类。",
+      "solvent": "皮下注射，无需稀释",
+      "source": "手动录入-综合网络来源"
+    }
+  },
+  {
+    "name": "甲磺酸雷沙吉兰",
+    "dosage_form": "片",
+    "manual": {
+      "indications": "<strong>用于原发性帕金森病患者的单药治疗</strong>；<strong>用于伴有剂末波动患者的联合治疗（与左旋多巴合用）</strong>。",
+      "dosage": "口服。<strong>无论是否与左旋多巴合用，用量均为1mg每日一次</strong>。",
+      "contraindications": "<strong>对本品过敏者禁用</strong>；<strong>重度肝功能损害患者禁用</strong>；<strong>正在使用其他MAO抑制剂的患者禁用</strong>。",
+      "adverse_reactions": "常见<strong>流行性感冒、头痛、鼻炎、胃肠胀气、皮炎</strong>；可能出现<strong>皮肤癌、食欲下降、抑郁、幻觉、结膜炎、心绞痛、心肌梗塞、疱疹、尿急、发烧、乏力</strong>；<strong>冲动控制障碍（强迫、病理性赌博、性欲增强、强迫消费或购物）</strong>。",
+      "interactions": "<strong>与其他MAO抑制剂合用可能增加不良反应风险</strong>；<strong>与左旋多巴合用可能增加运动障碍风险</strong>；<strong>与CYP1A2抑制剂合用可能增加本品血药浓度</strong>。",
+      "pregnancy_category": "慎用",
+      "pharmacokinetics": "选择性MAO-B抑制剂，可提高多巴胺水平，增加多巴胺能活性。口服吸收迅速，半衰期约3小时。",
+      "precautions": "<strong>中度肝功能损害患者应避免使用，轻度肝功能损害患者开始服用时应谨慎</strong>；<strong>患者及看护者应知晓冲动控制障碍的行为症状，注意观察患者行为</strong>；2025版医保乙类。",
+      "source": "手动录入-综合网络来源"
+    }
+  }
+]

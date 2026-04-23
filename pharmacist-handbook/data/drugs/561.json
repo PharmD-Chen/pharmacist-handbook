@@ -1,0 +1,45 @@
+{
+  "id": 561,
+  "name": "盐酸羟考酮缓释片",
+  "dosage_form": "缓释片",
+  "full_name": "(甲)盐酸羟考酮缓释片",
+  "chemical_name": "盐酸羟考酮缓释片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "NAPP PHARMACEUTICALS LIMITED制药有限公司)"
+  ],
+  "specifications": [
+    {
+      "specification": "10mg/片",
+      "manufacturer": "NAPP PHARMACEUTICALS LIMITED制药有限公司)",
+      "full_manufacturer": "NAPP PHARMACEUTICALS LIMITED（BARD PHARMACEUTICALS LIMITED）(进口分包:萌蒂（中国）制药有限公司)",
+      "price": 220.79,
+      "unit": "盒",
+      "code": "Y00000014849",
+      "approval_number": "国药准字J20140125",
+      "insurance_code": "XN02AAQ033A010010278660",
+      "location": "麻精"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "yansuanqiangkaotong",
+  "pinyin_initials": "ysqkt",
+  "dosage_form_pinyin": "huanshipian",
+  "dosage_form_initials": "hsp",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1026"
+  }
+}

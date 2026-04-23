@@ -1,0 +1,18 @@
+[
+  {
+    "name": "※▲注射用头孢他啶阿维巴坦钠",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>复杂性腹腔内感染</strong>、<strong>复杂性尿路感染</strong>、<strong>医院获得性肺炎/呼吸机相关性肺炎</strong>；<strong>多重耐药革兰阴性菌感染</strong>（CRE、多重耐药铜绿假单胞菌、产ESBL肠杆菌科）。",
+      "dosage": "静脉输注。2.5g（头孢他啶2g+阿维巴坦0.5g），每8小时1次。肾功能调整：CrCl 31-50ml/min：1.25g q8h；CrCl 16-30ml/min：0.94g q12h；CrCl 6-15ml/min：0.94g q24h；CrCl<6ml/min：0.94g q48h。疗程：cIAI 5-14天；cUTI 7-14天。",
+      "contraindications": "对头孢他啶阿维巴坦过敏者禁用；<strong>对头孢菌素类过敏者禁用</strong>；<strong>对青霉素、碳青霉烯类严重过敏者禁用</strong>。",
+      "adverse_reactions": "<strong>恶心、呕吐、腹痛</strong>；发热、便秘、焦虑；<strong>过敏反应</strong>；<strong>神经系统反应</strong>（脑病、肌阵挛、癫痫发作）；<strong>严重腹泻</strong>。",
+      "interactions": "可与<strong>甲硝唑</strong>联用治疗复杂腹腔内感染；<strong>与氨基糖苷类合用需谨慎</strong>。",
+      "pregnancy_category": "未明确",
+      "pharmacokinetics": "头孢他啶与阿维巴坦4:1复方制剂。阿维巴坦为β-内酰胺酶抑制剂，恢复头孢他啶对产酶菌的活性。主要经肾排泄，需根据肾功能调整剂量。",
+      "precautions": "<strong>警惕严重过敏反应</strong>；<strong>监测神经系统症状</strong>（脑病、癫痫）；<strong>出现严重腹泻立即停药</strong>；<strong>青霉素过敏者慎用</strong>；2025版医保乙类，限协议期谈判药品。",
+      "solvent": "用氯化钠注射液或5%葡萄糖注射液溶解稀释",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

@@ -1,0 +1,202 @@
+================================================================================
+第一批次药品检查报告（1-20号）
+================================================================================
+
+ 1. 氟尿嘧啶
+    网址: https://www.hnysfww.com/goods.php?id=2482
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+ 3. ※▲安奈拉唑钠
+    网址: https://www.hnysfww.com/goods.php?id=13642
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+ 4. ※▲芦比前列酮软
+    网址: https://www.hnysfww.com/goods.php?id=13662
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+ 5. 氢溴酸替格列汀
+    网址: https://www.hnysfww.com/goods.php?id=13329
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+ 6. ※▲妥布霉素吸入溶液
+    网址: https://www.hnysfww.com/goods.php?id=1983
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+ 7. 注射用头孢西丁钠/氯化钠
+    网址: https://www.hnysfww.com/goods.php?id=1904
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+ 8. ※▲注射用头孢他啶阿维巴坦钠
+    网址: https://www.hnysfww.com/goods.php?id=1954
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+ 9. ※▲注射用紫杉醇聚合物胶束
+    网址: https://www.hnysfww.com/goods.php?id=13853
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+10. ※▲注射用替加环素
+    网址: https://www.hnysfww.com/goods.php?id=2035
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+11. 注射用鼠神经生长因子
+    网址: https://www.hnysfww.com/goods.php?id=1080
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+12. ※▲甲苯磺酸艾多沙班
+    网址: https://www.hnysfww.com/goods.php?id=11184
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+13. 依洛尤单抗
+    网址: https://www.hnysfww.com/goods.php?id=7923
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+14. 吲哚美辛栓
+    网址: https://www.hnysfww.com/goods.php?id=2690
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+15. 葆宫止血
+    网址: https://www.hnysfww.com/goods.php?id=5852
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+16. 呋麻
+    网址: https://www.hnysfww.com/goods.php?id=3038
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+17. 硫酸特布他林雾化吸入用溶液
+    网址: https://www.hnysfww.com/goods.php?id=1605
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+18. 华蟾素
+    网址: https://www.hnysfww.com/goods.php?id=7584
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+19. 复方对乙酰氨基酚
+    网址: https://www.hnysfww.com/goods.php?id=7934
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+20. 紫杉醇
+    网址: https://www.hnysfww.com/goods.php?id=2546
+    状态: ✅ 完整
+    字段完整性:
+      - indications: ✓
+      - dosage: ✓
+      - contraindications: ✓
+      - adverse_reactions: ✓
+      - source: ✓
+
+================================================================================
+汇总统计
+================================================================================
+✅ 内容完整: 19 个
+⚠️  内容部分: 0 个
+❌ 内容缺失: 0 个
+🔍 未找到记录: 0 个
+总计: 19 个

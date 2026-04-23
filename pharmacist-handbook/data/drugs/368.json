@@ -1,0 +1,66 @@
+{
+  "id": 368,
+  "name": "炉甘石洗剂",
+  "dosage_form": "洗剂",
+  "full_name": "(甲)炉甘石洗剂[国基]",
+  "chemical_name": "炉甘石洗剂",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "上海小方制药",
+    "常熟市星海制药"
+  ],
+  "specifications": [
+    {
+      "specification": "100ml/瓶",
+      "manufacturer": "常熟市星海制药",
+      "full_manufacturer": "常熟市星海制药有限公司",
+      "price": 14.6,
+      "unit": "瓶",
+      "code": "X00959",
+      "approval_number": "国药准字H32025258",
+      "insurance_code": "XD11AXL173S001010101364",
+      "location": "G-5",
+      "outpatient_location": "S-4"
+    },
+    {
+      "specification": "120ml/瓶",
+      "manufacturer": "上海小方制药",
+      "full_manufacturer": "上海小方制药股份有限公司",
+      "price": 24.5,
+      "unit": "瓶",
+      "code": "Y00000014615",
+      "approval_number": "国药准字H31022790",
+      "insurance_code": "XD11AXL173S001020100830"
+    }
+  ],
+  "spec_count": 2,
+  "manual": {
+    "indications": "外用于急性皮炎、急性湿疹、荨麻疹等急性瘙痒性皮肤病。",
+    "dosage": "用前需振荡混匀，外搽于皮损处，一日可多次使用。",
+    "contraindications": "",
+    "adverse_reactions": "较强的收敛作用可使皮肤变得干燥。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品为碱性碳酸锌、碳酸锌和少量氧化铁的混合物，有较强的收敛、防腐与皮肤保护作用，有抗炎止痒的功效。",
+    "precautions": "对有显著渗出的皮肤损害，不宜使用。",
+    "source": "湖南药事服务网",
+    "full_indications": "外用于急性皮炎、急性湿疹、荨麻疹等急性瘙痒性皮肤病。",
+    "full_dosage": "用前需振荡混匀，外搽于皮损处，一日可多次使用。",
+    "full_contraindications": "",
+    "full_adverse_reactions": "较强的收敛作用可使皮肤变得干燥。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品为碱性碳酸锌、碳酸锌和少量氧化铁的混合物，有较强的收敛、防腐与皮肤保护作用，有抗炎止痒的功效。",
+    "full_precautions": "对有显著渗出的皮肤损害，不宜使用。"
+  },
+  "pinyin": "luganshi",
+  "pinyin_initials": "lgs",
+  "dosage_form_pinyin": "xiji",
+  "dosage_form_initials": "xj",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2959",
+    "last_updated": "2026-03-22"
+  }
+}

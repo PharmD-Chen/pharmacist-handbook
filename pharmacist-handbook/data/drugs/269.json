@@ -1,0 +1,53 @@
+{
+  "id": 269,
+  "name": "复方苁蓉益智胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)复方苁蓉益智胶囊",
+  "chemical_name": "复方苁蓉益智胶囊",
+  "types": [],
+  "manufacturers": [
+    "安徽雷允上药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.3g/粒",
+      "manufacturer": "安徽雷允上药业",
+      "full_manufacturer": "安徽雷允上药业有限公司",
+      "price": 74.95,
+      "unit": "盒",
+      "code": "Y00000014671",
+      "approval_number": "国药准字Z20194044",
+      "insurance_code": "ZA09EAF0339010280671",
+      "location": "D-4",
+      "outpatient_location": "K-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "活血平肝，通络止痛。用于瘀血阻络或肝阳上亢所致的头痛日久，痛有定处，或头晕胁痛，失眠烦躁，舌质暗或有瘀斑；血管神经性头痛见上述证候者。",
+    "dosage": "饭后口服，一次4片，一日3次，或遵医嘱。",
+    "contraindications": "对本品过敏者禁用；孕妇及月经量过多的妇女禁用。",
+    "adverse_reactions": "偶见胃部不适、头胀或妇女月经量过多。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "precautions": "尚不明确。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情咨询药师或医师。",
+    "source": "湖南药事服务网",
+    "full_indications": "活血平肝，通络止痛。用于瘀血阻络或肝阳上亢所致的头痛日久，痛有定处，或头晕胁痛，失眠烦躁，舌质暗或有瘀斑；血管神经性头痛见上述证候者。",
+    "full_dosage": "饭后口服，一次4片，一日3次，或遵医嘱。",
+    "full_contraindications": "对本品过敏者禁用；孕妇及月经量过多的妇女禁用。",
+    "full_adverse_reactions": "偶见胃部不适、头胀或妇女月经量过多。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "full_pharmacokinetics": "",
+    "full_precautions": "尚不明确。 药物相互作用 如与其他药物同时使用可能会发生药物相互作用，详情请咨询药师或医师。",
+    "composition": "制何首乌、荷叶、肉苁蓉、地龙、漏芦。"
+  },
+  "pinyin": "fufangcongrongyizhi",
+  "pinyin_initials": "ffcryz",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=6732",
+    "last_updated": "2026-03-22"
+  }
+}

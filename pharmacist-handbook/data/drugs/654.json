@@ -1,0 +1,43 @@
+{
+  "id": 654,
+  "name": "赛洛多辛胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(乙10%)赛洛多辛胶囊",
+  "chemical_name": "赛洛多辛胶囊",
+  "types": [],
+  "manufacturers": [
+    "北京双鹭药业"
+  ],
+  "specifications": [
+    {
+      "specification": "4mg/粒",
+      "manufacturer": "北京双鹭药业",
+      "full_manufacturer": "北京双鹭药业股份有限公司（委托生产企业：北京双鹭药业股份有限公司，山东朗诺制药有限公司）",
+      "price": 8.63,
+      "unit": "瓶",
+      "code": "X00385",
+      "approval_number": "国药准字H20234393",
+      "insurance_code": "XG04CAS235E001010110323",
+      "location": "L"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "sailuoduoxin",
+  "pinyin_initials": "sldx",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1767"
+  }
+}

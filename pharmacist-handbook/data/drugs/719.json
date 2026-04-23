@@ -1,0 +1,55 @@
+{
+  "id": 719,
+  "name": "稳心颗粒",
+  "dosage_form": "颗粒",
+  "full_name": "(甲)稳心颗粒[国基、上增]",
+  "chemical_name": "稳心颗粒",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "山东步长制药"
+  ],
+  "specifications": [
+    {
+      "specification": "5g/袋",
+      "manufacturer": "山东步长制药",
+      "full_manufacturer": "山东步长制药股份有限公司",
+      "price": 26.24,
+      "unit": "盒",
+      "code": "Y00000015008",
+      "approval_number": "国药准字Z10950026",
+      "insurance_code": "ZA09HAW0187010104073",
+      "location": "D-1",
+      "outpatient_location": "J-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "益气养阴，活血化瘀。用于气阴两虚、心脉瘀阻所致的心悸不宁、气短乏力、胸闷胸痛；室性早搏、房性早搏见上述证候者。",
+    "full_indications": "益气养阴，活血化瘀。用于气阴两虚、心脉瘀阻所致的心悸不宁、气短乏力、胸闷胸痛；室性早搏、房性早搏见上述证候者。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "开水冲服：一次1袋，一日3次。疗程4周。",
+    "full_dosage": "开水冲服：一次1袋，一日3次。疗程4周。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "偶见轻度头晕、恶心。",
+    "full_adverse_reactions": "偶见轻度头晕、恶心，一般不影响继续治疗。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "孕妇慎用；忌烟酒、浓茶；危重病人应采取综合治疗方法。",
+    "full_precautions": "1.孕妇慎用。2.忌烟酒、浓茶。3.危重病人应采取综合治疗方法。4.用前请将药液充分搅匀，勿将杯底药粉丢弃。",
+    "source": "湖南药事服务网",
+    "composition": "党参、黄精、三七、琥珀、甘松。"
+  },
+  "pinyin": "wenxin",
+  "pinyin_initials": "wx",
+  "dosage_form_pinyin": "keli",
+  "dosage_form_initials": "kl",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=6830"
+  }
+}

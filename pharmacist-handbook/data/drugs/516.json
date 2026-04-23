@@ -1,0 +1,53 @@
+{
+  "id": 516,
+  "name": "参松养心胶囊",
+  "dosage_form": "胶囊",
+  "full_name": "(甲)参松养心胶囊[国基、上增]",
+  "chemical_name": "参松养心胶囊",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "北京以岭药业"
+  ],
+  "specifications": [
+    {
+      "specification": "400mg/粒",
+      "manufacturer": "北京以岭药业",
+      "full_manufacturer": "北京以岭药业有限公司",
+      "price": 25.48,
+      "unit": "盒",
+      "code": "Y00000014913",
+      "approval_number": "国药准字Z20103032",
+      "insurance_code": "ZA09HAC0221010279263"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "益气养阴，活血通络，清心安神。用于治疗冠心病室性早搏属气阴两虚，心络瘀阻证，症见心悸不安，气短乏力，动则加剧，胸部闷痛，失眠多梦，盗汗，神倦懒言。",
+    "full_indications": "益气养阴，活血通络，清心安神。用于治疗冠心病室性早搏属气阴两虚，心络瘀阻证，症见心悸不安，气短乏力，动则加剧，胸部闷痛，失眠多梦，盗汗，神倦懒言。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "口服：一次4粒，一日3次。",
+    "full_dosage": "口服：一次4粒，一日3次。疗程4周。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "个别患者服药期间可出现胃胀。",
+    "full_adverse_reactions": "个别患者服药期间可出现胃胀。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "孕妇慎用；应注意配合原发性疾病的治疗。",
+    "full_precautions": "1.孕妇慎用。2.应注意配合原发性疾病的治疗。",
+    "source": "湖南药事服务网",
+    "composition": "人参、麦冬、山茱萸、丹参、酸枣仁（炒）、桑寄生、赤芍、土鳖虫、甘松、黄连、南五味子、龙骨。"
+  },
+  "pinyin": "cansongyangxin",
+  "pinyin_initials": "csyx",
+  "dosage_form_pinyin": "jiaonang",
+  "dosage_form_initials": "jn",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=6855"
+  }
+}

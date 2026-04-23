@@ -1,0 +1,51 @@
+{
+  "id": 66,
+  "name": "※(▲乙10%)注射用多种维生素(13)",
+  "dosage_form": "注射用",
+  "full_name": "※(▲乙10%)注射用多种维生素(13)",
+  "chemical_name": "注射用多种维生素(13)",
+  "types": [],
+  "manufacturers": [
+    "广州汉光药业"
+  ],
+  "specifications": [
+    {
+      "specification": "5ml/瓶",
+      "manufacturer": "广州汉光药业",
+      "full_manufacturer": "广州汉光药业股份有限公司(委托生产企业：国药集团广东环球制药有限公司)",
+      "price": 77.0,
+      "unit": "瓶",
+      "code": "X00737",
+      "approval_number": "国药准字H20203642",
+      "insurance_code": "XB05BAD346B001010500294",
+      "location": "2D-2"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "为肠外营养中需要维生素补充的患者，可同时补充水溶性和脂溶性维生素。",
+    "dosage": "成年人或11岁以上患者静脉滴注：每日10ml，烧伤等重症可给2～3倍剂量，输注前即刻用注射用水溶解瓶内药物。肌内注射：注射前即刻用2.5ml注射用水溶解瓶内药物；复溶方法：用注射器吸取5ml注射用水、5％葡萄糖注射液或0.9％氯化钠注射液注入瓶内，轻摇混合病溶解药粉成橘黄色溶液；",
+    "contraindications": "对其过敏者，已存在的维生素过多者、新生儿、婴儿及11岁以下儿童均禁用。",
+    "adverse_reactions": "可能发生过敏反应。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "作为胃肠外营养静脉注射液，本品为含有水溶性维生素和脂溶性维生素的复合维生素剂，可供成人和11岁以上的儿童补充维生素。",
+    "precautions": "必须稀释后静脉滴注。用前1小时配制，24小时内用完。",
+    "source": "湖南药事服务网",
+    "full_indications": "为肠外营养中需要维生素补充的患者，可同时补充水溶性和脂溶性维生素。",
+    "full_dosage": "成年人或11岁以上患者静脉滴注：每日10ml，烧伤等重症可给2～3倍剂量，输注前即刻用注射用水溶解瓶内药物。肌内注射：注射前即刻用2.5ml注射用水溶解瓶内药物；复溶方法：用注射器吸取5ml注射用水、5％葡萄糖注射液或0.9％氯化钠注射液注入瓶内，轻摇混合病溶解药粉成橘黄色溶液；复溶后通过静脉缓慢注射（至少10分钟以上）或以5％葡萄糖注射液、0.9％氯化钠注射液进行输注。",
+    "full_contraindications": "对其过敏者，已存在的维生素过多者、新生儿、婴儿及11岁以下儿童均禁用。",
+    "full_adverse_reactions": "可能发生过敏反应。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "作为胃肠外营养静脉注射液，本品为含有水溶性维生素和脂溶性维生素的复合维生素剂，可供成人和11岁以上的儿童补充维生素。",
+    "full_precautions": "必须稀释后静脉滴注。用前1小时配制，24小时内用完。",
+    "solvent": "静脉滴注：每日10ml，烧伤等重症可给2～3倍剂量，输注前即刻用注射用水溶解；肌内注射：注射前即刻用2.5ml注射用水溶解"
+  },
+  "pinyin": "※zhusheyongduozhongweishengsu",
+  "pinyin_initials": "※zsydzwss",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1970"
+  }
+}

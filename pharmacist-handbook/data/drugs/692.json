@@ -1,0 +1,44 @@
+{
+  "id": 692,
+  "name": "布地奈德鼻喷雾剂",
+  "dosage_form": "喷雾剂",
+  "full_name": "(乙)布地奈德鼻喷雾剂",
+  "chemical_name": "布地奈德鼻喷雾剂",
+  "types": [
+    "乙类"
+  ],
+  "manufacturers": [
+    "McNeil Sweden AB"
+  ],
+  "specifications": [
+    {
+      "specification": "120喷/盒",
+      "manufacturer": "McNeil Sweden AB",
+      "full_manufacturer": "McNeil Sweden AB(McNeil AB)",
+      "price": 51.64,
+      "unit": "盒",
+      "code": "X00903",
+      "approval_number": "国药准字HJ20171311",
+      "insurance_code": "XR01ADB165L025020179321"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "budinaidebi",
+  "pinyin_initials": "bdndb",
+  "dosage_form_pinyin": "penwuji",
+  "dosage_form_initials": "pwj",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=1655"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 628,
+  "name": "复方曲肽注射液",
+  "dosage_form": "注射液",
+  "full_name": "(自)复方曲肽注射液",
+  "chemical_name": "复方曲肽注射液",
+  "types": [],
+  "manufacturers": [
+    "吉林天成制药"
+  ],
+  "specifications": [
+    {
+      "specification": "2ml/支",
+      "manufacturer": "吉林天成制药",
+      "full_manufacturer": "吉林天成制药有限公司",
+      "price": 136.0,
+      "unit": "支",
+      "code": "X00610",
+      "approval_number": "国药准字H22026579",
+      "insurance_code": "XC05CAF447B002020203282",
+      "location": "M-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "用于脑血栓、脑栓塞、脑痉挛等急慢性脑血管疾病，以及颅脑外伤及脑外伤及脑血管疾病(脑供血不全、脑梗塞)所引起的脑功能障碍等后遗症;闭塞综合症、动脉硬化、血栓性静脉炎、毛细血管出血以及血管通透性升高引起的水肿。",
+    "dosage": "肌内注射：一次2-4ml，一日2次。静脉滴注：一次4-10ml，一日1次，稀释于250-500ml生理盐水或5%葡萄糖注射液稀释后使用。20日为一个疗程，可用1-3个疗程，每疗程间隔3-7天，或遵医嘱。",
+    "contraindications": "症 对本品过敏进禁用；吉兰一巴雷综合征患者禁用。",
+    "adverse_reactions": "偶可发生寒颤、轻度发热等反应，个别病例可引起过敏性皮疹。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "自身免疫性疾病患者慎用。⑵自身免疫性疾病患者慎用；⑴国内外药品上市后监测中发现可能与使用神经节苷脂产品相关的吉兰一巴雷综合征病例。",
+    "source": "湖南药事服务网",
+    "full_indications": "用于治疗脑血栓、脑栓塞、脑痉挛等急慢性脑血管疾病，以及颅脑外伤及脑外伤及脑血管疾病(脑供血不全、脑梗塞)所引起的脑功能障碍等后遗症;闭塞综合症、动脉硬化、血栓性静脉炎、毛细血管出血以及血管通透性升高引起的水肿。",
+    "full_dosage": "肌内注射：一次2-4ml，一日2次。静脉滴注：一次4-10ml，一日1次，稀释于250-500ml生理盐水或5%葡萄糖注射液稀释后使用。20日为一个疗程，可用1-3个疗程，每疗程间隔3-7天，或遵医嘱。",
+    "full_contraindications": "症 对本品过敏进禁用；吉兰一巴雷综合征患者禁用。",
+    "full_adverse_reactions": "偶可发生寒颤、轻度发热等反应，个别病例可引起过敏性皮疹。",
+    "full_interactions": "",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴国内外药品上市后监测中发现可能与使用神经节苷脂产品相关的吉兰一巴雷综合征病例。若患者在用药期间(一般在用药后5一10天内)出现持物不能、四肢无力、弛缓性瘫痪等症状，应立即就诊。自身免疫性疾病患者慎用。 ⑵自身免疫性疾病患者慎用；过敏体质者及哺乳期妇女慎用;本品不能与平衡氨基酸注射液在同一瓶中输注。 给药说明 ⑴2ml:含曲克芦丁80mg,总氮1mg,单唾液酸四己糖神经节苷脂0.6mg； ⑵5ml:含曲克芦丁200mg,总氮2.5mg,单唾液酸四己糖神经节苷脂1.5mg； ⑶10ml:含曲克芦丁400mg,总氮5mg,单唾液酸四己糖神经节苷脂3mg。",
+    "solvent": "静滴：用0.9%氯化钠注射液稀释"
+  },
+  "pinyin": "fufangqutai",
+  "pinyin_initials": "ffqt",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2041",
+    "last_updated": "2026-03-21"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 744,
+  "name": "香砂养胃片",
+  "dosage_form": "片",
+  "full_name": "(甲)香砂养胃片[国基]",
+  "chemical_name": "香砂养胃片",
+  "types": [
+    "甲类",
+    "国家基药"
+  ],
+  "manufacturers": [
+    "云南白药集团"
+  ],
+  "specifications": [
+    {
+      "specification": "600mg/片",
+      "manufacturer": "云南白药集团",
+      "full_manufacturer": "云南白药集团股份有限公司",
+      "price": 17.33,
+      "unit": "盒",
+      "code": "C00082",
+      "approval_number": "国药准字Z20025521",
+      "insurance_code": "ZA05BAX0154010205590"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "温中和胃。用于不思饮食，胃脘满闷或泛吐酸水。",
+    "full_indications": "温中和胃。用于不思饮食，胃脘满闷或泛吐酸水。",
+    "_indications_source": "湖南药事服务网",
+    "dosage": "口服：一次4-8片，一日2次。",
+    "full_dosage": "口服：一次4-8片，一日2次。",
+    "contraindications": "对本品过敏者禁用。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "尚不明确。",
+    "full_adverse_reactions": "尚不明确。",
+    "interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用。",
+    "full_interactions": "如与其他药物同时使用可能会发生药物相互作用，需权衡利弊后使用，使用过程中注意观察不良反应。",
+    "pregnancy_category": null,
+    "pharmacokinetics": null,
+    "full_pharmacokinetics": null,
+    "precautions": "忌生冷油腻食物；胃痛症见胃部灼热，隐隐作痛，口干舌燥者不宜服用本药。",
+    "full_precautions": "1.忌生冷油腻食物。2.胃痛症见胃部灼热，隐隐作痛，口干舌燥者不宜服用本药。3.服药三天后症状无改善，或服药期间症状加重，应去医院就诊。4.按照用法用量服用，小儿及年老体虚患者应在医师指导下服用。5.长期连续服用，应向医师咨询。6.药品性状发生改变时禁止服用。",
+    "source": "湖南药事服务网",
+    "url_added": true,
+    "composition": "木香、砂仁、白术、陈皮、茯苓、半夏（制）、醋香附、枳实（炒）、豆蔻（去壳）、姜厚朴、广藿香、甘草。"
+  },
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=5108",
+    "last_updated": "2026-03-20"
+  },
+  "pinyin": "xiangshayangwei",
+  "pinyin_initials": "xsyw",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p"
+}

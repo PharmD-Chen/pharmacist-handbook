@@ -1,0 +1,55 @@
+{
+  "id": 296,
+  "name": "枸橼酸莫沙必利片",
+  "dosage_form": "片",
+  "full_name": "(甲)枸橼酸莫沙必利片[国基、上增]",
+  "chemical_name": "枸橼酸莫沙必利片",
+  "types": [
+    "甲类"
+  ],
+  "manufacturers": [
+    "成都康弘药业集团"
+  ],
+  "specifications": [
+    {
+      "specification": "5mg/片",
+      "manufacturer": "成都康弘药业集团",
+      "full_manufacturer": "成都康弘药业集团股份有限公司",
+      "price": 23.76,
+      "unit": "盒",
+      "code": "Y00000014627",
+      "approval_number": "国药准字H19990313",
+      "insurance_code": "XA03FAM120A001010302016",
+      "location": "J-2",
+      "outpatient_location": "L-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "1.功能性消化不良伴有胃灼热、嗳气、恶心、上腹胀等消化道症状； 2.胃食管反流病； 3.糖尿病胃轻瘫； 4.胃大部切除术患者的胃功能障碍。",
+    "dosage": "口服：一次5mg，一日3次，餐前服用。",
+    "contraindications": "症 ⑴对本品过敏者禁用。 ⑵胃肠道出血、阻塞或穿孔以及其他刺激胃肠道可能引起危险的疾病。",
+    "adverse_reactions": "⑴主要表现为腹泻、腹痛、口干、皮疹及倦怠、头晕等。 ⑵偶见嗜酸性粒细胞增多，甘油三酯升高及门冬氨酸氨基转移酶、丙氨酸氨基转移酶、碱性磷酸酶、γ-谷氨酸转肽酶升高。",
+    "interactions": "莫沙比利与抗胆碱药（如阿托品、丙胺太林、丁溴东莨菪碱等）合用时可能减弱莫沙比利的作用，故两者不宜合用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": null,
+    "precautions": "⑴服用一段时间（通常为2周）。消化道症状无变化时，停药。 ⑵孕妇及哺乳期妇女用的安全性尚未确定，避免使用本品。 ⑶老年人用药需注意观察，发现副作用立即进行适当的处理，如减量用药。 药物相互作用 莫沙比利与抗胆碱药（如阿托品、丙胺太林、丁溴东莨菪碱等）合用时可能减弱莫沙比利的作用，故两者不宜合用。",
+    "source": "湖南药事服务网",
+    "full_indications": "1.功能性消化不良伴有胃灼热、嗳气、恶心、上腹胀等消化道症状； 2.胃食管反流病； 3.糖尿病胃轻瘫； 4.胃大部切除术患者的胃功能障碍。",
+    "full_dosage": "口服：一次5mg，一日3次，餐前服用。",
+    "full_contraindications": "症 ⑴对本品过敏者禁用。 ⑵胃肠道出血、阻塞或穿孔以及其他刺激胃肠道可能引起危险的疾病。",
+    "full_adverse_reactions": "⑴主要表现为腹泻、腹痛、口干、皮疹及倦怠、头晕等。 ⑵偶见嗜酸性粒细胞增多，甘油三酯升高及门冬氨酸氨基转移酶、丙氨酸氨基转移酶、碱性磷酸酶、γ-谷氨酸转肽酶升高。",
+    "full_interactions": "莫沙比利与抗胆碱药（如阿托品、丙胺太林、丁溴东莨菪碱等）合用时可能减弱莫沙比利的作用，故两者不宜合用。",
+    "full_pregnancy_category": "",
+    "full_pharmacokinetics": "",
+    "full_precautions": "⑴服用一段时间（通常为2周）。消化道症状无变化时，应停药。 ⑵孕妇及哺乳期妇女应用的安全性尚未确定，应避免使用本品。 ⑶老年人用药需注意观察，发现副作用应立即进行适当的处理，如减量用药。 药物相互作用 莫沙比利与抗胆碱药（如阿托品、丙胺太林、丁溴东莨菪碱等）合用时可能减弱莫沙比利的作用，故两者不宜合用。"
+  },
+  "pinyin": "juyuansuanmoshabili",
+  "pinyin_initials": "jysmsbl",
+  "dosage_form_pinyin": "pian",
+  "dosage_form_initials": "p",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=2121",
+    "last_updated": "2026-03-21"
+  }
+}

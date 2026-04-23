@@ -1,0 +1,53 @@
+{
+  "id": 367,
+  "name": "帕妥珠单抗注射液",
+  "dosage_form": "注射液",
+  "full_name": "※▲(乙)帕妥珠单抗注射液",
+  "chemical_name": "帕妥珠单抗注射液",
+  "types": [
+    "乙类"
+  ],
+  "manufacturers": [
+    "Roche Pharma  AG"
+  ],
+  "specifications": [
+    {
+      "specification": "420mg/瓶",
+      "manufacturer": "Roche Pharma  AG",
+      "full_manufacturer": "Roche Pharma (Schweiz) AG(Roche Diagnostics GmbH;Genentech Inc.)",
+      "price": 4955.0,
+      "unit": "盒",
+      "code": "X00624",
+      "approval_number": "国药准字SJ20180029",
+      "insurance_code": "XL01FDP138B002010181735",
+      "location": "2D-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "联合曲妥珠单抗和化疗用于具有高复发风险的人表皮生长因子受体2（HER2）阳性早期乳腺癌患者的辅助治疗。",
+    "dosage": "静脉输注：初始剂量为840mg，历时60分钟静脉输注完毕。其后每3周420mg，历时30至60分钟静脉输注。",
+    "contraindications": "",
+    "adverse_reactions": "最常见≥3级的严重不良事件（AEs）为中性粒细胞减少症（44.9%），发热性中性粒细胞减少（8.4%），白细胞减少症（4.7%）和腹泻（5.6%）。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "本品是一种人源性单克隆抗体。通过结合HER2，阻滞了HER2与其它HER受体的杂二聚，产生抗HER2作用，从而减缓了肿瘤的生长。",
+    "precautions": "",
+    "source": "湖南药事服务网",
+    "full_indications": "联合曲妥珠单抗和化疗用于具有高复发风险的人表皮生长因子受体2（HER2）阳性早期乳腺癌患者的辅助治疗。",
+    "full_dosage": "静脉输注：初始剂量为840mg，历时60分钟静脉输注完毕。其后每3周420mg，历时30至60分钟静脉输注。",
+    "full_contraindications": "",
+    "full_adverse_reactions": "最常见≥3级的严重不良事件（AEs）为中性粒细胞减少症（44.9%），发热性中性粒细胞减少（8.4%），白细胞减少症（4.7%）和腹泻（5.6%）。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "本品是一种人源性单克隆抗体。通过结合HER2，阻滞了HER2与其它HER受体的杂二聚，产生抗HER2作用，从而减缓了肿瘤的生长。",
+    "full_precautions": ""
+  },
+  "pinyin": "※▲patuozhudankang",
+  "pinyin_initials": "※▲ptzdk",
+  "dosage_form_pinyin": "zhusheye",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=12828",
+    "last_updated": "2026-03-22"
+  }
+}

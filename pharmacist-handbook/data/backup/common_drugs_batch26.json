@@ -1,0 +1,18 @@
+[
+  {
+    "name": "※▲注射用替加环素",
+    "dosage_form": "注射用",
+    "manual": {
+      "indications": "<strong>复杂皮肤和皮肤结构感染</strong>、<strong>复杂腹内感染</strong>、<strong>社区和医院获得性肺炎</strong>。",
+      "dosage": "静脉滴注。首剂100mg，然后50mg，每12小时1次。疗程5-14天。",
+      "contraindications": "对替加环素过敏者禁用；<strong>四环素类抗生素过敏者慎用</strong>。",
+      "adverse_reactions": "<strong>黑框警告：死亡风险升高</strong>；<strong>恶心（35%）、呕吐（20%）</strong>；肝功能异常；胰腺炎；<strong>牙齿永久性变色</strong>（妊娠后半期、婴儿期、8岁以下儿童）。",
+      "interactions": "不会抑制CYP450酶系；<strong>与华法林合用未发现明显影响</strong>；<strong>与两性霉素B、地西泮、艾司奥美拉唑、奥美拉唑存在配伍禁忌</strong>（不应通过同一Y型管给药）。",
+      "pregnancy_category": "D级",
+      "pharmacokinetics": "新型甘氨酰环素类抗生素，与核糖体结合能力是其他四环素类的5倍。抗菌谱广（革兰阳性菌、革兰阴性菌、厌氧菌），<strong>铜绿假单胞菌耐药</strong>。半衰期约27小时，22%以原形经尿液排泄。",
+      "precautions": "<strong>黑框警告：死亡风险升高，需谨慎使用</strong>；<strong>监测肝功能</strong>；怀疑胰腺炎时停药；<strong>妊娠期间禁用</strong>；<strong>8岁以下儿童禁用</strong>（牙齿变色）；<strong>不推荐用于18岁以下患者</strong>；艰难梭菌相关性腹泻需停药；2025版医保乙类，限注射剂。",
+      "solvent": "每瓶50mg加5.3ml 0.9%氯化钠注射液、5%葡萄糖注射液或乳酸钠林格注射液溶解，再稀释于100ml相应输液中，最高浓度1mg/ml",
+      "source": "手动录入-湖南药事服务网"
+    }
+  }
+]

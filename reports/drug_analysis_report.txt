@@ -1,0 +1,56 @@
+======================================================================
+药品梳理详细报告
+======================================================================
+
+1. Excel原始目录药品总数: 1048 个
+2. 数据库中已有药品数: 1016 个
+3. 暂无详细信息的药品数: 803 个
+4. Excel中有但数据库中缺失的药品: 955 个
+5. 在without_manual中但没有网址的药品: 449 个
+6. Excel中有、在without_manual中、但没有网址的药品: 42 个
+
+======================================================================
+需要添加网址的药品（按通用名+剂型）:
+======================================================================
+1. 丙戊酸钠注射用浓溶液 | 注射用 | 丙戊酸钠注射用浓溶液 https://www.hnysfww.com/goods.php?id=857
+2. 人血白蛋白 | 其他 | 人血白蛋白 https://www.hnysfww.com/goods.php?id=3510
+3. ※▲依达拉奉右莰醇注射用浓溶液 | 注射用 | 依达拉奉右莰醇注射用浓溶液 https://www.hnysfww.com/goods.php?id=13176
+4. ※▲先诺特韦片/利托那韦片组合包装 | 片 | 先诺特韦片/利托那韦片 https://www.hnysfww.com/goods.php?id=13601
+5. 可溶性止血纱布 | 其他 | 可溶性止血纱布
+6. 复方阿胶浆 | 其他 | 复方阿胶浆 https://www.hnysfww.com/goods.php?id=6435
+7. 外用人表皮生长因子 | 其他 | 外用人表皮生长因子 https://www.hnysfww.com/goods.php?id=3551
+8. 注射用伏立康唑 | 注射用 | 注射用伏立康唑 https://www.hnysfww.com/goods.php?id=2180
+9. 注射用六氟化硫微泡 | 注射用 | 注射用六氟化硫微泡 https://www.hnysfww.com/goods.php?id=3332
+10. 注射用双羟萘酸曲普瑞林 | 注射用 | 注射用双羟萘酸曲普瑞林 https://www.hnysfww.com/goods.php?id=1282
+11. ※▲注射用右兰索拉唑 | 注射用 | 注射用右兰索拉唑 https://www.hnysfww.com/goods.php?id=13730
+12. 注射用哌拉西林钠他唑巴坦钠 | 注射用 | 注射用哌拉西林钠他唑巴坦钠 https://www.hnysfww.com/goods.php?id=1949
+13. ※注射用头孢哌酮钠舒巴坦钠 | 注射用 | 注射用头孢哌酮钠舒巴坦钠 https://www.hnysfww.com/goods.php?id=1944
+14. 注射用头孢噻肟钠他唑巴坦钠 | 注射用 | 注射用头孢噻肟钠他唑巴坦钠 https://www.hnysfww.com/goods.php?id=1951
+15. ※▲注射用头孢比罗酯钠 | 注射用 | 注射用头孢比罗酯钠 https://www.hnysfww.com/goods.php?id=1931
+16. ※▲注射用尤瑞克林 | 注射用 | 注射用尤瑞克林 https://www.hnysfww.com/goods.php?id=3659
+17. 注射用尿激酶 | 注射用 | 注射用尿激酶 https://www.hnysfww.com/goods.php?id=1146
+18. 注射用戈那瑞林 | 注射用 | 注射用戈那瑞林 https://www.hnysfww.com/goods.php?id=1278
+19. ※▲注射用曲克芦丁 | 注射用 | 注射用曲克芦丁 https://www.hnysfww.com/goods.php?id=379
+20. 注射用氨曲南 | 注射用 | 注射用氨曲南 https://www.hnysfww.com/goods.php?id=1973
+21. 注射用生长抑素 | 注射用 | 注射用生长抑素 https://www.hnysfww.com/goods.php?id=663
+22. 注射用甲磺酸齐拉西酮 | 注射用 | 注射用甲磺酸齐拉西酮 https://www.hnysfww.com/goods.php?id=782
+23. 注射用甲苯磺酸奥马环素 | 注射用 | 注射用甲苯磺酸奥马环素 https://www.hnysfww.com/goods.php?id=13087
+24. ※▲注射用盐酸万古霉素 | 注射用 | 注射用盐酸万古霉素 https://www.hnysfww.com/goods.php?id=2041
+25. 注射用盐酸表柔比星 | 注射用 | 注射用盐酸表柔比星 https://www.hnysfww.com/goods.php?id=2518
+26. 注射用胶原酶 | 注射用 | 注射用胶原酶 https://www.hnysfww.com/goods.php?id=3662
+27. 注射用胸腺五肽 | 注射用 | 注射用胸腺五肽 https://www.hnysfww.com/goods.php?id=3627
+28. 注射用舒巴坦钠 | 注射用 | 注射用舒巴坦钠 https://www.hnysfww.com/goods.php?id=1933
+29. ※注射用英夫利西单抗 | 注射用 | 注射用英夫利西单抗 https://www.hnysfww.com/goods.php?id=3565
+30. 注射用醋酸地加瑞克 | 注射用 | 注射用醋酸地加瑞克 https://www.hnysfww.com/goods.php?id=12868
+31. 注射用阿昔洛韦 | 注射用 | 注射用阿昔洛韦 https://www.hnysfww.com/goods.php?id=2234
+32. 活血止痛膏 | 其他 | 活血止痛膏 https://www.hnysfww.com/goods.php?id=5695
+33. 盐酸美金刚口溶膜 | 其他 | 盐酸美金刚口溶膜 https://www.hnysfww.com/goods.php?id=910
+34. 硫酸镁 | 其他 | 硫酸镁
+35. 碘酊 | 其他 | 碘酊 https://www.hnysfww.com/goods.php?id=2432
+36. 祛风骨痛凝胶膏 | 凝胶 | 祛风骨痛凝胶膏 https://www.hnysfww.com/goods.php?id=13041
+37. 米诺地尔酊 | 其他 | 米诺地尔酊 https://www.hnysfww.com/goods.php?id=239
+38. 葡萄糖粉剂 | 其他 | 葡萄糖粉剂
+39. 蓖麻油 | 其他 | 蓖麻油 https://www.hnysfww.com/goods.php?id=578
+40. ※▲连榆烧伤膏 | 其他 | 连榆烧伤膏 https://www.hnysfww.com/goods.php?id=13325
+41. 阿立哌唑口溶膜 | 其他 | 阿立哌唑口溶膜 https://www.hnysfww.com/goods.php?id=786
+42. 青霉素皮试剂 | 其他 | 青霉素皮试剂

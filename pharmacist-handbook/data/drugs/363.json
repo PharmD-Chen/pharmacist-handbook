@@ -1,0 +1,51 @@
+{
+  "id": 363,
+  "name": "注射用重组人脑利钠肽",
+  "dosage_form": "注射用",
+  "full_name": "※▲(乙10%)注射用重组人脑利钠肽",
+  "chemical_name": "注射用重组人脑利钠肽",
+  "types": [],
+  "manufacturers": [
+    "成都诺迪康生物制药"
+  ],
+  "specifications": [
+    {
+      "specification": "0.5mg/瓶",
+      "manufacturer": "成都诺迪康生物制药",
+      "full_manufacturer": "成都诺迪康生物制药有限公司",
+      "price": 424.98,
+      "unit": "盒",
+      "code": "X00559",
+      "approval_number": "国药准字S20050033",
+      "insurance_code": "XC01EBC109B001010102049",
+      "location": "2K-4"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "适用于急性代偿性心力衰竭、慢性失代偿性心力衰竭、心肌梗死、心脏导管手术等。由于静脉使用起效快，更适用于急性心力衰竭。",
+    "dosage": "首剂1.5～2.0μg/kg，一次静脉推注，再以0.0075～0.01μg/(kg·min)速度静脉滴注。可每3小时每千克体重增加0.005μg/min，每千克体重增加量最多不超过0.03μg/min。一般静脉滴注时间不超过48小时。",
+    "contraindications": "对本品过敏者禁用。",
+    "adverse_reactions": "不良反应少而轻微。常见的不良反应为胸痛、低血压、恶心、腹痛、头痛。最明显的副作用时剂量依赖性的低血压（11％～35％）。应用本品治疗后血浆肌酐会稍增高。",
+    "interactions": "暂未发现有临床意义的药物相互作用",
+    "pregnancy_category": null,
+    "pharmacokinetics": "⑴药效学：本品通过与利钠肽A型和B型受体结合，触发细胞内第二信使环鸟苷酸激活，导致细胞内钙离子浓度降低，使平滑肌松弛，血管扩张，可使肺嵌压下降，改善血流动力学，减少水钠潴留，改善心力衰竭的临床症状和预后。<br>　　⑵药动学：本品静脉滴注或静脉推注后3～6小时即可达到最大血流动力学效应。在体内被代谢",
+    "precautions": "⑵妊娠及哺乳期妇女慎用。⑴用药期间须密切监测血压。",
+    "source": "湖南药事服务网",
+    "full_indications": "适用于急性代偿性心力衰竭、慢性失代偿性心力衰竭、心肌梗死、心脏导管手术等。由于静脉使用起效快，更适用于急性心力衰竭。",
+    "full_dosage": "首剂1.5～2.0μg/kg，一次静脉推注，再以0.0075～0.01μg/(kg·min)速度静脉滴注。可每3小时每千克体重增加0.005μg/min，每千克体重增加量最多不超过0.03μg/min。一般静脉滴注时间不超过48小时。",
+    "full_contraindications": "对本品过敏者禁用。",
+    "full_adverse_reactions": "不良反应少而轻微。常见的不良反应为胸痛、低血压、恶心、腹痛、头痛。最明显的副作用时剂量依赖性的低血压（11％～35％）。应用本品治疗后血浆肌酐会稍增高。",
+    "full_interactions": "",
+    "full_pharmacokinetics": "⑴药效学：本品通过与利钠肽A型和B型受体结合，触发细胞内第二信使环鸟苷酸激活，导致细胞内钙离子浓度降低，使平滑肌松弛，血管扩张，可使肺嵌压下降，改善血流动力学，减少水钠潴留，改善心力衰竭的临床症状和预后。<br>　　⑵药动学：本品静脉滴注或静脉推注后3～6小时即可达到最大血流动力学效应。在体内被代谢，从肾排出，ｔ1/2为18分钟。",
+    "full_precautions": "⑴用药期间须密切监测血压。  <br>⑵妊娠及哺乳期妇女慎用。  <br>⑶不能与肝素、依地尼酸钠、布美他尼、依那普利拉、肼屈嗪和呋塞米使用同一个静脉通道。"
+  },
+  "pinyin": "※▲zhusheyongchongzurennaolinatai",
+  "pinyin_initials": "※▲zsyczrnlnt",
+  "dosage_form_pinyin": "zhusheyong",
+  "dosage_form_initials": "zsy",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=20",
+    "last_updated": "2026-03-22"
+  }
+}

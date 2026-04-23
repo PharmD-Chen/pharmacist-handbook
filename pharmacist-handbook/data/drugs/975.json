@@ -1,0 +1,44 @@
+{
+  "id": 975,
+  "name": "己酮可可碱肠溶片",
+  "dosage_form": "肠溶片",
+  "full_name": "(乙10%)己酮可可碱肠溶片",
+  "chemical_name": "己酮可可碱肠溶片",
+  "types": [],
+  "manufacturers": [
+    "大谊药业"
+  ],
+  "specifications": [
+    {
+      "specification": "0.1g/片",
+      "manufacturer": "大谊药业",
+      "full_manufacturer": "大谊药业（湖北）有限公司(委托生产企业：大同市卫华药业有限责任公司)",
+      "price": 43.5,
+      "unit": "盒",
+      "code": "Y00000014950",
+      "approval_number": "国药准字H14021860",
+      "insurance_code": "XC04ADJ014A012010102847",
+      "outpatient_location": "F-1"
+    }
+  ],
+  "spec_count": 1,
+  "manual": {
+    "indications": "",
+    "dosage": "",
+    "contraindications": "",
+    "adverse_reactions": "",
+    "interactions": "暂未发现有临床意义的药物相互作用。",
+    "pregnancy_category": "",
+    "pharmacokinetics": "",
+    "precautions": "",
+    "source": ""
+  },
+  "pinyin": "jitongkekejian",
+  "pinyin_initials": "jtkkj",
+  "dosage_form_pinyin": "changrongpian",
+  "dosage_form_initials": "crp",
+  "url": {
+    "hnysfww": "https://www.hnysfww.com/goods.php?id=375",
+    "last_updated": "2026-03-22"
+  }
+}
