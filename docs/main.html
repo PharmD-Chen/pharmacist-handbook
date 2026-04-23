@@ -2,8 +2,9 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>上海市养志康复医院药品手册 - 药师版</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>药师工作系统</title>
+    <script src="auth.js"></script>
     <style>
         * {
             margin: 0;
@@ -12,228 +13,212 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
-            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
-            color: #333;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
         }
 
-        /* 头部 */
+        .container {
+            max-width: 900px;
+            width: 100%;
+            text-align: center;
+        }
+
         .header {
-            background: rgba(255,255,255,0.1);
-            backdrop-filter: blur(10px);
+            margin-bottom: 40px;
             color: white;
-            padding: 15px 20px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
         }
 
         .header h1 {
-            font-size: 18px;
-            font-weight: 600;
+            font-size: 2.2em;
+            font-weight: 700;
+            margin-bottom: 8px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
         }
 
-        .user-info {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            font-size: 14px;
+        .header h2 {
+            font-size: 1.8em;
+            font-weight: 500;
+            opacity: 0.95;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
         }
 
-        .user-badge {
-            background: rgba(255,255,255,0.2);
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 12px;
-        }
-
-        .logout-btn {
-            background: rgba(255,255,255,0.2);
-            border: none;
-            color: white;
-            padding: 6px 14px;
-            border-radius: 6px;
-            cursor: pointer;
-            font-size: 12px;
-            transition: background 0.3s;
-        }
-
-        .logout-btn:hover {
-            background: rgba(255,255,255,0.3);
-        }
-
-        /* 主内容区 */
-        .main-content {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 40px 20px;
-        }
-
-        /* 欢迎区域 */
-        .welcome {
-            text-align: center;
-            color: white;
-            margin-bottom: 40px;
-        }
-
-        .welcome h2 {
-            font-size: 28px;
-            margin-bottom: 10px;
-        }
-
-        .welcome p {
-            opacity: 0.9;
-            font-size: 16px;
-        }
-
-        /* 功能入口 */
-        .menu-grid {
+        .modules-grid {
             display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 30px;
-            max-width: 600px;
-            margin: 0 auto;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 40px;
         }
 
-        .menu-item {
+        .module-card {
             background: white;
             border-radius: 20px;
-            padding: 40px 30px;
-            text-align: center;
+            padding: 30px 25px;
             cursor: pointer;
-            transition: all 0.3s ease;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
             box-shadow: 0 10px 40px rgba(0,0,0,0.2);
             text-decoration: none;
-            color: #333;
+            color: inherit;
+            display: flex;
+            align-items: center;
+            gap: 20px;
         }
 
-        .menu-item:hover {
+        .module-card:hover {
             transform: translateY(-5px);
-            box-shadow: 0 15px 50px rgba(0,0,0,0.3);
+            box-shadow: 0 15px 50px rgba(0,0,0,0.25);
         }
 
-        .menu-icon {
+        .module-icon {
             width: 80px;
             height: 80px;
-            background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
             border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
-            margin: 0 auto 20px;
-            font-size: 36px;
+            font-size: 2.5em;
+            flex-shrink: 0;
         }
 
-        .menu-title {
-            font-size: 20px;
-            font-weight: 600;
-            color: #0E7490;
-            margin-bottom: 8px;
+        .module-card.drug-manual .module-icon {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         }
 
-        .menu-desc {
-            font-size: 14px;
+        .module-card.workflow-guide .module-icon {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        }
+
+        .module-icon span {
+            filter: grayscale(1) brightness(2);
+        }
+
+        .module-content {
+            text-align: left;
+            flex: 1;
+        }
+
+        .module-content h2 {
+            color: #333;
+            font-size: 1.8em;
+            margin-bottom: 5px;
+        }
+
+        .module-content p {
             color: #666;
+            font-size: 0.95em;
+            line-height: 1.4;
         }
 
-        /* 页脚 */
-        .footer {
-            text-align: center;
-            padding: 30px;
-            color: rgba(255,255,255,0.7);
-            font-size: 12px;
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            right: 0;
-        }
-
-        @media (max-width: 600px) {
-            .menu-grid {
+        @media (max-width: 768px) {
+            .modules-grid {
                 grid-template-columns: 1fr;
-                gap: 20px;
             }
 
-            .menu-item {
-                padding: 30px 20px;
+            .module-card {
+                padding: 25px 20px;
+                gap: 15px;
             }
 
-            .welcome h2 {
-                font-size: 24px;
+            .module-icon {
+                width: 60px;
+                height: 60px;
+                font-size: 2em;
+            }
+
+            .module-content h2 {
+                font-size: 1.4em;
+            }
+
+            .module-content p {
+                font-size: 0.85em;
             }
         }
     </style>
 </head>
 <body>
-    <!-- 头部 -->
-    <header class="header">
-        <h1>上海市养志康复医院药品手册（药师版）</h1>
-        <div class="user-info">
-            <span id="userName" class="user-badge"></span>
-            <button class="logout-btn" onclick="logout()">退出登录</button>
+    <div class="container">
+        <div class="header">
+            <h1>上海市养志康复医院</h1>
+            <h2>药师工作手册</h2>
         </div>
-    </header>
-
-    <!-- 主内容 -->
-    <main class="main-content">
-        <!-- 欢迎区域 -->
-        <div class="welcome">
-            <h2>欢迎使用药品手册系统</h2>
-            <p>请选择您要访问的模块</p>
-        </div>
-
-        <!-- 功能入口 -->
-        <div class="menu-grid">
-            <a href="drugs.html" class="menu-item">
-                <div class="menu-icon">📖</div>
-                <div class="menu-title">药品手册</div>
-                <div class="menu-desc">查询药品详细信息、用法用量、禁忌症等</div>
+        <div class="modules-grid">
+            <a href="index_simple.html" class="module-card drug-manual">
+                <div class="module-icon">
+                    <span></span>
+                </div>
+                <div class="module-content">
+                    <h2>药品手册</h2>
+                    <p>查询药品信息、用法用量、禁忌症等详细内容</p>
+                </div>
             </a>
 
-            <a href="workflow-guide.html" class="menu-item">
-                <div class="menu-icon">📋</div>
-                <div class="menu-title">岗位手册</div>
-                <div class="menu-desc">查看药师岗位操作流程、工作规范等</div>
+            <a href="departments.html" class="module-card workflow-guide">
+                <div class="module-icon">
+                    <span></span>
+                </div>
+                <div class="module-content">
+                    <h2>岗位手册</h2>
+                    <p>查看各科室工作流程和操作规范</p>
+                </div>
             </a>
         </div>
-    </main>
-
-    <!-- 页脚 -->
-    <footer class="footer">
-        数据更新于 2026年1月1日 | 上海市养志康复医院药学部
-    </footer>
+    </div>
 
     <script>
+        console.log('[main.html] Script starting...');
+        
         // 检查登录状态
-        function checkAuth() {
-            const userInfo = localStorage.getItem('userInfo');
-            if (!userInfo) {
-                window.location.href = 'index.html';
-                return false;
-            }
-            
-            const user = JSON.parse(userInfo);
-            if (user.type !== 'pharmacist') {
-                alert('无权访问，仅限药师使用');
-                window.location.href = 'index.html';
-                return false;
-            }
-
-            document.getElementById('userName').textContent = user.name || '药师';
-            return true;
+        if (!AuthManager.isLoggedIn()) {
+            console.log('[main.html] Not logged in, redirecting to login.html');
+            window.location.href = 'login.html';
+        } else {
+            console.log('[main.html] User is logged in');
         }
 
-        // 退出登录
-        function logout() {
-            localStorage.removeItem('userInfo');
-            window.location.href = 'index.html';
+        // 获取用户和权限信息
+        const user = AuthManager.getCurrentUser();
+        const permissions = AuthManager.getCurrentPermissions();
+        console.log('[main.html] User:', user?.username, 'Type:', user?.type);
+
+        // 如果不是药师或管理员，隐藏岗位手册入口
+        if (user && user.type !== 'pharmacist' && user.type !== 'admin') {
+            console.log('[main.html] Hiding workflow guide for non-pharmacist user');
+            document.querySelector('.workflow-guide').style.display = 'none';
+            // 只有一个模块时，调整布局
+            document.querySelector('.modules-grid').style.gridTemplateColumns = '1fr';
+            document.querySelector('.modules-grid').style.maxWidth = '400px';
+            document.querySelector('.modules-grid').style.margin = '0 auto';
         }
 
-        // 初始化
-        document.addEventListener('DOMContentLoaded', function() {
-            if (!checkAuth()) return;
+        // 键盘快捷键
+        document.addEventListener('keydown', function(e) {
+            if (e.key === '1') {
+                window.location.href = 'index_simple.html';
+            } else if (e.key === '2' && user && (user.type === 'pharmacist' || user.type === 'admin')) {
+                window.location.href = 'departments.html';
+            }
         });
+
+        // 页面加载完成后检查用户栏数量
+        window.addEventListener('load', function() {
+            console.log('[main.html] Window loaded, checking user bars...');
+            setTimeout(function() {
+                const bars = document.querySelectorAll('#userInfoBar, .user-bar');
+                console.log('[main.html] Found', bars.length, 'user bar(s)');
+                if (bars.length > 1) {
+                    console.log('[main.html] Warning: Multiple user bars found, removing duplicates...');
+                    // 保留第一个，删除其他的
+                    for (let i = 1; i < bars.length; i++) {
+                        bars[i].remove();
+                    }
+                }
+            }, 200);
+        });
+        
+        console.log('[main.html] Script finished');
     </script>
 </body>
 </html>
