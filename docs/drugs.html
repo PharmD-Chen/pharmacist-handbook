@@ -2,7 +2,9 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>上海市养志康复医院药品手册（2026版）</title>
     <script src="js/auth.js"></script>
     <script src="data/drugs/drugs.js"></script>
@@ -24,6 +26,7 @@
             background: linear-gradient(135deg, #0E7490 0%, #155E75 100%);
             color: white;
             padding: 20px;
+            padding-top: max(20px, env(safe-area-inset-top));
             text-align: center;
             position: sticky;
             top: 0;
