@@ -90,6 +90,7 @@ window.DrugDataLoader = {
   loadIndex: loadDrugIndex,
   loadDetail: loadDrugDetail,
   preloadAdjacent: preloadAdjacentBatches,
+  initBatchMap: initBatchMap,
   get index() { return drugIndex; },
   get cache() { return drugDetailCache; }
 };

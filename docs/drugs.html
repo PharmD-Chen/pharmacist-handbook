@@ -277,22 +277,31 @@
                 </div>
             `;
 
-            try {
-                // 使用 DrugDataLoader 加载索引
-                if (typeof DrugDataLoader !== 'undefined') {
-                    await DrugDataLoader.loadIndex();
+            // 等待索引加载（最多5秒）
+            let waitCount = 0;
+            const maxWait = 50; // 5秒
+            
+            while ((typeof drugIndex === 'undefined' || drugIndex.length === 0) && waitCount < maxWait) {
+                await new Promise(resolve => setTimeout(resolve, 100));
+                waitCount++;
+                if (waitCount % 10 === 0) {
+                    console.log(`⏳ 等待药品索引加载... (${waitCount * 100}ms)`);
                 }
+            }
 
-                // 检查索引是否加载成功
-                if (typeof drugIndex !== 'undefined' && drugIndex.length > 0) {
-                    console.log('✅ 药品索引加载完成，共', drugIndex.length, '条');
-                    window.drugIndex = drugIndex;
-                    displayDrugs(drugIndex.slice(0, 50));
-                } else {
-                    throw new Error('索引加载失败');
+            // 检查索引是否加载成功
+            if (typeof drugIndex !== 'undefined' && drugIndex.length > 0) {
+                console.log('✅ 药品索引加载完成，共', drugIndex.length, '条');
+                window.drugIndex = drugIndex;
+                
+                // 初始化批次映射
+                if (typeof DrugDataLoader !== 'undefined' && DrugDataLoader.initBatchMap) {
+                    DrugDataLoader.initBatchMap();
                 }
-            } catch (e) {
-                console.error('❌ 加载药品索引失败:', e);
+                
+                displayDrugs(drugIndex.slice(0, 50));
+            } else {
+                console.error('❌ 药品索引加载失败');
                 document.getElementById('drugList').innerHTML = `
                     <div style="padding: 40px; text-align: center;">
                         <div style="font-size: 48px; margin-bottom: 15px;">⚠️</div>
@@ -300,8 +309,8 @@
                             药品数据加载失败
                         </div>
                         <div style="color: #999; font-size: 14px; margin-bottom: 25px;">
-                            可能原因：网络连接问题<br>
-                            请检查网络后重试
+                            可能原因：数据文件未能正确加载<br>
+                            请刷新页面重试
                         </div>
                         <button onclick="location.reload(true)" style="
                             padding: 12px 30px;
