@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <title>上海市养志康复医院 - 药师登录</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+            overflow-x: hidden;
+        }
+
+        .container {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            padding-top: max(20px, env(safe-area-inset-top));
+            padding-bottom: max(20px, env(safe-area-inset-bottom));
+        }
+
+        .login-card {
+            background: white;
+            border-radius: 20px;
+            padding: 40px 30px;
+            width: 100%;
+            max-width: 400px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+
+        .logo {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .logo-icon {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 15px;
+            font-size: 40px;
+        }
+
+        .logo h1 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .logo p {
+            font-size: 14px;
+            color: #666;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 15px;
+            font-size: 16px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        .form-group input:focus {
+            border-color: #667eea;
+        }
+
+        .login-btn {
+            width: 100%;
+            padding: 16px;
+            font-size: 16px;
+            font-weight: 600;
+            color: white;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .login-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        .login-btn:active {
+            transform: translateY(0);
+        }
+
+        .error-msg {
+            color: #e74c3c;
+            font-size: 14px;
+            text-align: center;
+            margin-top: 15px;
+            display: none;
+        }
+
+        .error-msg.show {
+            display: block;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            color: rgba(255,255,255,0.8);
+            font-size: 12px;
+        }
+
+        .default-accounts {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            font-size: 12px;
+            color: #666;
+        }
+
+        .default-accounts h3 {
+            font-size: 13px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .default-accounts p {
+            margin: 5px 0;
+        }
+
+        @media (max-width: 480px) {
+            .login-card {
+                padding: 30px 20px;
+            }
+
+            .logo h1 {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="login-card">
+            <div class="logo">
+                <div class="logo-icon">💊</div>
+                <h1>药师工作系统</h1>
+                <p>上海市养志康复医院</p>
+            </div>
+
+            <form id="loginForm">
+                <div class="form-group">
+                    <label for="username">用户名</label>
+                    <input type="text" id="username" placeholder="请输入用户名" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="password">密码</label>
+                    <input type="password" id="password" placeholder="请输入密码" required>
+                </div>
+
+                <button type="submit" class="login-btn">药师登录</button>
+
+                <div class="error-msg" id="errorMsg"></div>
+            </form>
+
+            <div class="default-accounts">
+                <h3>默认账号</h3>
+                <p>药师：pharmacist / 123456</p>
+                <p>管理员：admin / admin123</p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>数据更新于 2026年1月1日</p>
+            <p>技术支持：医院药学部</p>
+        </div>
+    </div>
+
+    <script>
+        // 药师账号配置
+        const PHARMACIST_ACCOUNTS = {
+            'pharmacist': { password: '123456', name: '药师' },
+            'admin': { password: 'admin123', name: '管理员' }
+        };
+
+        document.getElementById('loginForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const username = document.getElementById('username').value.trim();
+            const password = document.getElementById('password').value;
+            const errorMsg = document.getElementById('errorMsg');
+
+            // 验证账号
+            const account = PHARMACIST_ACCOUNTS[username];
+
+            if (!account) {
+                errorMsg.textContent = '账号不存在，请联系管理员';
+                errorMsg.classList.add('show');
+                return;
+            }
+
+            if (account.password !== password) {
+                errorMsg.textContent = '密码错误，请重新输入';
+                errorMsg.classList.add('show');
+                return;
+            }
+
+            // 登录成功
+            const userInfo = {
+                type: 'pharmacist',
+                name: account.name,
+                username: username,
+                loginTime: new Date().toISOString()
+            };
+
+            localStorage.setItem('userInfo', JSON.stringify(userInfo));
+
+            // 跳转到主页面
+            window.location.href = 'main.html';
+        });
+
+        // 清除错误信息
+        document.getElementById('username').addEventListener('input', function() {
+            document.getElementById('errorMsg').classList.remove('show');
+        });
+
+        document.getElementById('password').addEventListener('input', function() {
+            document.getElementById('errorMsg').classList.remove('show');
+        });
+    </script>
+</body>
+</html>

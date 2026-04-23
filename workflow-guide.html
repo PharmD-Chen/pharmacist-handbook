@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>岗位手册 - 上海市养志康复医院</title>
+    <script src="auth.js?v=2"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+            overflow-x: hidden;
+        }
+
+        /* 固定顶部区域 */
+        .sticky-header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        /* 头部 */
+        .header {
+            color: white;
+            padding: 15px 20px;
+            padding-top: max(15px, env(safe-area-inset-top));
+            text-align: center;
+            position: relative;
+        }
+
+        .header h1 {
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .back-btn {
+            position: absolute;
+            top: max(15px, env(safe-area-inset-top));
+            left: 15px;
+            background: rgba(255,255,255,0.15);
+            border: none;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+            text-decoration: none;
+            transition: background 0.3s;
+        }
+
+        .back-btn:hover {
+            background: rgba(255,255,255,0.25);
+        }
+
+        /* 主内容区 */
+        .main-content {
+            padding: 20px;
+            padding-bottom: 40px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        /* 岗位分类 */
+        .position-category {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+        }
+
+        .category-title {
+            color: #667eea;
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+
+        /* 手册网格 */
+        .manual-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+
+        .manual-item {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            text-decoration: none;
+            color: inherit;
+            transition: transform 0.2s, box-shadow 0.2s;
+            border: 1px solid #e0e0e0;
+        }
+
+        .manual-item:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            border-color: #667eea;
+        }
+
+        .manual-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 8px;
+        }
+
+        .manual-desc {
+            font-size: 13px;
+            color: #666;
+            line-height: 1.5;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 16px;
+            }
+
+            .back-btn {
+                left: 10px;
+                padding: 5px 10px;
+                font-size: 12px;
+            }
+
+            .main-content {
+                padding: 15px;
+            }
+
+            .position-category {
+                padding: 20px;
+            }
+
+            .manual-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 固定顶部区域 -->
+    <div class="sticky-header">
+        <div class="header">
+            <a href="main.html" class="back-btn">← 返回</a>
+            <h1>岗位手册</h1>
+        </div>
+    </div>
+
+    <main class="main-content">
+        <div class="container">
+            <!-- 药库 -->
+            <div class="position-category">
+                <h2 class="category-title">药库</h2>
+                <div class="manual-grid">
+                    <a href="workflow/storage-management.html" class="manual-item">
+                        <div class="manual-title">药品储存管理</div>
+                        <div class="manual-desc">药品入库、出库、库存管理流程</div>
+                    </a>
+                    <a href="workflow/storage-inventory.html" class="manual-item">
+                        <div class="manual-title">库存盘点</div>
+                        <div class="manual-desc">定期盘点、差异处理、报损流程</div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- 住院药房 -->
+            <div class="position-category">
+                <h2 class="category-title">住院药房</h2>
+                <div class="manual-grid">
+                    <a href="workflow/inpatient-dispensing.html" class="manual-item">
+                        <div class="manual-title">医嘱调配</div>
+                        <div class="manual-desc">医嘱审核、药品调配、发药核对</div>
+                    </a>
+                    <a href="workflow/inpatient-scan.html" class="manual-item">
+                        <div class="manual-title">扫码发药</div>
+                        <div class="manual-desc">扫码核对、发药确认、记录管理</div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- 门诊药房 -->
+            <div class="position-category">
+                <h2 class="category-title">门诊药房</h2>
+                <div class="manual-grid">
+                    <a href="workflow/outpatient-review.html" class="manual-item">
+                        <div class="manual-title">处方审核</div>
+                        <div class="manual-desc">处方合法性审核、用药适宜性审核</div>
+                    </a>
+                    <a href="workflow/outpatient-dispensing.html" class="manual-item">
+                        <div class="manual-title">处方调配</div>
+                        <div class="manual-desc">处方调配、核对、发药流程</div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- 临床药学 -->
+            <div class="position-category">
+                <h2 class="category-title">临床药学</h2>
+                <div class="manual-grid">
+                    <a href="workflow/clinical-review.html" class="manual-item">
+                        <div class="manual-title">处方点评</div>
+                        <div class="manual-desc">处方点评标准、问题处方处理</div>
+                    </a>
+                    <a href="workflow/clinical-consultation.html" class="manual-item">
+                        <div class="manual-title">用药咨询</div>
+                        <div class="manual-desc">患者用药指导、药物相互作用咨询</div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- 质量控制 -->
+            <div class="position-category">
+                <h2 class="category-title">质量控制</h2>
+                <div class="manual-grid">
+                    <a href="medication-damage-report.html" class="manual-item">
+                        <div class="manual-title">药品报损登记</div>
+                        <div class="manual-desc">药品退药报损录入、查询与导出</div>
+                    </a>
+                    <a href="#" class="manual-item" onclick="alert('药品质量检查正在建设中')">
+                        <div class="manual-title">药品质量检查</div>
+                        <div class="manual-desc">药品外观检查、质量抽检、不合格品处理</div>
+                    </a>
+                    <a href="#" class="manual-item" onclick="alert('处方点评正在建设中')">
+                        <div class="manual-title">处方点评</div>
+                        <div class="manual-desc">处方规范性点评、合理用药分析</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // 检查登录状态
+        if (!AuthManager.isLoggedIn()) {
+            window.location.href = 'index.html';
+        }
+
+        // 显示用户信息
+        const user = AuthManager.getCurrentUser();
+        if (user && user.type !== 'pharmacist') {
+            alert('无权访问，仅限药师使用');
+            window.location.href = 'index.html';
+        }
+    </script>
+</body>
+</html>
