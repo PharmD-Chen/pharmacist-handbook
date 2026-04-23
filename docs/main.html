@@ -209,17 +209,17 @@
         function checkAuth() {
             const userInfo = localStorage.getItem('userInfo');
             if (!userInfo) {
-                window.location.href = 'pharmacist-index.html';
+                window.location.href = 'index.html';
                 return false;
             }
             
             const user = JSON.parse(userInfo);
             if (user.type !== 'pharmacist') {
                 alert('无权访问，仅限药师使用');
-                window.location.href = 'pharmacist-index.html';
+                window.location.href = 'index.html';
                 return false;
             }
-            
+
             document.getElementById('userName').textContent = user.name || '药师';
             return true;
         }
@@ -227,7 +227,7 @@
         // 退出登录
         function logout() {
             localStorage.removeItem('userInfo');
-            window.location.href = 'pharmacist-index.html';
+            window.location.href = 'index.html';
         }
 
         // 初始化
